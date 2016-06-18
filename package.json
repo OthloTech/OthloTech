@@ -5,13 +5,13 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run gulp && goapp server ./app",
-    "gulp": "gulp"
+    "gulp": "gulp default"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/OthloTech/wwOthlo.git"
   },
-  "author": "",
+  "author": "pokohide",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/OthloTech/wwOthlo/issues"
