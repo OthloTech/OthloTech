@@ -5,8 +5,8 @@ import (
 	"net/http"
 )
 
-func index(c *gin.Context) {
-	c.HTML(http.StatusOK, "index", gin.H{
+func EventsIndex(c *gin.Context) {
+	c.HTML(http.StatusOK, "events/index", gin.H{
 		"title": "wwOthlo",
 	})
 }

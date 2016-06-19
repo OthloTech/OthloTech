@@ -17,5 +17,10 @@ func staticHandler(c *gin.Context) {
 }
 
 func about(c *gin.Context) {
-	c.HTML(http.StatusOK, "about.tmpl", gin.H{})
+	c.HTML(http.StatusOK, "about", nil)
+}
+
+
+func main(c *gin.Context) {
+	c.HTML(http.StatusOK, "main", nil)
 }

@@ -12,5 +12,7 @@ func Index(c *gin.Context) {
 }
 
 func Show(c *gin.Context) {
-
+	c.HTML(http.StatusOK, "events/show", gin.H{
+		"title": "wwOthlo",
+	})
 }

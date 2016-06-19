@@ -1,20 +1,60 @@
-
-{{define "head"}}
+{{ define "head" }}
 <head>
-  <title>{{.title}}</title>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Go gin mgo demo | {{ .title }}</title>
+  <meta name="description" content="Golang gin-gonic mgo demo">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<!--   <link rel="stylesheet" href="/public/css/app.css"> -->
 </head>
-{{end}}
+{{ end }}
 
 
-{{define "header"}}
+{{ define "header" }}
 <header>
-  <h1>{{.title}}</h1>
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/articles">
+          {{ .title }}
+        </a>
+      </div>
+
+      <div id="navbar" class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+          <li class=""><a href="/articles">Articles</a></li>
+          <li class=""><a href="/new">New</a></li>
+        </ul>
+
+        <ul class="nav navbar-right navbar-nav">
+          <li>
+            <iframe src="https://ghbtns.com/github-btn.html?user=madhums&amp;repo=go-gin-mgo-demo&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="45" style="padding: 15px 0 0 15px;"></iframe>
+          </li>
+          <li>
+            <iframe src="https://ghbtns.com/github-btn.html?user=madhums&amp;repo=go-gin-mgo-demo&amp;type=fork&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="45" style="padding: 15px 0 0 15px;"></iframe>
+          </li>
+        </ul>
+      </div><!--/.nav-collapse -->
+    </div>
+  </nav>
 </header>
-{{end}}
+{{ end }}
 
 
-{{define "footer"}}
-<footer>
-  <p>by pokohide</p>
+{{ define "footer" }}
+<footer class="footer">
+  <div class="container">
+    <p class="text-muted">by pokohide MIT</p>
+  </div>
 </footer>
-{{end}}
+{{ end }}
