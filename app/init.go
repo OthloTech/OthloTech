@@ -9,6 +9,7 @@ import (
 
     // Controller
     //"./controllers"
+    "github.com/OthloTech/wwOthlo/app/middlewares"
 )
 
 var server *gin.Engine
@@ -22,7 +23,7 @@ func init() {
 	htmlRender := GinHTMLRender()
 	htmlRender.Debug = gin.IsDebugging()
 	htmlRender.Layout = "layouts/_base"
-	htmlRender.TemplatesDir = "../dist/views/templates"
+	htmlRender.TemplatesDir = "../dist/views"
 	htmlRender.Ext = ".html"
 
 	router.HTMLRender = htmlRender.Create()
@@ -37,6 +38,11 @@ func init() {
     //router.LoadHTMLGlob("../dist/views/**/*")
 	router.RedirectTrailingSlash = true
 	router.RedirectFixedPath = true
+
+
+	// MiddleWares
+	router.Use(middlewares.ErrorHandler)
+
 
     // イベント
     events := router.Group("/events")
@@ -56,7 +62,7 @@ func init() {
     	projects.GET("/:id", staticHandler)
     }
 
-    router.GET("/", index)
+    router.GET("/", events.Index)
     router.GET("/about", about)
 
     http.Handle("/", router)

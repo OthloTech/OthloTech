@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+  {{template "head"}}
+  <body>
+    {{template "header"}}
+
+    <div class="main">
+      {{template "content"}}
+    </div>
+
+    {{template "footer"}}
+  </body>
+</html>
+
+
+
+
+
+
+
+{{define "head"}}
+<head>
+  <title>{{.title}}</title>
+</head>
+{{end}}
+
+
+{{define "header"}}
+<header>
+  <h1>{{.title}}</h1>
+</header>
+{{end}}
+
+
+{{define "footer"}}
+<footer>
+  <p>by pokohide</p>
+</footer>
+{{end}}

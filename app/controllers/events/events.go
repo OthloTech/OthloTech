@@ -5,12 +5,12 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-func index(c *gin.Context) {
+func Index(c *gin.Context) {
 	c.HTML(http.StatusOK, "events/index", gin.H{
 		"title": "wwOthlo",
 	})
 }
 
-func show(c *gin.Context) {
+func Show(c *gin.Context) {
 
 }
