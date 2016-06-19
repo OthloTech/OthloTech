@@ -1,10 +1,16 @@
 html, body {
-  margin: 0;
   padding: 0; }
 
-.othlo-layout-transparent {
-  background: url("../images/othlo.jpg") center/cover; }
-  .othlo-layout-transparent .mdl-layout__header, .othlo-layout-transparent .mdl-layout__drawer-button {
-    color: #333; }
-  .othlo-layout-transparent .mdl-layout__content {
-    margin-top: 60px; }
+.othlo-layout-transparent .mdl-layout__header, .othlo-layout-transparent .mdl-layout__drawer-button {
+  color: #333; }
+
+.othlo-layout-transparent .mdl-layout__content {
+  margin-top: 60px; }
+
+.othlo-hero {
+  position: relative;
+  height: 800px;
+  width: auto;
+  background-color: #f3f3f3;
+  background: url("/images/logo.png") center 30% no-repeat;
+  background-size: cover; }
