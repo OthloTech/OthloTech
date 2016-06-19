@@ -24,14 +24,14 @@ gulp.task('sass', function() {
 })
 
 gulp.task('image', function() {
-  gulp.src('assets/img/*')
+  gulp.src('assets/images/*')
     .pipe(plumber({ errorHandler: notify.onError('<%= error.message %>' )}))
     .pipe(imagemin())
-    .pipe(gulp.dest("dist/img"))
+    .pipe(gulp.dest("dist/images"))
 })
 
 gulp.task("default", function() {
   gulp.watch(["assets/js/**/*.js", "!assets/js/min/**/*.js"], ["js"])
   gulp.watch("assets/scss/**/*.scss", ["sass"])
-  gulp.watch("assets/img/*", ["image"])
+  gulp.watch("assets/images/*", ["image"])
 })

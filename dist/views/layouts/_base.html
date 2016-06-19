@@ -2,12 +2,14 @@
 <html lang="ja">
   {{ template "head" . }}
   <body>
-    {{ template "header" . }}
+    <div class="othlo-layout-transparent mdl-layout mdl-js-layout mdl-layout--fixed-header">
+      {{ template "header" . }}
 
-    <div class="main">
-      {{ template "content" . }}
+      <main class="mdl-layout__content">
+        {{ template "content" . }}
+      </main>
+
+      {{ template "footer" . }}
     </div>
-
-    {{ template "footer" . }}
   </body>
 </html>

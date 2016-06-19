@@ -1,35 +1,34 @@
 {{define "header"}}
-<header>
-  <nav class="navbar navbar-default navbar-fixed-top">
-    <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="/articles">
-          {{ .title }}
-        </a>
-      </div>
-
-      <div id="navbar" class="collapse navbar-collapse">
-        <ul class="nav navbar-nav">
-          <li class=""><a href="/articles">Articles</a></li>
-          <li class=""><a href="/new">New</a></li>
-        </ul>
-
-        <ul class="nav navbar-right navbar-nav">
-          <li>
-            <iframe src="https://ghbtns.com/github-btn.html?user=madhums&amp;repo=go-gin-mgo-demo&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="45" style="padding: 15px 0 0 15px;"></iframe>
-          </li>
-          <li>
-            <iframe src="https://ghbtns.com/github-btn.html?user=madhums&amp;repo=go-gin-mgo-demo&amp;type=fork&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="45" style="padding: 15px 0 0 15px;"></iframe>
-          </li>
-        </ul>
-      </div><!--/.nav-collapse -->
+<header class="othlo-header mdl-layout__header mdl-layout__header--transparent">
+  <div class="mdl-layout__header-row">
+    <span class="othlo-title mdl-layout-title">
+      {{ .title }}
+      <!-- <img class="android-logo-image" src="images/android-logo.png"> -->
+    </span>
+    <div class="mdl-layout-spacer"></div>
+    <div class="othlo-navigation-container">
+      <nav class="mdl-navigation">
+        <a class="mdl-navigation__link" href="#">ホーム</a>
+        <a class="mdl-navigation__link" href="#">イベント</a>
+        <a class="mdl-navigation__link" href="#">プロジェクト</a>
+        <a class="mdl-navigation__link" href="#">ブログ</a>
+        <a class="mdl-navigation__link" href="#">ABOUT</a>
+      </nav>
     </div>
-  </nav>
+  </div>
 </header>
+<div class="othlo-drawer mdl-layout__drawer">
+  <span class="mdl-layout-title">
+    {{ .title }}
+    <!-- <img class="android-logo-image" src="images/android-logo-white.png"> -->
+  </span>
+  <nav class="mdl-navigation">
+    <a class="mdl-navigation__link" href="#">ホーム</a>
+    <a class="mdl-navigation__link" href="#">イベント</a>
+    <a class="mdl-navigation__link" href="#">プロジェクト</a>
+    <a class="mdl-navigation__link" href="#">ブログ</a>
+    <a class="mdl-navigation__link" href="#">ABOUT</a>
+    <div class="othlo-drawer__separator"></div>
+  </nav>
+</div>
 {{end}}

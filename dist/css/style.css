@@ -1,2 +1,10 @@
-h1 {
-  color: red; }
+html, body {
+  margin: 0;
+  padding: 0; }
+
+.othlo-layout-transparent {
+  background: url("../images/othlo.jpg") center/cover; }
+  .othlo-layout-transparent .mdl-layout__header, .othlo-layout-transparent .mdl-layout__drawer-button {
+    color: #333; }
+  .othlo-layout-transparent .mdl-layout__content {
+    margin-top: 60px; }
