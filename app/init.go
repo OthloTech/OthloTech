@@ -2,20 +2,13 @@ package init
  
 import (
 	"net/http"
-    "html/template"
-    //"path/filepath"
     "github.com/gin-gonic/gin"
    	"github.com/gin-gonic/contrib/renders/multitemplate"
 
     // Controller
     //"controllers"
     "middlewares"
-    //"github/com/OthloTech/wwOthlo/app/controllers/events"
-    //"github.com/OthloTech/wwOthlo/app/middlewares"
 )
-
-var server *gin.Engine
-var templates map[string]*template.Template
 
 func init() {
 
@@ -39,19 +32,19 @@ func init() {
     // イベント
     events := router.Group("/events")
     {
-    	events.GET("/:id", staticHandler)
+    	events.GET("/:id", main)
     }
 
     // ブログ
     posts := router.Group("/posts")
     {
-    	posts.GET("/:id", staticHandler)
+    	posts.GET("/:id", main)
     }
 
     // プロジェクト
     projects := router.Group("/projects")
     {
-    	projects.GET("/:id", staticHandler)
+    	projects.GET("/:id", main)
     }
 
     router.GET("/", main)
@@ -63,21 +56,14 @@ func init() {
 func renderList() multitemplate.Render {
 	const baseDir = "../dist/views/"
 	const base = baseDir + "layouts/_base.html"
-	const component = baseDir + "includes/_component.html"
+	const head = baseDir + "includes/_head.html"
+	const header = baseDir + "includes/_header.html"
+	const footer = baseDir + "includes/_footer.html"
 	r := multitemplate.New()
 
-	r.AddFromFiles("main", base, component, baseDir + "main.html")
-	r.AddFromFiles("about", base, component, baseDir + "about.html")
-	r.AddFromFiles("400", base, component, baseDir + "400.html")
+	r.AddFromFiles("main" , base, head, header, footer, baseDir + "main.html")
+	r.AddFromFiles("about", base, head, header, footer, baseDir + "about.html")
+	r.AddFromFiles("400"  , base, head, header, footer, baseDir + "400.html")
 
 	return r
 }
-
-func loadTemplates() {
-	const baseTemplate = "../dist/views/templates/layouts/_base.html"
-	const componentTemplate = "../dist/views/templates/includes/_component.html"
-	templates = make(map[string]*template.Template)
-
-	templates["index"] = template.Must(template.ParseFiles(baseTemplate, componentTemplate, "../dist/views/index.html",))
-}
-
