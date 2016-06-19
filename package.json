@@ -4,7 +4,7 @@
   "description": "This is wwOthlo",
   "main": "index.js",
   "scripts": {
-    "start": "npm run gulp && goapp server ./app",
+    "start": "goapp serve ./app",
     "gulp": "gulp default"
   },
   "repository": {
