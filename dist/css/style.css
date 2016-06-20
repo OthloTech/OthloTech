@@ -57,7 +57,9 @@ main .othlo-feature-section {
 
 main .othlo-contact-section {
   padding: 40px 0px;
-  background: #424242; }
+  background: #fff; }
+  main .othlo-contact-section > p {
+    padding: 0px 20px; }
 
 footer {
   position: relative; }

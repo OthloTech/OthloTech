@@ -77,15 +77,16 @@ main {
 	    align-items: center;
       	margin-bottom: 5px;
       }
-      & > p {
-
-      }
     }
   }
 
   .othlo-contact-section {
   	padding: 40px 0px;
-  	background: #424242;
+  	background: #fff;
+
+  	& > p {
+  	  padding: 0px 20px;
+  	}
   }
 
 }
