@@ -6,11 +6,17 @@ handlers:
 - url: /.*
   script: _go_app
 
-- url: /client/img
-  static_dir: img
+- url: ../dist/images
+  static_dir: image
 
-- url: /client/css
+- url: ../dist/css
   static_dir: css
+
+- url: ../dist/js
+  static_dir: js
+
+- url: ../dist/fonts
+  static_dir: font
 
 threadsafe: true
 automatic_scaling:
