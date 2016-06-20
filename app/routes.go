@@ -21,3 +21,17 @@ func eventsIndex(c *gin.Context) {
 		"title": "wwOthlo",
 	})
 }
+
+/* posts */
+func postsIndex(c *gin.Context) {
+	c.HTML(http.StatusOK, "index.html", gin.H{
+		"title": "wwOthlo",
+	})
+}
+
+/* projectss */
+func projectsIndex(c *gin.Context) {
+	c.HTML(http.StatusOK, "index.html", gin.H{
+		"title": "wwOthlo",
+	})
+}

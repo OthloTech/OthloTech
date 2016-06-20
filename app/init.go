@@ -36,13 +36,13 @@ func init() {
     // ブログ
     posts := router.Group("/posts")
     {
-    	posts.GET("/:id", main)
+    	posts.GET("/:id", postsIndex)
     }
 
     // プロジェクト
     projects := router.Group("/projects")
     {
-    	projects.GET("/:id", main)
+    	projects.GET("/:id", projectsIndex)
     }
 
     router.GET("/", main)
