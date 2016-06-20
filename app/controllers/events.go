@@ -6,7 +6,13 @@ import (
 )
 
 func EventsIndex(c *gin.Context) {
-	c.HTML(http.StatusOK, "events/index", gin.H{
+	c.HTML(http.StatusOK, "events/index.html", gin.H{
+		"title": "wwOthlo",
+	})
+}
+
+func EventsShow(c *gin.Context) {
+	c.HTML(http.StatusOK, "events/show.html", gin.H{
 		"title": "wwOthlo",
 	})
 }
