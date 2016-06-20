@@ -3,26 +3,11 @@ html, body {
   padding: 0;
 }
 
-.othlo-layout-transparent {
-  header {
-    color: #333;
-    background: #fff
-  }
+header {
+  color: #333;
+  background: #fff
 }
 
-.othlo-hero {
-  position: relative;
-  height: 600px;
-  width: auto;
-  background-color: #f3f3f3;
-  background: url('/images/othlo.jpg') center 30% no-repeat;
-  background-size: cover;
-
-  .othlo-slogan {
-    font-size: 60px;
-    padding-top: 160px;
-  }
-}
 
 .logo-font {
   font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
@@ -33,6 +18,19 @@ html, body {
 
 main {
 
+  .othlo-hero {
+    position: relative;
+    height: 600px;
+    width: auto;
+    background-color: #f3f3f3;
+    background: url('/images/othlo.jpg') center 30% no-repeat;
+    background-size: cover;
+
+    .othlo-slogan {
+      font-size: 60px;
+      padding-top: 160px;
+    }
+  }
 
   .othlo-screen-section {
     padding: 40px 0px;
@@ -84,6 +82,12 @@ main {
       }
     }
   }
+
+  .othlo-contact-section {
+  	padding: 40px 0px;
+  	background: #424242;
+  }
+
 }
 
 

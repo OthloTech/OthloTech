@@ -2,26 +2,26 @@ html, body {
   margin: 0;
   padding: 0; }
 
-.othlo-layout-transparent header {
+header {
   color: #333;
   background: #fff; }
-
-.othlo-hero {
-  position: relative;
-  height: 600px;
-  width: auto;
-  background-color: #f3f3f3;
-  background: url("/images/othlo.jpg") center 30% no-repeat;
-  background-size: cover; }
-  .othlo-hero .othlo-slogan {
-    font-size: 60px;
-    padding-top: 160px; }
 
 .logo-font {
   font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
   line-height: 1;
   color: #ccc;
   font-weight: 500; }
+
+main .othlo-hero {
+  position: relative;
+  height: 600px;
+  width: auto;
+  background-color: #f3f3f3;
+  background: url("/images/othlo.jpg") center 30% no-repeat;
+  background-size: cover; }
+  main .othlo-hero .othlo-slogan {
+    font-size: 60px;
+    padding-top: 160px; }
 
 main .othlo-screen-section {
   padding: 40px 0px; }
@@ -54,6 +54,10 @@ main .othlo-feature-section {
     justify-content: center;
     align-items: center;
     margin-bottom: 5px; }
+
+main .othlo-contact-section {
+  padding: 40px 0px;
+  background: #424242; }
 
 footer {
   position: relative; }
