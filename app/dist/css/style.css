@@ -69,7 +69,8 @@ main .othlo-contact-section {
 
 footer .othlo-footer {
   border-top: 1px solid #333;
-  background-color: #fff; }
+  background-color: #fff;
+  padding: 20px; }
 
 footer .mdl-mega-footer--link-list .othlo-sns-button {
   display: inline-block;
