@@ -29,6 +29,7 @@ logs
 *.log
 npm-debug.log*
 
+app/dist
 
 # Dependency directories
 node_modules
