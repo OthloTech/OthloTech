@@ -3,32 +3,57 @@ html, body {
   padding: 0;
 }
 
-
 .othlo-layout-transparent {
-  //background: url('../images/othlo.jpg') center / cover;
-
-  .mdl-layout__header, .mdl-layout__drawer-button {
+  header {
   	color: #333;
-  }
-
-  .mdl-layout__content {
-  	margin-top: 60px;
+  	background: #fff
   }
 }
 
 .othlo-hero {
   position: relative;
-  height: 800px;
+  height: 600px;
   width: auto;
   background-color: #f3f3f3;
-  background: url('/images/logo.png') center 30% no-repeat;
+  background: url('/images/othlo.jpg') center 30% no-repeat;
   background-size: cover;
+
+  .othlo-slogan {
+  	font-size: 60px;
+    padding-top: 160px;
+  }
+}
+
+.logo-font {
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  line-height: 1;
+  color: #ccc;
+  font-weight: 500;
+}
+
+main {
+
+
+  .othlo-screen-section {
+    padding: 40px;
+
+    & > .container {
+      width: 80%;
+      max-width: 800px;
+      margin: 0 auto;
+
+      & > h2 {
+      	margin: 20px;
+      	color: #64B5F6;
+      }
+    }
+  }
 }
 
 
 
-
 footer {
+  position: relative;
   .othlo-sns-button {
     position: relative;
     background: transparent;

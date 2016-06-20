@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="/css/style.css" />
 </head>
   <body>
-  	<div class="othlo-layout-transparent mdl-layout mdl-js-layout mdl-layout--fixed-header">
+  	<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
       <header class="othlo-header mdl-layout__header mdl-layout--fixed-header">
   <div class="mdl-layout__header-row">
     <span class="othlo-title mdl-layout-title">
@@ -25,11 +25,11 @@
     <div class="mdl-layout-spacer"></div>
     <div class="othlo-navigation-container">
       <nav class="mdl-navigation">
-        <a class="mdl-navigation__link" href="#">ホーム</a>
-        <a class="mdl-navigation__link" href="#">イベント</a>
-        <a class="mdl-navigation__link" href="#">プロジェクト</a>
-        <a class="mdl-navigation__link" href="#">ブログ</a>
-        <a class="mdl-navigation__link" href="#">ABOUT</a>
+        <a class="mdl-navigation__link" href="/">ホーム</a>
+        <a class="mdl-navigation__link" href="/events/">イベント</a>
+        <a class="mdl-navigation__link" href="/projects">プロジェクト</a>
+        <a class="mdl-navigation__link" href="/posts/">ブログ</a>
+        <a class="mdl-navigation__link" href="/about">ABOUT</a>
       </nav>
     </div>
   </div>
@@ -40,26 +40,56 @@
     <!-- <img class="android-logo-image" src="images/android-logo-white.png"> -->
   </span>
   <nav class="mdl-navigation">
-    <a class="mdl-navigation__link" href="#">ホーム</a>
-    <a class="mdl-navigation__link" href="#">イベント</a>
-    <a class="mdl-navigation__link" href="#">プロジェクト</a>
-    <a class="mdl-navigation__link" href="#">ブログ</a>
-    <a class="mdl-navigation__link" href="#">ABOUT</a>
+    <a class="mdl-navigation__link" href="/">ホーム</a>
+    <a class="mdl-navigation__link" href="/events/">イベント</a>
+    <a class="mdl-navigation__link" href="/projects/">プロジェクト</a>
+    <a class="mdl-navigation__link" href="/posts/">ブログ</a>
+    <a class="mdl-navigation__link" href="/about">ABOUT</a>
     <div class="othlo-drawer__separator"></div>
   </nav>
 </div>
 
       <main class="mdl-layout__content">
         <div class="othlo-hero mdl-typography--text-center">
-  		    <div class="logo-font othlo-slogan">We are creative people.aa</div>
+  		    <div class="logo-font othlo-slogan">We are creative people</div>
 		    </div>
+
+
+        <div class="othlo-description-section mdl-typography--text-center">
+          <div class="container">
+            <h2 class="mdl-typography--display-1-color-contrast">GitHub, Slack, Trelloを用いたチーム開発</h2>
+            <p class="mdl-typography--font-light mdl-typography--text-left">
+              チーム開発は楽しいし学べることが多いのに、学生のうちにチーム開発のできる環境が少ないのが現状。<br>
+              学生だけで楽しくクリエイティブなことしませんか。<br>
+              OthloTechはチーム開発に必要なgithubの講習会やSlackやTrelloなどを使って効率的に開発を行っています<br>
+            </p>
+            <h2 class="mdl-typography--display-1-color-contrast">プロジェクト単位で作りたいを作る</h2>
+            <p class="mdl-typography--font-light mdl-typography--text-left">
+              興味本位のサービスやみんなに役立つサービスなどOthloTechでは『作りたい』を作ります。<br>
+              エンジニアやデザイナーなどのクリエイティブ職を志す学生さんはすでに何かを作る力を秘めています。<br>
+              あなたが作りたい！と思ったこと、「誰かが作ってくれるからいいや」と諦めてませんか。 <br>
+              作るの楽しいですよ(o＾ω＾o)作りましょう！！！Yeahhhhhhhhhhhhh<br>
+            </p>
+          </div>
+        </div>
+
+        <div class="othlo-feature-section">
+          <div class="container">
+            <h2 class="mdl-typography--font-light mdl-typography--text-center mdl-typography--display-1-color-contrast">OthloTechの特徴</h2>
+
+          </div>
+        </div>
+
       </main>
 
-      <footer class="othlo-footer docs-text-styling docs-footer mdl-mini-footer mdl-color--grey-900">
-  <div class="mdl-mini-footer--top-section">
+      <!-- <footer class="othlo-footer docs-text-styling docs-footer mdl-mini-footer mdl-color--grey-900"> -->
+<footer class="othlo-footer mdl-mini-footer">
+  <div class="mdl-mini-footer--left-section">
     <div class="mdl-logo">
       <img src="/images/mini-logo.png" />
     </div>
+  </div>
+  <div class="mdl-mini-footer--center-section">
     <ul class="mdl-mini-footer--link-list">
       <li class="othlo-sns-button mdl-mini-footer--social-btn">
         <a href="https://twitter.com/OthloTech" class="social-btn social-btn__twitter" role="button" title="Twitter" target="_blank">
@@ -77,13 +107,6 @@
         </a>
       </li>
     </ul>
-
-<!--     <div class="mdl-mini-footer--right-section">
-      <a class="mdl-typography--font-light" href="#top">
-        Back to Top
-        <i class="material-icons">expand_less</i>
-      </a>
-    </div> -->
   </div>
 
   <div class="mdl-mini-footer--bottom-section">
