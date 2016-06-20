@@ -19,16 +19,24 @@ header {
 main {
 
   .othlo-hero {
-    position: relative;
+  	margin-top: -25px;
     height: 600px;
     width: auto;
-    background-color: #f3f3f3;
+    background-color: #fff;
     background: url('/images/othlo.jpg') center 30% no-repeat;
     background-size: cover;
 
     .othlo-slogan {
-      font-size: 60px;
+      font-size: 50px;
       padding-top: 160px;
+      color: #fff;
+      -webkit-text-stroke: 1px #bbb;
+    }
+
+    .othlotech {
+      font-size: 60px;
+      color: #28bbf8;
+      -webkit-text-stroke: 1px #848484;
     }
   }
 
@@ -94,24 +102,26 @@ main {
 
 
 footer {
-  position: relative;
-  .othlo-sns-button {
-    position: relative;
-    background: transparent;
-
-    & > a {
-    width: 100%;
-    height: 100%;
-
-      & > img {
-        width: 100%;
-        height: auto;
-        
+  .othlo-footer {
+  	border-top: 1px solid #333;
+  	background-color: #fff
+  }
+  .mdl-mega-footer--link-list {
+  	.othlo-sns-button {
+  	  display: inline-block;
+      position: relative;
+      background: transparent;
+      & > a {
+      width: 100%;
+      height: 100%;
+        & > img {
+          width: 100%;
+          height: auto;
+        }
       }
-    }
-
-    &:hover {
-      opacity: .6;
+      &:hover {
+        opacity: .6;
+      }  
     }
   }
 }

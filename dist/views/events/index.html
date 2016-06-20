@@ -16,7 +16,7 @@
 </head>
   <body>
   	<div class="othlo-layout-transparent mdl-layout mdl-js-layout mdl-layout--fixed-header">
-      <header class="othlo-header mdl-layout__header mdl-layout--fixed-header">
+      <header class="othlo-header mdl-layout__header mdl-layout__header--waterfall">
   <div class="mdl-layout__header-row">
     <span class="othlo-title mdl-layout-title">
       {{ .title }}
@@ -55,35 +55,41 @@
 		</div>
       </main>
 
-      <!-- <footer class="othlo-footer docs-text-styling docs-footer mdl-mini-footer mdl-color--grey-900"> -->
-<footer class="othlo-footer mdl-mini-footer">
-  <div class="mdl-mini-footer--left-section">
-    <div class="mdl-logo">
-      <img src="/images/mini-logo.png" />
+      <footer class="othlo-footer mdl-mega-footer">
+  <div class="mdl-mega-footer--top-section">
+    <div class="mdl-mega-footer--left-section">
+      <div class="mdl-logo">
+        <img src="/images/mini-logo.png" />
+      </div>
+    </div>
+    <div class="mdl-mega-footer--right-section">
+      <ul class="mdl-mega-footer--link-list">
+        <li class="othlo-sns-button mdl-mega-footer--social-btn">
+          <a href="https://twitter.com/OthloTech" class="social-btn social-btn__twitter" role="button" title="Twitter" target="_blank">
+            <img src="images/sns/twitter.png" />
+          </a>
+        </li>
+        &nbsp;
+        <li class="othlo-sns-button mdl-mega-footer--social-btn">
+          <a href="https://www.facebook.com/othlotech/" class="social-btn social-btn__facebook" role="button" title="Facebook" target="_blank">
+            <img src="images/sns/facebook.png" />
+          </a>
+        </li>
+        &nbsp;
+        <li class="othlo-sns-button mdl-mega-footer--social-btn">
+          <a href="https://github.com/OthloTech" class="social-btn social-btn__github" role="button" title="GitHub" target="_blank">
+            <img src="images/sns/github.png" />
+          </a>
+        </li>
+      </ul>
     </div>
   </div>
-  <div class="mdl-mini-footer--center-section">
-    <ul class="mdl-mini-footer--link-list">
-      <li class="othlo-sns-button mdl-mini-footer--social-btn">
-        <a href="https://twitter.com/OthloTech" class="social-btn social-btn__twitter" role="button" title="Twitter" target="_blank">
-          <img src="images/sns/twitter.png" />
-        </a>
-      </li>
-      <li class="othlo-sns-button mdl-mini-footer--social-btn">
-        <a href="https://www.facebook.com/othlotech/" class="social-btn social-btn__facebook" role="button" title="Facebook" target="_blank">
-          <img src="images/sns/facebook.png" />
-        </a>
-      </li>
-      <li class="othlo-sns-button mdl-mini-footer--social-btn">
-        <a href="https://github.com/OthloTech" class="social-btn social-btn__github" role="button" title="GitHub" target="_blank">
-          <img src="images/sns/github.png" />
-        </a>
-      </li>
-    </ul>
-  </div>
 
-  <div class="mdl-mini-footer--bottom-section">
-    <p class="mdl-typography--font-light">wwOthlo: © 2016 OthloTech</p>
+  <div class="mdl-mega-footer--bottom-section">
+    <p class="mdl-typography--font-light mdl-typography--text-center">
+      © 2016 <a href="#">OthloTech.</a> 
+      All rights reserved. Crafted with love
+    </p>
   </div>
 </footer>
 

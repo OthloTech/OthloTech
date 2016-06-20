@@ -13,15 +13,21 @@ header {
   font-weight: 500; }
 
 main .othlo-hero {
-  position: relative;
+  margin-top: -25px;
   height: 600px;
   width: auto;
-  background-color: #f3f3f3;
+  background-color: #fff;
   background: url("/images/othlo.jpg") center 30% no-repeat;
   background-size: cover; }
   main .othlo-hero .othlo-slogan {
+    font-size: 50px;
+    padding-top: 160px;
+    color: #fff;
+    -webkit-text-stroke: 1px #bbb; }
+  main .othlo-hero .othlotech {
     font-size: 60px;
-    padding-top: 160px; }
+    color: #28bbf8;
+    -webkit-text-stroke: 1px #848484; }
 
 main .othlo-screen-section {
   padding: 40px 0px; }
@@ -61,16 +67,19 @@ main .othlo-contact-section {
   main .othlo-contact-section > p {
     padding: 0px 20px; }
 
-footer {
-  position: relative; }
-  footer .othlo-sns-button {
-    position: relative;
-    background: transparent; }
-    footer .othlo-sns-button > a {
+footer .othlo-footer {
+  border-top: 1px solid #333;
+  background-color: #fff; }
+
+footer .mdl-mega-footer--link-list .othlo-sns-button {
+  display: inline-block;
+  position: relative;
+  background: transparent; }
+  footer .mdl-mega-footer--link-list .othlo-sns-button > a {
+    width: 100%;
+    height: 100%; }
+    footer .mdl-mega-footer--link-list .othlo-sns-button > a > img {
       width: 100%;
-      height: 100%; }
-      footer .othlo-sns-button > a > img {
-        width: 100%;
-        height: auto; }
-    footer .othlo-sns-button:hover {
-      opacity: .6; }
+      height: auto; }
+  footer .mdl-mega-footer--link-list .othlo-sns-button:hover {
+    opacity: .6; }
