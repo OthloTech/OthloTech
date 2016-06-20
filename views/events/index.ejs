@@ -1,17 +1,22 @@
+<% include('../_config'); var data = getData() %>
+
 <!DOCTYPE html>
 <html lang="ja">
-  <% include ../includes/_head %>
+  <%- include('../includes/_head', { data: data }) %>
   <body>
-  	<div class="othlo-layout-transparent mdl-layout mdl-js-layout mdl-layout--fixed-header">
-      <% include ../includes/_header %>
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+      <%- include('../includes/_header', { data: data, events: 'current' }) %>
 
       <main class="mdl-layout__content">
-        <div class="othlo-hero mdl-typography--text-center">
-  		  <div class="logo-font othlo-slogan">イベント一覧</div>
-		</div>
-      </main>
 
-      <% include ../includes/_footer %>
-  	</div>
+        <div class="othlo-hero mdl-typography--text-center">
+          <div class="logo-font othlo-slogan">イベント一覧</div>
+        </div>
+
+        <h3>工事中...</h3>
+
+        <%- include('../includes/_footer', { data: data }) %>
+      </main>
+    </div>
   </body>
 </html>
