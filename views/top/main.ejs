@@ -1,9 +1,11 @@
+<% include('../_config'); var data = getData() %>
+
 <!DOCTYPE html>
 <html lang="ja">
-  <% include ../includes/_head %>
+  <% include('../includes/_head', { data: data }) %>
   <body>
   	<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
-      <% include ../includes/_header %>
+      <% include('../includes/_header', { data: data }) %>
 
       <main class="mdl-layout__content">
         <section class="othlo-hero mdl-typography--text-center">
@@ -132,7 +134,7 @@
           </div>
         </section>
 
-        <% include ../includes/_footer %>
+        <% include('../includes/_footer', { data: data }) %>
       </main>
   	</div>
   </body>

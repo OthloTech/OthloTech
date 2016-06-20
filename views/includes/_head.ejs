@@ -1,8 +1,11 @@
+<% if (typeof title === 'undefined') { var title = 'OthloTech 学生クリエイティブ集団'; } %>
+<% if (typeof description === 'undefined') { var description = 'OthloTechは学生クリエイティブ集団です。興味本位のサービスやみんなに役立つサービスなどOthloTechでは『作りたい』を作ります。みんなで楽しく開発しながらスキルアップしましょう！'; } %>
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>OthloTech</title>
-  <meta name="description" content="This is OthloTech Official Web Site.">
+  <title><%= title %></title>
+  <meta name="description" content="<%= description %>">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
   <!-- Latest compiled and minified CSS -->
