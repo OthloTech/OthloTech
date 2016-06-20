@@ -5,7 +5,13 @@ html, body {
 
 header {
   color: #333;
-  background: #fff
+  background: #fff;
+
+  .mdl-navigation, .mdl-navigation {
+  	.current {
+  	  font-weight: bold;
+  	}
+  }
 }
 
 
