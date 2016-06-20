@@ -3,20 +3,23 @@ runtime: go
 api_version: go1
  
 handlers:
+- url: images/
+  static_dir: ../dist/images
+
+- url: css/
+  static_dir: ../dist/css
+
+- url: js/
+  static_dir: ../dist/js
+
+- url: fonts/
+  static_dir: ../dist/fonts
+
+- url: views/
+  static_dir: ../dist/views/
+
 - url: /.*
   script: _go_app
-
-- url: ../dist/images
-  static_dir: image
-
-- url: ../dist/css
-  static_dir: css
-
-- url: ../dist/js
-  static_dir: js
-
-- url: ../dist/fonts
-  static_dir: font
 
 threadsafe: true
 automatic_scaling:
