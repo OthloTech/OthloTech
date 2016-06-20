@@ -26,7 +26,7 @@ gulp.task('sass', function() {
 })
 
 gulp.task('image', function() {
-  gulp.src('assets/images/*')
+  gulp.src('assets/images/**/*')
     .pipe(plumber({ errorHandler: notify.onError('<%= error.message %>' )}))
     .pipe(imagemin())
     .pipe(gulp.dest("dist/images"))
@@ -42,6 +42,6 @@ gulp.task('ejs', function() {
 gulp.task("default", function() {
   gulp.watch(["assets/js/**/*.js", "!assets/js/min/**/*.js"], ["js"])
   gulp.watch("assets/scss/**/*.scss", ["sass"])
-  gulp.watch("assets/images/*", ["image"])
+  gulp.watch("assets/images/**/*", ["image"])
   gulp.watch("views/**/*.ejs", ["ejs"])
 })

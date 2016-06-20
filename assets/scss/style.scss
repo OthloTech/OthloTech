@@ -1,12 +1,12 @@
 html, body {
-  //margin: 0;
+  margin: 0;
   padding: 0;
 }
 
 .othlo-layout-transparent {
   header {
-  	color: #333;
-  	background: #fff
+    color: #333;
+    background: #fff
   }
 }
 
@@ -19,7 +19,7 @@ html, body {
   background-size: cover;
 
   .othlo-slogan {
-  	font-size: 60px;
+    font-size: 60px;
     padding-top: 160px;
   }
 }
@@ -35,7 +35,7 @@ main {
 
 
   .othlo-screen-section {
-    padding: 40px;
+    padding: 40px 0px;
 
     & > .container {
       width: 80%;
@@ -43,8 +43,44 @@ main {
       margin: 0 auto;
 
       & > h2 {
-      	margin: 20px;
-      	color: #64B5F6;
+        margin: 20px;
+        color: #64B5F6;
+      }
+    }
+  }
+
+  .othlo-feature-section {
+    background: #f6f9fa;
+    padding: 40px 0px;
+
+    .othlo-feature__item {
+      padding-top: 10px;
+      border-bottom: 1px solid #ccc;
+
+      .item-circle {
+        width: 100px;
+        height: 100px;
+        margin: 0 auto 2em auto;
+        border: 2px solid #eaeaea;
+        border-radius: 50%;
+        display: flex;
+	    justify-content: center;
+	    align-items: center;
+        
+        & > img {
+          position: relative;
+        }
+      }
+    }
+
+    .othlo-feature__content {
+      & > h3 {
+		justify-content: center;
+	    align-items: center;
+      	margin-bottom: 5px;
+      }
+      & > p {
+
       }
     }
   }
