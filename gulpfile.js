@@ -15,28 +15,28 @@ gulp.task('js', function() {
     .pipe(babel({
       presets: ['es2015']
     }))
-    .pipe(gulp.dest('dist/js'))
+    .pipe(gulp.dest('app/dist/js'))
 })
 
 gulp.task('sass', function() {
   gulp.src('assets/scss/**/*.scss')
     .pipe(plumber({ errorHandler: notify.onError('<%= error.message %>' )}))
     .pipe(sass())
-    .pipe(gulp.dest("dist/css"))
+    .pipe(gulp.dest("app/dist/css"))
 })
 
 gulp.task('image', function() {
   gulp.src('assets/images/**/*')
     .pipe(plumber({ errorHandler: notify.onError('<%= error.message %>' )}))
     .pipe(imagemin())
-    .pipe(gulp.dest("dist/images"))
+    .pipe(gulp.dest("app/dist/images"))
 })
 
 gulp.task('ejs', function() {
   gulp.src(['views/**/*.ejs', '!./views/**/_*.ejs'])
     .pipe(plumber({ errorHandler: notify.onError('<%= error.message %>' )}))
     .pipe(ejs({}, {ext: '.html'}))
-    .pipe(gulp.dest("dist/views"))
+    .pipe(gulp.dest("app/dist/views"))
 })
 
 gulp.task("default", function() {

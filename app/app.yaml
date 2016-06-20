@@ -5,27 +5,34 @@ api_version: go1
 handlers:
 
 - url: /
-  static_files: dist/top/main.html
-  upload: dist/top/main.html
+  static_files: dist/views/top/main.html
+  upload: dist/views/top/main.html
 
-- url: /(.*\.(css|gif|png|jpg|ico|js|html))
-  static_files: dist/\1
-  upload: dist/(.*\.(css|gif|png|jpg|ico|js|html))
+- url: /about
+  static_files: dist/views/top/about.html
+  upload: dist/views/top/about.html
 
-- url: /images
-  static_dir: dist/images
+- url: /css/(.*)
+  static_files: dist/css/\1
+  upload: dist/css/(.*)
 
-- url: /css
-  static_dir: dist/css
+- url: /js/(.*)
+  static_files: dist/js/\1
+  upload: dist/js/(.*)
 
-- url: /js
-  static_dir: dist/js
+- url: /images/(.*)
+  static_files: dist/images/\1
+  upload: dist/images/(.*)
 
-- url: /fonts
-  static_dir: dist/fonts
+- url: /fonts/(.*)
+  static_files: dist/fonts/\1
+  upload: dist/fonts/(.*)
 
-- url: /views
-  static_dir: dist/views/
+- url: /events/(.*)
+  static_files: dist/views/events/\1
+  upload: dist/events/(.*)
+
+
 
 - url: /.*
   script: _go_app
