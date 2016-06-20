@@ -3,23 +3,47 @@ runtime: go
 api_version: go1
  
 handlers:
-- url: images/
-  static_dir: ../dist/images
 
-- url: css/
-  static_dir: ../dist/css
+- url: /
+  static_files: dist/top/main.html
+  upload: dist/top/main.html
 
-- url: js/
-  static_dir: ../dist/js
+- url: /(.*\.(css|gif|png|jpg|ico|js|html))
+  static_files: dist/\1
+  upload: dist/(.*\.(css|gif|png|jpg|ico|js|html))
 
-- url: fonts/
-  static_dir: ../dist/fonts
+- url: /images
+  static_dir: dist/images
 
-- url: views/
-  static_dir: ../dist/views/
+- url: /css
+  static_dir: dist/css
+
+- url: /js
+  static_dir: dist/js
+
+- url: /fonts
+  static_dir: dist/fonts
+
+- url: /views
+  static_dir: dist/views/
 
 - url: /.*
   script: _go_app
+
+
+# When certain errors occur, App Engine serves a generic error page. You can configure your app 
+# to serve a custom static file instead of these generic error pages.
+error_handlers:
+  - file: dist/views/errors/default_error.html
+  # Google App Engine quota exceeded.
+  - error_code: over_quota
+    file: dist/views/errors/over_quota.html
+  # Served to any client blocked by your app's DoS Protection configuration.
+  - error_code: dos_api_denial
+    file: dist/views/errors/dos_api_denial.html
+  # Served if a deadline is reached before there is a response from your app.
+  - error_code: timeout
+    file: dist/views/errors/timeout.html
 
 threadsafe: true
 automatic_scaling:
