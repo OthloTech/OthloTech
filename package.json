@@ -4,7 +4,7 @@
   "description": "This is wwOthlo",
   "main": "index.js",
   "scripts": {
-    "start": "goapp serve ./app",
+    "start": "node app.js",
     "gulp": "gulp default",
     "deploy": "goapp deploy -application othlotech-1344 ./app"
   },
@@ -22,6 +22,7 @@
     "babel": "^6.5.2",
     "babel-core": "^6.9.1",
     "babel-preset-es2015": "^6.9.0",
+    "co-views": "^2.1.0",
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2",
     "gulp-ejs": "^2.1.2",
@@ -29,6 +30,8 @@
     "gulp-notify": "^2.2.0",
     "gulp-plumber": "^1.1.0",
     "gulp-rename": "^1.2.2",
-    "gulp-sass": "^2.3.2"
+    "gulp-sass": "^2.3.2",
+    "koa": "^1.2.0",
+    "koa-route": "^2.4.2"
   }
 }
