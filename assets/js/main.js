@@ -16,16 +16,7 @@ $(function() {
 })
 
 $(function() {
-  // $('.othlo-hero-video').coverVid($(window).width(), 600);
-  // const video = $('.othlo-hero-video').get(0);
-  // setInterval(function() {
-  // 	video.pause();
-  // 	video.play();
-  // 	if(!video) clearInterval(this);
-  // }, 1000);
-
   $('.othlo-hero').lazyBgLoad();
-
 
   $('.othlo-images-slider').slick({
     centerMode: true,
@@ -37,24 +28,18 @@ $(function() {
     arrows: true,
     infinite: true,
     responsive: [
-      {
-        breakpoint: 768,
+      { breakpoint: 768,
         settings: {
           arrows: false,
           centerMode: true,
           centerPadding: '40px',
-          slidesToShow: 3
-        }
-      },
-      {
-        breakpoint: 480,
+          slidesToShow: 3 }},
+      { breakpoint: 480,
         settings: {
           arrows: false,
           centerMode: true,
           centerPadding: '40px',
-          slidesToShow: 1
-        }
-      }
+          slidesToShow: 1 }}
   	]
   })
 
