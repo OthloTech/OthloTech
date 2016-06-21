@@ -31,7 +31,7 @@ app.use(function*(next) {
 const router = require('./routes/index')(app);
 
 // サーバー起動
-app.listen(port, function() {
+app.listen(process.env.PORT || port, function() {
   console.log('Server listening at port %d', port);
 });
 
