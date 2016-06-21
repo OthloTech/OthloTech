@@ -37,40 +37,40 @@ footer .mdl-mega-footer--link-list .othlo-sns-button {
     opacity: .6; }
 
 /* component */
-main.main .othlo-hero {
+main .othlo-hero {
   margin-top: -25px;
   height: 600px;
   width: auto;
   background-color: #fff;
-  background: url("/dist/images/othlo.jpg") center 30% no-repeat;
+  background: url("/images/othlo.jpg") center 30% no-repeat;
   background-size: cover; }
-  main.main .othlo-hero .othlo-slogan {
+  main .othlo-hero .othlo-slogan {
     font-size: 50px;
     padding-top: 160px;
     color: #fff;
     -webkit-text-stroke: 1px #bbb; }
-  main.main .othlo-hero .othlotech {
+  main .othlo-hero .othlotech {
     font-size: 60px;
     color: #28bbf8;
     -webkit-text-stroke: 1px #848484; }
 
-main.main .othlo-screen-section {
+main .othlo-screen-section {
   padding: 40px 0px; }
-  main.main .othlo-screen-section > .container {
+  main .othlo-screen-section > .container {
     width: 80%;
     max-width: 800px;
     margin: 0 auto; }
-    main.main .othlo-screen-section > .container > h2 {
+    main .othlo-screen-section > .container > h2 {
       margin: 20px;
       color: #64B5F6; }
 
-main.main .othlo-feature-section {
+main .othlo-feature-section {
   background: #f6f9fa;
   padding: 40px 0px; }
-  main.main .othlo-feature-section .othlo-feature__item {
+  main .othlo-feature-section .othlo-feature__item {
     padding-top: 10px;
     border-bottom: 1px solid #ccc; }
-    main.main .othlo-feature-section .othlo-feature__item .item-circle {
+    main .othlo-feature-section .othlo-feature__item .item-circle {
       width: 100px;
       height: 100px;
       margin: 0 auto 2em auto;
@@ -79,15 +79,15 @@ main.main .othlo-feature-section {
       display: flex;
       justify-content: center;
       align-items: center; }
-      main.main .othlo-feature-section .othlo-feature__item .item-circle > img {
+      main .othlo-feature-section .othlo-feature__item .item-circle > img {
         position: relative; }
-  main.main .othlo-feature-section .othlo-feature__content > h3 {
+  main .othlo-feature-section .othlo-feature__content > h3 {
     justify-content: center;
     align-items: center;
     margin-bottom: 5px; }
 
-main.main .othlo-contact-section {
+main .othlo-contact-section {
   padding: 40px 0px;
   background: #fff; }
-  main.main .othlo-contact-section > p {
+  main .othlo-contact-section > p {
     padding: 0px 20px; }
