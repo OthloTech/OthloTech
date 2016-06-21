@@ -25,4 +25,37 @@ $(function() {
   // }, 1000);
 
   $('.othlo-hero').lazyBgLoad();
+
+
+  $('.othlo-images-slider').slick({
+    centerMode: true,
+    centerPadding: '30px',
+    slidesToShow: 3,
+    autoplaySpeed: 3000,
+    speed: 400,
+    autoplay: true,
+    arrows: true,
+    infinite: true,
+    responsive: [
+      {
+        breakpoint: 768,
+        settings: {
+          arrows: false,
+          centerMode: true,
+          centerPadding: '40px',
+          slidesToShow: 3
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          arrows: false,
+          centerMode: true,
+          centerPadding: '40px',
+          slidesToShow: 1
+        }
+      }
+  	]
+  })
+
 })

@@ -111,6 +111,22 @@
 </section>
 -->
 
+<section class="othlo-images-section">
+  <div class="container">
+    <h2 class="mdl-typography--font-light mdl-typography--text-center mdl-typography--display-1-color-contrast">イメージ</h2>
+    <div class="othlo-images-slider">
+      <% for image in [{i:1, desc: 'これはちょっとワザとらしいですが、こんな感じでミーティングしています笑'}, {i:2, desc: '第一回目の勉強会の様子です。写真撮影にも使えるスタジオで行いました！'}, {i:3, desc: '第2回の勉強会の様子です。みんな真剣だけどラフに聞いてるよ(･∀･)b'}, {i:4, desc: '勉強会の後に撮った写真。。あなたには見えますか？後ろから覗く...'}, {i:5, desc: 'OthloTech名物?エンジニア/デザイナー謎解きの様子です！みんな真剣！'}, {i:6, desc: '勉強会の後はこんな感じに懇親会！ヽ(*´∀`)/たのしい'}, {i:7, desc: 'かなりいい画ですよね。OthloTechの専任カメラマン流石です。'}] : %>
+        <div class="othlo-image-container mdl-card mdl-shadow--2dp">
+          <div class="othlo-image mdl-card__title mdl-card-expand" style="background:url('/images/othlotech/<%- image.i %>.jpg') center / cover;">
+          </div>
+          <div class="mdl-card__supporting-text">
+            <%- image.desc %>
+          </div>
+        </div>
+      <% end %>
+  </div>
+</section>
+
 <section class="othlo-contact-section">
   <div class="container">
     <div class="mdl-grid">
@@ -120,10 +136,15 @@
         <a class="mdl-button mdl-js-button mdl-button--raised mdl-button--accent" href="http://goo.gl/forms/QssrtHPZoNuDkuuj1" target="_blank">お問い合わせフォーム</a>
       </article>
 
-      <article class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet">
+      <article class="mdl-cell mdl-cell--6-col mdl-cell--8-col-tablet mdl-typography--text-center">
+        <div class="fb-page" data-href="https://www.facebook.com/othlotech/" data-tabs="timeline" data-height="400px" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/othlotech/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/othlotech/">OthloTech</a></blockquote></div>
+      </article>
+
+<!--       <article class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet">
         <a class="twitter-timeline"  href="https://twitter.com/OthloTech" data-chrome="noheader nofooter noborders noscrollbar" data-widget-id="734663046749003777" height=300>@OthloTechさんのツイート</a>
         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-      </article>
+      </article> -->
+
     </div>
   </div>
 </section>

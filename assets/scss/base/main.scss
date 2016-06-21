@@ -9,3 +9,16 @@ html, body {
   color: #ccc;
   font-weight: 500;
 }
+
+.clearfix {
+  display: inline-block;
+  &:after {  
+    content: ".";  
+    display: block;  
+    visibility: hidden;  
+    height: 0.1px;  
+    font-size: 0.1em;  
+    line-height: 0;  
+    clear: both;  
+  } 
+}

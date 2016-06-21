@@ -51,9 +51,15 @@ gulp.task('minjs', function() {
     .pipe(gulp.dest("dist/js"))
 })
 
+gulp.task('fonts', function() {
+  gulp.src('assets/fonts/*')
+    .pipe(gulp.dest('dist/fonts'))
+})
+
 gulp.task("default", function() {
   gulp.watch(["assets/js/**/*.js", "!assets/js/**/*.min.js"], ["js"])
   gulp.watch("assets/js/**/*.min.js", ["minjs"])
   gulp.watch("assets/scss/**/*.scss", ["sass"])
   gulp.watch("assets/images/**/*", ["image"])
+  gulp.watch("assets/fonts/*", ["fonts"])
 })

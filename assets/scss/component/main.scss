@@ -5,7 +5,6 @@ main {
     width: auto;
     position: relative;
     background-color: #fff;
-    //background: url('/images/othlo.jpg') center 30% no-repeat;
     background-size: cover;
     
     .othlo-hero-video {
@@ -78,13 +77,36 @@ main {
     }
   }
 
-  .othlo-contact-section {
-  	padding: 40px 0px;
-  	background: #fff;
+  .othlo-images-section {
+    background: #fff;
+    .container {
+      padding: 60px 0;
+    }
 
-  	& > p {
-  	  padding: 0px 20px;
-  	}
+    .othlo-images-slider {
+      .othlo-image-container {
+        margin: 0 20px;
+        border-bottom: 1px solid #eee;
+
+        .othlo-image {
+          height: 300px;
+        }
+      }
+    }
+  }
+
+  .othlo-contact-section {
+    padding: 60px 0px;
+    background: #E3F2FD;
+
+    & > p {
+      padding: 0px 20px;
+    }
+
+    .mdl-cell {
+      width: 400px;
+      margin: 20px auto;
+    }
   }
 
 }
