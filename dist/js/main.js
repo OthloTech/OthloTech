@@ -1,1 +1,1 @@
-"use strict";
+"use strict";$(function(){$(".othlo-hero-video").coverVid($(window).width(),600);var e=$(".othlo-hero-video").get(0);setInterval(function(){e.pause(),e.play(),e||clearInterval(this)},1e3)});
