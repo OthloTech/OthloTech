@@ -1,4 +1,4 @@
-main.main {
+main {
 
   .othlo-hero {
   	margin-top: -25px;
@@ -52,8 +52,8 @@ main.main {
         border: 2px solid #eaeaea;
         border-radius: 50%;
         display: flex;
-	    justify-content: center;
-	    align-items: center;
+	      justify-content: center;
+	      align-items: center;
         
         & > img {
           position: relative;
@@ -63,8 +63,8 @@ main.main {
 
     .othlo-feature__content {
       & > h3 {
-		justify-content: center;
-	    align-items: center;
+		    justify-content: center;
+	      align-items: center;
       	margin-bottom: 5px;
       }
     }
