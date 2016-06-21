@@ -1,0 +1,32 @@
+<header class="othlo-header mdl-layout__header mdl-layout__header--waterfall">
+  <div class="mdl-layout__header-row">
+    <span class="othlo-title mdl-layout-title">
+      OthloTech
+      <!-- <img class="android-logo-image" src="images/android-logo.png"> -->
+    </span>
+    <div class="mdl-layout-spacer"></div>
+    <div class="othlo-navigation-container">
+      <nav class="mdl-navigation mdl-layout--large-screen-only">
+        <a class="mdl-navigation__link <%- @home %>" href="/">ホーム</a>
+        <a class="mdl-navigation__link <%- @events %>" href="/events/">イベント</a>
+        <a class="mdl-navigation__link <%- @projects %>" href="/projects">プロジェクト</a>
+        <a class="mdl-navigation__link <%- @posts %>" href="/posts/">ブログ</a>
+        <a class="mdl-navigation__link <%- @about %>" href="/about">ABOUT</a>
+      </nav>
+    </div>
+  </div>
+</header>
+<div class="othlo-drawer mdl-layout__drawer">
+  <span class="mdl-layout-title">
+    OthloTech
+    <!-- <img class="android-logo-image" src="images/android-logo-white.png"> -->
+  </span>
+  <nav class="mdl-navigation">
+    <a class="mdl-navigation__link <%- @home %>" href="/">ホーム</a>
+    <a class="mdl-navigation__link <%- @events %>" href="/events/">イベント</a>
+    <a class="mdl-navigation__link <%- @projects %>" href="/projects">プロジェクト</a>
+    <a class="mdl-navigation__link <%- @posts %>" href="/posts/">ブログ</a>
+    <a class="mdl-navigation__link <%- @about %>" href="/about">ABOUT</a>
+    <div class="othlo-drawer__separator"></div>
+  </nav>
+</div>

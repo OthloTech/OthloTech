@@ -15,33 +15,33 @@ gulp.task('js', function() {
     .pipe(babel({
       presets: ['es2015']
     }))
-    .pipe(gulp.dest('app/dist/js'))
+    .pipe(gulp.dest('dist/js'))
 })
 
 gulp.task('sass', function() {
   gulp.src('assets/scss/**/*.scss')
     .pipe(plumber({ errorHandler: notify.onError('<%= error.message %>' )}))
     .pipe(sass())
-    .pipe(gulp.dest("app/dist/css"))
+    .pipe(gulp.dest("dist/css"))
 })
 
 gulp.task('image', function() {
   gulp.src('assets/images/**/*')
     .pipe(plumber({ errorHandler: notify.onError('<%= error.message %>' )}))
     .pipe(imagemin())
-    .pipe(gulp.dest("app/dist/images"))
+    .pipe(gulp.dest("dist/images"))
 })
 
-gulp.task('ejs', function() {
-  gulp.src(['views/**/*.ejs', '!./views/**/_*.ejs'])
-    .pipe(plumber({ errorHandler: notify.onError('<%= error.message %>' )}))
-    .pipe(ejs({}, {ext: '.html'}))
-    .pipe(gulp.dest("app/dist/views"))
-})
+// gulp.task('ejs', function() {
+//   gulp.src(['views/**/*.ejs', '!./views/**/_*.ejs'])
+//     .pipe(plumber({ errorHandler: notify.onError('<%= error.message %>' )}))
+//     .pipe(ejs({}, {ext: '.html'}))
+//     .pipe(gulp.dest("app/dist/views"))
+// })
 
 gulp.task("default", function() {
   gulp.watch(["assets/js/**/*.js", "!assets/js/min/**/*.js"], ["js"])
   gulp.watch("assets/scss/**/*.scss", ["sass"])
   gulp.watch("assets/images/**/*", ["image"])
-  gulp.watch("views/**/*.ejs", ["ejs"])
+  //gulp.watch("views/**/*.ejs", ["ejs"])
 })

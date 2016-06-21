@@ -10,7 +10,13 @@ let port = 8888
 let title = 'OthloTech'
 
 app.use(_.get('/', function *() {
-  this.body = yield render('index', {
+  this.body = yield render('main', {
+    title: title
+  })
+}));
+
+app.use(_.get('/about', function *() {
+  this.body = yield render('about', {
     title: title
   })
 }));
@@ -20,7 +26,7 @@ app.use(require('koa-static-server')({rootDir: 'dist', rootPath: '/dist'}));
 
 // all other routes
 app.use(function *() {
-  this.body = yield render('index')
+  this.body = yield render('main')
 });
 
 // サーバー起動

@@ -23,6 +23,7 @@
     "babel-core": "^6.9.1",
     "babel-preset-es2015": "^6.9.0",
     "co-views": "^2.1.0",
+    "ect": "^0.5.9",
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2",
     "gulp-ejs": "^2.1.2",
