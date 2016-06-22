@@ -1,14 +1,41 @@
-# wwOthlo
-OthloTechの公式ページ。こっちに移行する
+# OthloTech
 
+[OthloTech](www.othlo.tech)の公式サイトです。
 
-## 参考サイト
-まずは下記のサイトが大変わかりやすいので一読必須!
-https://developers.eure.jp/tech/go-appengine-sql-waf/
+### セットアップ
 
-## Go言語の環境構築
+```
+npm install
+```
 
-### direnvの導入
-http://blog.flup.jp/2016/02/16/dev_golang_keeping_vendoring/
+### ビルド
 
-`goapp deploy -application othlotech-1344 ./app`
+開発用ビルド + 変更の監視
+
+```
+npm run gulp
+# => localhost:8888 が立ち上がります
+```
+
+### 技術スタック
+サーバーサイド
+* Node.js(v4.4.3)
+  * koa(Web Framework for Node) [参考](http://koajs.com/)
+
+クライアント
+* CSS
+  * SCSS [参考](http://sass-lang.com/)
+  * BEM [参考](http://blog.ruedap.com/2013/10/29/block-element-modifier)
+  * Material Design Lite [参考](https://getmdl.io/index.html)
+* HTML
+  * ect(テンプレートエンジン) [参考](http://ectjs.com/)
+* JS
+  * jQuery(2系)
+  * es6 [参考](https://github.com/lukehoban/es6features#enhanced-object-literals)
+  * Riot or Vue 検討中
+
+タスクランナー
+* Gulp [参考](http://gulpjs.com/)
+
+PaaS
+* Heroku

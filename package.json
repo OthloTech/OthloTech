@@ -5,8 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "gulp": "gulp default",
-    "deploy": "goapp deploy -application othlotech-1344 ./app"
+    "gulp": "gulp default"
   },
   "keywords": [
     "OthloTech",
