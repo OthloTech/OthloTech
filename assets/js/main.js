@@ -19,7 +19,7 @@ $(function() {
   //$('.othlo-hero').lazyBgLoad();
 
   $('.othlo-hero').vegas({
-    delay: 5000,
+    delay: 3000,
     transition: ['blur', 'fade'],
     shuffle: true,
     slides: [
