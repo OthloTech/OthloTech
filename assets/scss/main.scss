@@ -6,11 +6,12 @@
 @import 'layout/main';
 @import 'layout/footer';
 
+/* Libraly */
+@import 'lib/slick';
+@import 'lib/vegas';
+
 /* component */
 @import 'component/main';
 @import 'component/events';
 @import 'component/projects';
 @import 'component/posts';
-
-/* Libraly */
-@import 'lib/slick';
