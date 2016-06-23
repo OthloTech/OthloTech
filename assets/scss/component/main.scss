@@ -1,34 +1,4 @@
 main { 
-  .othlo-hero {
-  	margin-top: -25px;
-    height: 600px;
-    width: auto;
-    position: relative;
-    background-color: #fff;
-    background-size: cover;
-    
-    .othlo-hero-video {
-      width: 100%;
-      height: 100%;
-      z-index: 1;
-    }
-
-    .othlo-slogan {
-      font-size: 50px;
-      padding-top: 160px;
-      color: #fff;
-      -webkit-text-stroke: 1px #bbb;
-      z-index: 10;
-    }
-
-    .othlotech {
-      font-size: 60px;
-      color: #28bbf8;
-      -webkit-text-stroke: 1px #848484;
-      z-index: 10;
-    }
-  }
-
   .othlo-screen-section {
     padding: 40px 0px;
 

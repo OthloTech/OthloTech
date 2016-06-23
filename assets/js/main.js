@@ -16,7 +16,28 @@ $(function() {
 })
 
 $(function() {
-  $('.othlo-hero').lazyBgLoad();
+  //$('.othlo-hero').lazyBgLoad();
+
+  $('.othlo-hero').vegas({
+    delay: 5000,
+    transition: ['blur', 'fade'],
+    shuffle: true,
+    slides: [
+      { src: '/images/background/1.jpg' },
+      { src: '/images/background/2.jpg' },
+      { src: '/images/background/3.jpg' },
+      { src: '/images/background/4.jpg' },
+      { src: '/images/background/5.jpg' },
+      { src: '/images/background/6.jpg' },
+      { src: '/images/background/7.jpg' },
+      { src: '/images/background/8.jpg' },
+      // { src: '/movie/othlotech.png',
+      //   video: { src: ['/movie/othlotech.mp4']},
+      //   loop: false,
+      //   mute: true
+      // }
+    ],
+  });
 
   $('.othlo-images-slider').slick({
     centerMode: true,
