@@ -19,16 +19,17 @@ main {
     justify-content: center; /* 横方向中央揃え */
 
     .othlo-hero-panel {
-      //position: relative;
-      //width: 80%;
-      //height: 80%;
-      //margin: 70px auto;
-      //background: inherit;
-      //background-position: center center;
-      //box-shadow: 0 4px 12px rgba(0, 0, 0, .5);
-      //overflow: hidden;
-      //background: rgba(255, 255, 255, 0.4);
-      //z-index: 15;
+      // position: relative;
+      // width: 80%;
+      // //height: 80%;
+      // height: auto;
+      // margin: 70px auto;
+      // background: inherit;
+      // background-position: center center;
+      // box-shadow: 0 4px 12px rgba(0, 0, 0, .5);
+      // overflow: hidden;
+      // background: rgba(255, 255, 255, 0.4);
+      // z-index: 15;
 
       // &:before {
       //   content: '';
@@ -45,9 +46,9 @@ main {
     }
 
     h3 {
-      color: #fff;
+      color: #212121;
       font-size: 60px;
-      padding-top: 200px;
+      padding-top: 250px;
       font-family: 'Roboto';
       @media screen and (max-width: 758px) {
         font-size: 40px;
@@ -61,6 +62,27 @@ main {
         font-size: 40px;
       }
     }
-
   }
+
+
+  .othlo-container {
+    position: relative;
+    bottom: 400px;
+    z-index: 20;
+    margin-bottom: -400px;
+    .othlo-content {
+      padding: 20px;
+
+      & > blockquote {
+        padding: 0;
+        font-size: 16px;
+        border-left: 5px solid #ccc;
+        &:before, &:after { content: '' }
+      }
+      & > p {
+        padding-left: 1em;
+      }
+    }
+  }
+
 }
