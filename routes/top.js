@@ -11,13 +11,14 @@ const route = (app) => {
   topRoute
     .get('/', function* (next) {
       const data = {
-      	title: 'OthloTech',
+      	title: 'OthloTech -学生クリエイティブ集団-',
         home: 'current'
       }
       this.body = renderer.render('main', data);
     })
     .get('/about', function* (next) {
       const data = {
+        title: 'OthloTechとは / OthloTech',
         about: 'current'
       }
       this.body = renderer.render('about', data);
