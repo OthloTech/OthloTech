@@ -19,17 +19,17 @@ main {
     justify-content: center; /* 横方向中央揃え */
 
     .othlo-hero-panel {
-      // position: relative;
-      // width: 80%;
-      // //height: 80%;
-      // height: auto;
-      // margin: 70px auto;
+      position: relative;
+      width: 80%;
+      //height: 80%;
+      height: auto;
+      margin: 70px auto;
       // background: inherit;
       // background-position: center center;
       // box-shadow: 0 4px 12px rgba(0, 0, 0, .5);
       // overflow: hidden;
       // background: rgba(255, 255, 255, 0.4);
-      // z-index: 15;
+      z-index: 15;
 
       // &:before {
       //   content: '';
@@ -46,9 +46,8 @@ main {
     }
 
     h3 {
-      color: #212121;
-      font-size: 60px;
-      padding-top: 250px;
+      color: #fff;
+      font-size: 40px;
       font-family: 'Roboto';
       @media screen and (max-width: 758px) {
         font-size: 40px;
