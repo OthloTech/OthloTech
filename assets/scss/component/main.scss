@@ -47,6 +47,20 @@ main {
     }
   }
 
+  .othlo-events-section {
+    background: #ECEFF1;
+    .container {
+      padding: 40px 0px;
+      .mdl-card {
+        width: 100%;
+      }
+      .mdl-card__title {
+        color: #fff;
+        height: 200px;
+      }
+    }
+  }
+
   .othlo-images-section {
     background: #fff;
     .container {
