@@ -1,23 +1,86 @@
-main{
- .othlo-hero {
-    margin-top: -25px;
+main {
+  .othlo-hero {
+  	margin-top: -25px;
     height: 600px;
     width: auto;
+    position: relative;
     background-color: #fff;
-    background: url('/images/othlo.jpg') center 30% no-repeat;
     background-size: cover;
+    z-index: 10;
+    position: relative;
 
-    .othlo-slogan {
-      font-size: 50px;
-      padding-top: 160px;
-      color: #fff;
-      -webkit-text-stroke: 1px #bbb;
+    text-align: center;
+
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center; /* 縦方向中央揃え（Safari用） */
+    align-items: center; /* 縦方向中央揃え */
+    -webkit-justify-content: center; /* 横方向中央揃え（Safari用） */
+    justify-content: center; /* 横方向中央揃え */
+
+    .othlo-hero-panel {
+      position: relative;
+      width: 80%;
+      //height: 80%;
+      height: auto;
+      margin: 70px auto;
+      // background: inherit;
+      // background-position: center center;
+      // box-shadow: 0 4px 12px rgba(0, 0, 0, .5);
+      // overflow: hidden;
+      // background: rgba(255, 255, 255, 0.4);
+      z-index: 15;
+
+      // &:before {
+      //   content: '';
+      //   position: absolute;
+      //   top: 0; 
+      //   left: 0; 
+      //   right: 0; 
+      //   bottom: 0;
+      //   background: inherit;
+      //   -webkit-filter: blur(10px) saturate(2);
+      //   -moz-filter: blur(10px) saturate(2);
+      //   filter: blur(10px) saturate(2);
+      // }
     }
 
-    .othlotech {
-      font-size: 60px;
-      color: #28bbf8;
-      -webkit-text-stroke: 1px #848484;
+    h3 {
+      color: #fff;
+      font-size: 40px;
+      font-family: 'Roboto';
+      @media screen and (max-width: 758px) {
+        font-size: 40px;
+      }
+    }
+
+    .othlo-title {
+      font-size: 80px;
+      color: #212121;
+      @media screen and (max-width: 320px) {
+        font-size: 40px;
+      }
+    }
+  }
+
+
+  .othlo-container {
+    position: relative;
+    bottom: 400px;
+    z-index: 20;
+    margin-bottom: -400px;
+    .othlo-content {
+      padding: 20px;
+
+      & > blockquote {
+        padding: 0;
+        font-size: 16px;
+        border-left: 5px solid #ccc;
+        &:before, &:after { content: '' }
+      }
+      & > p {
+        padding-left: 1em;
+      }
     }
   }
 }

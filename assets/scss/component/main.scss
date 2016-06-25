@@ -1,4 +1,4 @@
-main.main {
+main { 
   .othlo-screen-section {
     padding: 40px 0px;
 
@@ -29,8 +29,8 @@ main.main {
         border: 2px solid #eaeaea;
         border-radius: 50%;
         display: flex;
-	    justify-content: center;
-	    align-items: center;
+	      justify-content: center;
+	      align-items: center;
         
         & > img {
           position: relative;
@@ -40,20 +40,57 @@ main.main {
 
     .othlo-feature__content {
       & > h3 {
-		justify-content: center;
-	    align-items: center;
+		    justify-content: center;
+	      align-items: center;
       	margin-bottom: 5px;
       }
     }
   }
 
-  .othlo-contact-section {
-  	padding: 40px 0px;
-  	background: #fff;
+  .othlo-events-section {
+    background: #ECEFF1;
+    .container {
+      padding: 40px 0px;
+      .mdl-card {
+        width: 100%;
+      }
+      .mdl-card__title {
+        color: #fff;
+        height: 200px;
+      }
+    }
+  }
 
-  	& > p {
-  	  padding: 0px 20px;
-  	}
+  .othlo-images-section {
+    background: #fff;
+    .container {
+      padding: 60px 0;
+    }
+
+    .othlo-images-slider {
+      .othlo-image-container {
+        margin: 0 20px;
+        border-bottom: 1px solid #eee;
+
+        .othlo-image {
+          height: 300px;
+        }
+      }
+    }
+  }
+
+  .othlo-contact-section {
+    padding: 60px 0px;
+    background: #E3F2FD;
+
+    & > p {
+      padding: 0px 20px;
+    }
+
+    .mdl-cell {
+      width: 400px;
+      margin: 20px auto;
+    }
   }
 
 }
