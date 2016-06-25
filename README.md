@@ -18,25 +18,30 @@ npm run gulp
 ```
 
 ### 技術スタック
-サーバーサイド
-* Node.js(v4.4.3)
-  * koa(Web Framework for Node) [参考](http://koajs.com/)
 
-クライアント
-* CSS
-  * SCSS [参考](http://sass-lang.com/)
-  * http://materializecss.com/about.html
-  * BEM [参考](http://blog.ruedap.com/2013/10/29/block-element-modifier)
-  * Material Design Lite [参考](https://getmdl.io/index.html)
-* HTML
-  * ect(テンプレートエンジン) [参考](http://ectjs.com/)
-* JS
-  * jQuery(2系)
-  * es6 [参考](https://github.com/lukehoban/es6features#enhanced-object-literals)
-  * Riot or Vue 検討中
+#### サーバーサイド
 
-タスクランナー
-* Gulp [参考](http://gulpjs.com/)
+##### Node.js(v4.4.3)
+- [koa(Web Framework for Node)](http://koajs.com/)
 
-PaaS
-* Heroku
+#### クライアント
+
+##### CSS
+- [SCSS](http://sass-lang.com/)
+- [BEM](http://blog.ruedap.com/2013/10/29/block-element-modifier)
+- [Material Design Lite](https://getmdl.io/index.html)
+
+##### HTML
+- [ect(テンプレートエンジン)](http://ectjs.com/)
+
+##### JS
+- jQuery(2系)
+- [es6](https://github.com/lukehoban/es6features#enhanced-object-literals)
+- babel
+- Riot or Vue or React 検討中
+
+#### タスクランナー
+- [Gulp](http://gulpjs.com/)
+
+#### PaaS
+- Heroku
