@@ -7,9 +7,13 @@ main {
       max-width: 800px;
       margin: 0 auto;
 
-      & > h2 {
-        margin: 20px;
-        color: #64B5F6;
+      .othlo-desc {
+        margin-bottom: 40px;
+      
+        h2 {
+          margin: 15px;
+          color: #64B5F6;
+        }
       }
     }
   }
