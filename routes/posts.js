@@ -22,7 +22,10 @@ const route = (app) => {
       const date = this.params.date
       const result = date.match(/(\d+)-(\d+)-(\d+)/)
       const dateString = `${result[1]}年${result[2]}月${result[3]}日`
-      const data = Object.assign(opts, {hero: `/images/posts/${date}/top.jpg`, date: dateString})
+      const image = function(file) {
+        return `<img src="/images/posts/${date}/${file}">`
+      }
+      const data = Object.assign(opts, {hero: `/images/posts/${date}/top.jpg`, date: dateString, image: image})
       this.body = renderer.render(`posts/${date}`, data);
     })
 
