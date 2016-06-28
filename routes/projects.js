@@ -10,16 +10,17 @@ const route = (app) => {
     prefix: '/projects'
   })
 
-  let data = {
+  let opts = {
     projects: 'current'
   }
 
   projectsRoute
     .get('/', function* (next) {
-      this.body = renderer.render('projects/index', data);
+      this.body = renderer.render('projects/index', opts);
     })
     .get('/:date', function* (next, id) {
-      this.body = renderer.render('projects/' + this.params.date, data);
+      const data = Object.assign(opts, {hero: `/images/projects/${this.params.date}/top.jpg`})
+      this.body = renderer.render(`projects/${this.params.date}`, data);
     })
 
   app
