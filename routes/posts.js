@@ -18,8 +18,8 @@ const route = (app) => {
     .get('/', function* (next) {
       this.body = renderer.render('posts/index', data);
     })
-    .get('/:id', function* (next, id) {
-      this.body = renderer.render('posts/show', data);
+    .get('/:date', function* (next, id) {
+      this.body = renderer.render('posts/' + this.params.date, data);
     })
 
   app
