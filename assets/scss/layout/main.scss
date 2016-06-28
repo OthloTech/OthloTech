@@ -8,7 +8,6 @@ main {
     background-size: cover;
     z-index: 10;
     position: relative;
-
     text-align: center;
 
     display: -webkit-flex;
@@ -63,7 +62,6 @@ main {
     }
   }
 
-
   .othlo-container {
     position: relative;
     bottom: 400px;
@@ -72,12 +70,6 @@ main {
     .othlo-content {
       padding: 20px;
 
-      & > blockquote {
-        padding: 0;
-        font-size: 16px;
-        border-left: 5px solid #ccc;
-        &:before, &:after { content: '' }
-      }
       & > p {
         padding-left: 1em;
       }
