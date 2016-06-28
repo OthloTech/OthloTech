@@ -75,6 +75,16 @@
     }
   }
 
+  .date {
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: #B2EBF2;
+    color: #424242;
+    font-weight: bold;
+    padding: 10px;
+  }
+
   .image {
     position: relative;
     max-width: 100%;

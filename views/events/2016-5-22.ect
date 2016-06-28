@@ -1,6 +1,7 @@
 <% extend 'layouts/_content_base' %>
 
 <h2>学生LT会@名古屋 ~エンジニア/デザイナー~</h2>
+<span class="date"><%- @date %></span>
 
 <p>
 学生エンジニア/デザイナー向けにアクアリングさんの鶴舞ラボで勉強会を開きました。ハンズオンやセッションやLT枠など初回から盛りだくさんのイベントでした。
@@ -120,7 +121,7 @@
 </p>
 
 <div class="image">
-  <img src="/images/events/5-22/quiz.jpg">
+  <%- @image 'quiz.jpg' %>
   <figcaption>謎解きの様子</figcaption>
 </div>
 
@@ -129,7 +130,7 @@
 <div class="mdl-grid">
   <div class="mdl-cell mdl-cell--4-col mdl-cell-6-col-tablet mdl-cell--12-col-phone">
     <article class="mdl-card mdl-shadow--2dp">
-      <div class="mdl-card__title mdl-card--expand" style="background-image:url('/images/events/5-22/q1.png')">
+      <div class="mdl-card__title mdl-card--expand" style="background-image:url('/images/events/2016-5-22/q1.png')">
       </div>
       <div class="mdl-card__supporting-text quiz_answer">
         <b>Q1. これ何色?</b>
@@ -143,7 +144,7 @@
   </div>
   <div class="mdl-cell mdl-cell--4-col mdl-cell-6-col-tablet mdl-cell--12-col-phone">
     <article class="mdl-card mdl-shadow--2dp">
-      <div class="mdl-card__title mdl-card--expand" style="background-image:url('/images/events/5-22/q2.png')">
+      <div class="mdl-card__title mdl-card--expand" style="background-image:url('/images/events/2016-5-22/q2.png')">
       </div>
       <div class="mdl-card__supporting-text quiz_answer">
         <b>Q2. 違うfontはどれ?</b>
@@ -176,7 +177,7 @@
 <h3>結果発表</h3>
 
 <div class="image">
-  <img src="/images/events/5-22/winner.jpg">
+  <%- @image 'winner.jpg' %>
   <figcaption>おめでとうございました！株式会社hasigoさんからフロントエンドの2016年の新書をいただきました!!</figcaption>
 </div>
 
@@ -186,22 +187,22 @@
 <p>1日お疲れ様でしたってことで、懇親会です！</p>
 
 <div class="image">
-  <img src="/images/events/5-22/gathering0.jpg">
+  <%- @image 'gathering0.jpg' %>
   <figcaption>かんぱ〜い！</figcaption>
 </div>
 
 <div class="image">
-  <img src="/images/events/5-22/gathering1.jpg">
+  <%- @image 'gathering1.jpg' %>
   <figcaption>こんな感じで楽しく話したり</figcaption>
 </div>
 
 <div class="image">
-  <img src="/images/events/5-22/gathering2.jpg">
+  <%- @image 'gathering2.jpg' %>
   <figcaption>無駄に高画質</figcaption>
 </div>
 
 <div class="image">
-  <img src="/images/events/5-22/gathering3.jpg">
+  <%- @image 'gathering3.jpg' %>
 </div>
 
 <!-- /////////////////////////////////////////////////////////// -->

@@ -19,8 +19,14 @@ const route = (app) => {
       this.body = renderer.render('events/index', opts);
     })
     .get('/:date', function* (next, id) {
-      const data = Object.assign(opts, {hero: `/images/events/${this.params.date}/top.jpg`})
-      this.body = renderer.render(`events/${this.params.date}`, data);
+      const date = this.params.date
+      const result = date.match(/(\d+)-(\d+)-(\d+)/)
+      const dateString = `${result[1]}年${result[2]}月${result[3]}日`
+      const image = function(file) {
+        return `<img src="/images/events/${date}/${file}">`
+      }
+      const data = Object.assign(opts, {hero: `/images/events/${date}/top.jpg`, date: dateString, image: image})
+      this.body = renderer.render(`events/${date}`, data);
     })
 
   app
