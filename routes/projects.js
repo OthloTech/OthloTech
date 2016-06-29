@@ -18,12 +18,10 @@ const route = (app) => {
     .get('/', function* (next) {
       this.body = renderer.render('projects/index', opts);
     })
-    .get('/:date', function* (next, id) {
-      const date = this.params.date
-      const result = date.match(/(\d+)-(\d+)-(\d+)/)
-      const dateString = `${result[1]}年${result[2]}月${result[3]}日`
-      const data = Object.assign(opts, {hero: `/images/projects/${date}/top.jpg`, date: dateString})
-      this.body = renderer.render(`projects/${date}`, data);
+    .get('/:p_name', function* (next, id) {
+      const p_name = this.params.p_name
+      const data = Object.assign(opts, {hero: `/images/projects/${p_name}.png`})
+      this.body = renderer.render(`projects/${p_name}`, data);
     })
 
   app
