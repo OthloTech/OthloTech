@@ -1,6 +1,5 @@
 baseurl = 'http://www.othlo.tech'
-title = 'OthloTech'
-# theme = 'hugo-universal-theme'
+title = 'OthloTech -学生クリエイティブ集団-'
 languageCode = 'ja'
 
 # コメント
@@ -43,20 +42,26 @@ paginate = 10
 
 [[params.menu]]
   name = 'EVENTS'
-  url = '/events/'
+  #url = '/events/'
+  url = '/'
   weight = 2
+
+[[params.menu]]
+  name = 'BLOG'
+  url = '/posts/'
+  weight = 3
 
 [[params.menu]]
   #name = 'FAQ'
   #url = '/faq/'
   name = 'ABOUT'
   url = '/about/'
-  weight = 3
+  weight = 4
 
 [[params.menu]]
   name = 'CONTACT'
   url = '/contact/'
-  weight = 4
+  weight = 5
 
 [params.widgets]
   categories = true
@@ -75,7 +80,7 @@ paginate = 10
   enable = true
   # /data/members に格納
   title = 'メンバー'
-  subtitle = 'OthloTechのメンバー'
+  subtitle = ''
 
 [params.testimonials]
   enable = true
