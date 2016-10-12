@@ -1,0 +1,5 @@
+baseurl = 'http://www.othlo.tech'
+languageCode = 'ja'
+title = 'OthloTech'
+googleAnalytics = 'UA-78315006-1'
+email = 'othlotech@gmail.com'
