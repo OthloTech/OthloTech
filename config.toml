@@ -15,9 +15,9 @@ paginate = 10
   author = 'OthloTech'
   email = 'othlotech@gmail.com'
   about_us = '<p>OthloTechは、東海圏のエンジニア・デザイナーを中心とするクリエイティブな学生が集まるコミュニティです。</p>'
-  copyright = 'Copyright (c) 2016 - , OthloTech; all rights reserved.'
+  copyright = '© 2016 OthloTech. All rights reserved. Crafted with love'
   date_format = '2016-01-02'
-  logo = 'images/logo.png'
+  logo = '/images/logo.png'
   address = '''<p><strong>Universal Ltd.</strong>
       <br>13/25 New Avenue
       <br>Newtown upon River
@@ -29,6 +29,9 @@ paginate = 10
     '''
   latitude = '-12.043333'
   longitude = '-77.028333'
+  twitter = 'OthloTech'
+  facebook = 'othlotech'
+  github = 'OthloTech'
 
 [Permalinks]
   blog = '/blog/:year/:month/:day/:filename/'
