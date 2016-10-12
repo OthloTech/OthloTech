@@ -1,6 +1,6 @@
 baseurl = 'http://www.othlo.tech'
 title = 'OthloTech'
-theme = 'hugo-universal-theme'
+# theme = 'hugo-universal-theme'
 languageCode = 'ja'
 
 # コメント
