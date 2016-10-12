@@ -37,12 +37,12 @@ paginate = 10
   blog = '/blog/:year/:month/:day/:filename/'
 
 [[params.menu]]
-  name = 'Home'
+  name = 'HOME'
   url = '/'
   weight = 1
 
 [[params.menu]]
-  name = 'イベント'
+  name = 'EVENTS'
   url = '/events/'
   weight = 2
 
@@ -54,7 +54,7 @@ paginate = 10
   weight = 3
 
 [[params.menu]]
-  name = 'Contact'
+  name = 'CONTACT'
   url = '/contact/'
   weight = 4
 
