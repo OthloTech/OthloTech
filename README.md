@@ -3,45 +3,75 @@
 [OthloTech](www.othlo.tech)の公式サイトです。
 
 ### セットアップ
+[Hugo](https://gohugo.io/)というGO製の静的サイトジェネレーターを使用しています。
+
+`homebrew` 経由でダウンロードする場合は
 
 ```
-npm install
+brew doctor        # homebrew のチェック
+brew update        # homebrew を最新版に
+brew install hugo  # hugo をインストール
 ```
 
-### ビルド
-
-開発用ビルド + 変更の監視
+### サーバーの立ち上げ
 
 ```
-npm run gulp
-# => localhost:8888 が立ち上がります
+hugo server -watch  # 変更を監視して自動リロード
+#=> http://localhost:1313 でアクセス
 ```
+
+### 記事の投稿方法
+#### 1) ブランチを切る
+
+```
+git checkout -b post/xxxx  # post/xxxxというブランチを作成し、そこへ移動
+# 例) git checkout -b post/othlohack2016
+```
+
+#### 2) 記事を生成
+
+```
+hugo new posts/xxxx.md     # content/postsフォルダに xxxx.md というファイルを作成
+# 例) hugo new posts/othlohack2016.md
+```
+
+#### 3) 記事を書く
+2)で生成した記事にマークダウン記法で記事を書く。
+マークダウンの記法は以下のリンクを参照
+[https://help.github.com/categories/writing-on-github/](https://help.github.com/categories/writing-on-github/)
+
+#### 4) 記事をプッシュする
+記事は `masterブランチ` にpushするのではなく、本番に反映前に一度確認を入れたいので、1)で切ったブランチにプッシュします。
+
+```
+git add .
+git commit -m 'OthloHack2016の記事を追加'
+git push origin posts/xxx
+```
+
+#### 5) GitHub上でプルリクを出す
+pushしたのち、GitHub上でプルリクを出す。これをみんながレビューをして、LGTMが3つ以上つけば、責任者がマージをする。
+
 
 ### 技術スタック
 
 #### サーバーサイド
 
-##### Node.js(v4.4.3)
-- [koa(Web Framework for Node)](http://koajs.com/)
+サーバは自前で用意せず、GitHubのホスティングサービスを使用
+- [GitHub Pages](https://pages.github.com/)
 
-#### クライアント
+#### フロントエンド
+
+##### ジェネレーター
+静的サイトジェネレーターにはHugoを使用
+- [Hugo](https://gohugo.io/)
 
 ##### CSS
-- [SCSS](http://sass-lang.com/)
-- [BEM](http://blog.ruedap.com/2013/10/29/block-element-modifier)
-- [Material Design Lite](https://getmdl.io/index.html)
-
-##### HTML
-- [ect(テンプレートエンジン)](http://ectjs.com/)
+- [Bootstrap](http://getbootstrap.com/)
 
 ##### JS
 - jQuery(2系)
-- [es6](https://github.com/lukehoban/es6features#enhanced-object-literals)
-- babel
-- Riot or Vue or React 検討中
 
 #### タスクランナー
+現在は使用していない。
 - [Gulp](http://gulpjs.com/)
-
-#### PaaS
-- Heroku
