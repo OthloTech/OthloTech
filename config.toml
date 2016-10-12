@@ -15,6 +15,7 @@ paginate = 10
   author = 'OthloTech'
   email = 'othlotech@gmail.com'
   about_us = '<p>OthloTechは、東海圏のエンジニア・デザイナーを中心とするクリエイティブな学生が集まるコミュニティです。</p>'
+  copyright = 'Copyright (c) 2016 - , OthloTech; all rights reserved.'
   date_format = '2016-01-02'
   logo = 'images/logo.png'
   address = '''<p><strong>Universal Ltd.</strong>
@@ -65,6 +66,12 @@ paginate = 10
   enable = true
   # /data/features に格納
 
+[params.members]
+  enable = true
+  # /data/members に格納
+  title = 'メンバー'
+  subtitle = 'OthloTechのメンバー'
+
 [params.testimonials]
   enable = true
   # /data/testimonials に格納
@@ -82,7 +89,7 @@ paginate = 10
 [params.clients]
   enable = true
   # /data/clients に格納
-  title = 'メンバー'
+  title = 'プロダクト'
   subtitle = ''
 
 [params.recent_posts]
