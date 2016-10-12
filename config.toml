@@ -47,8 +47,10 @@ paginate = 10
   weight = 2
 
 [[params.menu]]
-  name = 'FAQ'
-  url = '/faq/'
+  #name = 'FAQ'
+  #url = '/faq/'
+  name = 'ABOUT'
+  url = '/about/'
   weight = 3
 
 [[params.menu]]
