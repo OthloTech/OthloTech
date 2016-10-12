@@ -1,5 +1,99 @@
 baseurl = 'http://www.othlo.tech'
-languageCode = 'ja'
 title = 'OthloTech'
+theme = 'hugo-universal-theme'
+languageCode = 'ja'
+
+# コメント
+disqusShortname = 'pokohide'
+# Google Analytics
 googleAnalytics = 'UA-78315006-1'
+# ページネーション
+paginate = 10
+
+[params]
+  viewMorePostLink = '/blog/'
+  author = 'OthloTech'
+  email = 'othlotech@gmail.com'
+  about_us = '<p>OthloTechは、東海圏のエンジニア・デザイナーを中心とするクリエイティブな学生が集まるコミュニティです。</p>'
+  date_format = '2016-01-02'
+  logo = 'images/logo.png'
+  address = '''<p><strong>Universal Ltd.</strong>
+      <br>13/25 New Avenue
+      <br>Newtown upon River
+      <br>45Y 73J
+      <br>England
+      <br>
+      <strong>Great Britain</strong>
+    </p>
+    '''
+  latitude = '-12.043333'
+  longitude = '-77.028333'
+
+[Permalinks]
+  blog = '/blog/:year/:month/:day/:filename/'
+
+[[params.menu]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+
+[[params.menu]]
+  name = 'イベント'
+  url = '/events/'
+  weight = 2
+
+[[params.menu]]
+  name = 'FAQ'
+  url = '/faq/'
+  weight = 3
+
+[[params.menu]]
+  name = 'Contact'
+  url = '/contact/'
+  weight = 4
+
+[params.widgets]
+  categories = true
+  tags = true
+  search = true
+
+[params.carousel]
+  enable = true
+  # /data/carousel に格納
+
+[params.features]
+  enable = true
+  # /data/features に格納
+
+[params.testimonials]
+  enable = true
+  # /data/testimonials に格納
+  title = 'Testimonials'
+  subtitle = 'We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us.'
+
+[params.see_more]
+  enable = true
+  icon = 'fa fa-file-code-o'
+  title = 'もっと見る'
+  subtitle = 'We have prepared for you more than 40 different HTML pages, including 5 variations of homepage.'
+  link_url = '#'
+  link_text = 'Check other homepages'
+
+[params.clients]
+  enable = true
+  # /data/clients に格納
+  title = 'メンバー'
+  subtitle = ''
+
+[params.recent_posts]
+  enable = true
+  title = 'From our Blog'
+  subtitle = 'okokokokok'
+
 email = 'othlotech@gmail.com'
+name = 'OthloTech'
+description = 'OthloTechは、東海圏のエンジニア・デザイナーを中心とするクリエイティブな学生が集まるコミュニティです。'
+homepage = 'http://www.othlo.tech'
+tags = ['OthloTech', '学生', 'クリエイティブ', '名古屋', '勉強会']
+features = ['OthloTech', '学生', 'クリエイティブ', '名古屋', '勉強会']
+min_version = 0.1
