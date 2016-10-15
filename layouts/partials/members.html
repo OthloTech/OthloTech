@@ -1,0 +1,53 @@
+{{ if isset .Site.Params "members" }}
+{{ if .Site.Params.members.enable }}
+{{ if gt (len .Site.Data.members) 0 }}
+<section class="bar background-pentagon no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2>{{ .Site.Params.members.title }}</h2>
+                </div>
+
+                <p class="lead">
+                  {{ .Site.Params.members.subtitle }}
+                </p>
+
+                <!-- *** MEMBERS CAROUSEL *** -->
+
+                <ul class="owl-carousel members same-height-row">
+                    {{ range .Site.Data.members }}
+                    <li class="item">
+                        <div class="member same-height-always">
+                            <div class="text">
+                                <p>{{ .text }}</p>
+                            </div>
+                            <div class="bottom">
+                                <div class="icon"><i class="fa fa-quote-left"></i>
+                                </div>
+                                <div class="name-picture">
+                                    <img class="" alt="" src="{{ .avatar | absURL }}">
+                                    <h5>{{ .name }}</h5>
+                                    <p>{{ .position }}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    {{ end }}
+                </ul>
+                <!-- /.owl-carousel -->
+
+                <div class="text-center">
+                    <a href="{{ .Site.BaseURL }}member/" class="btn btn-template-main">もっと見る</a>
+                </div>
+
+                <!-- *** MEMBERS CAROUSEL END *** -->
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- /.bar -->
+{{ end }}
+{{ end }}
+{{ end }}

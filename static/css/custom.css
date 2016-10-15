@@ -1,0 +1,95 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+
+/* features */
+.features .box-simple .icon {
+  text-align: center;
+  vertical-align: middle;
+}
+.features .box-simple .icon img {
+  display: inline-block;
+  position: relative;
+  top: -3px;
+}
+
+/* sns-shares */
+.sns-shares {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.sns-shares .sns-share {
+  display: inline-block;
+  padding: 10px;
+  line-height: 60px;
+}
+
+/* copyright */
+.copyright {
+  text-align: center;
+}
+
+/* footer */
+#footer {
+  /* background-color: #fff; */
+}
+
+/* logo */
+.home {
+  padding-top: 10px;
+}
+.home .logo {
+  padding: 5px;
+}
+
+/* othlo-member */
+.othlo-member {
+  padding: 10px;
+}
+.othlo-member .member-role {
+  padding: 0;
+  margin: 0;
+}
+.othlo-member .member-univ {
+  padding: 0;
+  margin: 0;
+}
+.othlo-member .member-name {
+  margin: 10px 0;
+}
+.othlo-member .member-social-icons {
+  
+}
+.othlo-member .member-social-icons a {
+  width: 22px;
+  height: 22px;
+  line-height: 22px;
+  vertical-align: middle;
+}
+.othlo-member .member-social-icons i {
+  font-size: 22px;
+  margin: 5px;
+}
+.othlo-member .member-social-icons .twitter {
+  color: #55acee;
+}
+.othlo-member .member-social-icons .facebook {
+  color: #3b5998;
+}
+.othlo-member .member-social-icons .github {
+  color: #333;
+}
+
+
+
