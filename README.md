@@ -52,6 +52,14 @@ git push origin posts/xxx
 #### 5) GitHub上でプルリクを出す
 pushしたのち、GitHub上でプルリクを出す。これをみんながレビューをして、LGTMが3つ以上つけば、責任者がマージをする。
 
+#### 6) 本番に反映(この操作は責任者が実行する)
+
+```
+hugo -d pages  # pagesフォルダコンパイル
+cd pages       # pagesフォルダに移動
+git push origin gh-pages # gh-pagesブランチに反映
+```
+
 
 ### 技術スタック
 

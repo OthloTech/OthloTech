@@ -1,4 +1,5 @@
-baseurl = 'http://www.othlo.tech'
+#baseurl = 'http://www.othlo.tech'
+baseurl = 'https://othlotech.github.io/OthloTech/'
 title = 'OthloTech -学生クリエイティブ集団-'
 languageCode = 'ja'
 
