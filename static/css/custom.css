@@ -1,5 +1,13 @@
 /* your styles go here */
 
+/* header */
+.navbar {
+  box-shadow: 0px 1px 5px #424242;
+}
+header {
+  margin-bottom: 70px;
+}
+
 .box-image-text .image {
   min-height: 200px;
   max-height: 200px;

@@ -73,6 +73,7 @@ git push origin gh-pages # gh-pagesブランチに反映
 ##### ジェネレーター
 静的サイトジェネレーターにはHugoを使用
 - [Hugo](https://gohugo.io/)
+- [Universal-Theme](https://github.com/devcows/hugo-universal-theme)
 
 ##### CSS
 - [Bootstrap](http://getbootstrap.com/)
