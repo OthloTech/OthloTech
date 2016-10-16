@@ -418,6 +418,9 @@ $.fn.alignElementsSameHeight = function () {
   children.innerHeight(maxHeight);
 
     });
+
+/* matchHeight */
+  $('.othlo-member').matchHeight();
 }
 
 $(window).load(function () {
