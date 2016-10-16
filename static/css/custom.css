@@ -9,12 +9,12 @@ header {
 }
 
 .box-image-text .image {
-  min-height: 200px;
-  max-height: 200px;
+  min-height: 150px;
+  max-height: 150px;
 }
 
 .box-simple {
-  min-height: 230px;
+  min-height: 180px;
 }
 
 

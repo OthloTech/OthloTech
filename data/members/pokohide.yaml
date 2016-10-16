@@ -1,16 +1,17 @@
 name: 'ぽこひで'
+full: '酒井 英伸'
 position: 'カタカタ系男子'
 avatar: 'images/members/pokohide.jpg'
 role: 'Engineer'
 univ: '名古屋大学'
-text: '栄スタバでパソコンカタカタしてる系男子です。普段はRuby, JavaScriptを書いているWEB系人間です。'
+text: '栄スタバでパソコンをカタカタしてる系男子です。普段はRuby, JavaScriptを書いているWEB系人間です。PentatonixとかBUMPが好きですよ∩(ﾟ∀ﾟ∩)'
 github: 'hyde2able'
 twitter: 'hyde141421356'
 facebook: 'hidenobu.sakai.119'
-wantedly: '111'
+wantedly: '17813481'
 weight: 1
 
-
+# 使える言語
 ruby: true
 rails: true
 nodejs: true
@@ -19,4 +20,3 @@ css3: true
 coffeescript: true
 jquery: true
 go: true
-
