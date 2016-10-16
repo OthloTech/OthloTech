@@ -4,7 +4,7 @@ title = "OthloEvent#2 @ エイチーム"
 date = "2016-10-15T00:24:57+09:00"
 tags = ["LT会", "イベント", "勉強会"]
 categories = ["プログラミング", "イベント"]
-banner = "images/banners/othloevent2.png"
+banner = "images/banners/othloevent2.jpg"
 +++
 
 ## Introduction
