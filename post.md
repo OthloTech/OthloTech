@@ -18,7 +18,7 @@ hugo new posts/xxxx.md     # content/postsフォルダに xxxx.md というフ�
 
 #### 3) 記事を書く
 2)で生成した記事にマークダウン記法で記事を書く。
-[マークダウン記法](https://github.com/OthloTech/othlotech.github.io/blob/master/markdown.md)を参照してください。
+[マークダウン記法](https://github.com/OthloTech/OthloTech/blob/master/markdown.md)を参照してください。
 
 #### 4) 記事をプッシュする
 記事は `masterブランチ` にpushするのではなく、本番に反映前に一度確認を入れたいので、1)で切ったブランチにプッシュします。

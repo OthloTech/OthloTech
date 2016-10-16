@@ -6,12 +6,6 @@ categories = ["プログラミング", "イベント"]
 banner = "images/banners/othlohack.jpg"
 +++
 
-1. kosamosa
-2. kosamsoa
-
-**okok** bbsamo
-~~oksaoksa~~~ mosmaos
-
 
 Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for
 its template engine. It is an extremely lightweight engine that provides a very
