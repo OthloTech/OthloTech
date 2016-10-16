@@ -9,3 +9,14 @@ twitter: 'hyde141421356'
 facebook: 'hidenobu.sakai.119'
 wantedly: '111'
 weight: 1
+
+
+ruby: true
+rails: true
+nodejs: true
+html5: true
+css3: true
+coffeescript: true
+jquery: true
+go: true
+
