@@ -146,17 +146,30 @@ header {
 /* othlo-member */
 .othlo-member {
   padding: 10px;
+  height: 500px;
 }
 .othlo-member .member-role {
-  padding: 0;
+  text-align: right;
+  padding: 5px;
   margin: 0;
+  font-weight: bold;
 }
 .othlo-member .member-univ {
-  padding: 0;
+  text-align: left;
+  padding: 5px;
   margin: 0;
 }
 .othlo-member .member-name {
-  margin: 10px 0;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  line-height: 1;
+}
+.othlo-member .member-text {
+  height: 80px;
+  font-size: 14px;
+  line-height: 1.5;
+  overflow: hidden;
 }
 .othlo-member .member-social-icons {
   
@@ -181,6 +194,10 @@ header {
   color: #333;
 }
 /* othlo-member programming-languages */
+.othlo-member .devicons {
+  font-size: 16px;
+  color: #666;
+}
 .othlo-member .devicons-java {
 
 }

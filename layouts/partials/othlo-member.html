@@ -24,41 +24,14 @@
             <div class="member-avater">
                 <img src="{{ .avatar | absURL }}" class="img-thumbnail">
             </div>    
-            <p class="member-role">{{ .role }}</p>
-            <p class="member-univ">{{ .univ }}</p>
+            <div class="col-xs-12 col-sm-6" style="padding:0">
+                <p class="member-univ">{{ .univ }}</p>
+            </div>
+            <div class="col-xs-12 col-sm-6" style="padding:0">
+                <p class="member-role">{{ .role }}</p>
+            </div>
             <h3 class="member-name">{{ .name }}</h3>
             <p class="member-text">{{ .text }}</p>
-            <p class="member-social-icons">
-                {{ if isset . "twitter" }}
-                <a href="https://twitter.com/{{ .twitter }}" target="_blank" class="twitter">
-                    <i class ="fa fa-twitter-square"></i>
-                </a>
-                {{ end }}
-
-                {{ if isset . "facebook" }}
-                <a href="https://www.facebook.com/{{ .facebook }}" target="_blank" class="facebook">
-                    <i class="fa fa-facebook-square"></i>
-                </a>
-                {{ end }}
-
-                {{ if isset . "github" }}
-                <a href="https://github.com/{{ .github }}" target="_blank" class="github">
-                    <i class="fa fa-github-square"></i>
-                </a>
-                {{ end }}
-
-                {{ if isset . "wantedly" }}
-<!--                 <a href="https://www.wantedly.com/users/{{ .wantedly }}" target="_blank">
-                    <img src="/images/sns/wantedly.png">
-                </a> -->
-                {{ end }}
-
-                {{ if isset . "homepage" }}
-                <a href="{{ .homepage }}" target="_blank">
-                    <i class="fa fa-home"></i>
-                </a>
-                {{ end }}
-            </p>
             <p class="programming-languages">
                 {{ if isset . "java" }}
                 <i class="devicons devicons-java"></i>
@@ -214,6 +187,38 @@
 
                 {{ if isset . "vim"}}
                 <i class="devicons devicons-vim"></i>
+                {{ end }}
+            </p>
+            
+            <p class="member-social-icons">
+                {{ if isset . "twitter" }}
+                <a href="https://twitter.com/{{ .twitter }}" target="_blank" class="twitter">
+                    <i class ="fa fa-twitter-square"></i>
+                </a>
+                {{ end }}
+
+                {{ if isset . "facebook" }}
+                <a href="https://www.facebook.com/{{ .facebook }}" target="_blank" class="facebook">
+                    <i class="fa fa-facebook-square"></i>
+                </a>
+                {{ end }}
+
+                {{ if isset . "github" }}
+                <a href="https://github.com/{{ .github }}" target="_blank" class="github">
+                    <i class="fa fa-github-square"></i>
+                </a>
+                {{ end }}
+
+                {{ if isset . "wantedly" }}
+<!--                 <a href="https://www.wantedly.com/users/{{ .wantedly }}" target="_blank">
+                    <img src="/images/sns/wantedly.png">
+                </a> -->
+                {{ end }}
+
+                {{ if isset . "homepage" }}
+                <a href="{{ .homepage }}" target="_blank">
+                    <i class="fa fa-home"></i>
+                </a>
                 {{ end }}
             </p>            
         </div>
