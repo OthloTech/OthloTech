@@ -1,6 +1,5 @@
 weight: 1
 title: 'Othlo EVENT'
-#title: "46 HTML pages full of features"
 description: >
   <ul class="list-style-none">
     <li>OthloTechは月に一度のペースで</li>
@@ -10,11 +9,4 @@ description: >
     <li>新しいつながりを</li>
     <li>ここで見つけましょう(*´∀`*)</li>
   </ul>
-# description: >
-#   <ul class="list-style-none">
-#      <li>Sliders and carousels</li>
-#      <li>4 Header variations</li>
-#      <li>Google maps, Forms, Megamenu, CSS3 Animations and much more</li>
-#      <li>+ 11 extra pages showing template features</li>
-#    </ul>
 image: "images/carousel/othlo-event.jpg"

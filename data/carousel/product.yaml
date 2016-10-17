@@ -1,5 +1,4 @@
 weight: 4
-#title: "Easy to customize"
 title: "DEVELOPMENT"
 description: >
   <ul class="list-style-none">
@@ -8,9 +7,4 @@ description: >
     <li>OthloTechでは</li>
     <li>『作りたい』を作ります(･∀･)👍</li>
   </ul>
-# description: >
-#   <ul class="list-style-none">
-#     <li>7 preprepared colour variations.</li>
-#     <li>Easily to change fonts</li>
-#   </ul>
 image: 'images/carousel/product.jpg'
