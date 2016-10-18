@@ -1,0 +1,15 @@
+name: ''
+#full: ''
+position: ''
+avatar: 'images/members/hoge.jpg'
+role: 'Engineer' # or Designer
+univ: ''
+text: ''
+#github: ''
+#twitter: ''
+#facebook: ''
+#wantedly: ''
+weight: 1
+
+#スキル名はここの"CSS Class name"を参照→http://vorillaz.github.io/devicons/#/cheat
+#skillset: [photoshop, ruby_on_rails]

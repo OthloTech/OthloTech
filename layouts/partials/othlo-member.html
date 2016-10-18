@@ -23,7 +23,7 @@
         <div class="col-xs-12 col-sm-6 col-md-3 othlo-member">
             <div class="member-avater">
                 <img src="{{ .avatar | absURL }}" class="img-thumbnail">
-            </div>    
+            </div>
             <p class="member-role">{{ .role }}</p>
             <p class="member-univ">{{ .univ }}</p>
             <h3 class="member-name">{{ .name }}</h3>
@@ -60,162 +60,12 @@
                 {{ end }}
             </p>
             <p class="programming-languages">
-                {{ if isset . "java" }}
-                <i class="devicons devicons-java"></i>
+                {{ if isset . "skillset" }}
+                  {{ range .skillset}}
+                  <i class="devicons devicons-{{ . }}"></i>
+                  {{ end }}
                 {{ end }}
-
-                {{ if isset . "ruby" }}
-                <i class="devicons devicons-ruby"></i>
-                {{ end }}
-
-                {{ if isset . "scala" }}
-                <i class="devicons devicons-scala"></i>
-                {{ end }}
-
-                {{ if isset . "python" }}
-                <i class="devicons devicons-python"></i>
-                {{ end }}
-
-                {{ if isset . "go" }}
-                <i class="devicons devicons-go"></i>
-                {{ end }}
-
-                {{ if isset . "rails" }}
-                <i class="devicons devicons-ruby_on_rails"></i>
-                {{ end }}
-
-                {{ if isset . "django" }}
-                <i class="devicons devicons-django"></i>
-                {{ end }}
-
-                {{ if isset . "php" }}
-                <i class="devicons devicons-php"></i>
-                {{ end }}
-
-                {{ if isset . "mysql" }}
-                <i class="devicons devicons-mysql"></i>
-                {{ end }}
-
-                {{ if isset . "javascript" }}
-                <i class="devicons devicons-javascript"></i>
-                {{ end }}
-
-                {{ if isset . "angular" }}
-                <i class="devicons devicons-angular"></i>
-                {{ end }}
-
-                {{ if isset . "backbone" }}
-                <i class="devicons devicons-backbone"></i>
-                {{ end }}
-
-                {{ if isset . "coffeescript" }}
-                <i class="devicons devicons-coffeescript"></i>
-                {{ end }}
-
-                {{ if isset . "jquery" }}
-                <i class="devicons devicons-jquery"></i>
-                {{ end }}
-
-                {{ if isset . "nodejs" }}
-                <i class="devicons devicons-nodejs_small"></i>
-                {{ end }}
-
-                {{ if isset . "sass" }}
-                <i class='devicons devicons-sass'></i>
-                {{ end }}
-
-                {{ if isset . "css3" }}
-                <i class="devicons devicons-css3"></i>
-                {{ end }}
-
-                {{ if isset . "html5" }}
-                <i class="devicons devicons-html5"></i>
-                {{ end }}
-
-                {{ if isset . "wordpress" }}
-                <i class="devicons devicons-wordpress"></i>
-                {{ end }}
-
-                {{ if isset . "grunt" }}
-                <i class="devicons devicons-grunt"></i>
-                {{ end }}
-
-                {{ if isset . "gulp" }}
-                <i class="devicons devicons-gulp"></i>
-                {{ end }}
-
-                {{ if isset . "windows" }}
-                <i class="devicons devicons-windows"></i>
-                {{ end }}
-
-                {{ if isset . "linux" }}
-                <i class="devicons devicons-linux"></i>
-                {{ end }}
-
-                {{ if isset . "ubuntu" }}
-                <i class="devicons devicons-ubuntu"></i>
-                {{ end }}
-
-                {{ if isset . "android" }}
-                <i class='devicons devicons-android'></i>
-                {{ end }}
-
-                {{ if isset . "apple" }}
-                <i class="devicons devicons-apple"></i>
-                {{ end }}
-
-                {{ if isset . "swift" }}
-                <i class="devicons devicons-swift"></i>
-                {{ end }}
-
-                {{ if isset . "visualstudio" }}
-                <i class="devicons devicons-visualstudio"></i>
-                {{ end }}
-
-                {{ if isset . "atom" }}
-                <i class="devicons devicons-atom"></i>
-                {{ end }}
-
-                {{ if isset . "unity" }}
-                <i class="devicons devicons-unity_small"></i>
-                {{ end }}
-
-                {{ if isset . "haskell" }}
-                <i class="devicons devicons-haskell"></i>
-                {{ end }}
-
-                {{ if isset . "prolog" }}
-                <i class='devicons devicons-prolog'></i>
-                {{ end }}
-
-                {{ if isset . "rust" }}
-                <i class="devicons devicons-rust"></i>
-                {{ end }}
-
-                {{ if isset . "docker" }}
-                <i class="devicons devicons-docker"></i>
-                {{ end }}
-
-                {{ if isset . "erlang" }}
-                <i class="devicons devicons-erlang"></i>
-                {{ end }}
-
-                {{ if isset . "illustrator" }}
-                <i class="devicons devicons-illustrator"></i>
-                {{ end }}
-
-                {{ if isset . "photoshop" }}
-                <i class="devicons devicons-photoshop"></i>
-                {{ end }}
-
-                {{ if isset . "react" }}
-                <i class="devicons devicons-react"></i>
-                {{ end }}
-
-                {{ if isset . "vim"}}
-                <i class="devicons devicons-vim"></i>
-                {{ end }}
-            </p>            
+            </p>
         </div>
         {{ end }}
     </div>
