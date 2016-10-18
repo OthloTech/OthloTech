@@ -5,7 +5,4 @@ role: 'Designer'
 univ: '名古屋市立大学'
 text: 'ライダーです。WEBのデザインしたりコード書いたり。'
 weight: 3
-
-
-illustrator: true
-photoshop: true
+skillset: [illustrator, photoshop]
