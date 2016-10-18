@@ -10,13 +10,4 @@ twitter: 'hyde141421356'
 facebook: 'hidenobu.sakai.119'
 wantedly: '17813481'
 weight: 1
-
-# 使える言語
-ruby: true
-rails: true
-nodejs: true
-html5: true
-css3: true
-coffeescript: true
-jquery: true
-go: true
+skillset: [ruby, ruby_on_rails, nodejs, html5, css3, coffeescript, jquery, go]

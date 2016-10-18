@@ -7,11 +7,4 @@ text: 'iOSアプリとかその他ハック系やってます。IoTLTもやっ�
 github: 'iyuto'
 twitter: 'iyuto_'
 weight: 2
-
-
-swift: true
-apple: true
-nodejs: true
-javascript: true
-mysql: true
-linux: true
+skillset: [swift, apple, nodejs, javascript, mysql, linux]
