@@ -4,7 +4,7 @@ title = 'OthloTech -学生クリエイティブ集団-'
 languageCode = 'ja'
 
 # コメント
-disqusShortname = 'pokohide'
+#disqusShortname = 'pokohide'
 # Google Analytics
 googleAnalytics = 'UA-78315006-1'
 # ページネーション

@@ -34,6 +34,68 @@ header {
   top: -3px;
 }
 
+/* post */
+#blog-post table {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  font-size: 14px;
+  background: #fff;
+  margin: 30px 0;
+  border-collapse: collapse;
+  width: 100%;
+}
+#blog-post table th {
+  font-size: 14px;
+  font-weight: normal;
+  color: #039;
+  padding: 10px 8px;
+  border-bottom: 2px solid #6678b1;
+}
+#blog-post table td {
+  color: #669;
+  padding: 9px 8px 0px 8px;
+}
+#blog-post table tr:hover td {
+  color: #009;
+}
+#blog-post figure {
+  display: inline-block;
+  box-shadow: 0px 0px 20px -5px rgba(0, 0, 0, 0.8);
+  position: relative;
+  width: 80%;
+  min-width: 300px;
+  margin: 50px 0;
+}
+#blog-post figure img {
+  width: 100%;
+  max-width: 100%;
+  position: relative;
+  z-index: 2;
+}
+#blog-post figure figcaption h4, #blog-post figure figcaption p {
+  position: absolute;
+  z-index: 1;
+  opacity: 0;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+#blog-post figure figcaption h4 {
+  bottom: -35px;
+  left: 0;
+  font-size: 18px;
+}
+#blog-post figure figcaption p {
+  bottom: -33px;
+  right: 0;
+}
+#blog-post figure:hover h4 {
+  opacity: 1;
+}
+#blog-post figure:hover p {
+  opacity: 1;
+  -webkit-transition-delay: .3s;
+  transition-delay: .3s;
+}
+
 /* members */
 .members {
   padding: 0;
