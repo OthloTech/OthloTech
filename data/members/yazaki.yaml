@@ -3,9 +3,15 @@ position: 'ドロイド君'
 avatar: 'images/members/iyuto.png'
 role: 'Engineer'
 univ: '名城大学'
-text: '意識高い学生ニート④ Swift, JavaScript, IoT, Wearable, Web, Jailbreak, OthloTech, ドロイド君, 終活'
+text: 'iOSアプリとかその他ハック系やってます。IoTLTもやってます。OthloTech創ったけど春から東京で就職😓'
+github: 'iyuto'
+twitter: 'iyuto_'
 weight: 2
 
 
 swift: true
 apple: true
+nodejs: true
+javascript: true
+mysql: true
+linux: true
