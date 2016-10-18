@@ -147,6 +147,9 @@ header {
 .othlo-member {
   padding: 10px;
 }
+.othlo-member .img-thumbnail {
+  width: 100%;
+}
 .othlo-member .member-role {
   padding: 0;
   margin: 0;
@@ -159,7 +162,7 @@ header {
   margin: 10px 0;
 }
 .othlo-member .member-social-icons {
-  
+
 }
 .othlo-member .member-social-icons a {
   width: 22px;
@@ -242,7 +245,7 @@ header {
 
 }
 .othlo-member .devicons-gulp {
-  
+
 }
 .othlo-member .devicons-windows {
 
@@ -296,5 +299,5 @@ header {
 
 }
 .othlo-member .devicons-vim {
-  
+
 }
