@@ -1,7 +1,18 @@
-name: 'ごまき'
+name: ‘ごまき’
+full: ‘後藤 麻希’
 position: '高専女子'
 avatar: 'images/members/gomaki.jpg'
-role: 'Designer'
+role: '???'
 univ: '名古屋大学'
-text: '溶接とかできる系の文系大学生 多趣味人間 | Nagoya Univ. sis 心理 | 元高専生 | #StartupWeekend | #OthloTech | Web系勉強中です | 名古屋のTech系イベント情報を垂れ流したりします'
+text: ‘せっかく高専から文転したのにまたカチャカチャしてる編入生。制御+組み込み系→Web系勉強中です。大学では社会心理学やってます。’
+github: ‘gmsesame’
+twitter: ‘gmsesame’
+facebook: ‘gmsesame’
+wantedly: '18242689'
 weight: 4
+
+# 使える言語
+c: true
+ruby: true
+html5: true
+css3: true
