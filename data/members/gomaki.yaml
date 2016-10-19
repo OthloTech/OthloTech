@@ -1,13 +1,13 @@
-name: ‘後藤 麻希’
-nickname: ‘ごまき’
+name: '後藤 麻希'
+nickname: 'ごまき'
 position: '高専女子'
 avatar: 'images/members/gomaki.jpg'
 role: '???'
 univ: '名古屋大学'
-text: ‘せっかく高専から文転したのにまたカチャカチャしてる編入生。制御+組み込み系→Web系勉強中です。大学では社会心理学やってます。’
-github: ‘gmsesame’
-twitter: ‘gmsesame’
-facebook: ‘gmsesame’
+text: 'せっかく高専から文転したのにまたカチャカチャしてる編入生。制御+組み込み系→Web系勉強中です。大学では社会心理学やってます。'
+github: 'gmsesame'
+twitter: 'gmsesame'
+facebook: 'gmsesame'
 wantedly: '18242689'
 weight: 4
 skillset: [ruby, html5, css3, c]
