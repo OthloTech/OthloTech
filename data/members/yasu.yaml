@@ -1,0 +1,13 @@
+name: 'yasu'
+full: '後藤 誉昌'
+position: '旅人'
+avatar: 'images/members/yasu.jpeg'
+role: 'Engineer'
+univ: '名古屋工業大学'
+text: 'アプリ量産エンジニヤ'
+github: 'https://github.com/ya-s-u'
+twitter: 'https://twitter.com/ya_s_u'
+facebook: 'https://www.facebook.com/yasuaki.goto.73'
+wantedly: 'https://www.wantedly.com/users/1158406'
+weight: 5
+skillset: [github_badge, appstore, swift, ruby, nodejs]
