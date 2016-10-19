@@ -1,5 +1,5 @@
-name: ‘ごまき’
-full: ‘後藤 麻希’
+name: ‘後藤 麻希’
+nickname: ‘ごまき’
 position: '高専女子'
 avatar: 'images/members/gomaki.jpg'
 role: '???'
@@ -10,9 +10,4 @@ twitter: ‘gmsesame’
 facebook: ‘gmsesame’
 wantedly: '18242689'
 weight: 4
-
-# 使える言語
-c: true
-ruby: true
-html5: true
-css3: true
+skillset: [ruby, html5, css3, c]
