@@ -1,0 +1,14 @@
+name: '加納 辰真'
+nickname: 'たつま'
+position: '理系と文系の狭間'
+avatar: 'images/members/tatsuma.png'
+role: 'Engineer'
+univ: '南山大学'
+text: '最上流工程を学びつつ、コード書いてたりしています。ブロックチェーンが好き。ビットコイン始めたい'
+github: 'Tattsum'
+twitter: 'tatsutasu103'
+facebook: 'profile.php?id=100006345858117'
+#wantedly: ''
+weight: 5
+
+skillset: [ruby, php, nodejs, python, aws, haskell]
