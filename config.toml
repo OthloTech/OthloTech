@@ -32,7 +32,6 @@ hasCJKLanguage = true
 
 [[params.menu]]
   name = 'EVENTS'
-  #url = '/events/'
   url = '/events/'
   weight = 2
 
@@ -74,12 +73,6 @@ hasCJKLanguage = true
   # /data/members に格納
   title = 'メンバー'
   subtitle = ''
-
-[params.testimonials]
-  enable = true
-  # /data/testimonials に格納
-  title = 'Testimonials'
-  subtitle = 'We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us.'
 
 [params.see_more]
   enable = true
