@@ -1,8 +1,12 @@
-name: '中野雄都'
+name: '中野 雄都'
 nickname: 'オトモレ'
-position: 'ウェイジニア'
+position: 'ウェイジニア / 園児near'
 avatar: 'images/members/otomore.jpg'
 role: 'Engineer'
 univ: '愛知工業大学'
-text: 'OthloTechの #ｳｪｲｼﾞﾆｱ AIT/Programming/α6000/GoPro HERO4 BE/Honda Hornet 250/SUBARU IMPREZA WRX STi'
+text: 'goto ｵﾌﾄｩﾝ; // 何故か動かない'
+github: 'otomore'
+twitter: 'otomore01'
+facebook: 'yuto.nakano.545'
+skillset: [html5, css3, javascript, wordpress, apple, raspberry_pi, python, photoshop, illustrator]
 weight: 5
