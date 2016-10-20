@@ -1,11 +1,10 @@
 name: '矢﨑 雄人'
-nickname: 'iyuto'
+nickname: ''
 position: 'ドロイド君'
-avatar: 'images/members/iyuto.png'
+avatar: 'images/members/yazaki.jpg'
 role: 'Engineer'
 univ: '名城大学'
 text: 'iOSアプリとかその他ハック系やってます。IoTLTもやってます。OthloTech創ったけど春から東京で就職😓'
-github: 'iyuto'
-twitter: 'iyuto_'
+facebook: 'yuto.yazaki.1'
 weight: 2
 skillset: [swift, apple, nodejs, javascript, mysql, linux]
