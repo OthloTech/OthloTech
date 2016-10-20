@@ -4,6 +4,9 @@ position: 'ライダー'
 avatar: 'images/members/rider.jpg'
 role: 'Designer'
 univ: '名古屋市立大学'
-text: 'ライダーです。WEBのデザインしたりコード書いたり。'
+text: 'はじめまして、ライダーです。'
+github: 'mtmtkzm'
+twitter: 'mtmtkzm'
+facebook: 'mtmtkzm'
 weight: 3
-skillset: [illustrator, photoshop]
+skillset: [sketch, illustrator, photography, html5, css3, javascript]
