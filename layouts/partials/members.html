@@ -16,7 +16,7 @@
                 <!-- *** MEMBERS CAROUSEL *** -->
 
                 <ul class="owl-carousel members same-height-row">
-                    {{ range .Site.Data.members }}
+                    {{ range sort .Site.Data.members "weight" }}
                     <li class="item">
                         <div class="member same-height-always">
                             <div class="text">
@@ -27,7 +27,7 @@
                                 </div>
                                 <div class="name-picture">
                                     <img class="" alt="" src="{{ .avatar | absURL }}">
-                                    <h5>{{ .name }}</h5>
+                                    <h5>{{ .nickname }}</h5>
                                     <p>{{ .position }}</p>
                                 </div>
                             </div>
