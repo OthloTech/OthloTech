@@ -10,11 +10,11 @@
                 <div class="item">
                     <div class="row">
                         <div class="col-sm-5 right">
-                            <h1>{{ .title }}</h1>
-                            {{ .description | safeHTML }}
+                            <h2>{{ .title }}</h2>
+                            <p class="list-style-none carousel-text">{{ .description | safeHTML }}</p>
                         </div>
                         <div class="col-sm-7 carousel-image-container">
-                            <img class="img-responsive carousel-image" src="{{ .image }}" alt="">
+                            <img class="img-responsive carousel-image" src="{{ .image }}">
                         </div>
                     </div>
                 </div>

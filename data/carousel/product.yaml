@@ -1,10 +1,8 @@
 weight: 4
-title: "DEVELOPMENT"
+title: "Development"
 description: >
-  <ul class="list-style-none">
-    <li>興味本位のサービス、学生ならでは</li>
-    <li>みんなに役立つサービスなど</li>
-    <li>OthloTechでは</li>
-    <li>『作りたい』を作ります(･∀･)👍</li>
-  </ul>
+  興味本位のサービス、学生ならでは<br>
+  みんなに役立つサービスなど<br>
+  OthloTechでは<br>
+  『作りたい』を作ります(･∀･)👍
 image: 'images/carousel/product.jpg'
