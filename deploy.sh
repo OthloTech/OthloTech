@@ -10,4 +10,4 @@ hugo -d pages
 cd pages
 git add .
 git commit -m 'updated by deploy.sh'
-#git push origin gh-pages
+git push origin gh-pages
