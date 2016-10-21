@@ -35,10 +35,10 @@ hasCJKLanguage = true
   url = '/events/'
   weight = 2
 
-[[params.menu]]
-  name = 'BLOG'
-  url = '/posts/'
-  weight = 3
+#[[params.menu]]
+#  name = 'BLOG'
+#  url = '/posts/'
+#  weight = 3
 
 [[params.menu]]
   name = 'MEMBER'
@@ -89,7 +89,7 @@ hasCJKLanguage = true
   subtitle = ''
 
 [params.recent_posts]
-  enable = true
+  enable = false
   title = 'OthloTechの活動ブログ'
   subtitle = '日常的なことや技術的なことを週に一度のペースで書いていきます∩(ﾟ∀ﾟ∩)'
 
