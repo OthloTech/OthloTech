@@ -43,20 +43,20 @@ OthloTechでは、月に一度のペースで勉強会やイベントを、情�
 
 数が多いのでピックアップして紹介(≧∀≦)／
 
-{{< image src="/OthloTech/images/events/5-22/360.jpg" title="360度動画の話" class="aden" >}}
+{{< image src="/images/events/5-22/360.jpg" title="360度動画の話" class="aden" >}}
 
 最近はやりの360度動画のお話。
 360度動画がどういうものなのかから、実際に360度動画が作られてまで話してくれました！
 
 Unityで実装したお話つき
 
-{{< image src="/OthloTech/images/events/5-22/font.jpg" title="フォントのお話" class="aden" >}}
+{{< image src="/images/events/5-22/font.jpg" title="フォントのお話" class="aden" >}}
 
 OthloTech には学生エンジニアだけではなく、学生デザイナーもいますっ！
 
 ということで今回、初LT挑戦でWEBフォントのLTをしてくれましたー。
 
-{{< image src="/OthloTech/images/events/5-22/energy.jpg" title="学生エンジニア・デザイナーのためのエナジードリンクの適切な利用法" class="aden" >}}
+{{< image src="/images/events/5-22/energy.jpg" title="学生エンジニア・デザイナーのためのエナジードリンクの適切な利用法" class="aden" >}}
 
 みなさん適切な方法でエナジードリンク飲んでますか?
 
@@ -66,7 +66,7 @@ OthloTech には学生エンジニアだけではなく、学生デザイナー�
 
 みなさん、途中でセーブしちゃってませんか?
 
-{{< image src="/OthloTech/images/events/5-22/selenium.jpg" title="Seleniumでスクレイピング" class="aden" >}}
+{{< image src="/images/events/5-22/selenium.jpg" title="Seleniumでスクレイピング" class="aden" >}}
 
 シンプルなHTMLパーサーがあればスクレイピングはできる!でも、JavaScriptで非同期な処理のあるサイトにはこれは通用しない。。
 
@@ -82,11 +82,11 @@ WebのテストでもおなじみのSeleniumを用いて、実際にニコ動か
 
 しかも、今回は優勝したチームには...景品付き！　みんな頑張ってました！！
 
-{{< image src="/OthloTech/images/events/5-22/quiz1-1.jpg" title="違うフォントを見つけろ!" class="aden" >}}
+{{< image src="/images/events/5-22/quiz1-1.jpg" title="違うフォントを見つけろ!" class="aden" >}}
 
 デザイナーよりの問題? 違うフォントを見つけろっ!! さっと見つけるチームもあれば苦戦するチームも。。ここはまずまずの勝負でした。
 
-{{< image src="/OthloTech/images/events/5-22/quiz1-2.jpg" title="悩んでる(´･ω･`)" class="aden" >}}
+{{< image src="/images/events/5-22/quiz1-2.jpg" title="悩んでる(´･ω･`)" class="aden" >}}
 
 悩んでるチームもいました。
 
@@ -111,12 +111,12 @@ WebのテストでもおなじみのSeleniumを用いて、実際にニコ動か
 
 <span style='color:#fff'>A</span>
 
-{{< image src="/OthloTech/images/events/5-22/quiz2.jpg" title="ソースを見る問題" class="aden" >}}
+{{< image src="/images/events/5-22/quiz2.jpg" title="ソースを見る問題" class="aden" >}}
 
 最後はソースを見て規則性を見つけて解く感じの問題でした！みんな真剣にソースを読んでて各チームいい感じに盛り上がってました！
 
 
-{{< image src="/OthloTech/images/events/5-22/priz.jpg" title="謎解きの優勝商品" class="aden" >}}
+{{< image src="/images/events/5-22/priz.jpg" title="謎解きの優勝商品" class="aden" >}}
 
 謎解きの優勝商品は今回協賛していただいた株式会社HASHIGOさんから新本の「フロントエンジニアの必須知識」をメンバー全員にいただきました！ありがとうございます(o＾ω＾o)
 
@@ -125,18 +125,18 @@ WebのテストでもおなじみのSeleniumを用いて、実際にニコ動か
 
 勉強終わりは懇親会で参加者同士でだべります！！
 
-{{< image src="/OthloTech/images/events/5-22/social.jpg" title="かんぱーい" class="aden" >}}
+{{< image src="/images/events/5-22/social.jpg" title="かんぱーい" class="aden" >}}
 
 かんぱ〜〜〜〜〜〜〜〜〜〜〜〜〜い！
 こういう時の乾杯の音頭をとるのはとても緊張する。
 
-{{< image src="/OthloTech/images/events/5-22/social2.jpg" title="なんかいい写真" class="aden" >}}
+{{< image src="/images/events/5-22/social2.jpg" title="なんかいい写真" class="aden" >}}
 
 みんな楽しくだべってます！ここから未来を作るサービスが生まれるかもしれない
 
 ### 終わりに
 
-{{< image src="/OthloTech/images/events/5-22/gather.jpg" title="集合写真だよん" class="aden" >}}
+{{< image src="/images/events/5-22/gather.jpg" title="集合写真だよん" class="aden" >}}
 
 解散してから気づいた。集合写真を撮っていないことに。。
 
