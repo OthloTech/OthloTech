@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://www.othlo.tech/</loc>
+    <lastmod>2016-10-15T00:24:57+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/posts/OthloEvent2/</loc>
+    <lastmod>2016-10-15T00:24:57+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/posts/OthloHack2016/</loc>
+    <lastmod>2016-10-13T00:20:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/events/OthloEvent2@%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BC%E3%83%A0/</loc>
+    <lastmod>2016-06-24T00:20:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/member/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/contact/</loc>
+  </url>
+  
+</urlset>
