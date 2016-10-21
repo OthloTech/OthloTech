@@ -977,5 +977,379 @@ so, such as in this example:&lt;/p&gt;
 </description>
     </item>
     
+    <item>
+      <title>学生LT会@名古屋 ~エンジニア/デザイナー~</title>
+      <link>http://www.othlo.tech/events/OthloEvent1@%E5%90%8D%E5%9F%8EShake/</link>
+      <pubDate>Sun, 22 May 2016 00:20:33 +0900</pubDate>
+      
+      <guid>http://www.othlo.tech/events/OthloEvent1@%E5%90%8D%E5%9F%8EShake/</guid>
+      <description>
+
+&lt;h2 id=&#34;学生lt会-名古屋-エンジニア-デザイナー-を開催しました&#34;&gt;学生LT会@名古屋 ~エンジニア/デザイナー~ を開催しました！&lt;/h2&gt;
+
+&lt;p&gt;こんにちは、&lt;a href=&#34;https://twitter.com/hyde141421356&#34;&gt;@pokohide&lt;/a&gt;です。&lt;/p&gt;
+
+&lt;p&gt;5月22日(度)に&lt;a href=&#34;http://othlotech.connpass.com/event/31136/&#34;&gt;学生LT会@名古屋 ~エンジニア/デザイナー~&lt;/a&gt;を開催しました！
+&lt;strong&gt;OthloTech&lt;/strong&gt; の第1回のイベントで名城大学の新キャンパスにあるShakeというスペースで開きました。&lt;/p&gt;
+
+&lt;p&gt;OthloTechでは、月に一度のペースで勉強会やイベントを、情報や知識の共有とともに、その後に懇親会で学生エンジニアもデザイナーもいるんだから、
+何かしら生まれる &lt;strong&gt;きっかけ&lt;/strong&gt; が生まれないたらいいね👍 という思いのもと開催しています！&lt;/p&gt;
+
+&lt;p&gt;この記事では、先日開催されたこのイベントの様子をゆる〜くお伝えします∩(ﾟ∀ﾟ∩).&lt;/p&gt;
+
+&lt;h3 id=&#34;イベント概要&#34;&gt;イベント概要&lt;/h3&gt;
+
+&lt;p&gt;今回のイベントでは前半に学生LT会をやって、後半に自分たちの考えたエンジニアでもデザイナーでも楽しく解けそうな
+謎をグループ対抗しました！&lt;/p&gt;
+
+&lt;h3 id=&#34;タイムライン&#34;&gt;タイムライン&lt;/h3&gt;
+
+&lt;p&gt;当日のLT会のタイムラインはこんな感じでした！&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;LTタイトル&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;発表者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;360度動画の話&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;KohkiNakaji&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;『名古屋スタートアップニュース（仮）』発刊のお知らせ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;若目田大貴&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;penGL ES2.0のすすめorコンピュートシェーダー入門&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;kururu448&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;拡張機能の歴史と標準化&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;@levena_evenas&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Lifelogしたい話&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;yazakiyuto&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;学生エンジニア・デザイナーのためのエナジードリンクの適切な利用法&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;potato4d&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;個人的にAWSの素晴らしさを紹介&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;まるちゃん&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;フォントのお話&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ダブらん&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Seleniumでスクレイピング&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;TeraBytesMemory&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;エンジニアバイトのすゝめ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ya_s_u&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;数が多いのでピックアップして紹介(≧∀≦)／&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/OthloTech/images/events/5-22/360.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;360度動画の話&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;最近はやりの360度動画のお話。
+360度動画がどういうものなのかから、実際に360度動画が作られてまで話してくれました！&lt;/p&gt;
+
+&lt;p&gt;Unityで実装したお話つき&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/OthloTech/images/events/5-22/font.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;フォントのお話&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;OthloTech には学生エンジニアだけではなく、学生デザイナーもいますっ！&lt;/p&gt;
+
+&lt;p&gt;ということで今回、初LT挑戦でWEBフォントのLTをしてくれましたー。&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/OthloTech/images/events/5-22/energy.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;学生エンジニア・デザイナーのためのエナジードリンクの適切な利用法&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;みなさん適切な方法でエナジードリンク飲んでますか?&lt;/p&gt;
+
+&lt;p&gt;なんと関西からわざわざ来てくれた高校生。末恐ろしい((((;´･ω･`)))&lt;/p&gt;
+
+&lt;p&gt;要約すると、燃え尽きるまで飲むもの = エナジードリンク&lt;/p&gt;
+
+&lt;p&gt;みなさん、途中でセーブしちゃってませんか?&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/OthloTech/images/events/5-22/selenium.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Seleniumでスクレイピング&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;シンプルなHTMLパーサーがあればスクレイピングはできる!でも、JavaScriptで非同期な処理のあるサイトにはこれは通用しない。。&lt;/p&gt;
+
+&lt;p&gt;ということで &lt;strong&gt;Selenium&lt;/strong&gt; !!&lt;/p&gt;
+
+&lt;p&gt;WebのテストでもおなじみのSeleniumを用いて、実際にニコ動からコメントを取ってくるところを実践してくれていましたー。動画には性格がでますね(･∀･) ﾆﾔﾆﾔ&lt;/p&gt;
+
+&lt;h3 id=&#34;謎解きクイズ&#34;&gt;謎解きクイズ!!&lt;/h3&gt;
+
+&lt;p&gt;学生エンジニア、デザイナがどっちも楽しめそうなクイズを頑張ってメンバーで考えました。。案外大変だったよ(´･ω･`)
+でも、めちゃ盛り上がったんで報われました👍&lt;/p&gt;
+
+&lt;p&gt;しかも、今回は優勝したチームには&amp;hellip;景品付き！　みんな頑張ってました！！&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/OthloTech/images/events/5-22/quiz1-1.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;違うフォントを見つけろ!&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;デザイナーよりの問題? 違うフォントを見つけろっ!! さっと見つけるチームもあれば苦戦するチームも。。ここはまずまずの勝負でした。&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/OthloTech/images/events/5-22/quiz1-2.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;悩んでる(´･ω･`)&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;悩んでるチームもいました。&lt;/p&gt;
+
+&lt;p&gt;他にも写真を撮り忘れてしまったのですが、WEBフロントエンドでCSSをより、構文的に素晴らしくかける感じの &lt;code&gt;SCSS&lt;/code&gt; を使った問題を出しました。&lt;/p&gt;
+
+&lt;h5 id=&#34;あなたは何色が正解かわかりますか&#34;&gt;あなたは何色が正解かわかりますか?&lt;/h5&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-scss&#34;&gt;.box {
+  background-color: mix(#4A8ECC, #771D32, 15%);
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;div style=&#39;display:inline-block;background-color:#702e49;width:200px;height:200px;text-align:center;&#39;&gt;
+&lt;span style=&#39;font-size:50px;color:#fff&#39;&gt;A&lt;/span&gt;&lt;/div&gt;
+&lt;div style=&#39;display:inline-block;background-color:#6a3f60;width:200px;height:200px;text-align:center;&#39;&gt;
+&lt;span style=&#39;font-size:50px;color:#fff&#39;&gt;B&lt;/span&gt;&lt;/div&gt;
+&lt;div style=&#39;display:inline-block;background-color:#5377ad;width:200px;height:200px;text-align:center;&#39;&gt;
+&lt;span style=&#39;font-size:50px;color:#fff&#39;&gt;C&lt;/span&gt;&lt;/div&gt;
+
+&lt;p&gt;答えはここ⤵︎&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#39;color:#fff&#39;&gt;A&lt;/span&gt;&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/OthloTech/images/events/5-22/quiz2.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;ソースを見る問題&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;最後はソースを見て規則性を見つけて解く感じの問題でした！みんな真剣にソースを読んでて各チームいい感じに盛り上がってました！&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/OthloTech/images/events/5-22/priz.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;謎解きの優勝商品&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;謎解きの優勝商品は今回協賛していただいた株式会社HASHIGOさんから新本の「フロントエンジニアの必須知識」をメンバー全員にいただきました！ありがとうございます(o＾ω＾o)&lt;/p&gt;
+
+&lt;h3 id=&#34;懇親会&#34;&gt;懇親会&lt;/h3&gt;
+
+&lt;p&gt;勉強終わりは懇親会で参加者同士でだべります！！&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/OthloTech/images/events/5-22/social.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;かんぱーい&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;かんぱ〜〜〜〜〜〜〜〜〜〜〜〜〜い！
+こういう時の乾杯の音頭をとるのはとても緊張する。&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/OthloTech/images/events/5-22/social2.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;なんかいい写真&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;みんな楽しくだべってます！ここから未来を作るサービスが生まれるかもしれない&lt;/p&gt;
+
+&lt;h3 id=&#34;終わりに&#34;&gt;終わりに&lt;/h3&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/OthloTech/images/events/5-22/gather.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;集合写真だよん&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;解散してから気づいた。集合写真を撮っていないことに。。&lt;/p&gt;
+
+&lt;p&gt;てなわけで、人数が減った状態で集合写真！本日はありがとうございましたー！&lt;/p&gt;
+
+&lt;p&gt;あなたは気がつきましたか。。?&lt;/p&gt;
+
+&lt;p&gt;隙間から覗く警備員の姿に」」」&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;こんな感じで月一でエンジニア/デザイナー向けの勉強会を開催しています！&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/othlotech&#34;&gt;Twitter&lt;/a&gt;と&lt;a href=&#34;https://www.facebook.com/othlotech/&#34;&gt;Facebook&lt;/a&gt;でイベント情報等を流しているのでフォローやいいね 👍 をしていただけると嬉しいです！！&lt;/p&gt;
+
+&lt;p&gt;協賛していただいた&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;株式会社misoca&lt;/li&gt;
+&lt;li&gt;株式会社ギブリー&lt;/li&gt;
+&lt;li&gt;株式会社ハシゴ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ありがとうございました！！&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
