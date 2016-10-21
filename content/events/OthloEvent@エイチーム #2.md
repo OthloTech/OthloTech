@@ -52,7 +52,7 @@ OthloTechでは、月に一度のペースで勉強会やイベントを、情�
 今、大学でVerilog HDL(ハードウェア記述言語)を書いていますが、最近はArduinoとかRaspberry PiだったりCだったりスクリプト言語だったり
 環境はとても整ってるのでアイデアをどんどん実現していきたいと思うLTでした!!
 
-{{< image src="/OthloTech/images/events/6-24/wami.jpg" title="ハードウェアでできること" class="aden" >}}
+{{< image src="/images/events/6-24/wami.jpg" title="ハードウェアでできること" class="aden" >}}
 
 天気情報や飲食店やいろいろなAPIも豊富ですし、可能性は無限大ですね(･∀･)👍
 
@@ -64,7 +64,7 @@ Neo4jじゃJavaで実装されていて、オープンソースとして公開�
 
 [Neo4j公式](https://neo4j.com/)
 
-{{< image src="/OthloTech/images/events/6-24/hayashi.jpg" title="Neo4jのすゝめ" class="aden" >}}
+{{< image src="/images/events/6-24/hayashi.jpg" title="Neo4jのすゝめ" class="aden" >}}
 
 地下鉄の路線図だったり、有向グラフで表せるものをDBに入れようと思うといろいろ困ると思うのですが、そんな時こそこれ使ってみましょっ！
 最短経路を取得したり、DBとしてもいろいろな使い道があるので使ってみたいと思いました∩(ﾟ∀ﾟ∩)
@@ -86,7 +86,7 @@ Javaで実装されていますが
 
 行動力がすごいっ!!
 
-{{< image src="/OthloTech/images/events/6-24/mami.jpg" title="アメリカのインターンシップを通して学んだこと" class="aden" >}}
+{{< image src="/images/events/6-24/mami.jpg" title="アメリカのインターンシップを通して学んだこと" class="aden" >}}
 
 アメリカで何のつてもなかったけれど、インターンしたいの熱意とやる気でひたすらアタックして初めての学生インターン枠を設けてもらって
 学んできたお話。
@@ -103,7 +103,7 @@ GPGPUっていうのは
 
 らしい!!
 
-{{< image src="/OthloTech/images/events/6-24/kururu.jpg" title="GPGPU入門" class="aden" >}}
+{{< image src="/images/events/6-24/kururu.jpg" title="GPGPU入門" class="aden" >}}
 
 GPUがそもそもCPUに比べて並列処理の長けてて、演算性能が高いから数倍 ~ 100倍以上の速度らしい。
 
@@ -133,12 +133,12 @@ GPGPUを用いると性能が上がるアプリケーションの例として
 滑り台だったり、ボルダリングだったり、超集中できそうな防音の椅子だったり、ブランコだったり、アスレチックだったり。。。
 いろいろあって面白かった!(遊び系しか覚えていない。。)
 
-{{< image src="/OthloTech/images/events/6-24/rider.jpg" title="子供のようにはしゃぐライダー" class="aden" >}}
+{{< image src="/images/events/6-24/rider.jpg" title="子供のようにはしゃぐライダー" class="aden" >}}
 
 ### 楽しかったよ!! 総勢40名!
 
 なんと40名も集まってくれました(\*´∀`\*)
 名古屋の未来は明るいな
 
-{{< image src="/OthloTech/images/events/6-24/gather.jpg" title="集合写真でっせ" class="aden" >}}
+{{< image src="/images/events/6-24/gather.jpg" title="集合写真でっせ" class="aden" >}}
 
