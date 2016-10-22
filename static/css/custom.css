@@ -35,27 +35,78 @@ header {
 }
 
 /* post */
+#blog-post {
+  padding-bottom: 80px;
+}
+
+#blog-post h2 { /* 記事タイトル */
+  font-size: 32px;
+  margin-bottom: 45px;
+  line-height: 1.6em;
+  border-bottom: solid 5px #4fbfa8;
+}
+
+#blog-post h3 {
+  font-size: 24px;
+  padding: 30px;
+  background-color: #eee;
+  border-radius: 10px;
+  margin-top: 50px;
+  letter-spacing: .1em;
+}
+
+#blog-post h4 {
+  font-size: 22px;
+  border-left: 8px solid #4fbfa8;
+  padding: 10px 0 7px 20px;
+  margin-top: 40px;
+  letter-spacing: .05em;
+}
+
+#blog-post h5 {
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+#blog-post h6 {
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+#blog-post p {
+  font-size: 16px;
+  margin-top: 25px;
+  line-height: 1.8em;
+  letter-spacing: .08em;
+}
+
+#blog-post ul {
+  font-size: 16px;
+  margin-top: 25px;
+  letter-spacing: .08em;
+}
+
+#blog-post ul li {
+  margin-top: 5px;
+}
+
+
 #blog-post table {
   font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
-  font-size: 14px;
+  font-size: 16px;
   background: #fff;
   margin: 30px 0;
   border-collapse: collapse;
   width: 100%;
 }
 #blog-post table th {
-  font-size: 14px;
-  font-weight: normal;
-  color: #039;
+  font-size: 16px;
+  font-weight: bold;
   padding: 10px 8px;
-  border-bottom: 2px solid #6678b1;
+  border-bottom: 1px solid #4fbfa8;
 }
 #blog-post table td {
-  color: #669;
-  padding: 9px 8px 0px 8px;
-}
-#blog-post table tr:hover td {
-  color: #009;
+  padding: 10px 8px 3px 8px;
 }
 #blog-post figure {
   display: inline-block;
@@ -79,12 +130,14 @@ header {
   transition: .3s;
 }
 #blog-post figure figcaption h4 {
-  bottom: -35px;
+  bottom: -50px;
   left: 0;
   font-size: 18px;
+  padding-left: 0;
+  border-left: 0;
 }
 #blog-post figure figcaption p {
-  bottom: -33px;
+  bottom: -60px;
   right: 0;
 }
 #blog-post figure:hover h4 {
