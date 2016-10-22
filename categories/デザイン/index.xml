@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OthloTech -学生クリエイティブ集団-</title>
+    <link>http://www.othlo.tech/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/index.xml</link>
+    <description>Recent content on OthloTech -学生クリエイティブ集団-</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
+    <atom:link href="http://www.othlo.tech/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OthloEvent @ Misoca #3</title>
+      <link>http://www.othlo.tech/events/OthloEvent3@Misoca/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/OthloEvent3@Misoca/</guid>
+      <description>
+
+&lt;h2 id=&#34;othloevent-misoca-3-を開催しました&#34;&gt;OthloEvent@Misoca #3 を開催しました！&lt;/h2&gt;
+
+&lt;p&gt;はじめまして、&lt;a href=&#34;https://twitter.com/mtmtkzm&#34;&gt;ライダー&lt;/a&gt;です。&lt;/p&gt;
+
+&lt;p&gt;2016/7/15に開催された&lt;a href=&#34;http://othlotech.connpass.com/event/34943/&#34;&gt;OthloEvent#3&lt;/a&gt;のレポートを書きます！&lt;/p&gt;
+
+&lt;h3 id=&#34;タイムライン&#34;&gt;タイムライン&lt;/h3&gt;
+
+&lt;p&gt;今回のイベントは、学生LTが3本と、株式会社ファントムタイプ 代表取締役の小久保 祐介さんの「Sketch入門」という豪華な詰め合わせでした！！&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;登壇者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;受付開始&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;学生LT(5分)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;卒研でアプリを作った&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;@levena_evenas&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Go言語でGitHub Issuesのビューアを作ったよ〜&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;もうてん&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Sketchは学割で買いましょう😆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ライダー&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Sketch入門&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;小久保 祐介&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;20:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;21:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;完全撤収&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;学生lt&#34;&gt;学生LT&lt;/h3&gt;
+
+&lt;h4 id=&#34;levena-evenas-卒研でアプリを作った&#34;&gt;@levena_evenas「卒研でアプリを作った」&lt;/h4&gt;
+
+&lt;p&gt;コミュニケーションってめっちゃ大切だよっていう話。
+何をするにも土台にあるのに忘れがちだったりしますよね&amp;hellip;！&lt;/p&gt;
+
+&lt;h4 id=&#34;もうてん-go言語でgithub-issuesのビューアを作ったよ&#34;&gt;もうてん「Go言語でGitHub Issuesのビューアを作ったよ〜」&lt;/h4&gt;
+
+&lt;p&gt;デモを見せながらのLT、盛り上がっていましたねー！&lt;/p&gt;
+
+&lt;p&gt;発表資料はこちら &amp;gt; &lt;a href=&#34;http://qiita.com/moutend/items/2365c51d9de35596ee1d&#34;&gt;GoでGitHub Issuesのビューアを作った&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;ライダー-sketchは学割で買いましょう&#34;&gt;ライダー「Sketchは学割で買いましょう😆」&lt;/h4&gt;
+
+&lt;p&gt;僕のLTですね。
+Sketchは学割で半額で購入できるのですが、購入当時それを知らず購入してしまった僕は悔しさのあまりその差額で何ができるのかを話しました。&lt;/p&gt;
+
+&lt;h5 id=&#34;6117円でできること&#34;&gt;6117円でできること&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;高速バスで名古屋 &amp;lt;&amp;ndash;&amp;gt; 東京を往復できる。&lt;/li&gt;
+&lt;li&gt;レッドブル1ヶ月分&lt;/li&gt;
+&lt;li&gt;数万PV（アフィリエイト）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;sketch入門&#34;&gt;Sketch入門&lt;/h3&gt;
+
+&lt;p&gt;この内容でLTしてくださいました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://qiita.com/yusuke_kokubo/items/4e28e1fb66cc34cae2b6&#34;&gt;http://qiita.com/yusuke_kokubo/items/4e28e1fb66cc34cae2b6&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;懇親会&#34;&gt;懇親会&lt;/h3&gt;
+
+&lt;p&gt;大盛況でしたね！&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;キーボード展覧会www &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; 懇親会にて &lt;a href=&#34;https://t.co/4oycR6cOHy&#34;&gt;pic.twitter.com/4oycR6cOHy&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/753931014695714816&#34;&gt;2016年7月15日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;ライブ放送&#34;&gt;ライブ放送&lt;/h4&gt;
+
+&lt;p&gt;そういえば、&lt;a href=&#34;https://twitter.com/otomore01&#34;&gt;オトモレくん&lt;/a&gt;が、自前の通信料でライブ放送をしてくれました。ご覧あれ。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.periscope.tv/w/1mnxekMMzMRGX&#34;&gt;懇親会の模様を見る！&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;おわりに&#34;&gt;おわりに&lt;/h3&gt;
+
+&lt;h4 id=&#34;公式アカウントあります&#34;&gt;公式アカウントあります&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/OthloTech&#34; class=&#34;twitter-follow-button&#34; data-show-count=&#34;true&#34;&gt;Follow @OthloTech&lt;/a&gt;&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;イベントの情報をメインに、ツイートしています。
+OthloTechのTwitter公式アカウントを、フォローお願いします😏&lt;/p&gt;
+
+&lt;p&gt;ご参加いただいた皆様、ご登壇いただいた皆様、会場をお貸しくださったMisoca様、皆様のご協力で大成功のイベントになりました。ありがとうございました！&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/7-15/1.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;集合写真&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h5 id=&#34;おわりに-1&#34;&gt;おわりに&lt;/h5&gt;
+
+&lt;p&gt;この日の写真の自分を見て、髪を切ること決断しました。&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;思い立ったらなんとやら &lt;a href=&#34;https://t.co/NICwvwBRZY&#34;&gt;pic.twitter.com/NICwvwBRZY&lt;/a&gt;&lt;/p&gt;&amp;mdash; ライダー (@mtmtkzm) &lt;a href=&#34;https://twitter.com/mtmtkzm/status/753983890612596736&#34;&gt;2016年7月15日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
