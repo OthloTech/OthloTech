@@ -7,11 +7,11 @@ categories = ["プログラミング", "イベント"]
 banner = "images/banners/events/othlo-event1.png"
 +++
 
-## 学生LT会@名古屋 ~エンジニア/デザイナー~ を開催しました！
+# 学生LT会@名古屋 ~エンジニア/デザイナー~ を開催しました！
 
 こんにちは、[@pokohide](https://twitter.com/hyde141421356)です。
 
-5月22日(度)に[学生LT会@名古屋 ~エンジニア/デザイナー~](http://othlotech.connpass.com/event/31136/)を開催しました！
+5月22日(土)に[学生LT会@名古屋 ~エンジニア/デザイナー~](http://othlotech.connpass.com/event/31136/)を開催しました！
 **OthloTech** の第1回のイベントで名城大学の新キャンパスにあるShakeというスペースで開きました。
 
 OthloTechでは、月に一度のペースで勉強会やイベントを、情報や知識の共有とともに、その後に懇親会で学生エンジニアもデザイナーもいるんだから、
@@ -19,12 +19,12 @@ OthloTechでは、月に一度のペースで勉強会やイベントを、情�
 
 この記事では、先日開催されたこのイベントの様子をゆる〜くお伝えします∩(ﾟ∀ﾟ∩).
 
-### イベント概要
+## イベント概要
 
 今回のイベントでは前半に学生LT会をやって、後半に自分たちの考えたエンジニアでもデザイナーでも楽しく解けそうな
 謎をグループ対抗しました！
 
-### タイムライン
+## タイムライン
 
 当日のLT会のタイムラインはこんな感じでした！
 
@@ -75,7 +75,7 @@ OthloTech には学生エンジニアだけではなく、学生デザイナー�
 WebのテストでもおなじみのSeleniumを用いて、実際にニコ動からコメントを取ってくるところを実践してくれていましたー。動画には性格がでますね(･∀･) ﾆﾔﾆﾔ
 
 
-### 謎解きクイズ!!
+## 謎解きクイズ!!
 
 学生エンジニア、デザイナがどっちも楽しめそうなクイズを頑張ってメンバーで考えました。。案外大変だったよ(´･ω･`)
 でも、めちゃ盛り上がったんで報われました👍
@@ -92,7 +92,7 @@ WebのテストでもおなじみのSeleniumを用いて、実際にニコ動か
 
 他にも写真を撮り忘れてしまったのですが、WEBフロントエンドでCSSをより、構文的に素晴らしくかける感じの `SCSS` を使った問題を出しました。
 
-##### あなたは何色が正解かわかりますか?
+#### あなたは何色が正解かわかりますか?
 
 ```scss
 .box {
@@ -100,16 +100,17 @@ WebのテストでもおなじみのSeleniumを用いて、実際にニコ動か
 }
 ```
 
-<div style='display:inline-block;background-color:#702e49;width:200px;height:200px;text-align:center;'>
-<span style='font-size:50px;color:#fff'>A</span></div>
-<div style='display:inline-block;background-color:#6a3f60;width:200px;height:200px;text-align:center;'>
-<span style='font-size:50px;color:#fff'>B</span></div>
-<div style='display:inline-block;background-color:#5377ad;width:200px;height:200px;text-align:center;'>
-<span style='font-size:50px;color:#fff'>C</span></div>
+<section>
+  <div style='display:inline-block;background-color:#702e49;width:200px;height:200px;text-align:center;'>
+  <span style='font-size:50px;color:#fff'>A</span></div>
+  <div style='display:inline-block;background-color:#6a3f60;width:200px;height:200px;text-align:center;'>
+  <span style='font-size:50px;color:#fff'>B</span></div>
+  <div style='display:inline-block;background-color:#5377ad;width:200px;height:200px;text-align:center;'>
+  <span style='font-size:50px;color:#fff'>C</span></div>
+  <p>答えはここ⤵︎</p>
+  <p style='color:#fff'>A</p>
+</section>
 
-答えはここ⤵︎
-
-<span style='color:#fff'>A</span>
 
 {{< image src="/images/events/5-22/quiz2.jpg" title="ソースを見る問題" class="aden" >}}
 
@@ -121,7 +122,7 @@ WebのテストでもおなじみのSeleniumを用いて、実際にニコ動か
 謎解きの優勝商品は今回協賛していただいた株式会社HASHIGOさんから新本の「フロントエンジニアの必須知識」をメンバー全員にいただきました！ありがとうございます(o＾ω＾o)
 
 
-### 懇親会
+## 懇親会
 
 勉強終わりは懇親会で参加者同士でだべります！！
 
@@ -134,7 +135,7 @@ WebのテストでもおなじみのSeleniumを用いて、実際にニコ動か
 
 みんな楽しくだべってます！ここから未来を作るサービスが生まれるかもしれない
 
-### 終わりに
+## 終わりに
 
 {{< image src="/images/events/5-22/gather.jpg" title="集合写真だよん" class="aden" >}}
 
