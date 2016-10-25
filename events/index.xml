@@ -7,8 +7,231 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Fri, 15 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Sep 2016 00:20:33 +0900</lastBuildDate>
     <atom:link href="http://www.othlo.tech/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OthloEvent @ 名城shake #4</title>
+      <link>http://www.othlo.tech/events/OthloEvent4@%E5%90%8D%E5%9F%8Eshake/</link>
+      <pubDate>Sat, 24 Sep 2016 00:20:33 +0900</pubDate>
+      
+      <guid>http://www.othlo.tech/events/OthloEvent4@%E5%90%8D%E5%9F%8Eshake/</guid>
+      <description>
+
+&lt;h2 id=&#34;othloevent-名城shake-を開催しました&#34;&gt;OthloEvent@名城shake を開催しました！&lt;/h2&gt;
+
+&lt;p&gt;こんにちは〜！　&lt;a href=&#34;https://twitter.com/gmsesame&#34;&gt;@gmsesame&lt;/a&gt;です！！&lt;/p&gt;
+
+&lt;p&gt;大学生の夏休みもそろそろ終わり…だんだん涼しくなってきて、どこか寂しさを感じる時期ですね。&lt;br/&gt;
+みなさんの夏休みはいかがだったでしょうか？&lt;/p&gt;
+
+&lt;p&gt;さて、今回はそんな夏休み終了シーズンの9月24日(土)に名城大学shakeにて開催した「&lt;a href=&#34;http://othlotech.connpass.com/event/38183/&#34; title=&#34;【学生LT大会】OthloEvent@名城shake #4&#34;&gt;【学生LT大会】OthloEvent@名城shake #4&lt;/a&gt;
+」の様子をお伝えしたいと思います(｡･ω･)ﾉﾞ&lt;/p&gt;
+
+&lt;h3 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h3&gt;
+
+&lt;p&gt;今回のイベントの時間割は以下の通り！&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;登壇者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;15:50&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;受付開始&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;16:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;オープニング&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;16:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;LT大会 ~前半~&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;7人&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;routerboard　is GOD&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;evena_evenas&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;MacのBootcampでWindows 10のインストールを自動化&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;moutend&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;10月に名古屋で開催予定のテック系イベントをまとめてみた&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;わかめだ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;名古屋に来て半年で友達300人つくった話&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;gmsesame&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;開発中アプリのご紹介&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;渡辺稜太&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ぽこひで戦記 ~第2章 成長の刻~&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ぽこひで&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Webデザインの配色&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ちーず&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;17:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;LT大会 ~後半~&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;8人&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;セキュリティキャンプ実施報告(仮)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;KageShiron&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Mac標準プレビュー.appを使い倒す&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ライダー&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ポケモンGOのあそびかた&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;@iyuto_&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;KubernetesではじめてのDocker管理に挑戦した話（仮）&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Katsuaki Takagi&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;【体験記】２週間ドワンゴのエンジニアに囲まれてみた&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;祖父江 亮&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Arduino programming in Haskell&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;くぅ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;人工秘書を作りたい&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;野村&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;エンジニアの住処&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Tatsu10&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;自由解散&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;イベントの様子&#34;&gt;イベントの様子&lt;/h3&gt;
+
+&lt;p&gt;土曜日開催！そしてゆったり16:00スタート！&lt;br/&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/9-24/opening.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;オープニングトーク！&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;OthloTech代表・ぽこひで(&lt;a href=&#34;https://twitter.com/hyde141421356&#34;&gt;@pokohide&lt;/a&gt;)による挨拶が終了した後、いよいよ参加者１５人全員によるLT大会がスタートしました。&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/9-24/riderLT.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;ライダーさんのLTの様子&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;みんな思い思いに自分の興味のある分野や夏休みのインターン経験についてLTしていました。&lt;br/&gt;
+ 全員分の詳しいLT内容については、&lt;a href=&#34;https://nagoyastartupnews.com/%E6%9D%B1%E6%B5%B7%E3%81%AE%E5%AD%A6%E7%94%9F%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E9%9B%86%E5%9B%A3%E3%81%8C%E3%82%A2%E3%83%84%E3%81%84-othlotech-%E3%81%AE%E5%AD%A6%E7%94%9Flt%E5%A4%A7%E4%BC%9A-%E5%90%8D%E5%9F%8Eshake-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88-b1cf7ba0c2fa#.ys0ig8e2j&#34; title=&#34;参加者全員登壇！？OthloTech主催の学生LT大会@名城shake レポート -NagoyaStartupNews&#34;&gt;NagoyaStartupNews&lt;/a&gt;にも掲載されているので、ぜひご覧ください(&amp;lsquo;-&amp;rsquo;*)&lt;/p&gt;
+
+&lt;p&gt;全員LT会の後は、懇親会でお菓子を食べながらワイワイしつつ…&lt;br/&gt;
+参加者投票で人気の高かったLT者に、素敵なプレゼントを贈呈(＇ｰ＇)&lt;/p&gt;
+
+&lt;h3 id=&#34;お疲れ様でした-0&#34;&gt;お疲れ様でした(^0^)/&lt;/h3&gt;
+
+&lt;p&gt;9月も無事にイベントを開催することができました！&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;次回のOthloEventもお楽しみに〜。&lt;/p&gt;
+
+&lt;h3 id=&#34;ちなみに&#34;&gt;ちなみに…&lt;/h3&gt;
+
+&lt;p&gt;メンバーである &lt;a href=&#34;https://twitter.com/mtmtkzm&#34;&gt;@mtmtkzm&lt;/a&gt; がこのLT大会で発表した&lt;a href=&#34;http://qiita.com/mtmtkzm/items/160d5bac95d4d4aaea0e&#34; title=&#34;Mac標準「プレビュー」の意外と知られていないTips&#34;&gt;Mac標準「プレビュー」の意外と知られていないTips&lt;/a&gt;がバズりました！！
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;ストックもPVも大台乗った感じある。ソーシャル系も結構いい感じで嬉しー &lt;a href=&#34;https://t.co/emg9WBnHA3&#34;&gt;pic.twitter.com/emg9WBnHA3&lt;/a&gt;&lt;/p&gt;&amp;mdash; ライダー (@mtmtkzm) &lt;a href=&#34;https://twitter.com/mtmtkzm/status/782977260135428096&#34;&gt;October 3, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;ぜひご確認くださいヾ(￣ω￣〃)ﾉ&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>OthloEvent @ Misoca #3</title>
