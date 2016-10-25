@@ -2,7 +2,7 @@
 slug = 'Hugo+github_pages'
 title = 'Hugo+GithubPagesでサイトをリニューアル'
 date = "2016-10-23T02:45:17+09:00"
-categories = ['プログラミング', 'GitHub']
+categories = ['技術ブログ']
 tags = ['GitHub', 'HTML', 'CSS', 'hugo']
 banner = 'images/banners/posts/hugo.png'
 +++
@@ -59,6 +59,8 @@ http://themes.gohugo.io/
 静的ページ、静的コンテンツのみを公開できるので`Node.js`や`PHP`などで動的ページの生成などはできません。
 
 あと無料∩(ﾟ∀ﾟ∩)
+
+詳細は[本家](https://github.com/blog/2228-simpler-github-pages-publishing)を参照してください。
 
 ## サイトつくろー
 
