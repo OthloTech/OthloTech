@@ -1,7 +1,13 @@
 baseurl = 'http://www.othlo.tech/'
-#baseurl = 'https://othlotech.github.io/OthloTech/'
 title = 'OthloTech -学生クリエイティブ集団-'
 languageCode = 'ja'
+email = 'othlotech@gmail.com'
+name = 'OthloTech'
+description = 'OthloTechは学生クリエイティブ集団です。興味本位のサービスやみんなに役立つサービスなどOthloTechでは『作りたい』を作ります。みんなで楽しく開発しながらスキルアップしましょう！'
+homepage = 'http://www.othlo.tech'
+tags = ['OthloTech', '学生', 'クリエイティブ', '名古屋', '勉強会']
+features = ['OthloTech', '学生', 'クリエイティブ', '名古屋', '勉強会']
+min_version = 0.1
 
 # Google Analytics
 googleAnalytics = 'UA-78315006-1'
@@ -21,6 +27,8 @@ hasCJKLanguage = true
   twitter = 'OthloTech'
   facebook = 'othlotech'
   github = 'OthloTech'
+  thumbnail = 'http://i.imgur.com/yz4YXSD.jpg'
+  keywords = 'OthloTech, 学生, クリエイティブ, 名古屋, 勉強会'
 
 [Permalinks]
   blog = '/blog/:year/:month/:day/:filename/'
@@ -92,11 +100,3 @@ hasCJKLanguage = true
   enable = false
   title = 'OthloTechの活動ブログ'
   subtitle = '日常的なことや技術的なことを週に一度のペースで書いていきます∩(ﾟ∀ﾟ∩)'
-
-email = 'othlotech@gmail.com'
-name = 'OthloTech'
-description = 'OthloTechは、東海圏のエンジニア・デザイナーを中心とするクリエイティブな学生が集まるコミュニティです。'
-homepage = 'http://www.othlo.tech'
-tags = ['OthloTech', '学生', 'クリエイティブ', '名古屋', '勉強会']
-features = ['OthloTech', '学生', 'クリエイティブ', '名古屋', '勉強会']
-min_version = 0.1
