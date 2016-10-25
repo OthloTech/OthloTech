@@ -27,7 +27,6 @@ banner = "images/banners/events/othlo-event4.png"
 |15:50|受付開始||
 |16:00|オープニング||
 |16:10|LT大会 ~前半~ |7人||
-<<<<<<< HEAD
 |-|routerboard　is GOD|evena_evenas|
 |-|MacのBootcampでWindows 10のインストールを自動化|moutend|
 |-|10月に名古屋で開催予定のテック系イベントをまとめてみた|わかめだ|
