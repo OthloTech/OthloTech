@@ -420,6 +420,7 @@ $.fn.alignElementsSameHeight = function () {
     });
 
 /* matchHeight */
+  $('.member-text').matchHeight();
   $('.othlo-member').matchHeight();
 }
 
