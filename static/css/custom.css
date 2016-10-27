@@ -474,3 +474,32 @@ header {
 .othlo-member .devicons-vim {
 
 }
+
+/* sidebar share */
+ul.share-buttons {
+  margin-bottom: 20px;
+  color: rgb(126, 126, 126);
+  display: block;
+  font-family: 'Open Sans',Tahoma, Verdana, Arial, sans-serif, Faruma, Faseyha;
+  font-size: 14px;
+  font-weight: normal;
+  height: auto;
+  line-height: 32px;
+  margin-bottom: 20px;
+  width: 100%;
+  height: 32px;
+  text-align: center;
+  list-style: none;
+  padding: 0;
+}
+ul.share-buttons li {
+  display: inline;
+}
+ul.share-buttons img {
+  width: 32px;
+  margin-left: 5px;
+}
+ul.share-buttons .hatebu img {
+  width: 40px;
+  margin-left: 3px;
+}
