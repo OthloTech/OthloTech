@@ -20,14 +20,14 @@
         </div>
 
         {{ range sort .Site.Data.members "weight" }}
-        <div class="col-xs-12 col-sm-6 col-md-3 othlo-member">
+        <div class="col-xs-6 col-sm-6 col-md-3 othlo-member">
             <div class="member-avater">
                 <img src="{{ .avatar | absURL }}" class="img-thumbnail">
-            </div>    
-            <div class="col-xs-12 col-sm-6" style="padding:0">
+            </div>
+            <div class="col-xs-8 col-sm-6" style="padding:0">
                 <p class="member-univ">{{ .univ }}</p>
             </div>
-            <div class="col-xs-12 col-sm-6" style="padding:0">
+            <div class="col-xs-4 col-sm-6" style="padding:0">
                 <p class="member-role">{{ .role }}</p>
             </div>
             <h3 class="member-name">{{ .name }}</h3>
@@ -39,7 +39,7 @@
                   {{ end }}
                 {{ end }}
             </p>
-            
+
             <p class="member-social-icons">
                 {{ if isset . "twitter" }}
                 <a href="https://twitter.com/{{ .twitter }}" target="_blank" class="twitter">
