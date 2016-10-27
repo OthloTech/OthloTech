@@ -1,0 +1,27 @@
+{{ if isset .Site.Params.widgets "share" }}
+{{ if .Site.Params.widgets.share }}
+<div class="panel panel-default sidebar-menu">
+    
+    <div class="panel-heading">
+        <h3 class="panel-title">Share</h3>
+    </div>
+
+    <div class="panel-body">
+        <div class="social-share-area">
+            <ul class="social-shares">
+                <li class="twitter">
+                    <a class="twitter-share-button" href="https://twitter.com/share?url={{ .Permalink }}&text={{ .Params.title }}&hashtags={{ .Site.Params.twitter }}&related={{ .Site.Params.twitter }}" target="_blank"><i class="fa fa-twitter"></i>Tweet</a>
+                </li>
+
+                <li class="facebook">
+                    <a class="facebook-share-button" href="http://www.facebook.com/share.php?u={{ .Permalink }}" onclick="window.open(this.href, 'FBwindow', 'width=650, height450, menubar=no, toolbar=no, scrollbrs=yes');return false;"><i class="fa fa-facebook"></i>Facebook</a>
+                </li>
+
+                <li class="hatena">
+                    <a class="hatena-share-button" href="http://b.hatena.ne.jp/add?mode=confirm&url={{ .Permalink }}&title={{ .Params.title }}">はてブ</a>
+                </li>
+        </div>
+    </div>
+</div>
+{{ end }}
+{{ end }}
