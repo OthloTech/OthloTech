@@ -1,0 +1,12 @@
+name: '寺澤 友治朗'
+nickname: 'TeraBytes'
+position: '院生'
+avatar: 'images/members/terabytes.jpg'
+role: 'Engineer'
+univ: '名古屋工業大学'
+text: 'サイクリングが趣味です。'
+github: 'TeraBytesMemory'
+twitter: 'TeraBytesMemory'
+facebook: 'yujiro.terazawa'
+weight: 12
+skillset: [python,html5,css3,javascript,ruby]
