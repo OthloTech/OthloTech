@@ -301,7 +301,6 @@ header {
 /* othlo-member */
 .othlo-member {
   padding: 10px;
-  height: 500px;
 }
 .othlo-member .img-thumbnail {
   width: 100%;
@@ -325,7 +324,7 @@ header {
   line-height: 1;
 }
 .othlo-member .member-text {
-  height: 80px;
+  min-height: 80px;
   font-size: 14px;
   line-height: 1.5;
   overflow: hidden;
