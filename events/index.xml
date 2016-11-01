@@ -7,7 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
-<<<<<<< HEAD
     <lastBuildDate>Mon, 24 Oct 2016 23:13:51 +0900</lastBuildDate>
     <atom:link href="http://www.othlo.tech/events/index.xml" rel="self" type="application/rss+xml" />
     
@@ -690,12 +689,6 @@
     </item>
     
     <item>
-=======
-    <lastBuildDate>Sat, 24 Sep 2016 00:20:33 +0900</lastBuildDate>
-    <atom:link href="http://www.othlo.tech/events/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
->>>>>>> da69ff7ddf9395b4c5952bef1a71f2667631fcb0
       <title>OthloEvent @ 名城shake #4</title>
       <link>http://www.othlo.tech/events/OthloEvent4@%E5%90%8D%E5%9F%8Eshake/</link>
       <pubDate>Sat, 24 Sep 2016 00:20:33 +0900</pubDate>
