@@ -10,6 +10,367 @@
     <atom:link href="http://www.othlo.tech/tags/othloevent/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>OthloEvent @ Goodfind #5</title>
+      <link>http://www.othlo.tech/events/OthloEvent5@Goodfind/</link>
+      <pubDate>Sat, 29 Oct 2016 00:20:33 +0900</pubDate>
+      
+      <guid>http://www.othlo.tech/events/OthloEvent5@Goodfind/</guid>
+      <description>
+
+&lt;h2 id=&#34;othloevent-goodfind-5&#34;&gt;OthloEvent @ Goodfind #5&lt;/h2&gt;
+
+&lt;p&gt;こんにちは〜！ごまき(&lt;a href=&#34;https://twitter.com/gmsesame&#34;&gt;@gmsesame&lt;/a&gt;)です。&lt;/p&gt;
+
+&lt;p&gt;最近、いきなり寒くなりましたね(ﾉ_･｡) 冬の訪れを感じます。&lt;br/&gt;
+みなさん、風邪をひかないように気をつけてくださいね…!!&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;さて、10月29日(土)に５回目となるOthloEvents&lt;a href=&#34;http://othlotech.connpass.com/event/42511/&#34;&gt;【Rails初心者向け】OthloEvent@Goodfind #5&lt;/a&gt;をOpenVillageにて開催しました(&amp;lsquo;-&amp;rsquo;*)&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;今回は、Goodfindさんとのコラボイベント！&lt;br/&gt;
+東京・京都と開催されたProgramming Bootcamp「Ruby on Railsを極める1Day Camp」がついに名古屋にやってきましたヽ(‘ ∇‘ )ノ&lt;br/&gt;
+この記事では、その様子をレポートします！&lt;br/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h3&gt;
+
+&lt;p&gt;今回のイベントの時間割は以下の通り！&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;詳細&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;11:00 - 12:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;イントロダクション&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;環境構築と使用するツールの説明&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:00 - 15:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ruby on Railsの基本と実装&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;レコードの取得／登録／更新／削除&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;15:10 - 17:45&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ruby on Railsの実装&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;アソシエーションによる複数テーブルの処理&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:00 - 19:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ruby on Rails 応用編&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Gemを使った実装&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:00 -&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;bootcampの様子&#34;&gt;BootCampの様子！&lt;/h3&gt;
+
+&lt;p&gt;Goodfindさんのエンジニアによる講義。分かりやすい〜！と好評でした(&amp;lsquo;-&amp;rsquo;*)&lt;br/&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/bootcamp01.JPG&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;みんな集中！&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;みんな集中してもくもくと、でもわからないところはちゃんとメンターさんや近くの友達に聞いて取り組んでいました。&lt;br/&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/bootcamp02.JPG&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;時には友達とわいわい&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;懇親会&#34;&gt;懇親会！&lt;/h3&gt;
+
+&lt;p&gt;頭を使った後はお待ちかねの懇親会！ヘ(^∇^ヘ)ヘ(^∇^ヘ) ｳﾋｮﾋｮ&lt;br/&gt;
+みんな和気藹々とおしゃべりしていました〜。
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/afterparty.JPG&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;お疲れ〜！&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;お疲れ様でした&#34;&gt;お疲れ様でした！&lt;/h3&gt;
+
+&lt;p&gt;次回のOthloEventは、なんと！メ〜テレさんとのコラボイベントですw(ﾟoﾟ)w ｵｵｰ!&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;11月15日(火)、19:00より開催します。放課後、メ〜テレにGO！&lt;/p&gt;
+
+&lt;p&gt;詳細は&lt;a href=&#34;http://othlotech.connpass.com/event/43598/&#34;&gt;Connpass&lt;/a&gt;を見てくださいね！&lt;/p&gt;
+
+&lt;p&gt;それでは〜(*￣▽￣)ﾉ&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OthloEvent @ 名城shake #4</title>
+      <link>http://www.othlo.tech/events/OthloEvent4@%E5%90%8D%E5%9F%8Eshake/</link>
+      <pubDate>Sat, 24 Sep 2016 00:20:33 +0900</pubDate>
+      
+      <guid>http://www.othlo.tech/events/OthloEvent4@%E5%90%8D%E5%9F%8Eshake/</guid>
+      <description>
+
+&lt;h2 id=&#34;othloevent-名城shake-を開催しました&#34;&gt;OthloEvent@名城shake を開催しました！&lt;/h2&gt;
+
+&lt;p&gt;こんにちは〜！　&lt;a href=&#34;https://twitter.com/gmsesame&#34;&gt;@gmsesame&lt;/a&gt;です！！&lt;/p&gt;
+
+&lt;p&gt;大学生の夏休みもそろそろ終わり…だんだん涼しくなってきて、どこか寂しさを感じる時期ですね。&lt;br/&gt;
+みなさんの夏休みはいかがだったでしょうか？&lt;/p&gt;
+
+&lt;p&gt;さて、今回はそんな夏休み終了シーズンの9月24日(土)に名城大学shakeにて開催した「&lt;a href=&#34;http://othlotech.connpass.com/event/38183/&#34; title=&#34;【学生LT大会】OthloEvent@名城shake #4&#34;&gt;【学生LT大会】OthloEvent@名城shake #4&lt;/a&gt;
+」の様子をお伝えしたいと思います(｡･ω･)ﾉﾞ&lt;/p&gt;
+
+&lt;h3 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h3&gt;
+
+&lt;p&gt;今回のイベントの時間割は以下の通り！&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;登壇者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;15:50&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;受付開始&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;16:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;オープニング&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;16:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;LT大会 ~前半~&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;7人&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;routerboard　is GOD&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;evena_evenas&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;MacのBootcampでWindows 10のインストールを自動化&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;moutend&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;10月に名古屋で開催予定のテック系イベントをまとめてみた&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;わかめだ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;名古屋に来て半年で友達300人つくった話&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;gmsesame&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;開発中アプリのご紹介&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;渡辺稜太&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ぽこひで戦記 ~第2章 成長の刻~&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ぽこひで&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Webデザインの配色&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ちーず&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;17:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;LT大会 ~後半~&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;8人&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;セキュリティキャンプ実施報告(仮)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;KageShiron&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Mac標準プレビュー.appを使い倒す&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ライダー&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ポケモンGOのあそびかた&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;@iyuto_&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;KubernetesではじめてのDocker管理に挑戦した話（仮）&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Katsuaki Takagi&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;【体験記】２週間ドワンゴのエンジニアに囲まれてみた&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;祖父江 亮&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Arduino programming in Haskell&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;くぅ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;人工秘書を作りたい&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;野村&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;エンジニアの住処&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Tatsu10&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;自由解散&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;イベントの様子&#34;&gt;イベントの様子&lt;/h3&gt;
+
+&lt;p&gt;土曜日開催！そしてゆったり16:00スタート！&lt;br/&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/9-24/opening.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;オープニングトーク！&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;OthloTech代表・ぽこひで(&lt;a href=&#34;https://twitter.com/hyde141421356&#34;&gt;@pokohide&lt;/a&gt;)による挨拶が終了した後、いよいよ参加者１５人全員によるLT大会がスタートしました。&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/9-24/riderLT.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;ライダーさんのLTの様子&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;みんな思い思いに自分の興味のある分野や夏休みのインターン経験についてLTしていました。&lt;br/&gt;
+ 全員分の詳しいLT内容については、&lt;a href=&#34;https://nagoyastartupnews.com/%E6%9D%B1%E6%B5%B7%E3%81%AE%E5%AD%A6%E7%94%9F%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E9%9B%86%E5%9B%A3%E3%81%8C%E3%82%A2%E3%83%84%E3%81%84-othlotech-%E3%81%AE%E5%AD%A6%E7%94%9Flt%E5%A4%A7%E4%BC%9A-%E5%90%8D%E5%9F%8Eshake-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88-b1cf7ba0c2fa#.ys0ig8e2j&#34; title=&#34;参加者全員登壇！？OthloTech主催の学生LT大会@名城shake レポート -NagoyaStartupNews&#34;&gt;NagoyaStartupNews&lt;/a&gt;にも掲載されているので、ぜひご覧ください(&amp;lsquo;-&amp;rsquo;*)&lt;/p&gt;
+
+&lt;p&gt;全員LT会の後は、懇親会でお菓子を食べながらワイワイしつつ…&lt;br/&gt;
+参加者投票で人気の高かったLT者に、素敵なプレゼントを贈呈(＇ｰ＇)&lt;/p&gt;
+
+&lt;h3 id=&#34;お疲れ様でした-0&#34;&gt;お疲れ様でした(^0^)/&lt;/h3&gt;
+
+&lt;p&gt;9月も無事にイベントを開催することができました！&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;次回のOthloEventもお楽しみに〜。&lt;/p&gt;
+
+&lt;h3 id=&#34;ちなみに&#34;&gt;ちなみに…&lt;/h3&gt;
+
+&lt;p&gt;メンバーである &lt;a href=&#34;https://twitter.com/mtmtkzm&#34;&gt;@mtmtkzm&lt;/a&gt; がこのLT大会で発表した&lt;a href=&#34;http://qiita.com/mtmtkzm/items/160d5bac95d4d4aaea0e&#34; title=&#34;Mac標準「プレビュー」の意外と知られていないTips&#34;&gt;Mac標準「プレビュー」の意外と知られていないTips&lt;/a&gt;がバズりました！！
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;ストックもPVも大台乗った感じある。ソーシャル系も結構いい感じで嬉しー &lt;a href=&#34;https://t.co/emg9WBnHA3&#34;&gt;pic.twitter.com/emg9WBnHA3&lt;/a&gt;&lt;/p&gt;&amp;mdash; ライダー (@mtmtkzm) &lt;a href=&#34;https://twitter.com/mtmtkzm/status/782977260135428096&#34;&gt;October 3, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;ぜひご確認くださいヾ(￣ω￣〃)ﾉ&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>OthloEvent @ Misoca #3</title>
       <link>http://www.othlo.tech/events/OthloEvent3@Misoca/</link>
       <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
@@ -179,7 +540,7 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
       <guid>http://www.othlo.tech/events/OthloEvent2@%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BC%E3%83%A0/</guid>
       <description>
 
-&lt;h2 id=&#34;othloevent-エイチーム-を開催しました&#34;&gt;OthloEvent @ エイチーム を開催しました！&lt;/h2&gt;
+&lt;h1 id=&#34;othloevent-エイチーム-を開催しました&#34;&gt;OthloEvent @ エイチーム を開催しました！&lt;/h1&gt;
 
 &lt;p&gt;こんにちは、&lt;a href=&#34;https://twitter.com/hyde141421356&#34;&gt;@pokohide&lt;/a&gt;です。&lt;/p&gt;
 
@@ -191,7 +552,7 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
 
 &lt;p&gt;この記事では、先日開催されたこのイベントの様子をゆる〜くお伝えします∩(ﾟ∀ﾟ∩).&lt;/p&gt;
 
-&lt;h3 id=&#34;タイムライン&#34;&gt;タイムライン&lt;/h3&gt;
+&lt;h2 id=&#34;タイムライン&#34;&gt;タイムライン&lt;/h2&gt;
 
 &lt;p&gt;イベントの内容は以下のようになっています。&lt;/p&gt;
 
@@ -291,11 +652,11 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 id=&#34;学生lt枠&#34;&gt;学生LT枠&lt;/h3&gt;
+&lt;h2 id=&#34;学生lt枠&#34;&gt;学生LT枠&lt;/h2&gt;
 
 &lt;p&gt;イベントの参加学生4人にも持ち時間5分でLTをしていただきました！&lt;/p&gt;
 
-&lt;h4 id=&#34;ハードウェアでできること-by-wami&#34;&gt;ハードウェアでできること by wami&lt;/h4&gt;
+&lt;h3 id=&#34;ハードウェアでできること-by-wami&#34;&gt;ハードウェアでできること by wami&lt;/h3&gt;
 
 &lt;p&gt;ハードウェアを使えば何をできるかをLTしてくれました！&lt;/p&gt;
 
@@ -321,7 +682,7 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
 
 &lt;p&gt;天気情報や飲食店やいろいろなAPIも豊富ですし、可能性は無限大ですね(･∀･)👍&lt;/p&gt;
 
-&lt;h4 id=&#34;neo4jのすゝめ-by-topgear&#34;&gt;Neo4jのすゝめ by topgear&lt;/h4&gt;
+&lt;h3 id=&#34;neo4jのすゝめ-by-topgear&#34;&gt;Neo4jのすゝめ by topgear&lt;/h3&gt;
 
 &lt;p&gt;Neo4jというグラフDB(データの構造が全てグラフ構造で表されるDB)についてLTしてくれました！&lt;/p&gt;
 
@@ -364,7 +725,7 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
 
 &lt;p&gt;とかのSDKは用意されてるっぽいですね! &lt;a href=&#34;https://neo4j.com/developer/language-guides/&#34;&gt;参考リンク&lt;/a&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;アメリカのインターンシップを通して学んだこと-by-いぬづか&#34;&gt;アメリカのインターンシップを通して学んだこと by いぬづか&lt;/h4&gt;
+&lt;h3 id=&#34;アメリカのインターンシップを通して学んだこと-by-いぬづか&#34;&gt;アメリカのインターンシップを通して学んだこと by いぬづか&lt;/h3&gt;
 
 &lt;p&gt;行動力がすごいっ!!&lt;/p&gt;
 
@@ -392,7 +753,7 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
 
 &lt;p&gt;「ここで働かせてくださいっ!」(千と千尋風)&lt;/p&gt;
 
-&lt;h4 id=&#34;gpgpu入門-by-kururu&#34;&gt;GPGPU入門 by kururu&lt;/h4&gt;
+&lt;h3 id=&#34;gpgpu入門-by-kururu&#34;&gt;GPGPU入門 by kururu&lt;/h3&gt;
 
 &lt;p&gt;GPGPUっていうのは&lt;/p&gt;
 
@@ -437,13 +798,13 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
 
 &lt;p&gt;なんかがあって、未来に期待★━━━…‥･&lt;/p&gt;
 
-&lt;h3 id=&#34;エイチーム社員lt&#34;&gt;エイチーム社員LT&lt;/h3&gt;
+&lt;h2 id=&#34;エイチーム社員lt&#34;&gt;エイチーム社員LT&lt;/h2&gt;
 
 &lt;p&gt;イベント会場であるエイチームさんの社員にもLTをしていただきました！&lt;/p&gt;
 
 &lt;p&gt;っとここは、会場にいた人のみのお話でした。&lt;/p&gt;
 
-&lt;h3 id=&#34;エイチーム見学&#34;&gt;エイチーム見学!&lt;/h3&gt;
+&lt;h2 id=&#34;エイチーム見学&#34;&gt;エイチーム見学!&lt;/h2&gt;
 
 &lt;p&gt;オフィス見学ツアーもしました(o＾ω＾o)&lt;/p&gt;
 
@@ -467,7 +828,7 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
 &lt;/figure&gt;
 
 
-&lt;h3 id=&#34;楽しかったよ-総勢40名&#34;&gt;楽しかったよ!! 総勢40名!&lt;/h3&gt;
+&lt;h2 id=&#34;楽しかったよ-総勢40名&#34;&gt;楽しかったよ!! 総勢40名!&lt;/h2&gt;
 
 &lt;p&gt;なんと40名も集まってくれました(*´∀`*)
 名古屋の未来は明るいな&lt;/p&gt;
@@ -499,11 +860,11 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
       <guid>http://www.othlo.tech/events/OthloEvent1@%E5%90%8D%E5%9F%8EShake/</guid>
       <description>
 
-&lt;h2 id=&#34;学生lt会-名古屋-エンジニア-デザイナー-を開催しました&#34;&gt;学生LT会@名古屋 ~エンジニア/デザイナー~ を開催しました！&lt;/h2&gt;
+&lt;h1 id=&#34;学生lt会-名古屋-エンジニア-デザイナー-を開催しました&#34;&gt;学生LT会@名古屋 ~エンジニア/デザイナー~ を開催しました！&lt;/h1&gt;
 
 &lt;p&gt;こんにちは、&lt;a href=&#34;https://twitter.com/hyde141421356&#34;&gt;@pokohide&lt;/a&gt;です。&lt;/p&gt;
 
-&lt;p&gt;5月22日(度)に&lt;a href=&#34;http://othlotech.connpass.com/event/31136/&#34;&gt;学生LT会@名古屋 ~エンジニア/デザイナー~&lt;/a&gt;を開催しました！
+&lt;p&gt;5月22日(土)に&lt;a href=&#34;http://othlotech.connpass.com/event/31136/&#34;&gt;学生LT会@名古屋 ~エンジニア/デザイナー~&lt;/a&gt;を開催しました！
 &lt;strong&gt;OthloTech&lt;/strong&gt; の第1回のイベントで名城大学の新キャンパスにあるShakeというスペースで開きました。&lt;/p&gt;
 
 &lt;p&gt;OthloTechでは、月に一度のペースで勉強会やイベントを、情報や知識の共有とともに、その後に懇親会で学生エンジニアもデザイナーもいるんだから、
@@ -511,12 +872,12 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
 
 &lt;p&gt;この記事では、先日開催されたこのイベントの様子をゆる〜くお伝えします∩(ﾟ∀ﾟ∩).&lt;/p&gt;
 
-&lt;h3 id=&#34;イベント概要&#34;&gt;イベント概要&lt;/h3&gt;
+&lt;h2 id=&#34;イベント概要&#34;&gt;イベント概要&lt;/h2&gt;
 
 &lt;p&gt;今回のイベントでは前半に学生LT会をやって、後半に自分たちの考えたエンジニアでもデザイナーでも楽しく解けそうな
 謎をグループ対抗しました！&lt;/p&gt;
 
-&lt;h3 id=&#34;タイムライン&#34;&gt;タイムライン&lt;/h3&gt;
+&lt;h2 id=&#34;タイムライン&#34;&gt;タイムライン&lt;/h2&gt;
 
 &lt;p&gt;当日のLT会のタイムラインはこんな感じでした！&lt;/p&gt;
 
@@ -674,7 +1035,7 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
 
 &lt;p&gt;WebのテストでもおなじみのSeleniumを用いて、実際にニコ動からコメントを取ってくるところを実践してくれていましたー。動画には性格がでますね(･∀･) ﾆﾔﾆﾔ&lt;/p&gt;
 
-&lt;h3 id=&#34;謎解きクイズ&#34;&gt;謎解きクイズ!!&lt;/h3&gt;
+&lt;h2 id=&#34;謎解きクイズ&#34;&gt;謎解きクイズ!!&lt;/h2&gt;
 
 &lt;p&gt;学生エンジニア、デザイナがどっちも楽しめそうなクイズを頑張ってメンバーで考えました。。案外大変だったよ(´･ω･`)
 でも、めちゃ盛り上がったんで報われました👍&lt;/p&gt;
@@ -721,23 +1082,23 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
 
 &lt;p&gt;他にも写真を撮り忘れてしまったのですが、WEBフロントエンドでCSSをより、構文的に素晴らしくかける感じの &lt;code&gt;SCSS&lt;/code&gt; を使った問題を出しました。&lt;/p&gt;
 
-&lt;h5 id=&#34;あなたは何色が正解かわかりますか&#34;&gt;あなたは何色が正解かわかりますか?&lt;/h5&gt;
+&lt;h4 id=&#34;あなたは何色が正解かわかりますか&#34;&gt;あなたは何色が正解かわかりますか?&lt;/h4&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-scss&#34;&gt;.box {
   background-color: mix(#4A8ECC, #771D32, 15%);
 }
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;div style=&#39;display:inline-block;background-color:#702e49;width:200px;height:200px;text-align:center;&#39;&gt;
-&lt;span style=&#39;font-size:50px;color:#fff&#39;&gt;A&lt;/span&gt;&lt;/div&gt;
-&lt;div style=&#39;display:inline-block;background-color:#6a3f60;width:200px;height:200px;text-align:center;&#39;&gt;
-&lt;span style=&#39;font-size:50px;color:#fff&#39;&gt;B&lt;/span&gt;&lt;/div&gt;
-&lt;div style=&#39;display:inline-block;background-color:#5377ad;width:200px;height:200px;text-align:center;&#39;&gt;
-&lt;span style=&#39;font-size:50px;color:#fff&#39;&gt;C&lt;/span&gt;&lt;/div&gt;
-
-&lt;p&gt;答えはここ⤵︎&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&#39;color:#fff&#39;&gt;A&lt;/span&gt;&lt;/p&gt;
+&lt;section&gt;
+  &lt;div style=&#39;display:inline-block;background-color:#702e49;width:200px;height:200px;text-align:center;&#39;&gt;
+  &lt;span style=&#39;font-size:50px;color:#fff&#39;&gt;A&lt;/span&gt;&lt;/div&gt;
+  &lt;div style=&#39;display:inline-block;background-color:#6a3f60;width:200px;height:200px;text-align:center;&#39;&gt;
+  &lt;span style=&#39;font-size:50px;color:#fff&#39;&gt;B&lt;/span&gt;&lt;/div&gt;
+  &lt;div style=&#39;display:inline-block;background-color:#5377ad;width:200px;height:200px;text-align:center;&#39;&gt;
+  &lt;span style=&#39;font-size:50px;color:#fff&#39;&gt;C&lt;/span&gt;&lt;/div&gt;
+  &lt;p&gt;答えはここ⤵︎&lt;/p&gt;
+  &lt;p style=&#39;color:#fff&#39;&gt;A&lt;/p&gt;
+&lt;/section&gt;
 
 
 &lt;figure class=&#34;aden&#34;&gt;
@@ -777,7 +1138,7 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
 
 &lt;p&gt;謎解きの優勝商品は今回協賛していただいた株式会社HASHIGOさんから新本の「フロントエンジニアの必須知識」をメンバー全員にいただきました！ありがとうございます(o＾ω＾o)&lt;/p&gt;
 
-&lt;h3 id=&#34;懇親会&#34;&gt;懇親会&lt;/h3&gt;
+&lt;h2 id=&#34;懇親会&#34;&gt;懇親会&lt;/h2&gt;
 
 &lt;p&gt;勉強終わりは懇親会で参加者同士でだべります！！&lt;/p&gt;
 
@@ -820,7 +1181,7 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
 
 &lt;p&gt;みんな楽しくだべってます！ここから未来を作るサービスが生まれるかもしれない&lt;/p&gt;
 
-&lt;h3 id=&#34;終わりに&#34;&gt;終わりに&lt;/h3&gt;
+&lt;h2 id=&#34;終わりに&#34;&gt;終わりに&lt;/h2&gt;
 
 
 &lt;figure class=&#34;aden&#34;&gt;
