@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 24 Oct 2016 23:13:51 +0900</lastBuildDate>
     <atom:link href="http://www.othlo.tech/index.xml" rel="self" type="application/rss+xml" />
     
@@ -689,6 +690,12 @@
     </item>
     
     <item>
+=======
+    <lastBuildDate>Sun, 23 Oct 2016 02:45:17 +0900</lastBuildDate>
+    <atom:link href="http://www.othlo.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+>>>>>>> da69ff7ddf9395b4c5952bef1a71f2667631fcb0
       <title>Hugo&#43;GithubPagesでサイトをリニューアル</title>
       <link>http://www.othlo.tech/posts/Hugo&#43;github_pages/</link>
       <pubDate>Sun, 23 Oct 2016 02:45:17 +0900</pubDate>
@@ -2755,11 +2762,19 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
 新しいイベントはOthloTechの&lt;a href=&#34;https://www.facebook.com/othlotech/&#34; target=&#34;_blank&#34;&gt;Facebook&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/othlotech&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;, &lt;a href=&#34;http://www.othlo.tech&#34; target=&#34;_blank&#34;&gt;公式サイト&lt;/a&gt;で告知しています。&lt;/p&gt;
 
 &lt;p&gt;過去のイベントには以下の大学・専門学校生が参加しています。&lt;/p&gt;
+<<<<<<< HEAD
 
 &lt;blockquote&gt;
 &lt;p&gt;名古屋大学、名古屋工業大学、名古屋市立大学、名城大学、愛知工業大学、中京大学、南山大学、トライデントコンピュータ専門学校、名古屋工学院専門学校、岐阜大学、鈴鹿工業高等専門学校など&lt;/p&gt;
 &lt;/blockquote&gt;
 
+=======
+
+&lt;blockquote&gt;
+&lt;p&gt;名古屋大学、名古屋工業大学、名古屋市立大学、名城大学、愛知工業大学、中京大学、南山大学、トライデントコンピュータ専門学校、名古屋工学院専門学校、岐阜大学、鈴鹿工業高等専門学校など&lt;/p&gt;
+&lt;/blockquote&gt;
+
+>>>>>>> da69ff7ddf9395b4c5952bef1a71f2667631fcb0
 &lt;h2 id=&#34;沿革&#34;&gt;沿革&lt;/h2&gt;
 
 &lt;table&gt;
@@ -2789,15 +2804,26 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
 &lt;tr&gt;
 &lt;td&gt;2016年7月&lt;/td&gt;
 &lt;td&gt;株式会社Misocaとのコラボ勉強会を開催&lt;/td&gt;
+<<<<<<< HEAD
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;2016年8月&lt;/td&gt;
 &lt;td&gt;東海最大規模の学生ハッカソンOthloHack2016を開催&lt;/td&gt;
+=======
+>>>>>>> da69ff7ddf9395b4c5952bef1a71f2667631fcb0
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;2016年8月&lt;/td&gt;
+<<<<<<< HEAD
+=======
+&lt;td&gt;東海最大規模の学生ハッカソンOthloHack2016を開催&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2016年8月&lt;/td&gt;
+>>>>>>> da69ff7ddf9395b4c5952bef1a71f2667631fcb0
 &lt;td&gt;TECH_SALONとのコラボ勉強会を開催&lt;/td&gt;
 &lt;/tr&gt;
 
