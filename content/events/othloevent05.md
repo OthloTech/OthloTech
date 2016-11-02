@@ -14,7 +14,7 @@ banner = "images/banners/events/othlo-event5.png"
 最近、いきなり寒くなりましたね(ﾉ_･｡) 冬の訪れを感じます。<br/>
 みなさん、風邪をひかないように気をつけてくださいね…!!<br/>
 
-さて、10月29日(土)に５回目となるOthloEvents[【Rails初心者向け】OthloEvent@Goodfind #5](http://othlotech.connpass.com/event/42511/)をOpenVillageにて開催しました('-'*)<br/>
+さて、10月29日(土)に５回目となるOthloEvent[【Rails初心者向け】OthloEvent@Goodfind #5](http://othlotech.connpass.com/event/42511/)を[OpenVillage](https://www.facebook.com/Open-Village-297407053963807/)にて開催しました('-'*)<br/>
 
 今回は、Goodfindさんとのコラボイベント！<br/>
 東京・京都と開催されたProgramming Bootcamp「Ruby on Railsを極める1Day Camp」がついに名古屋にやってきましたヽ(‘ ∇‘ )ノ<br/>
