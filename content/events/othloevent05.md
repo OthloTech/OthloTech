@@ -38,17 +38,17 @@ banner = "images/banners/events/othlo-event5.png"
 ### BootCampの様子！
 
 Goodfindさんのエンジニアによる講義。分かりやすい〜！と好評でした('-'*)<br/>
-{{< image src="/images/events/10-29/bootcamp01.JPG" title="みんな集中！" class="aden" >}}
+{{< image src="/images/events/10-29/bootcamp01.jpg" title="みんな集中！" class="aden" >}}
 
 みんな集中してもくもくと、でもわからないところはちゃんとメンターさんや近くの友達に聞いて取り組んでいました。<br/>
-{{< image src="/images/events/10-29/bootcamp02.JPG" title="時には友達とわいわい" class="aden" >}}
+{{< image src="/images/events/10-29/bootcamp02.jpg" title="時には友達とわいわい" class="aden" >}}
 
 
 ### 懇親会！
 
 頭を使った後はお待ちかねの懇親会！ヘ(^∇^ヘ)ヘ(^∇^ヘ) ｳﾋｮﾋｮ<br/>
 みんな和気藹々とおしゃべりしていました〜。
-{{< image src="/images/events/10-29/afterparty.JPG" title="お疲れ〜！" class="aden" >}}
+{{< image src="/images/events/10-29/afterparty.jpg" title="お疲れ〜！" class="aden" >}}
 
 ### お疲れ様でした！
 

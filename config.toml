@@ -67,6 +67,7 @@ hasCJKLanguage = true
   categories = true
   tags = true
   search = true
+  share = true
 
 [params.carousel]
   enable = true
