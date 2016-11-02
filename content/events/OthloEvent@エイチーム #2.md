@@ -2,7 +2,7 @@
 slug = "OthloEvent2@エイチーム"
 title = "OthloEvent @ エイチーム #2"
 date = "2016-06-24T00:20:33+09:00"
-tags = ["LT会", "勉強会", "OthloEvent"]
+tags = ["LT会", "勉強会", "OthloEvent", "エイチーム"]
 categories = ["イベント"]
 banner = "images/banners/events/othlo-event2.png"
 +++
