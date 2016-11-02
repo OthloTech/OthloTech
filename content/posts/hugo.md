@@ -1,5 +1,5 @@
 +++
-slug = 'Hugo+github_pages'
+slug = 'hugo+github-pages'
 title = 'Hugo+GithubPagesでサイトをリニューアル'
 date = "2016-10-23T02:45:17+09:00"
 categories = ['Web']

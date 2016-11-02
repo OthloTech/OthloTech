@@ -1,6 +1,6 @@
 +++
-slug = "OthloEvent4@名城shake"
-title = "OthloEvent @ 名城shake #4"
+slug = "othloevent04-shake"
+title = "OthloEvent@名城shake #4"
 date = "2016-09-24T00:20:33+09:00"
 tags = ["LT会", "勉強会", "OthloEvent"]
 categories = ["イベント"]
@@ -61,7 +61,7 @@ OthloTech代表・ぽこひで([@pokohide](https://twitter.com/hyde141421356))�
 
 
 全員LT会の後は、懇親会でお菓子を食べながらワイワイしつつ…<br/>
-参加者投票で人気の高かったLT者に、素敵なプレゼントを贈呈(＇ｰ＇) 
+参加者投票で人気の高かったLT者に、素敵なプレゼントを贈呈(＇ｰ＇)
 
 
 ### お疲れ様でした(^0^)/

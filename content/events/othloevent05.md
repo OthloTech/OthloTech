@@ -1,6 +1,6 @@
 +++
-slug = "OthloEvent5@Goodfind"
-title = "OthloEvent @ Goodfind #5"
+slug = "othloevent05-goodfind"
+title = "OthloEvent@Goodfind #5"
 date = "2016-10-29T00:20:33+09:00"
 tags = ["Rails", "勉強会", "OthloEvent", "GoodFind"]
 categories = ["イベント"]
