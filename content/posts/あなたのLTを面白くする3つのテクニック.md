@@ -1,9 +1,9 @@
 +++
-slug = "ライトニングトークを面白くするたった3つのテクニック"
+slug = "lightning_talks_technique"
 title = "ライトニングトークを面白くするたった3つのテクニック"
 date = "2016-11-03"
 tags = ["LT", "ライトニングトーク", "プレゼンテーション", "PowerPoint", "Keynote", "資料作成"]
-categories = ["ブログ"]
+categories = ["プレゼン"]
 banner = "images/banners/posts/lightning_talk_banner.png"
 +++
 
