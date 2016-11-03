@@ -1,9 +1,9 @@
 +++
-slug = 'Hugo+github_pages'
+slug = 'hugo+github-pages'
 title = 'Hugo+GithubPagesでサイトをリニューアル'
 date = "2016-10-23T02:45:17+09:00"
-categories = ['技術ブログ']
-tags = ['GitHub', 'HTML', 'CSS', 'hugo']
+categories = ['Web']
+tags = ['GitHub', 'HTML', 'CSS', 'Hugo']
 banner = 'images/banners/posts/hugo.png'
 +++
 
@@ -142,7 +142,7 @@ chmod 755 deploy.sh # 実行権限を与える
 
 そのあたりはここを参考するとわかりやすいと思います。
 
-http://qiita.com/tiwu_official/items/d7fb6c493ed5eb9ee4fc 
+http://qiita.com/tiwu_official/items/d7fb6c493ed5eb9ee4fc
 
 ### さいごに
 
