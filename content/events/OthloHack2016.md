@@ -1,8 +1,8 @@
 +++
-lug = "OthloEvent1@名城Shake"
+lug = "othlohack2016"
 title = "OthloHack 2016"
-tags = [ "イベント", "ハッカソン", "OthloHack"]
-categories = ["プログラミング", "イベント", "デザイン"]
+tags = ["ハッカソン", "OthloHack"]
+categories = ["イベント"]
 date = "2016-10-24T23:13:51+09:00"
 banner = "images/banners/othlohack.jpg"
 +++
