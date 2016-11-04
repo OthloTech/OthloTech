@@ -29,11 +29,9 @@
   "homepage": "//www.othlo.tech",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-cssmin": "^0.1.7",
     "gulp-notify": "^2.2.0",
     "gulp-plumber": "^1.1.0",
     "gulp-postcss": "^6.2.0",
-    "gulp-rename": "^1.2.2",
     "gulp-sass": "^2.3.2",
     "gulp-scss-lint": "^0.4.0",
     "postcss-cssnext": "^2.8.0"
