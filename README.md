@@ -25,6 +25,8 @@ brew install hugo  # hugo をインストール
 ### サーバーの立ち上げ
 
 ```
+npm install     # install node module
+npm run watch   # scssファイルを監視
 hugo server -w  # 変更を監視して自動リロード
 #=> http://localhost:1313 でアクセス
 ```
