@@ -3,17 +3,6 @@
 
   {{ partial "head.html" . }}
 
-  <style>
-ul.cloud {
-    list-style: none;
-    padding: 0
-}
-ul.cloud > li {
-    display: inline-block;
-    margin: 0 0.5rem;
-}
-</style>
-
   <body>
 
     <div id="all">
@@ -34,16 +23,17 @@ ul.cloud > li {
                     <div class="col-md-12" id="blog-post">
 
                         <div id="post-content">
-                          	<ul id="all-tags">
-  								{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-    							<li><a href="/tags/{{ $name | urlize }}">{{ $name }}</a></li>
-    							<ul>
-        							{{ range $taxonomy.Pages }}
-        								<li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
-        							{{ end }}
-    							</ul>
-  								{{ end }}
-							</ul>
+                            <ul id="all-tags">
+                                <h3>ブログカテゴリ一覧</h3>
+                                {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+                                    <li><a href="/tags/{{ $name | urlize }}">{{ $name }}</a></li>
+                                    <ul>
+                                        {{ range $taxonomy.Pages }}
+                                            <li hugo-nav="{{ .RelPermalink }}"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+                                        {{ end }}
+                                    </ul>
+                                {{ end }}
+                            </ul>
                         </div>
                     </div>
                     <!-- /#blog-post -->

@@ -9,10 +9,11 @@
     <div class="panel-body">
         <ul class="tag-cloud">
             {{ range $name, $items := .Site.Taxonomies.tags }}
-            <li><a href="{{ $.Site.BaseURL }}tags/{{ $name | urlize | lower }}"><i class="fa fa-tags"></i> {{ $name }}</a>
-            </li>
+                <li><a href="{{ $.Site.BaseURL }}tags/{{ $name | urlize | lower }}"><i class="fa fa-tags"></i> {{ $name }}</a></li>
             {{ end }}
         </ul>
+
+        <p class="read-more"><a href="/tags" class="btn btn-template-main">すべて見る</a></p>
     </div>
 </div>
 {{ end }}
