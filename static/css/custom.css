@@ -1,4 +1,8 @@
 /* your styles go here */
+body {
+  word-wrap : break-word;
+  overflow-wrap : break-word;
+}
 
 /* header */
 .navbar {
