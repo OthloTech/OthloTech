@@ -44,3 +44,7 @@ node_modules
 .DS_Store
 public/
 pages/
+
+# scss
+statis/css
+
