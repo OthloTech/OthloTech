@@ -1,0 +1,153 @@
+#blog-post {
+  padding-bottom: 80px;
+}
+
+#blog-post h1 {
+  font-size: 32px;
+  margin-bottom: 45px;
+  line-height: 1.6em;
+  letter-spacing: .05em;
+  padding-bottom: 12px;
+  border-bottom: solid 5px #4fbfa8;
+}
+
+#blog-post h2 {
+  font-size: 24px;
+  padding: 30px;
+  background-color: #eee;
+  border-radius: 5px;
+  margin-top: 50px;
+  letter-spacing: .1em;
+}
+
+#blog-post h3 {
+  font-size: 22px;
+  border-left: 8px solid #4fbfa8;
+  border-bottom: 2px solid #4fbfa8;
+  padding: 10px 0 7px 20px;
+  margin-top: 40px;
+  letter-spacing: .05em;
+  line-height: 1.6em;
+}
+
+#blog-post h4 {
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+#blog-post h5 {
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+#blog-post h6 {
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+#blog-post p {
+  font-size: 16px;
+  margin-top: 25px;
+  line-height: 1.8em;
+  letter-spacing: .08em;
+}
+
+#blog-post blockquote {
+  font-style: italic;
+}
+
+#blog-post blockquote p {
+  margin: 0;
+}
+
+#blog-post ul,
+#blog-post ol {
+  font-size: 16px;
+  margin-top: 25px;
+  letter-spacing: .08em;
+}
+
+#blog-post ul li {
+  margin-top: 5px;
+}
+
+#blog-post pre {
+  margin-top: 30px;
+  padding: 20px 30px;
+}
+
+#blog-post section {
+  margin-top: 35px;
+}
+
+#blog-post table {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  font-size: 16px;
+  background: #fff;
+  margin: 30px 0;
+  border-collapse: collapse;
+  width: 100%;
+  overflow: scroll;
+}
+
+#blog-post table tr {
+  overflow: scroll;
+}
+
+#blog-post table th {
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px 8px;
+  border-bottom: 1px solid #4fbfa8;
+}
+
+#blog-post table td {
+  padding: 10px 8px 3px 8px;
+  white-space: nowrap;
+}
+
+#blog-post figure {
+  display: inline-block;
+  width: 100%;
+  margin: 40px 0 0;
+  text-align: center;
+}
+
+#blog-post figure img {
+  width: auto;
+  max-width: 100%;
+}
+
+#blog-post figure:before,
+#blog-post figure:after {
+  display: none;
+}
+
+#blog-post figure figcaption h4,
+#blog-post figure figcaption p {
+  text-align: center;
+  opacity: 0;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+#blog-post figure figcaption h4 {
+  font-size: 18px;
+}
+
+#blog-post figure figcaption p {
+  bottom: -60px;
+  right: 0;
+}
+
+#blog-post figure:hover h4 {
+  opacity: 1;
+}
+
+#blog-post figure:hover p {
+  opacity: 1;
+  -webkit-transition-delay: .3s;
+  transition-delay: .3s;
+}
