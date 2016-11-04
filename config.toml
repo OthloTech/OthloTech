@@ -101,3 +101,9 @@ hasCJKLanguage = true
   enable = false
   title = 'OthloTechの活動ブログ'
   subtitle = '日常的なことや技術的なことを週に一度のペースで書いていきます∩(ﾟ∀ﾟ∩)'
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+  event_tag = 'event_tags'
+  event_category = 'event_categories'
