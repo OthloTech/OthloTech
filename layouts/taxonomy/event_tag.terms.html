@@ -37,7 +37,7 @@ ul.cloud > li {
                             <ul class="all-tags">
                                 <h3>イベントタグ一覧</h3>
                                 {{ range $name, $taxonomy := .Site.Taxonomies.event_tags }}
-                                    <li class="tag"><a href="/tags/{{ $name | urlize }}">{{ $name }}</a></li>
+                                    <li class="tag"><a href="/event_tags/{{ $name | urlize }}">{{ $name }}</a></li>
                                     <ul class="tag-contents">
                                         {{ range $taxonomy.Pages }}
                                             <li hugo-nav="{{ .RelPermalink }}"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
