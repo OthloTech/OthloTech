@@ -9,7 +9,7 @@
     <div class="panel-body">
         <ul class="tag-cloud">
             {{ range $name, $items := .Site.Taxonomies.event_tags }}
-                <li><a href="{{ $.Site.BaseURL }}categories/{{ $name | urlize | lower }}">{{ $name }} ({{ len $items }})</a></li>
+                <li><a href="{{ $.Site.BaseURL }}event_tags/{{ $name | urlize | lower }}">{{ $name }} ({{ len $items }})</a></li>
             {{ end }}
         </ul>
 
