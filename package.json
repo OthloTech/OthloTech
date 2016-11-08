@@ -4,6 +4,7 @@
   "description": "OthloTechの公式ホームページです。",
   "main": "app.js",
   "scripts": {
+    "test": "gulp scss-lint",
     "watch": "gulp scss && gulp default"
   },
   "keywords": [

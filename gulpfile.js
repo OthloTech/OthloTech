@@ -49,10 +49,7 @@ gulp.task('scss-lint', function() {
 
 
 gulp.task('scss:watch', function() {
-  const watcher = gulp.watch(paths.scssLint, ['scss-lint', 'scss'])
-  watcher.on('change', function(e) {
-    console.log('File ' + e.path + ' was ' + e.type + ', running tasks...')
-  })
+  gulp.watch(paths.scssLint, ['scss-lint', 'scss'])
 })
 
 gulp.task('default', ['scss:watch'])
