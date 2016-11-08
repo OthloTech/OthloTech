@@ -110,55 +110,52 @@
       padding: 10px 8px 3px;
       white-space: nowrap;
     }
+  }
 
-    figure {
-      display: inline-block;
-      width: 100%;
-      margin: 40px 0 0;
-      text-align: center;
+  figure {
+    display: inline-block;
+    width: 100%;
+    margin: 40px 0 0;
+    text-align: center;
 
-      img {
-        width: auto;
-        max-width: 100%;
+    img {
+      width: auto;
+      max-width: 100%;
+    }
+
+    figcaption {
+      h4,
+      p {
+        text-align: center;
+        opacity: 0;
+        -webkit-transition: .3s;
+        transition: .3s;
       }
 
-      figcaption {
-        h4 {
-          text-align: center;
-          opacity: 0;
-          -webkit-transition: .3s;
-          transition: .3s;
-          font-size: 18px;
-        }
-
-        p {
-          text-align: center;
-          opacity: 0;
-          -webkit-transition: .3s;
-          transition: .3s;
-          bottom: -60px;
-          right: 0;
-        }
+      h4 {
+        font-size: 18px;
       }
 
-      &::before {
-        display: none;
+      p {
+        bottom: -60px;
+        right: 0;
+      }
+    }
+
+    &::before,
+    &::after {
+      display: none;
+    }
+
+    &:hover {
+      h4 {
+        opacity: 1;
       }
 
-      &::after {
-        display: none;
-      }
-
-      :hover {
-        h4 {
-          opacity: 1;
-        }
-
-        p {
-          opacity: 1;
-          -webkit-transition-delay: .3s;
-          transition-delay: .3s;
-        }
+      p {
+        opacity: 1;
+        -webkit-transition-delay: .3s;
+        transition-delay: .3s; 
       }
     }
   }

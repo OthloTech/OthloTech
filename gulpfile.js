@@ -48,7 +48,7 @@ gulp.task('scss-lint', function() {
 
 
 gulp.task('scss:watch', function() {
-  gulp.watch(paths.scssLint, ['scss-lint', 'scss'])
+  gulp.watch(paths.scssLint, ['scss'])
 })
 
 gulp.task('default', ['scss:watch'])
