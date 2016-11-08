@@ -1,57 +1,55 @@
 .othlo-member {
   padding: 10px;
-}
-.othlo-member .img-thumbnail {
-  width: 100%;
-}
-.othlo-member .member-role {
-  text-align: right;
-  padding: 5px;
-  margin: 0;
-  font-weight: bold;
-}
-.othlo-member .member-univ {
-  text-align: left;
-  padding: 5px;
-  padding-left: 0;
-  margin: 0;
-}
-.othlo-member .member-name {
-  margin-top: 5px;
-  margin-bottom: 10px;
-  font-size: 20px;
-  line-height: 1;
-}
-.othlo-member .member-text {
-  min-height: 80px;
-  font-size: 14px;
-  line-height: 1.5;
-  overflow: hidden;
-}
-.othlo-member .member-social-icons {
-
-}
-.othlo-member .member-social-icons a {
-  width: 22px;
-  height: 22px;
-  line-height: 22px;
-  vertical-align: middle;
-}
-.othlo-member .member-social-icons i {
-  font-size: 22px;
-  margin: 5px;
-}
-.othlo-member .member-social-icons .twitter {
-  color: #55acee;
-}
-.othlo-member .member-social-icons .facebook {
-  color: #3b5998;
-}
-.othlo-member .member-social-icons .github {
-  color: #333;
-}
-/* othlo-member programming-languages */
-.othlo-member .devicons {
-  font-size: 16px;
-  color: #666;
+  .img-thumbnail {
+    width: 100%;
+  }
+  .member-role {
+    text-align: right;
+    padding: 5px;
+    margin: 0;
+    font-weight: bold;
+  }
+  .member-univ {
+    text-align: left;
+    padding: 5px;
+    padding-left: 0;
+    margin: 0;
+  }
+  .member-name {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    line-height: 1;
+  }
+  .member-text {
+    min-height: 80px;
+    font-size: 14px;
+    line-height: 1.5;
+    overflow: hidden;
+  }
+  .member-social-icons {
+    a {
+      width: 22px;
+      height: 22px;
+      line-height: 22px;
+      vertical-align: middle;
+    }
+    i {
+      font-size: 22px;
+      margin: 5px;
+    }
+    .twitter {
+      color: #55acee;
+    }
+    .facebook {
+      color: #3b5998;
+    }
+    .github {
+      color: #333;
+    }
+  }
+  .devicons { // othlo-member programming-languages
+    font-size: 16px;
+    color: #666;
+  }
 }
