@@ -34,7 +34,7 @@ gulp.task('scss', function() {
 })
 
 gulp.task('scss-lint', function() {
-  return gulp.src([paths.scssLint, '!/scss/external/**/*.scss'])
+  return gulp.src([paths.scssLint, '!scss/external/*.scss'])
     .pipe(plumber({ errorHandler: notify.onError('<%= error.message %>' )}))
     .pipe(cache('scsslint'))
     .pipe(scsslint({

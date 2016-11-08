@@ -1,5 +1,6 @@
 #blog-post {
   padding-bottom: 80px;
+
   h1 {
     font-size: 32px;
     margin-bottom: 45px;
@@ -8,6 +9,7 @@
     padding-bottom: 12px;
     border-bottom: solid 5px #4fbfa8;
   }
+
   h2 {
     font-size: 24px;
     padding: 30px;
@@ -16,6 +18,7 @@
     margin-top: 50px;
     letter-spacing: .1em;
   }
+
   h3 {
     font-size: 22px;
     border-left: 8px solid #4fbfa8;
@@ -25,15 +28,18 @@
     letter-spacing: .05em;
     line-height: 1.6em;
   }
+
   h4 {
     font-size: 20px;
     margin-top: 30px;
   }
+
   h5 {
     font-weight: bold;
     font-size: 18px;
     margin-top: 20px;
   }
+
   h6 {
     font-weight: bold;
     font-size: 16px;
@@ -49,30 +55,37 @@
 
   blockquote {
     font-style: italic;
+
     p {
       margin: 0;
     }
   }
+
   ul {
     font-size: 16px;
     margin-top: 25px;
     letter-spacing: .08em;
+
     li {
       margin-top: 5px;
     }
   }
+
   ol {
     font-size: 16px;
     margin-top: 25px;
     letter-spacing: .08em;
   }
+
   pre {
     margin-top: 30px;
     padding: 20px 30px;
   }
+
   section {
     margin-top: 35px;
   }
+
   table {
     font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
     font-size: 16px;
@@ -81,28 +94,34 @@
     border-collapse: collapse;
     width: 100%;
     overflow: scroll;
+
     tr {
       overflow: scroll;
     }
+
     th {
       font-size: 16px;
       font-weight: bold;
       padding: 10px 8px;
       border-bottom: 1px solid #4fbfa8;
     }
+
     td {
       padding: 10px 8px 3px 8px;
       white-space: nowrap;
     }
+
     figure {
       display: inline-block;
       width: 100%;
       margin: 40px 0 0;
       text-align: center;
+
       img {
         width: auto;
         max-width: 100%;
       }
+
       figcaption {
         h4 {
           text-align: center;
@@ -111,6 +130,7 @@
           transition: .3s;
           font-size: 18px;
         }
+
         p {
           text-align: center;
           opacity: 0;
@@ -120,16 +140,20 @@
           right: 0;
         }
       }
+
       &:before {
         display: none;
       }
+
       &:after {
         display: none;
       }
+
       &:hover {
         h4 {
           opacity: 1;
         }
+
         p {
           opacity: 1;
           -webkit-transition-delay: .3s;
