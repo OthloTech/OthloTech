@@ -15,19 +15,19 @@
       position: relative;
       padding: 20px;
 
-      &:before {
-        content: " ";
+      &::before {
+        content: ' ';
         display: table;
       }
 
-      &:after {
-        content: " ";
+      &::after {
+        content: ' ';
         display: table;
         clear: both;
       }
 
       .text {
-        color: #999999;
+        color: #999;
         margin-bottom: 40px;
       }
 
@@ -62,7 +62,7 @@
         }
 
         p {
-          color: #999999;
+          color: #999;
           margin: 0;
           font-size: 12px;
         }

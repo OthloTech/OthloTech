@@ -107,7 +107,7 @@
     }
 
     td {
-      padding: 10px 8px 3px 8px;
+      padding: 10px 8px 3px;
       white-space: nowrap;
     }
 
@@ -141,15 +141,15 @@
         }
       }
 
-      &:before {
+      &::before {
         display: none;
       }
 
-      &:after {
+      &::after {
         display: none;
       }
 
-      &:hover {
+      :hover {
         h4 {
           opacity: 1;
         }

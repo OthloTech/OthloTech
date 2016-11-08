@@ -44,7 +44,6 @@ gulp.task('scss-lint', function() {
       'endless': true
     }))
     .pipe(scsslint.failReporter('E'))
-    .pipe(notify('SCSS Lint task finished.'))
 })
 
 
