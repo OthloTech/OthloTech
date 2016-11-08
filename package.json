@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "gulp scss-lint",
-    "watch": "gulp scss && gulp default"
+    "watch": "gulp scss && gulp default",
+    "start": "npm run watch & hugo server -w"
   },
   "keywords": [
     "OthloTech",
