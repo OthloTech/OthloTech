@@ -18,10 +18,22 @@ header {
 }
 
 /* carousel */
-.carousel-image-container{
+
+.home-carousel .carousel-image-container{
+
 }
-.carousel-image {
+
+.home-carousel .carousel-image {
+
 }
+
+.home-carousel .carousel-text {
+  font-size: 18px;
+  line-height: 1.6em;
+  letter-spacing: .1em;
+  font-weight: light;
+}
+
 
 /* features */
 .features .box-simple .icon {

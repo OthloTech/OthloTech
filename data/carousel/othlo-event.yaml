@@ -1,12 +1,10 @@
 weight: 1
-title: 'Othlo EVENT'
+title: 'OthloEvent'
 description: >
-  <ul class="list-style-none">
-    <li>OthloTechは月に一度のペースで</li>
-    <li>学生エンジニア/デザイナー向け<li>
-    <li>に勉強会を開催しています. </li>
-    <li>情報や技術の共有しながら</li>
-    <li>新しいつながりを</li>
-    <li>ここで見つけましょう(*´∀`*)</li>
-  </ul>
+  OthloTechは月に一度のペースで<br>
+  学生エンジニア/デザイナー向け<br>
+  に勉強会を開催しています. <br>
+  情報や技術の共有しながら<br>
+  新しいつながりを<br>
+  ここで見つけましょう(*´∀`*)
 image: "images/carousel/othlo-event.jpg"

@@ -1,10 +1,8 @@
 weight: 3
-title: "Social gathering"
+title: "Social Gathering"
 description: >
-  <ul class="list-style-none">
-    <li>OthloEventの後には</li>
-    <li>毎回、懇親会の開いています.</li>
-    <li>この場が何かが生まれるきっかけ</li>
-    <li>になればと思っています.</li>
-  </ul>
+  OthloEventの後には<br>
+  毎回、懇親会の開いています.<br>
+  この場が何かが生まれるきっかけ<br>
+  になればと思っています.
 image: "images/carousel/social-gathering.jpg"
