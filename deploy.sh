@@ -12,6 +12,9 @@ COMMIT_HASH=`git log -1 --format=%h`
 # pagesフォルダの ., .., .git 以外を消去
 ls -la pages | grep -v -E '.|.git$' | xargs rm -rf
 
+# cssをgulpで生成
+gulp scss
+
 # deploy用のファイルを生成
 hugo -d pages
 
