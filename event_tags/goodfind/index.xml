@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OthloTech -学生クリエイティブ集団-</title>
+    <link>http://www.othlo.tech/event_tags/goodfind/index.xml</link>
+    <description>Recent content on OthloTech -学生クリエイティブ集団-</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
+    <atom:link href="http://www.othlo.tech/event_tags/goodfind/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OthloEvent@Goodfind #5</title>
+      <link>http://www.othlo.tech/events/othloevent05-goodfind/</link>
+      <pubDate>Sat, 29 Oct 2016 00:20:33 +0900</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent05-goodfind/</guid>
+      <description>
+
+&lt;h2 id=&#34;othloevent-goodfind-5&#34;&gt;OthloEvent @ Goodfind #5&lt;/h2&gt;
+
+&lt;p&gt;こんにちは〜！ごまき(&lt;a href=&#34;https://twitter.com/gmsesame&#34;&gt;@gmsesame&lt;/a&gt;)です。&lt;/p&gt;
+
+&lt;p&gt;最近、いきなり寒くなりましたね(ﾉ_･｡) 冬の訪れを感じます。&lt;br/&gt;
+みなさん、風邪をひかないように気をつけてくださいね…!!&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;さて、10月29日(土)に５回目となるOthloEvent&lt;a href=&#34;http://othlotech.connpass.com/event/42511/&#34;&gt;【Rails初心者向け】OthloEvent@Goodfind #5&lt;/a&gt;を&lt;a href=&#34;https://www.facebook.com/Open-Village-297407053963807/&#34;&gt;OpenVillage&lt;/a&gt;にて開催しました(&amp;lsquo;-&amp;rsquo;*)&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;今回は、Goodfindさんとのコラボイベント！&lt;br/&gt;
+東京・京都と開催されたProgramming Bootcamp「Ruby on Railsを極める1Day Camp」がついに名古屋にやってきましたヽ(‘ ∇‘ )ノ&lt;br/&gt;
+この記事では、その様子をレポートします！&lt;br/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h3&gt;
+
+&lt;p&gt;今回のイベントの時間割は以下の通り！&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;詳細&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;11:00 - 12:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;イントロダクション&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;環境構築と使用するツールの説明&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:00 - 15:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ruby on Railsの基本と実装&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;レコードの取得／登録／更新／削除&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;15:10 - 17:45&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ruby on Railsの実装&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;アソシエーションによる複数テーブルの処理&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:00 - 19:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ruby on Rails 応用編&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Gemを使った実装&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:00 -&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;bootcampの様子&#34;&gt;BootCampの様子！&lt;/h3&gt;
+
+&lt;p&gt;今回のイベントはエンジニアしてはちょっと朝早め(?)の１１時からでした。&lt;br/&gt;
+1日でRailsを詰め込むためには早起きも苦ではない…はず！&lt;br/&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;bootcampスタート&#34;&gt;BootCampスタート！&lt;/h4&gt;
+
+&lt;p&gt;最初はGoodfindさんのエンジニアによるイントロダクション。&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;まずはアイスブレイクとして、周りの席の人と自己紹介をしてもらいました。&lt;br/&gt;
+OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡･ω･)&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;その後、Webアプリケーションの仕組みやフレームワークのイメージなどについて講義していただきました。&lt;br/&gt;
+東京・京都で何度も開催していることもあり、スライドも分かりやすい〜！と好評でした(&amp;lsquo;-&amp;rsquo;*)&lt;br/&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/bootcamp01.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;講義なう&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&#34;ここでブレイク&#34;&gt;ここでブレイク&lt;/h4&gt;
+
+&lt;p&gt;講義を受けた後は、お昼休憩〜。&lt;br/&gt;
+会場となったOpenVillageは大須商店街の近くにあるため、人気の飲食店がたくさんあるんです！&lt;br/&gt;
+今日がはじめましての人も、みんな仲良くランチにGO！&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;お昼休憩はハンバーガーパーリー🍔🎉 &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/uyAcftKmbs&#34;&gt;pic.twitter.com/uyAcftKmbs&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/792214371132841985&#34;&gt;October 29, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Othloメンバーはハンバーガー食べてました笑&lt;br/&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;本格スタート&#34;&gt;本格スタート！&lt;/h4&gt;
+
+&lt;p&gt;周りの人と仲良くなって、お腹いっぱいになったところで講義再開！&lt;br/&gt;
+午後からは実際に手を動かし、Ruby on Railsによるブログシステムの実装に挑戦。&lt;br/&gt;
+(ちなみに講義資料は非公開なので、興味のある方は次回開催にご期待ください…！）&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;みんな集中してもくもくと、でもわからないところはちゃんとメンターさんや近くの友達に聞いて取り組んでいました。&lt;br/&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/bootcamp02.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;時には友達とわいわい&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;懇親会&#34;&gt;懇親会！&lt;/h3&gt;
+
+&lt;p&gt;頭を使った後はお待ちかねの懇親会！ヘ(^∇^ヘ)ヘ(^∇^ヘ) ｳﾋｮﾋｮ&lt;br/&gt;
+みんな和気藹々とおしゃべりしていました〜。
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/afterparty.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;お疲れ〜！&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;お疲れ様でした&#34;&gt;お疲れ様でした！&lt;/h3&gt;
+
+&lt;p&gt;次回のOthloEventは、なんと！メ〜テレさんとのコラボイベントですw(ﾟoﾟ)w ｵｵｰ!&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;11月15日(火)、19:00より開催します。放課後、メ〜テレにGO！&lt;/p&gt;
+
+&lt;p&gt;詳細は&lt;a href=&#34;http://othlotech.connpass.com/event/43598/&#34;&gt;Connpass&lt;/a&gt;を見てくださいね！&lt;/p&gt;
+
+&lt;p&gt;それでは〜(*￣▽￣)ﾉ&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

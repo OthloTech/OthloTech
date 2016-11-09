@@ -7,15 +7,456 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Mon, 24 Oct 2016 23:13:51 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 03 Nov 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.othlo.tech/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>ライトニングトークを面白くするたった3つのテクニック</title>
+      <link>http://www.othlo.tech/posts/lightning_talks_technique/</link>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/posts/lightning_talks_technique/</guid>
+      <description>
+
+&lt;h1 id=&#34;ライトニングトーク-lt-を面白くするたった3つのテクニック&#34;&gt;ライトニングトーク（LT）を面白くするたった3つのテクニック&lt;/h1&gt;
+
+&lt;p&gt;こんにちは(○´∀｀)ﾉﾞ&lt;br /&gt;
+OthloTech初のブログを書くのは私、オトモレ(&lt;a href=&#34;https://twitter.com/otomore01&#34;&gt;@otomore01&lt;/a&gt;)でございます。&lt;br /&gt;
+↓ある日のSlack↓&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/posts/20161103/slack_screenshot.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;ある日のSlack&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;ということで、記念すべき第1稿に任命されました。&lt;strong&gt;光栄です！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;今回のお題はこれでいきます。
+&lt;br/&gt;&lt;br/&gt;
+&lt;div style=&#34;text-align: center;font-size: xx-large; font-weight: bold; color: red&#34;&gt;「お前らのLTはつまらん」&lt;/div&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;初っ端からキツい内容でアレなんですが…… &lt;strong&gt;聞くに堪えないLTって正直少なくないですよね？&lt;/strong&gt;&lt;br /&gt;
+せっかく面白いネタがあるのに、面白く伝えないと聞いてもらえないし伝わりません。&lt;br /&gt;
+もったいない (´；ω；`)&lt;/p&gt;
+
+&lt;p&gt;でも大丈夫。&lt;br /&gt;
+&lt;strong&gt;あなたのライトニングトークを面白くするテクニックを伝授します！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;1-フォントサイズをギリギリまでデカくしろ&#34;&gt;1. フォントサイズをギリギリまでデカくしろ&lt;/h2&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/posts/20161103/font-size_mini.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;フォントサイズ小&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;これは、頭では分かっていてもやりがちな間違い。&lt;br /&gt;
+登壇者が好きなことほど、細かい部分まで書きたくなるものですが&lt;strong&gt;そんなの誰も読まない&lt;/strong&gt;んですよ。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/posts/20161103/font-size_big.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;フォントサイズ大&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;ついでにスライドサイズも変えておきましょう&#34;&gt;ついでにスライドサイズも変えておきましょう&lt;/h3&gt;
+
+&lt;p&gt;せっかく文字をデカくしたのに、スクリーン(ディスプレイ)の端が余ってるのはモッタイナイ！&lt;br /&gt;
+スクリーンのサイズ（厳密にはアスペクト比）は「4:3」か「16:9」の2つがほとんどです。&lt;br /&gt;
+会場のスクリーンについて調べておくか、わからなければ両方作っておくのが良いでしょう。&lt;/p&gt;
+
+&lt;h2 id=&#34;2-ボケろ&#34;&gt;2. ボケろ&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;LTは漫才に似ています。&lt;/strong&gt; いやもう&lt;strong&gt;「
+LT == 漫才」&lt;/strong&gt;で Q.E.D. です。&lt;br /&gt;
+おっとw 拙者ついクセで = (イコール) を2つ並べてしまったでござるﾃﾞｭﾌﾌww&lt;/p&gt;
+
+&lt;p&gt;面白いLTとは登壇者がボケ、聴衆が(心のなかで)ツッコミを入れることにより化学反応が起き笑いが生まれているのです。&lt;br /&gt;
+いきなり「ボケろ」と言われても難しいと思うので、いくつか例をご紹介します。&lt;/p&gt;
+
+&lt;h3 id=&#34;画像でボケろ&#34;&gt;画像でボケろ&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/posts/20161103/slide-24.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;時間が足りないとき&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;これは「時間が足りないときってありますよね」などと話しながら見せるスライド。&lt;br /&gt;
+ドラマ「24」のように有名なドラマだと、見たことない人でも&lt;strong&gt;時間が足りないことだけは何となくわかった気持ち&lt;/strong&gt;になります。&lt;/p&gt;
+
+&lt;p&gt;次は少しレベルが高いかもしれません。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/posts/20161103/slide-kaba.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;GABAの話をするとき&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;これは「みなさんGABA(ギャバ)って知ってますか？」と話す場面です。&lt;br /&gt;
+説明するまでもありませんが「GABA(ギャバ)」と「KABA(カバ)」をかけたダジャレです。&lt;br /&gt;
+ただしこれは、&lt;strong&gt;一歩間違えると寒いオヤジギャグで終わることも有り得る&lt;/strong&gt;ので使い所が肝心です。&lt;/p&gt;
+
+&lt;p&gt;例に挙げたスライドは、分かりやすくするため文字を入れました。&lt;br /&gt;
+本来ならば画像を全体に広げるほうがいいでしょう。&lt;/p&gt;
+
+&lt;h3 id=&#34;何度もボケろ&#34;&gt;何度もボケろ&lt;/h3&gt;
+
+&lt;p&gt;たとえオヤジギャグでも、何度も同じボケをするのは意外と有効です。&lt;br /&gt;
+何故ならば、&lt;strong&gt;同じボケを続けることにより「聴衆が笑いどころを理解する」から&lt;/strong&gt;です。&lt;br /&gt;
+例えるなら&lt;strong&gt;「バラエティ番組のスタッフの笑い声」と同じ&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;1度目2度目はウケなくてつらいかもしれませんが、見ている人に「ここがおもしろいんじゃ」と伝えてください。&lt;br /&gt;
+3度目には会場全体から大爆笑を攫うことでしょう。(保証はしません)&lt;/p&gt;
+
+&lt;h3 id=&#34;オチを作れ&#34;&gt;オチを作れ&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;「終わり良ければすべて良し」&lt;/strong&gt;です。&lt;br /&gt;
+最後の終わらせ方が上手くないと、それまでどれほど面白いLTをしていても評価が下がります。&lt;/p&gt;
+
+&lt;p&gt;オチの作り方は多種多様です。&lt;br /&gt;
+「三段オチ」や「起承転結」「伏線回収」を取り入れるといいでしょう。&lt;/p&gt;
+
+&lt;p&gt;また、必ずしも笑いを取る必要はありません。&lt;br /&gt;
+例えば、感動オチ（例：紆余曲折を経て解決する、とか）は聴衆からの共感を得るのに最適でしょう。&lt;/p&gt;
+
+&lt;p&gt;ネタを伝えてどのような感想を与えたいかによって変えてみて下さい。&lt;br /&gt;
+「LTは漫才に似ています 」と書きましたが [漫才 オチ] などでググると参考になる資料と出会えます。&lt;/p&gt;
+
+&lt;h2 id=&#34;3-練習しろ&#34;&gt;3. 練習しろ&lt;/h2&gt;
+
+&lt;p&gt;ここまでスライドの作り方ばかりお伝えしてきましたが、最終的には練習あるのみです。&lt;br /&gt;
+練習のときに気をつけるポイントは4つ。&lt;/p&gt;
+
+&lt;h3 id=&#34;機材のチェック&#34;&gt;機材のチェック&lt;/h3&gt;
+
+&lt;p&gt;本番前に、ディスプレイまたはプロジェクタのコネクタを確認しておきましょう。&lt;br /&gt;
+持ち合わせがなかったり忘れてしまった場合は、前後の人や主催者にお願いして借りるアテをつけておきましょう。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/posts/20161103/tanshi_dsub.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;VGA端子&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;時間配分&#34;&gt;時間配分&lt;/h3&gt;
+
+&lt;p&gt;LTの時間はほとんどが5分、もしくは10分です。&lt;br /&gt;
+主催者視点からいうと、短く終わる場合は大歓迎。&lt;br /&gt;
+&lt;strong&gt;時間を超えるとはっきり言って迷惑&lt;/strong&gt;です。&lt;/p&gt;
+
+&lt;p&gt;PowerPointやKeynoteの発表者ツールには、スライドショー開始時からの経過時間が表示できます。&lt;br /&gt;
+チラっと見て、余裕がなければ早口で話すのもテクニックです。&lt;/p&gt;
+
+&lt;p&gt;練習時は30秒くらい早めに終わるのがいいでしょう。&lt;br /&gt;
+聴衆のリアクションの時間、例えば拍手喝采が起きたらその間はスライドを止めておくはずです。&lt;/p&gt;
+
+&lt;h3 id=&#34;聴衆を見て話す&#34;&gt;聴衆を見て話す&lt;/h3&gt;
+
+&lt;p&gt;スライドやPCを見ながら話す人、たまにいますよね。
+きっと&lt;strong&gt;「あーん？？お前は誰にプレゼンしてるんだ？？？スクリーンか？？？？」&lt;/strong&gt;と聴衆は感じるはずです。&lt;/p&gt;
+
+&lt;p&gt;聴衆の目を見て話すだけで、「やっべ、見なきゃ！」という気持ちになります。（言うほど簡単じゃないんですけどね。）&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/posts/20161103/presentation_pc_man_eye.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;聴衆の目を見る&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;口癖に気をつける&#34;&gt;口癖に気をつける&lt;/h3&gt;
+
+&lt;p&gt;次のセリフをロードする間「あのー」「えーと」などと垂れ流してしまうそこのアナタ！&lt;br /&gt;
+これらを&lt;strong&gt;1回使う度に、そのプレゼンの説得力は半減すると言います。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;逆に言えば、&lt;strong&gt;1回「えーと」を減らせば説得力は倍になります！&lt;/strong&gt;&lt;br /&gt;
+これらの口癖を言ってしまうのには色々原因があるのですが、大抵は「単なる練習不足」です。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;さあ、練習あるのみ！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;〆&#34;&gt;〆&lt;/h3&gt;
+
+&lt;p&gt;いかがでしたか？&lt;br /&gt;
+僕は「プレゼン」と「ライトニングトーク」は別モノだと思っています。&lt;/p&gt;
+
+&lt;p&gt;プレゼンで使うテクニックの中には、ライトニングトークだと逆効果のものもあります。（もちろん使えるものもあります:D）&lt;br /&gt;
+いろんな人のLTを見て研究するも良し、慣れてきたら自分のオリジナリティを加えていくも良し。&lt;/p&gt;
+
+&lt;p&gt;いきなり全部は難しいかもしれません、ひとつずつ試していきましょう。&lt;br /&gt;
+これでアナタもライトニングトークマスターになれるはずです！&lt;/p&gt;
+
+&lt;div style=&#34;text-align: center;font-size: xx-large; font-weight: bold&#34;&gt;どうだい？ LTしたくなってきただろう？&lt;/div&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/posts/20161103/message_goseichou_man.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;ご清聴ありがとうございました&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>OthloEvent@Goodfind #5</title>
+      <link>http://www.othlo.tech/events/othloevent05-goodfind/</link>
+      <pubDate>Sat, 29 Oct 2016 00:20:33 +0900</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent05-goodfind/</guid>
+      <description>
+
+&lt;h2 id=&#34;othloevent-goodfind-5&#34;&gt;OthloEvent @ Goodfind #5&lt;/h2&gt;
+
+&lt;p&gt;こんにちは〜！ごまき(&lt;a href=&#34;https://twitter.com/gmsesame&#34;&gt;@gmsesame&lt;/a&gt;)です。&lt;/p&gt;
+
+&lt;p&gt;最近、いきなり寒くなりましたね(ﾉ_･｡) 冬の訪れを感じます。&lt;br/&gt;
+みなさん、風邪をひかないように気をつけてくださいね…!!&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;さて、10月29日(土)に５回目となるOthloEvent&lt;a href=&#34;http://othlotech.connpass.com/event/42511/&#34;&gt;【Rails初心者向け】OthloEvent@Goodfind #5&lt;/a&gt;を&lt;a href=&#34;https://www.facebook.com/Open-Village-297407053963807/&#34;&gt;OpenVillage&lt;/a&gt;にて開催しました(&amp;lsquo;-&amp;rsquo;*)&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;今回は、Goodfindさんとのコラボイベント！&lt;br/&gt;
+東京・京都と開催されたProgramming Bootcamp「Ruby on Railsを極める1Day Camp」がついに名古屋にやってきましたヽ(‘ ∇‘ )ノ&lt;br/&gt;
+この記事では、その様子をレポートします！&lt;br/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h3&gt;
+
+&lt;p&gt;今回のイベントの時間割は以下の通り！&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;詳細&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;11:00 - 12:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;イントロダクション&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;環境構築と使用するツールの説明&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:00 - 15:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ruby on Railsの基本と実装&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;レコードの取得／登録／更新／削除&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;15:10 - 17:45&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ruby on Railsの実装&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;アソシエーションによる複数テーブルの処理&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:00 - 19:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ruby on Rails 応用編&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Gemを使った実装&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:00 -&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;bootcampの様子&#34;&gt;BootCampの様子！&lt;/h3&gt;
+
+&lt;p&gt;今回のイベントはエンジニアしてはちょっと朝早め(?)の１１時からでした。&lt;br/&gt;
+1日でRailsを詰め込むためには早起きも苦ではない…はず！&lt;br/&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;bootcampスタート&#34;&gt;BootCampスタート！&lt;/h4&gt;
+
+&lt;p&gt;最初はGoodfindさんのエンジニアによるイントロダクション。&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;まずはアイスブレイクとして、周りの席の人と自己紹介をしてもらいました。&lt;br/&gt;
+OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡･ω･)&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;その後、Webアプリケーションの仕組みやフレームワークのイメージなどについて講義していただきました。&lt;br/&gt;
+東京・京都で何度も開催していることもあり、スライドも分かりやすい〜！と好評でした(&amp;lsquo;-&amp;rsquo;*)&lt;br/&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/bootcamp01.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;講義なう&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&#34;ここでブレイク&#34;&gt;ここでブレイク&lt;/h4&gt;
+
+&lt;p&gt;講義を受けた後は、お昼休憩〜。&lt;br/&gt;
+会場となったOpenVillageは大須商店街の近くにあるため、人気の飲食店がたくさんあるんです！&lt;br/&gt;
+今日がはじめましての人も、みんな仲良くランチにGO！&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;お昼休憩はハンバーガーパーリー🍔🎉 &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/uyAcftKmbs&#34;&gt;pic.twitter.com/uyAcftKmbs&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/792214371132841985&#34;&gt;October 29, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Othloメンバーはハンバーガー食べてました笑&lt;br/&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;本格スタート&#34;&gt;本格スタート！&lt;/h4&gt;
+
+&lt;p&gt;周りの人と仲良くなって、お腹いっぱいになったところで講義再開！&lt;br/&gt;
+午後からは実際に手を動かし、Ruby on Railsによるブログシステムの実装に挑戦。&lt;br/&gt;
+(ちなみに講義資料は非公開なので、興味のある方は次回開催にご期待ください…！）&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;みんな集中してもくもくと、でもわからないところはちゃんとメンターさんや近くの友達に聞いて取り組んでいました。&lt;br/&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/bootcamp02.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;時には友達とわいわい&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;懇親会&#34;&gt;懇親会！&lt;/h3&gt;
+
+&lt;p&gt;頭を使った後はお待ちかねの懇親会！ヘ(^∇^ヘ)ヘ(^∇^ヘ) ｳﾋｮﾋｮ&lt;br/&gt;
+みんな和気藹々とおしゃべりしていました〜。
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/afterparty.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;お疲れ〜！&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;お疲れ様でした&#34;&gt;お疲れ様でした！&lt;/h3&gt;
+
+&lt;p&gt;次回のOthloEventは、なんと！メ〜テレさんとのコラボイベントですw(ﾟoﾟ)w ｵｵｰ!&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;11月15日(火)、19:00より開催します。放課後、メ〜テレにGO！&lt;/p&gt;
+
+&lt;p&gt;詳細は&lt;a href=&#34;http://othlotech.connpass.com/event/43598/&#34;&gt;Connpass&lt;/a&gt;を見てくださいね！&lt;/p&gt;
+
+&lt;p&gt;それでは〜(*￣▽￣)ﾉ&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>OthloHack 2016</title>
-      <link>http://www.othlo.tech/events/OthloHack2016/</link>
+      <link>http://www.othlo.tech/events/othlohack2016/</link>
       <pubDate>Mon, 24 Oct 2016 23:13:51 +0900</pubDate>
       
-      <guid>http://www.othlo.tech/events/OthloHack2016/</guid>
+      <guid>http://www.othlo.tech/events/othlohack2016/</guid>
       <description>
 
 &lt;h2 id=&#34;othlohack-2016-を開催しました&#34;&gt;OthloHack 2016 を開催しました！&lt;/h2&gt;
@@ -690,10 +1131,10 @@
     
     <item>
       <title>Hugo&#43;GithubPagesでサイトをリニューアル</title>
-      <link>http://www.othlo.tech/posts/Hugo&#43;github_pages/</link>
+      <link>http://www.othlo.tech/posts/hugo&#43;github-pages/</link>
       <pubDate>Sun, 23 Oct 2016 02:45:17 +0900</pubDate>
       
-      <guid>http://www.othlo.tech/posts/Hugo&#43;github_pages/</guid>
+      <guid>http://www.othlo.tech/posts/hugo&#43;github-pages/</guid>
       <description>
 
 &lt;h1 id=&#34;hugo-githubpages-で公式サイトを作り直したお話&#34;&gt;Hugo + GithubPages で公式サイトを作り直したお話&lt;/h1&gt;
@@ -936,659 +1377,11 @@ git push origin gh-pages
     </item>
     
     <item>
-      <title>OthloEvent#2 @ エイチーム</title>
-      <link>http://www.othlo.tech/posts/OthloEvent2/</link>
-      <pubDate>Sat, 15 Oct 2016 00:24:57 +0900</pubDate>
-      
-      <guid>http://www.othlo.tech/posts/OthloEvent2/</guid>
-      <description>
-
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p&gt;
-
-&lt;p&gt;In this tutorial, commands that you enter will start with the &amp;ldquo;$&amp;rdquo; prompt. The output will follow. Lines that start with &amp;ldquo;#&amp;rdquo; are comments that I&amp;rsquo;ve added to explain a point. When I show updates to a file, the &amp;ldquo;:wq&amp;rdquo; on the last line means to save the file.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s an example:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;## this is a comment
-$ echo this is a command
-this is a command
-
-## edit the file
-$vi foo.md
-+++
-date = &amp;quot;2014-09-28&amp;quot;
-title = &amp;quot;creating a new theme&amp;quot;
-+++
-
-bah and humbug
-:wq
-
-## show it
-$ cat foo.md
-+++
-date = &amp;quot;2014-09-28&amp;quot;
-title = &amp;quot;creating a new theme&amp;quot;
-+++
-
-bah and humbug
-$
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;some-definitions&#34;&gt;Some Definitions&lt;/h2&gt;
-
-&lt;p&gt;There are a few concepts that you need to understand before creating a theme.&lt;/p&gt;
-
-&lt;h3 id=&#34;skins&#34;&gt;Skins&lt;/h3&gt;
-
-&lt;p&gt;Skins are the files responsible for the look and feel of your site. It’s the CSS that controls colors and fonts, it’s the Javascript that determines actions and reactions. It’s also the rules that Hugo uses to transform your content into the HTML that the site will serve to visitors.&lt;/p&gt;
-
-&lt;p&gt;You have two ways to create a skin. The simplest way is to create it in the &lt;code&gt;layouts/&lt;/code&gt; directory. If you do, then you don’t have to worry about configuring Hugo to recognize it. The first place that Hugo will look for rules and files is in the &lt;code&gt;layouts/&lt;/code&gt; directory so it will always find the skin.&lt;/p&gt;
-
-&lt;p&gt;Your second choice is to create it in a sub-directory of the &lt;code&gt;themes/&lt;/code&gt; directory. If you do, then you must always tell Hugo where to search for the skin. It’s extra work, though, so why bother with it?&lt;/p&gt;
-
-&lt;p&gt;The difference between creating a skin in &lt;code&gt;layouts/&lt;/code&gt; and creating it in &lt;code&gt;themes/&lt;/code&gt; is very subtle. A skin in &lt;code&gt;layouts/&lt;/code&gt; can’t be customized without updating the templates and static files that it is built from. A skin created in &lt;code&gt;themes/&lt;/code&gt;, on the other hand, can be and that makes it easier for other people to use it.&lt;/p&gt;
-
-&lt;p&gt;The rest of this tutorial will call a skin created in the &lt;code&gt;themes/&lt;/code&gt; directory a theme.&lt;/p&gt;
-
-&lt;p&gt;Note that you can use this tutorial to create a skin in the &lt;code&gt;layouts/&lt;/code&gt; directory if you wish to. The main difference will be that you won’t need to update the site’s configuration file to use a theme.&lt;/p&gt;
-
-&lt;h3 id=&#34;the-home-page&#34;&gt;The Home Page&lt;/h3&gt;
-
-&lt;p&gt;The home page, or landing page, is the first page that many visitors to a site see. It is the index.html file in the root directory of the web site. Since Hugo writes files to the public/ directory, our home page is public/index.html.&lt;/p&gt;
-
-&lt;h3 id=&#34;site-configuration-file&#34;&gt;Site Configuration File&lt;/h3&gt;
-
-&lt;p&gt;When Hugo runs, it looks for a configuration file that contains settings that override default values for the entire site. The file can use TOML, YAML, or JSON. I prefer to use TOML for my configuration files. If you prefer to use JSON or YAML, you’ll need to translate my examples. You’ll also need to change the name of the file since Hugo uses the extension to determine how to process it.&lt;/p&gt;
-
-&lt;p&gt;Hugo translates Markdown files into HTML. By default, Hugo expects to find Markdown files in your &lt;code&gt;content/&lt;/code&gt; directory and template files in your &lt;code&gt;themes/&lt;/code&gt; directory. It will create HTML files in your &lt;code&gt;public/&lt;/code&gt; directory. You can change this by specifying alternate locations in the configuration file.&lt;/p&gt;
-
-&lt;h3 id=&#34;content&#34;&gt;Content&lt;/h3&gt;
-
-&lt;p&gt;Content is stored in text files that contain two sections. The first section is the “front matter,” which is the meta-information on the content. The second section contains Markdown that will be converted to HTML.&lt;/p&gt;
-
-&lt;h4 id=&#34;front-matter&#34;&gt;Front Matter&lt;/h4&gt;
-
-&lt;p&gt;The front matter is information about the content. Like the configuration file, it can be written in TOML, YAML, or JSON. Unlike the configuration file, Hugo doesn’t use the file’s extension to know the format. It looks for markers to signal the type. TOML is surrounded by “&lt;code&gt;+++&lt;/code&gt;”, YAML by “&lt;code&gt;---&lt;/code&gt;”, and JSON is enclosed in curly braces. I prefer to use TOML, so you’ll need to translate my examples if you prefer YAML or JSON.&lt;/p&gt;
-
-&lt;p&gt;The information in the front matter is passed into the template before the content is rendered into HTML.&lt;/p&gt;
-
-&lt;h4 id=&#34;markdown&#34;&gt;Markdown&lt;/h4&gt;
-
-&lt;p&gt;Content is written in Markdown which makes it easier to create the content. Hugo runs the content through a Markdown engine to create the HTML which will be written to the output file.&lt;/p&gt;
-
-&lt;h3 id=&#34;template-files&#34;&gt;Template Files&lt;/h3&gt;
-
-&lt;p&gt;Hugo uses template files to render content into HTML. Template files are a bridge between the content and presentation. Rules in the template define what content is published, where it&amp;rsquo;s published to, and how it will rendered to the HTML file. The template guides the presentation by specifying the style to use.&lt;/p&gt;
-
-&lt;p&gt;There are three types of templates: single, list, and partial. Each type takes a bit of content as input and transforms it based on the commands in the template.&lt;/p&gt;
-
-&lt;p&gt;Hugo uses its knowledge of the content to find the template file used to render the content. If it can’t find a template that is an exact match for the content, it will shift up a level and search from there. It will continue to do so until it finds a matching template or runs out of templates to try. If it can’t find a template, it will use the default template for the site.&lt;/p&gt;
-
-&lt;p&gt;Please note that you can use the front matter to influence Hugo’s choice of templates.&lt;/p&gt;
-
-&lt;h4 id=&#34;single-template&#34;&gt;Single Template&lt;/h4&gt;
-
-&lt;p&gt;A single template is used to render a single piece of content. For example, an article or post would be a single piece of content and use a single template.&lt;/p&gt;
-
-&lt;h4 id=&#34;list-template&#34;&gt;List Template&lt;/h4&gt;
-
-&lt;p&gt;A list template renders a group of related content. That could be a summary of recent postings or all articles in a category. List templates can contain multiple groups.&lt;/p&gt;
-
-&lt;p&gt;The homepage template is a special type of list template. Hugo assumes that the home page of your site will act as the portal for the rest of the content in the site.&lt;/p&gt;
-
-&lt;h4 id=&#34;partial-template&#34;&gt;Partial Template&lt;/h4&gt;
-
-&lt;p&gt;A partial template is a template that can be included in other templates. Partial templates must be called using the “partial” template command. They are very handy for rolling up common behavior. For example, your site may have a banner that all pages use. Instead of copying the text of the banner into every single and list template, you could create a partial with the banner in it. That way if you decide to change the banner, you only have to change the partial template.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-a-new-site&#34;&gt;Create a New Site&lt;/h2&gt;
-
-&lt;p&gt;Let&amp;rsquo;s use Hugo to create a new web site. I&amp;rsquo;m a Mac user, so I&amp;rsquo;ll create mine in my home directory, in the Sites folder. If you&amp;rsquo;re using Linux, you might have to create the folder first.&lt;/p&gt;
-
-&lt;p&gt;The &amp;ldquo;new site&amp;rdquo; command will create a skeleton of a site. It will give you the basic directory structure and a useable configuration file.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ hugo new site ~/Sites/zafta
-$ cd ~/Sites/zafta
-$ ls -l
-total 8
-drwxr-xr-x  7 quoha  staff  238 Sep 29 16:49 .
-drwxr-xr-x  3 quoha  staff  102 Sep 29 16:49 ..
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 archetypes
--rw-r--r--  1 quoha  staff   82 Sep 29 16:49 config.toml
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 content
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 layouts
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 static
-$
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Take a look in the content/ directory to confirm that it is empty.&lt;/p&gt;
-
-&lt;p&gt;The other directories (archetypes/, layouts/, and static/) are used when customizing a theme. That&amp;rsquo;s a topic for a different tutorial, so please ignore them for now.&lt;/p&gt;
-
-&lt;h3 id=&#34;generate-the-html-for-the-new-site&#34;&gt;Generate the HTML For the New Site&lt;/h3&gt;
-
-&lt;p&gt;Running the &lt;code&gt;hugo&lt;/code&gt; command with no options will read all the available content and generate the HTML files. It will also copy all static files (that&amp;rsquo;s everything that&amp;rsquo;s not content). Since we have an empty site, it won&amp;rsquo;t do much, but it will do it very quickly.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ hugo --verbose
-INFO: 2014/09/29 Using config file: config.toml
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
-WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
-WARN: 2014/09/29 Unable to locate layout: [404.html]
-0 draft content
-0 future content
-0 pages created
-0 tags created
-0 categories created
-in 2 ms
-$
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;The &amp;ldquo;&lt;code&gt;--verbose&lt;/code&gt;&amp;rdquo; flag gives extra information that will be helpful when we build the template. Every line of the output that starts with &amp;ldquo;INFO:&amp;rdquo; or &amp;ldquo;WARN:&amp;rdquo; is present because we used that flag. The lines that start with &amp;ldquo;WARN:&amp;rdquo; are warning messages. We&amp;rsquo;ll go over them later.&lt;/p&gt;
-
-&lt;p&gt;We can verify that the command worked by looking at the directory again.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ ls -l
-total 8
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 archetypes
--rw-r--r--  1 quoha  staff   82 Sep 29 16:49 config.toml
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 content
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 layouts
-drwxr-xr-x  4 quoha  staff  136 Sep 29 17:02 public
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 static
-$
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;See that new public/ directory? Hugo placed all generated content there. When you&amp;rsquo;re ready to publish your web site, that&amp;rsquo;s the place to start. For now, though, let&amp;rsquo;s just confirm that we have what we&amp;rsquo;d expect from a site with no content.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ ls -l public
-total 16
--rw-r--r--  1 quoha  staff  416 Sep 29 17:02 index.xml
--rw-r--r--  1 quoha  staff  262 Sep 29 17:02 sitemap.xml
-$
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Hugo created two XML files, which is standard, but there are no HTML files.&lt;/p&gt;
-
-&lt;h3 id=&#34;test-the-new-site&#34;&gt;Test the New Site&lt;/h3&gt;
-
-&lt;p&gt;Verify that you can run the built-in web server. It will dramatically shorten your development cycle if you do. Start it by running the &amp;ldquo;server&amp;rdquo; command. If it is successful, you will see output similar to the following:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ hugo server --verbose
-INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
-INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
-WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
-WARN: 2014/09/29 Unable to locate layout: [404.html]
-0 draft content
-0 future content
-0 pages created
-0 tags created
-0 categories created
-in 2 ms
-Serving pages from /Users/quoha/Sites/zafta/public
-Web Server is available at http://localhost:1313
-Press Ctrl+C to stop
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Connect to the listed URL (it&amp;rsquo;s on the line that starts with &amp;ldquo;Web Server&amp;rdquo;). If everything is working correctly, you should get a page that shows the following:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;index.xml
-sitemap.xml
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;That&amp;rsquo;s a listing of your public/ directory. Hugo didn&amp;rsquo;t create a home page because our site has no content. When there&amp;rsquo;s no index.html file in a directory, the server lists the files in the directory, which is what you should see in your browser.&lt;/p&gt;
-
-&lt;p&gt;Let’s go back and look at those warnings again.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
-WARN: 2014/09/29 Unable to locate layout: [404.html]
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;That second warning is easier to explain. We haven’t created a template to be used to generate “page not found errors.” The 404 message is a topic for a separate tutorial.&lt;/p&gt;
-
-&lt;p&gt;Now for the first warning. It is for the home page. You can tell because the first layout that it looked for was “index.html.” That’s only used by the home page.&lt;/p&gt;
-
-&lt;p&gt;I like that the verbose flag causes Hugo to list the files that it&amp;rsquo;s searching for. For the home page, they are index.html, _default/list.html, and _default/single.html. There are some rules that we&amp;rsquo;ll cover later that explain the names and paths. For now, just remember that Hugo couldn&amp;rsquo;t find a template for the home page and it told you so.&lt;/p&gt;
-
-&lt;p&gt;At this point, you&amp;rsquo;ve got a working installation and site that we can build upon. All that’s left is to add some content and a theme to display it.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-a-new-theme&#34;&gt;Create a New Theme&lt;/h2&gt;
-
-&lt;p&gt;Hugo doesn&amp;rsquo;t ship with a default theme. There are a few available (I counted a dozen when I first installed Hugo) and Hugo comes with a command to create new themes.&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;re going to create a new theme called &amp;ldquo;zafta.&amp;rdquo; Since the goal of this tutorial is to show you how to fill out the files to pull in your content, the theme will not contain any CSS. In other words, ugly but functional.&lt;/p&gt;
-
-&lt;p&gt;All themes have opinions on content and layout. For example, Zafta uses &amp;ldquo;post&amp;rdquo; over &amp;ldquo;blog&amp;rdquo;. Strong opinions make for simpler templates but differing opinions make it tougher to use themes. When you build a theme, consider using the terms that other themes do.&lt;/p&gt;
-
-&lt;h3 id=&#34;create-a-skeleton&#34;&gt;Create a Skeleton&lt;/h3&gt;
-
-&lt;p&gt;Use the hugo &amp;ldquo;new&amp;rdquo; command to create the skeleton of a theme. This creates the directory structure and places empty files for you to fill out.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ hugo new theme zafta
-
-$ ls -l
-total 8
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 archetypes
--rw-r--r--  1 quoha  staff   82 Sep 29 16:49 config.toml
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 content
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 layouts
-drwxr-xr-x  4 quoha  staff  136 Sep 29 17:02 public
-drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 static
-drwxr-xr-x  3 quoha  staff  102 Sep 29 17:31 themes
-
-$ find themes -type f | xargs ls -l
--rw-r--r--  1 quoha  staff  1081 Sep 29 17:31 themes/zafta/LICENSE.md
--rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/archetypes/default.md
--rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/_default/list.html
--rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/_default/single.html
--rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/index.html
--rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/partials/footer.html
--rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/partials/header.html
--rw-r--r--  1 quoha  staff    93 Sep 29 17:31 themes/zafta/theme.toml
-$
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;The skeleton includes templates (the files ending in .html), license file, a description of your theme (the theme.toml file), and an empty archetype.&lt;/p&gt;
-
-&lt;p&gt;Please take a minute to fill out the theme.toml and LICENSE.md files. They&amp;rsquo;re optional, but if you&amp;rsquo;re going to be distributing your theme, it tells the world who to praise (or blame). It&amp;rsquo;s also nice to declare the license so that people will know how they can use the theme.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ vi themes/zafta/theme.toml
-author = &amp;quot;michael d henderson&amp;quot;
-description = &amp;quot;a minimal working template&amp;quot;
-license = &amp;quot;MIT&amp;quot;
-name = &amp;quot;zafta&amp;quot;
-source_repo = &amp;quot;&amp;quot;
-tags = [&amp;quot;tags&amp;quot;, &amp;quot;categories&amp;quot;]
-:wq
-
-## also edit themes/zafta/LICENSE.md and change
-## the bit that says &amp;quot;YOUR_NAME_HERE&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Note that the the skeleton&amp;rsquo;s template files are empty. Don&amp;rsquo;t worry, we&amp;rsquo;ll be changing that shortly.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ find themes/zafta -name &#39;*.html&#39; | xargs ls -l
--rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/_default/list.html
--rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/_default/single.html
--rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/index.html
--rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/partials/footer.html
--rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/partials/header.html
-$
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;update-the-configuration-file-to-use-the-theme&#34;&gt;Update the Configuration File to Use the Theme&lt;/h3&gt;
-
-&lt;p&gt;Now that we&amp;rsquo;ve got a theme to work with, it&amp;rsquo;s a good idea to add the theme name to the configuration file. This is optional, because you can always add &amp;ldquo;-t zafta&amp;rdquo; on all your commands. I like to put it the configuration file because I like shorter command lines. If you don&amp;rsquo;t put it in the configuration file or specify it on the command line, you won&amp;rsquo;t use the template that you&amp;rsquo;re expecting to.&lt;/p&gt;
-
-&lt;p&gt;Edit the file to add the theme, add a title for the site, and specify that all of our content will use the TOML format.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ vi config.toml
-theme = &amp;quot;zafta&amp;quot;
-baseurl = &amp;quot;&amp;quot;
-languageCode = &amp;quot;en-us&amp;quot;
-title = &amp;quot;zafta - totally refreshing&amp;quot;
-MetaDataFormat = &amp;quot;toml&amp;quot;
-:wq
-
-$
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OthloHack 2016</title>
-      <link>http://www.othlo.tech/posts/OthloHack2016/</link>
-      <pubDate>Thu, 13 Oct 2016 00:20:33 +0900</pubDate>
-      
-      <guid>http://www.othlo.tech/posts/OthloHack2016/</guid>
-      <description>
-
-&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic. In our experience that it is just the right amount of
-logic to be able to create a good static website. If you have used other
-template systems from different languages or frameworks you will find a lot of
-similarities in go templates.&lt;/p&gt;
-
-&lt;p&gt;This document is a brief primer on using go templates. The &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;go docs&lt;/a&gt;
-provide more details.&lt;/p&gt;
-
-&lt;h2 id=&#34;introduction-to-go-templates&#34;&gt;Introduction to Go Templates&lt;/h2&gt;
-
-&lt;p&gt;Go templates provide an extremely simple template language. It adheres to the
-belief that only the most basic of logic belongs in the template or view layer.
-One consequence of this simplicity is that go templates parse very quickly.&lt;/p&gt;
-
-&lt;p&gt;A unique characteristic of go templates is they are content aware. Variables and
-content will be sanitized depending on the context of where they are used. More
-details can be found in the &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;go docs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;basic-syntax&#34;&gt;Basic Syntax&lt;/h2&gt;
-
-&lt;p&gt;Go lang templates are html files with the addition of variables and
-functions.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Go variables and functions are accessible within {{ }}&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Accessing a predefined variable &amp;ldquo;foo&amp;rdquo;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ foo }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong&gt;Parameters are separated using spaces&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Calling the add function with input of 1, 2:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ add 1 2 }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong&gt;Methods and fields are accessed via dot notation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Accessing the Page Parameter &amp;ldquo;bar&amp;rdquo;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ .Params.bar }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong&gt;Parentheses can be used to group items together&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ if or (isset .Params &amp;quot;alt&amp;quot;) (isset .Params &amp;quot;caption&amp;quot;) }} Caption {{ end }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;variables&#34;&gt;Variables&lt;/h2&gt;
-
-&lt;p&gt;Each go template has a struct (object) made available to it. In hugo each
-template is passed either a page or a node struct depending on which type of
-page you are rendering. More details are available on the
-&lt;a href=&#34;http://www.othlo.tech/layout/variables&#34;&gt;variables&lt;/a&gt; page.&lt;/p&gt;
-
-&lt;p&gt;A variable is accessed by referencing the variable name.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;title&amp;gt;{{ .Title }}&amp;lt;/title&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Variables can also be defined and referenced.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ $address := &amp;quot;123 Main St.&amp;quot;}}
-{{ $address }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;functions&#34;&gt;Functions&lt;/h2&gt;
-
-&lt;p&gt;Go template ship with a few functions which provide basic functionality. The go
-template system also provides a mechanism for applications to extend the
-available functions with their own. &lt;a href=&#34;http://www.othlo.tech/layout/functions&#34;&gt;Hugo template
-functions&lt;/a&gt; provide some additional functionality we believe
-are useful for building websites. Functions are called by using their name
-followed by the required parameters separated by spaces. Template
-functions cannot be added without recompiling hugo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ add 1 2 }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;includes&#34;&gt;Includes&lt;/h2&gt;
-
-&lt;p&gt;When including another template you will pass to it the data it will be
-able to access. To pass along the current context please remember to
-include a trailing dot. The templates location will always be starting at
-the /layout/ directory within Hugo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ template &amp;quot;chrome/header.html&amp;quot; . }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;logic&#34;&gt;Logic&lt;/h2&gt;
-
-&lt;p&gt;Go templates provide the most basic iteration and conditional logic.&lt;/p&gt;
-
-&lt;h3 id=&#34;iteration&#34;&gt;Iteration&lt;/h3&gt;
-
-&lt;p&gt;Just like in go, the go templates make heavy use of range to iterate over
-a map, array or slice. The following are different examples of how to use
-range.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 1: Using Context&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ range array }}
-    {{ . }}
-{{ end }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 2: Declaring value variable name&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{range $element := array}}
-    {{ $element }}
-{{ end }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 2: Declaring key and value variable name&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{range $index, $element := array}}
-    {{ $index }}
-    {{ $element }}
-{{ end }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;conditionals&#34;&gt;Conditionals&lt;/h3&gt;
-
-&lt;p&gt;If, else, with, or, &amp;amp; and provide the framework for handling conditional
-logic in Go Templates. Like range, each statement is closed with &lt;code&gt;end&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;Go Templates treat the following values as false:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;false&lt;/li&gt;
-&lt;li&gt;0&lt;/li&gt;
-&lt;li&gt;any array, slice, map, or string of length zero&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 1: If&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ if isset .Params &amp;quot;title&amp;quot; }}&amp;lt;h4&amp;gt;{{ index .Params &amp;quot;title&amp;quot; }}&amp;lt;/h4&amp;gt;{{ end }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 2: If -&amp;gt; Else&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ if isset .Params &amp;quot;alt&amp;quot; }}
-    {{ index .Params &amp;quot;alt&amp;quot; }}
-{{else}}
-    {{ index .Params &amp;quot;caption&amp;quot; }}
-{{ end }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 3: And &amp;amp; Or&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ if and (or (isset .Params &amp;quot;title&amp;quot;) (isset .Params &amp;quot;caption&amp;quot;)) (isset .Params &amp;quot;attr&amp;quot;)}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 4: With&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;An alternative way of writing &amp;ldquo;if&amp;rdquo; and then referencing the same value
-is to use &amp;ldquo;with&amp;rdquo; instead. With rebinds the context &lt;code&gt;.&lt;/code&gt; within its scope,
-and skips the block if the variable is absent.&lt;/p&gt;
-
-&lt;p&gt;The first example above could be simplified as:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ with .Params.title }}&amp;lt;h4&amp;gt;{{ . }}&amp;lt;/h4&amp;gt;{{ end }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 5: If -&amp;gt; Else If&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ if isset .Params &amp;quot;alt&amp;quot; }}
-    {{ index .Params &amp;quot;alt&amp;quot; }}
-{{ else if isset .Params &amp;quot;caption&amp;quot; }}
-    {{ index .Params &amp;quot;caption&amp;quot; }}
-{{ end }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;pipes&#34;&gt;Pipes&lt;/h2&gt;
-
-&lt;p&gt;One of the most powerful components of go templates is the ability to
-stack actions one after another. This is done by using pipes. Borrowed
-from unix pipes, the concept is simple, each pipeline&amp;rsquo;s output becomes the
-input of the following pipe.&lt;/p&gt;
-
-&lt;p&gt;Because of the very simple syntax of go templates, the pipe is essential
-to being able to chain together function calls. One limitation of the
-pipes is that they only can work with a single value and that value
-becomes the last parameter of the next pipeline.&lt;/p&gt;
-
-&lt;p&gt;A few simple examples should help convey how to use the pipe.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 1 :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ if eq 1 1 }} Same {{ end }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;is the same as&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ eq 1 1 | if }} Same {{ end }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;It does look odd to place the if at the end, but it does provide a good
-illustration of how to use the pipes.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 2 :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ index .Params &amp;quot;disqus_url&amp;quot; | html }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Access the page parameter called &amp;ldquo;disqus_url&amp;rdquo; and escape the HTML.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 3 :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ if or (or (isset .Params &amp;quot;title&amp;quot;) (isset .Params &amp;quot;caption&amp;quot;)) (isset .Params &amp;quot;attr&amp;quot;)}}
-Stuff Here
-{{ end }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Could be rewritten as&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{  isset .Params &amp;quot;caption&amp;quot; | or isset .Params &amp;quot;title&amp;quot; | or isset .Params &amp;quot;attr&amp;quot; | if }}
-Stuff Here
-{{ end }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;context-aka-the-dot&#34;&gt;Context (aka. the dot)&lt;/h2&gt;
-
-&lt;p&gt;The most easily overlooked concept to understand about go templates is that {{ . }}
-always refers to the current context. In the top level of your template this
-will be the data set made available to it. Inside of a iteration it will have
-the value of the current item. When inside of a loop the context has changed. .
-will no longer refer to the data available to the entire page. If you need to
-access this from within the loop you will likely want to set it to a variable
-instead of depending on the context.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;  {{ $title := .Site.Title }}
-  {{ range .Params.tags }}
-    &amp;lt;li&amp;gt; &amp;lt;a href=&amp;quot;{{ $baseurl }}/tags/{{ . | urlize | lower  }}&amp;quot;&amp;gt;{{ . }}&amp;lt;/a&amp;gt; - {{ $title }} &amp;lt;/li&amp;gt;
-  {{ end }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Notice how once we have entered the loop the value of {{ . }} has changed. We
-have defined a variable outside of the loop so we have access to it from within
-the loop.&lt;/p&gt;
-
-&lt;h1 id=&#34;hugo-parameters&#34;&gt;Hugo Parameters&lt;/h1&gt;
-
-&lt;p&gt;Hugo provides the option of passing values to the template language
-through the site configuration (for sitewide values), or through the meta
-data of each specific piece of content. You can define any values of any
-type (supported by your front matter/config format) and use them however
-you want to inside of your templates.&lt;/p&gt;
-
-&lt;h2 id=&#34;using-content-page-parameters&#34;&gt;Using Content (page) Parameters&lt;/h2&gt;
-
-&lt;p&gt;In each piece of content you can provide variables to be used by the
-templates. This happens in the &lt;a href=&#34;http://www.othlo.tech/content/front-matter&#34;&gt;front matter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;An example of this is used in this documentation site. Most of the pages
-benefit from having the table of contents provided. Sometimes the TOC just
-doesn&amp;rsquo;t make a lot of sense. We&amp;rsquo;ve defined a variable in our front matter
-of some pages to turn off the TOC from being displayed.&lt;/p&gt;
-
-&lt;p&gt;Here is the example front matter:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;---
-title: &amp;quot;Permalinks&amp;quot;
-date: &amp;quot;2013-11-18&amp;quot;
-aliases:
-  - &amp;quot;/doc/permalinks/&amp;quot;
-groups: [&amp;quot;extras&amp;quot;]
-groups_weight: 30
-notoc: true
----
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Here is the corresponding code inside of the template:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;  {{ if not .Params.notoc }}
-    &amp;lt;div id=&amp;quot;toc&amp;quot; class=&amp;quot;well col-md-4 col-sm-6&amp;quot;&amp;gt;
-    {{ .TableOfContents }}
-    &amp;lt;/div&amp;gt;
-  {{ end }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;using-site-config-parameters&#34;&gt;Using Site (config) Parameters&lt;/h2&gt;
-
-&lt;p&gt;In your top-level configuration file (eg, &lt;code&gt;config.yaml&lt;/code&gt;) you can define site
-parameters, which are values which will be available to you in chrome.&lt;/p&gt;
-
-&lt;p&gt;For instance, you might declare:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-yaml&#34;&gt;params:
-  CopyrightHTML: &amp;quot;Copyright &amp;amp;#xA9; 2013 John Doe. All Rights Reserved.&amp;quot;
-  TwitterUser: &amp;quot;spf13&amp;quot;
-  SidebarRecentLimit: 5
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Within a footer layout, you might then declare a &lt;code&gt;&amp;lt;footer&amp;gt;&lt;/code&gt; which is only
-provided if the &lt;code&gt;CopyrightHTML&lt;/code&gt; parameter is provided, and if it is given,
-you would declare it to be HTML-safe, so that the HTML entity is not escaped
-again.  This would let you easily update just your top-level config file each
-January 1st, instead of hunting through your templates.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{if .Site.Params.CopyrightHTML}}&amp;lt;footer&amp;gt;
-&amp;lt;div class=&amp;quot;text-center&amp;quot;&amp;gt;{{.Site.Params.CopyrightHTML | safeHtml}}&amp;lt;/div&amp;gt;
-&amp;lt;/footer&amp;gt;{{end}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;An alternative way of writing the &amp;ldquo;if&amp;rdquo; and then referencing the same value
-is to use &amp;ldquo;with&amp;rdquo; instead. With rebinds the context &lt;code&gt;.&lt;/code&gt; within its scope,
-and skips the block if the variable is absent:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{with .Site.Params.TwitterUser}}&amp;lt;span class=&amp;quot;twitter&amp;quot;&amp;gt;
-&amp;lt;a href=&amp;quot;https://twitter.com/{{.}}&amp;quot; rel=&amp;quot;author&amp;quot;&amp;gt;
-&amp;lt;img src=&amp;quot;/images/twitter.png&amp;quot; width=&amp;quot;48&amp;quot; height=&amp;quot;48&amp;quot; title=&amp;quot;Twitter: {{.}}&amp;quot;
- alt=&amp;quot;Twitter&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;
-&amp;lt;/span&amp;gt;{{end}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Finally, if you want to pull &amp;ldquo;magic constants&amp;rdquo; out of your layouts, you can do
-so, such as in this example:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;nav class=&amp;quot;recent&amp;quot;&amp;gt;
-  &amp;lt;h1&amp;gt;Recent Posts&amp;lt;/h1&amp;gt;
-  &amp;lt;ul&amp;gt;{{range first .Site.Params.SidebarRecentLimit .Site.Recent}}
-    &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;{{.RelPermalink}}&amp;quot;&amp;gt;{{.Title}}&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
-  {{end}}&amp;lt;/ul&amp;gt;
-&amp;lt;/nav&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>OthloEvent @ 名城shake #4</title>
-      <link>http://www.othlo.tech/events/OthloEvent4@%E5%90%8D%E5%9F%8Eshake/</link>
+      <title>OthloEvent@名城shake #4</title>
+      <link>http://www.othlo.tech/events/othloevent04-shake/</link>
       <pubDate>Sat, 24 Sep 2016 00:20:33 +0900</pubDate>
       
-      <guid>http://www.othlo.tech/events/OthloEvent4@%E5%90%8D%E5%9F%8Eshake/</guid>
+      <guid>http://www.othlo.tech/events/othloevent04-shake/</guid>
       <description>
 
 &lt;h2 id=&#34;othloevent-名城shake-を開催しました&#34;&gt;OthloEvent@名城shake を開催しました！&lt;/h2&gt;
@@ -1807,11 +1600,11 @@ so, such as in this example:&lt;/p&gt;
     </item>
     
     <item>
-      <title>OthloEvent @ Misoca #3</title>
-      <link>http://www.othlo.tech/events/OthloEvent3@Misoca/</link>
+      <title>OthloEvent@Misoca #3</title>
+      <link>http://www.othlo.tech/events/othloevent03-misoca/</link>
       <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/events/OthloEvent3@Misoca/</guid>
+      <guid>http://www.othlo.tech/events/othloevent03-misoca/</guid>
       <description>
 
 &lt;h2 id=&#34;othloevent-misoca-3-を開催しました&#34;&gt;OthloEvent@Misoca #3 を開催しました！&lt;/h2&gt;
@@ -1969,11 +1762,11 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
     </item>
     
     <item>
-      <title>OthloEvent @ エイチーム #2</title>
-      <link>http://www.othlo.tech/events/OthloEvent2@%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BC%E3%83%A0/</link>
+      <title>OthloEvent@エイチーム #2</title>
+      <link>http://www.othlo.tech/events/othloevent02-ateam/</link>
       <pubDate>Fri, 24 Jun 2016 00:20:33 +0900</pubDate>
       
-      <guid>http://www.othlo.tech/events/OthloEvent2@%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BC%E3%83%A0/</guid>
+      <guid>http://www.othlo.tech/events/othloevent02-ateam/</guid>
       <description>
 
 &lt;h1 id=&#34;othloevent-エイチーム-を開催しました&#34;&gt;OthloEvent @ エイチーム を開催しました！&lt;/h1&gt;
@@ -2290,10 +2083,10 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
     
     <item>
       <title>学生LT会@名古屋 ~エンジニア/デザイナー~</title>
-      <link>http://www.othlo.tech/events/OthloEvent1@%E5%90%8D%E5%9F%8EShake/</link>
+      <link>http://www.othlo.tech/events/othloevent01-shake/</link>
       <pubDate>Sun, 22 May 2016 00:20:33 +0900</pubDate>
       
-      <guid>http://www.othlo.tech/events/OthloEvent1@%E5%90%8D%E5%9F%8EShake/</guid>
+      <guid>http://www.othlo.tech/events/othloevent01-shake/</guid>
       <description>
 
 &lt;h1 id=&#34;学生lt会-名古屋-エンジニア-デザイナー-を開催しました&#34;&gt;学生LT会@名古屋 ~エンジニア/デザイナー~ を開催しました！&lt;/h1&gt;

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OthloTech -学生クリエイティブ集団-</title>
+    <link>http://www.othlo.tech/tags/%E8%B3%87%E6%96%99%E4%BD%9C%E6%88%90/index.xml</link>
+    <description>Recent content on OthloTech -学生クリエイティブ集団-</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
+    <atom:link href="http://www.othlo.tech/tags/%E8%B3%87%E6%96%99%E4%BD%9C%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ライトニングトークを面白くするたった3つのテクニック</title>
+      <link>http://www.othlo.tech/posts/lightning_talks_technique/</link>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/posts/lightning_talks_technique/</guid>
+      <description>
+
+&lt;h1 id=&#34;ライトニングトーク-lt-を面白くするたった3つのテクニック&#34;&gt;ライトニングトーク（LT）を面白くするたった3つのテクニック&lt;/h1&gt;
+
+&lt;p&gt;こんにちは(○´∀｀)ﾉﾞ&lt;br /&gt;
+OthloTech初のブログを書くのは私、オトモレ(&lt;a href=&#34;https://twitter.com/otomore01&#34;&gt;@otomore01&lt;/a&gt;)でございます。&lt;br /&gt;
+↓ある日のSlack↓&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/posts/20161103/slack_screenshot.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;ある日のSlack&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;ということで、記念すべき第1稿に任命されました。&lt;strong&gt;光栄です！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;今回のお題はこれでいきます。
+&lt;br/&gt;&lt;br/&gt;
+&lt;div style=&#34;text-align: center;font-size: xx-large; font-weight: bold; color: red&#34;&gt;「お前らのLTはつまらん」&lt;/div&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;初っ端からキツい内容でアレなんですが…… &lt;strong&gt;聞くに堪えないLTって正直少なくないですよね？&lt;/strong&gt;&lt;br /&gt;
+せっかく面白いネタがあるのに、面白く伝えないと聞いてもらえないし伝わりません。&lt;br /&gt;
+もったいない (´；ω；`)&lt;/p&gt;
+
+&lt;p&gt;でも大丈夫。&lt;br /&gt;
+&lt;strong&gt;あなたのライトニングトークを面白くするテクニックを伝授します！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;1-フォントサイズをギリギリまでデカくしろ&#34;&gt;1. フォントサイズをギリギリまでデカくしろ&lt;/h2&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/posts/20161103/font-size_mini.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;フォントサイズ小&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;これは、頭では分かっていてもやりがちな間違い。&lt;br /&gt;
+登壇者が好きなことほど、細かい部分まで書きたくなるものですが&lt;strong&gt;そんなの誰も読まない&lt;/strong&gt;んですよ。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/posts/20161103/font-size_big.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;フォントサイズ大&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;ついでにスライドサイズも変えておきましょう&#34;&gt;ついでにスライドサイズも変えておきましょう&lt;/h3&gt;
+
+&lt;p&gt;せっかく文字をデカくしたのに、スクリーン(ディスプレイ)の端が余ってるのはモッタイナイ！&lt;br /&gt;
+スクリーンのサイズ（厳密にはアスペクト比）は「4:3」か「16:9」の2つがほとんどです。&lt;br /&gt;
+会場のスクリーンについて調べておくか、わからなければ両方作っておくのが良いでしょう。&lt;/p&gt;
+
+&lt;h2 id=&#34;2-ボケろ&#34;&gt;2. ボケろ&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;LTは漫才に似ています。&lt;/strong&gt; いやもう&lt;strong&gt;「
+LT == 漫才」&lt;/strong&gt;で Q.E.D. です。&lt;br /&gt;
+おっとw 拙者ついクセで = (イコール) を2つ並べてしまったでござるﾃﾞｭﾌﾌww&lt;/p&gt;
+
+&lt;p&gt;面白いLTとは登壇者がボケ、聴衆が(心のなかで)ツッコミを入れることにより化学反応が起き笑いが生まれているのです。&lt;br /&gt;
+いきなり「ボケろ」と言われても難しいと思うので、いくつか例をご紹介します。&lt;/p&gt;
+
+&lt;h3 id=&#34;画像でボケろ&#34;&gt;画像でボケろ&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/posts/20161103/slide-24.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;時間が足りないとき&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;これは「時間が足りないときってありますよね」などと話しながら見せるスライド。&lt;br /&gt;
+ドラマ「24」のように有名なドラマだと、見たことない人でも&lt;strong&gt;時間が足りないことだけは何となくわかった気持ち&lt;/strong&gt;になります。&lt;/p&gt;
+
+&lt;p&gt;次は少しレベルが高いかもしれません。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/posts/20161103/slide-kaba.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;GABAの話をするとき&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;これは「みなさんGABA(ギャバ)って知ってますか？」と話す場面です。&lt;br /&gt;
+説明するまでもありませんが「GABA(ギャバ)」と「KABA(カバ)」をかけたダジャレです。&lt;br /&gt;
+ただしこれは、&lt;strong&gt;一歩間違えると寒いオヤジギャグで終わることも有り得る&lt;/strong&gt;ので使い所が肝心です。&lt;/p&gt;
+
+&lt;p&gt;例に挙げたスライドは、分かりやすくするため文字を入れました。&lt;br /&gt;
+本来ならば画像を全体に広げるほうがいいでしょう。&lt;/p&gt;
+
+&lt;h3 id=&#34;何度もボケろ&#34;&gt;何度もボケろ&lt;/h3&gt;
+
+&lt;p&gt;たとえオヤジギャグでも、何度も同じボケをするのは意外と有効です。&lt;br /&gt;
+何故ならば、&lt;strong&gt;同じボケを続けることにより「聴衆が笑いどころを理解する」から&lt;/strong&gt;です。&lt;br /&gt;
+例えるなら&lt;strong&gt;「バラエティ番組のスタッフの笑い声」と同じ&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;1度目2度目はウケなくてつらいかもしれませんが、見ている人に「ここがおもしろいんじゃ」と伝えてください。&lt;br /&gt;
+3度目には会場全体から大爆笑を攫うことでしょう。(保証はしません)&lt;/p&gt;
+
+&lt;h3 id=&#34;オチを作れ&#34;&gt;オチを作れ&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;「終わり良ければすべて良し」&lt;/strong&gt;です。&lt;br /&gt;
+最後の終わらせ方が上手くないと、それまでどれほど面白いLTをしていても評価が下がります。&lt;/p&gt;
+
+&lt;p&gt;オチの作り方は多種多様です。&lt;br /&gt;
+「三段オチ」や「起承転結」「伏線回収」を取り入れるといいでしょう。&lt;/p&gt;
+
+&lt;p&gt;また、必ずしも笑いを取る必要はありません。&lt;br /&gt;
+例えば、感動オチ（例：紆余曲折を経て解決する、とか）は聴衆からの共感を得るのに最適でしょう。&lt;/p&gt;
+
+&lt;p&gt;ネタを伝えてどのような感想を与えたいかによって変えてみて下さい。&lt;br /&gt;
+「LTは漫才に似ています 」と書きましたが [漫才 オチ] などでググると参考になる資料と出会えます。&lt;/p&gt;
+
+&lt;h2 id=&#34;3-練習しろ&#34;&gt;3. 練習しろ&lt;/h2&gt;
+
+&lt;p&gt;ここまでスライドの作り方ばかりお伝えしてきましたが、最終的には練習あるのみです。&lt;br /&gt;
+練習のときに気をつけるポイントは4つ。&lt;/p&gt;
+
+&lt;h3 id=&#34;機材のチェック&#34;&gt;機材のチェック&lt;/h3&gt;
+
+&lt;p&gt;本番前に、ディスプレイまたはプロジェクタのコネクタを確認しておきましょう。&lt;br /&gt;
+持ち合わせがなかったり忘れてしまった場合は、前後の人や主催者にお願いして借りるアテをつけておきましょう。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/posts/20161103/tanshi_dsub.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;VGA端子&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;時間配分&#34;&gt;時間配分&lt;/h3&gt;
+
+&lt;p&gt;LTの時間はほとんどが5分、もしくは10分です。&lt;br /&gt;
+主催者視点からいうと、短く終わる場合は大歓迎。&lt;br /&gt;
+&lt;strong&gt;時間を超えるとはっきり言って迷惑&lt;/strong&gt;です。&lt;/p&gt;
+
+&lt;p&gt;PowerPointやKeynoteの発表者ツールには、スライドショー開始時からの経過時間が表示できます。&lt;br /&gt;
+チラっと見て、余裕がなければ早口で話すのもテクニックです。&lt;/p&gt;
+
+&lt;p&gt;練習時は30秒くらい早めに終わるのがいいでしょう。&lt;br /&gt;
+聴衆のリアクションの時間、例えば拍手喝采が起きたらその間はスライドを止めておくはずです。&lt;/p&gt;
+
+&lt;h3 id=&#34;聴衆を見て話す&#34;&gt;聴衆を見て話す&lt;/h3&gt;
+
+&lt;p&gt;スライドやPCを見ながら話す人、たまにいますよね。
+きっと&lt;strong&gt;「あーん？？お前は誰にプレゼンしてるんだ？？？スクリーンか？？？？」&lt;/strong&gt;と聴衆は感じるはずです。&lt;/p&gt;
+
+&lt;p&gt;聴衆の目を見て話すだけで、「やっべ、見なきゃ！」という気持ちになります。（言うほど簡単じゃないんですけどね。）&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/posts/20161103/presentation_pc_man_eye.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;聴衆の目を見る&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;口癖に気をつける&#34;&gt;口癖に気をつける&lt;/h3&gt;
+
+&lt;p&gt;次のセリフをロードする間「あのー」「えーと」などと垂れ流してしまうそこのアナタ！&lt;br /&gt;
+これらを&lt;strong&gt;1回使う度に、そのプレゼンの説得力は半減すると言います。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;逆に言えば、&lt;strong&gt;1回「えーと」を減らせば説得力は倍になります！&lt;/strong&gt;&lt;br /&gt;
+これらの口癖を言ってしまうのには色々原因があるのですが、大抵は「単なる練習不足」です。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;さあ、練習あるのみ！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;〆&#34;&gt;〆&lt;/h3&gt;
+
+&lt;p&gt;いかがでしたか？&lt;br /&gt;
+僕は「プレゼン」と「ライトニングトーク」は別モノだと思っています。&lt;/p&gt;
+
+&lt;p&gt;プレゼンで使うテクニックの中には、ライトニングトークだと逆効果のものもあります。（もちろん使えるものもあります:D）&lt;br /&gt;
+いろんな人のLTを見て研究するも良し、慣れてきたら自分のオリジナリティを加えていくも良し。&lt;/p&gt;
+
+&lt;p&gt;いきなり全部は難しいかもしれません、ひとつずつ試していきましょう。&lt;br /&gt;
+これでアナタもライトニングトークマスターになれるはずです！&lt;/p&gt;
+
+&lt;div style=&#34;text-align: center;font-size: xx-large; font-weight: bold&#34;&gt;どうだい？ LTしたくなってきただろう？&lt;/div&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/posts/20161103/message_goseichou_man.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;ご清聴ありがとうございました&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

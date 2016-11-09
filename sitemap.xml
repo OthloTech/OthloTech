@@ -3,46 +3,46 @@
   
   <url>
     <loc>http://www.othlo.tech/</loc>
+    <lastmod>2016-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/posts/lightning_talks_technique/</loc>
+    <lastmod>2016-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/events/othloevent05-goodfind/</loc>
+    <lastmod>2016-10-29T00:20:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/events/othlohack2016/</loc>
     <lastmod>2016-10-24T23:13:51+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/events/OthloHack2016/</loc>
-    <lastmod>2016-10-24T23:13:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.othlo.tech/posts/Hugo&#43;github_pages/</loc>
+    <loc>http://www.othlo.tech/posts/hugo&#43;github-pages/</loc>
     <lastmod>2016-10-23T02:45:17+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/posts/OthloEvent2/</loc>
-    <lastmod>2016-10-15T00:24:57+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.othlo.tech/posts/OthloHack2016/</loc>
-    <lastmod>2016-10-13T00:20:33+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.othlo.tech/events/OthloEvent4@%E5%90%8D%E5%9F%8Eshake/</loc>
+    <loc>http://www.othlo.tech/events/othloevent04-shake/</loc>
     <lastmod>2016-09-24T00:20:33+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/events/OthloEvent3@Misoca/</loc>
+    <loc>http://www.othlo.tech/events/othloevent03-misoca/</loc>
     <lastmod>2016-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/events/OthloEvent2@%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BC%E3%83%A0/</loc>
+    <loc>http://www.othlo.tech/events/othloevent02-ateam/</loc>
     <lastmod>2016-06-24T00:20:33+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/events/OthloEvent1@%E5%90%8D%E5%9F%8EShake/</loc>
+    <loc>http://www.othlo.tech/events/othloevent01-shake/</loc>
     <lastmod>2016-05-22T00:20:33+09:00</lastmod>
   </url>
   
