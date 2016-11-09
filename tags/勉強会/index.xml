@@ -31,6 +31,7 @@
 この記事では、その様子をレポートします！&lt;br/&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h3&gt;
+<<<<<<< HEAD
 
 &lt;p&gt;今回のイベントの時間割は以下の通り！&lt;/p&gt;
 
@@ -123,13 +124,83 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 &lt;p&gt;周りの人と仲良くなって、お腹いっぱいになったところで講義再開！&lt;br/&gt;
 午後からは実際に手を動かし、Ruby on Railsによるブログシステムの実装に挑戦。&lt;br/&gt;
 (ちなみに講義資料は非公開なので、興味のある方は次回開催にご期待ください…！）&lt;br/&gt;&lt;/p&gt;
+=======
+
+&lt;p&gt;今回のイベントの時間割は以下の通り！&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;詳細&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;11:00 - 12:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;イントロダクション&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;環境構築と使用するツールの説明&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:00 - 15:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ruby on Railsの基本と実装&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;レコードの取得／登録／更新／削除&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;15:10 - 17:45&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ruby on Railsの実装&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;アソシエーションによる複数テーブルの処理&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:00 - 19:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ruby on Rails 応用編&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Gemを使った実装&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:00 -&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;bootcampの様子&#34;&gt;BootCampの様子！&lt;/h3&gt;
+
+&lt;p&gt;Goodfindさんのエンジニアによる講義。分かりやすい〜！と好評でした(&amp;lsquo;-&amp;rsquo;*)&lt;br/&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/bootcamp01.JPG&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;みんな集中！&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+>>>>>>> eba9cd91205fff996894ac42800aaf8dec5d377f
 
 &lt;p&gt;みんな集中してもくもくと、でもわからないところはちゃんとメンターさんや近くの友達に聞いて取り組んでいました。&lt;br/&gt;
 
 &lt;figure class=&#34;aden&#34;&gt;
 
     
+<<<<<<< HEAD
         &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/bootcamp02.jpg&#34;  /&gt;
+=======
+        &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/bootcamp02.JPG&#34;  /&gt;
+>>>>>>> eba9cd91205fff996894ac42800aaf8dec5d377f
     
 
     
@@ -150,7 +221,11 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 &lt;figure class=&#34;aden&#34;&gt;
 
     
+<<<<<<< HEAD
         &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/afterparty.jpg&#34;  /&gt;
+=======
+        &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/afterparty.JPG&#34;  /&gt;
+>>>>>>> eba9cd91205fff996894ac42800aaf8dec5d377f
     
 
     

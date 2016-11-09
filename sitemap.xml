@@ -17,7 +17,11 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://www.othlo.tech/events/othlohack2016/</loc>
+=======
+    <loc>http://www.othlo.tech/events/OthloHack2016/</loc>
+>>>>>>> eba9cd91205fff996894ac42800aaf8dec5d377f
     <lastmod>2016-10-24T23:13:51+09:00</lastmod>
   </url>
   

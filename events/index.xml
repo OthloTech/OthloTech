@@ -79,6 +79,7 @@
 
 &lt;h3 id=&#34;bootcampの様子&#34;&gt;BootCampの様子！&lt;/h3&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;今回のイベントはエンジニアしてはちょっと朝早め(?)の１１時からでした。&lt;br/&gt;
 1日でRailsを詰め込むためには早起きも苦ではない…はず！&lt;br/&gt;&lt;/p&gt;
 
@@ -91,16 +92,27 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 
 &lt;p&gt;その後、Webアプリケーションの仕組みやフレームワークのイメージなどについて講義していただきました。&lt;br/&gt;
 東京・京都で何度も開催していることもあり、スライドも分かりやすい〜！と好評でした(&amp;lsquo;-&amp;rsquo;*)&lt;br/&gt;
+=======
+&lt;p&gt;Goodfindさんのエンジニアによる講義。分かりやすい〜！と好評でした(&amp;lsquo;-&amp;rsquo;*)&lt;br/&gt;
+>>>>>>> eba9cd91205fff996894ac42800aaf8dec5d377f
 
 &lt;figure class=&#34;aden&#34;&gt;
 
     
+<<<<<<< HEAD
         &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/bootcamp01.jpg&#34;  /&gt;
+=======
+        &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/bootcamp01.JPG&#34;  /&gt;
+>>>>>>> eba9cd91205fff996894ac42800aaf8dec5d377f
     
 
     
     &lt;figcaption&gt;
+<<<<<<< HEAD
         &lt;h4&gt;講義なう&lt;/h4&gt;
+=======
+        &lt;h4&gt;みんな集中！&lt;/h4&gt;
+>>>>>>> eba9cd91205fff996894ac42800aaf8dec5d377f
         
     &lt;/figcaption&gt;
       
@@ -108,6 +120,7 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 &lt;/figure&gt;
 &lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;h4 id=&#34;ここでブレイク&#34;&gt;ここでブレイク&lt;/h4&gt;
 
 &lt;p&gt;講義を受けた後は、お昼休憩〜。&lt;br/&gt;
@@ -125,12 +138,18 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 午後からは実際に手を動かし、Ruby on Railsによるブログシステムの実装に挑戦。&lt;br/&gt;
 (ちなみに講義資料は非公開なので、興味のある方は次回開催にご期待ください…！）&lt;br/&gt;&lt;/p&gt;
 
+=======
+>>>>>>> eba9cd91205fff996894ac42800aaf8dec5d377f
 &lt;p&gt;みんな集中してもくもくと、でもわからないところはちゃんとメンターさんや近くの友達に聞いて取り組んでいました。&lt;br/&gt;
 
 &lt;figure class=&#34;aden&#34;&gt;
 
     
+<<<<<<< HEAD
         &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/bootcamp02.jpg&#34;  /&gt;
+=======
+        &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/bootcamp02.JPG&#34;  /&gt;
+>>>>>>> eba9cd91205fff996894ac42800aaf8dec5d377f
     
 
     
@@ -151,7 +170,11 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 &lt;figure class=&#34;aden&#34;&gt;
 
     
+<<<<<<< HEAD
         &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/afterparty.jpg&#34;  /&gt;
+=======
+        &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/afterparty.JPG&#34;  /&gt;
+>>>>>>> eba9cd91205fff996894ac42800aaf8dec5d377f
     
 
     
