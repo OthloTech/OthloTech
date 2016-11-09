@@ -2,8 +2,8 @@
 slug = "othloevent03-misoca"
 title = "OthloEvent@Misoca #3"
 date = "2016-07-15"
-tags = ["LT会", "勉強会", "OthloEvent", "Misoca"]
-categories = ["イベント"]
+event_tags = ["LT会", "勉強会", "OthloEvent", "Misoca"]
+event_categories = ["イベント"]
 banner = "images/banners/events/othlo-event3.png"
 +++
 

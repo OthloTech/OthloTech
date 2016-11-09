@@ -1,8 +1,8 @@
 +++
-lug = "othlohack2016"
+slug = "othlohack2016"
 title = "OthloHack 2016"
-tags = ["ハッカソン", "OthloHack"]
-categories = ["イベント"]
+event_tags = ["ハッカソン", "OthloHack"]
+event_categories = ["イベント"]
 date = "2016-10-24T23:13:51+09:00"
 banner = "images/banners/othlohack.jpg"
 +++
