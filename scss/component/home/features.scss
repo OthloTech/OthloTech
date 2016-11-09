@@ -3,16 +3,14 @@
   max-height: 150px;
 }
 
-.box-simple {
-  min-height: 180px;
-}
-
-
 .features {
-  .box-simple{
+  .box-simple {
+    min-height: 180px;
+
     .icon {
       text-align: center;
       vertical-align: middle;
+
       img {
         display: inline-block;
         position: relative;

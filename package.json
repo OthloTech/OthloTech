@@ -4,7 +4,9 @@
   "description": "OthloTechの公式ホームページです。",
   "main": "app.js",
   "scripts": {
-    "watch": "gulp scss && gulp default"
+    "test": "gulp scss-lint",
+    "watch": "gulp scss && gulp default",
+    "start": "npm run watch & hugo server -w"
   },
   "keywords": [
     "OthloTech",
@@ -27,8 +29,9 @@
     "npm": "3.8.6"
   },
   "homepage": "//www.othlo.tech",
-  "dependencies": {
+  "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-cached": "^1.1.0",
     "gulp-notify": "^2.2.0",
     "gulp-plumber": "^1.1.0",
     "gulp-postcss": "^6.2.0",
