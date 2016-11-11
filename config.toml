@@ -45,7 +45,7 @@ hasCJKLanguage = true
 
 [[params.menu]]
  name = 'BLOG'
- url = '/posts/'
+ url = '/blogs/'
  weight = 3
 
 [[params.menu]]

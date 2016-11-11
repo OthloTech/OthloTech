@@ -13,7 +13,7 @@
             <h4>直近のブログ</h4>
 
             <div class="blog-entries">
-                {{ range first 3 (where .Site.Pages "Type" "posts") }}
+                {{ range first 3 (where .Site.Pages "Type" "blogs") }}
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
                         <a href="{{ .Permalink }}">
