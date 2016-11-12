@@ -1,0 +1,79 @@
+.members {
+  padding: 0;
+  margin-bottom: 40px;
+
+  .item {
+    list-style-type: none;
+    margin: 0 5px;
+    background: #fff;
+    padding-bottom: 60px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+    .member {
+      position: relative;
+      padding: 20px;
+
+      &::before {
+        content: ' ';
+        display: table;
+      }
+
+      &::after {
+        content: ' ';
+        display: table;
+        clear: both;
+      }
+
+      .text {
+        color: #999;
+        margin-bottom: 40px;
+      }
+
+      .bottom {
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        padding: 20px;
+        height: 50px;
+      }
+
+      .icon {
+        color: #38a7bb;
+        font-size: 30px;
+        float: left;
+        width: 20%;
+      }
+
+      .name-picture {
+        float: right;
+        width: 80%;
+        text-align: right;
+
+        h5 {
+          font-size: 14px;
+          text-transform: uppercase;
+          letter-spacing: .08em;
+        }
+
+        p {
+          color: #999;
+          margin: 0;
+          font-size: 12px;
+        }
+
+        img {
+          float: right;
+          width: 60px;
+          border-radius: 30px;
+          margin-left: 10px;
+        }
+      }
+    }
+  }
+}

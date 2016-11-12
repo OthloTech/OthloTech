@@ -1,65 +1,54 @@
 'use strict';
 
-const gulp = require('gulp');
-const plumber = require('gulp-plumber');
-const rename = require('gulp-rename');
-const notify = require('gulp-notify');
+const gulp = require('gulp')
+const sass = require('gulp-sass')
+const postcss = require('gulp-postcss')
+const cssnext = require('postcss-cssnext')
 
-const sass = require('gulp-sass');
-const cssmin = require('gulp-cssmin');
+const scsslint = require('gulp-scss-lint')
+const cache = require('gulp-cached')
 
-const babel = require('gulp-babel');
-const uglify = require('gulp-uglify');
-const concat = require('gulp-concat');
+const plumber = require('gulp-plumber')
+const notify = require('gulp-notify')
 
-const imagemin = require('gulp-imagemin');
-const pngquant = require('imagemin-pngquant');
+const paths = {
+  scss: 'scss/',
+  scssLint: 'scss/**/*.scss',
+  css: 'static/css'
+}
 
+const scssOptions = {
+  //outputStyle: 'compressed',
+  sourceMap: true,
+  sourceComments: false
+}
 
-gulp.task('js', function() {
-  gulp.src('assets/js/**/*.js')
+gulp.task('scss', function() {
+  const processors = [cssnext()]
+  return gulp.src(paths.scss + '*.scss')
     .pipe(plumber({ errorHandler: notify.onError('<%= error.message %>' )}))
-    .pipe(babel({
-      presets: ['es2015']
+    .pipe(sass(scssOptions))
+    .pipe(postcss(processors))
+    .pipe(gulp.dest(paths.css))
+    .pipe(notify('SCSS task finished.'))
+})
+
+gulp.task('scss-lint', function() {
+  return gulp.src([paths.scssLint, '!scss/external/*.scss'])
+    .pipe(plumber({ errorHandler: notify.onError('<%= error.message %>' )}))
+    .pipe(cache('scsslint'))
+    .pipe(scsslint({
+      'reporterOutputFormat': 'Checkstyle',
+      'config': '.scss-lint.yml',
+      'maxBuffer': 307200,
+      'endless': true
     }))
-    .pipe(uglify({ preserveComments: 'some' }))
-    //.pipe(concat('main.min.js'))
-    .pipe(gulp.dest('dist/js'))
+    .pipe(scsslint.failReporter('E'))
 })
 
-gulp.task('sass', function() {
-  gulp.src('assets/scss/**/*.scss')
-    .pipe(plumber({ errorHandler: notify.onError('<%= error.message %>' )}))
-    .pipe(sass())
-    .pipe(cssmin())
-    .pipe(rename({ suffix: '.min' }))
-    .pipe(gulp.dest("dist/css"))
+
+gulp.task('scss:watch', function() {
+  gulp.watch(paths.scssLint, ['scss'])
 })
 
-gulp.task('image', function() {
-  gulp.src('assets/images/**/*')
-    .pipe(plumber({ errorHandler: notify.onError('<%= error.message %>' )}))
-    .pipe(imagemin({
-      progressive: true,
-      use: [pngquant({quality: '65-80', speed: 1})]
-    }))
-    .pipe(gulp.dest("dist/images"))
-})
-
-gulp.task('minjs', function() {
-  gulp.src('assets/js/**/*.min.js')
-    .pipe(gulp.dest("dist/js"))
-})
-
-gulp.task('fonts', function() {
-  gulp.src('assets/fonts/*')
-    .pipe(gulp.dest('dist/fonts'))
-})
-
-gulp.task("default", function() {
-  gulp.watch(["assets/js/**/*.js", "!assets/js/**/*.min.js"], ["js"])
-  gulp.watch("assets/js/**/*.min.js", ["minjs"])
-  gulp.watch("assets/scss/**/*.scss", ["sass"])
-  gulp.watch("assets/images/**/*", ["image"])
-  gulp.watch("assets/fonts/*", ["fonts"])
-})
+gulp.task('default', ['scss:watch'])
