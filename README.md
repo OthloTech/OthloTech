@@ -41,10 +41,10 @@ npm run test    # SCSS-lin
 ## 開発ドキュメント
 
 ### 記事の投稿方法
-[記事の投稿FLOW](https://github.com/OthloTech/OthloTech/blob/master/post.md) を参照してください。
+[記事の投稿FLOW](https://github.com/OthloTech/OthloTech/blob/master/docs/post.md) を参照してください。
 
 ### マークダウン
-[マークダウン記法](https://github.com/OthloTech/OthloTech/blob/master/markdown.md) を参照してください。
+[マークダウン記法](https://github.com/OthloTech/OthloTech/blob/master/docs/markdown.md) を参照してください。
 
 ### 技術スタック
 
