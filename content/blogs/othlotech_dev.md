@@ -4,12 +4,14 @@ title = 'OthloTechでの開発サイクル'
 date = "2016-11-12T02:45:17+09:00"
 categories = ['Web']
 tags = ['GitHub', 'wwOthlo']
-banner = 'images/banners/blogs/hugo.png'
+banner = 'images/banners/blogs/othlotech_dev_cycle.png'
 weight = 997
 +++
 
 # OthloTechでの開発サイクル
 こんにちは∩(ﾟ∀ﾟ∩) [@ぽこひで](https://twitter.com/hyde141421356)です。
+
+{{<image src="/images/blogs/20161113/wwothlo.png" title="OthloTech公式サイト" class="aden" >}}
 
 今日は **OthloTech** ではどのように開発をしているかをこの[OthloTech公式サイト](http://www.othlo.tech)を例に簡単に紹介できたらと思います。
 以下、OthloTech内での通称wwOthlo(ダブダブオスロ)と呼ぶことにします！
@@ -30,7 +32,7 @@ OthloTechのサイトはサーバー側は持たずに[GitHub Pages](https://git
 
 他に、さすがに`CSS`で書くのはだるいので、`SCSS`で書いていて`SCSS-Lint`で静的なチェックは行っています。ただ、現在はテンプレートを参考にサイトを作ったこともあってまだまだ負債を抱えているので、今後解消していけたらな！って感じです。
 
-一応、wwOthloは[オープンソース](https://github.com/OthloTech/OthloTech)で開発をしているので、もしバグを見つけたらバグレポートをするでも、`fork`してプルリクを出していただいてもどちらかしていただけると、超喜びます
+一応、wwOthloは[オープンソース](https://github.com/OthloTech/OthloTech)で開発をしているので、もしバグを見つけたらバグレポートをするでも、`fork`してプルリクを出していただいてもどちらかしていただけると、超喜びます。
 
 **∩(〃･ω･〃)∩ ばんじゃーい**
 
@@ -38,7 +40,13 @@ OthloTechのサイトはサーバー側は持たずに[GitHub Pages](https://git
 
 上記述べた感じで開発をしていて、今度はその開発サイクルについて紹介しますー！
 
-OthloTechではGitHub Flowを採用していて、以下のようなブランチ命名規則でブランチを切って直接masterにPRを出してレビューするといった流れを撮っています。
+{{<image src="/images/blogs/20161113/othlotech_dev_cycle.png" title="GitHub Flow" class="aden" >}}
+
+OthloTechではGitHub Flowを採用しています。
+
+#### ブランチ
+
+以下のようなブランチ命名規則でブランチを切って直接`master`ブランチにプルリクを出してレビューするといった流れを取っています。
 
 ```
 新機能：feature
@@ -47,11 +55,26 @@ OthloTechではGitHub Flowを採用していて、以下のようなブランチ
 記事とか：post or blog or event
 ```
 
-この命名規則は最近決まったのでこれからメンバー内でも意識していこうといった感じです。
+この命名規則は最近決まったのでこれからメンバー内でも意識していこうといった感じです(･∀･)👍
 
-レビューはPRを立てた人が適当にメンバーにメンションを飛ばして、レビューをしてもらう形を採用していて、そのレビュー担当者が`LGTM`ならマージをしています。
+レビューはプルリクを立てた人が適当にメンバーにメンションを飛ばして、レビューをしてもらう形を採用していて、そのレビュー担当者が`LGTM`ならマージをしています！
 
-`master`ブランチとデプロイ用の`gh-pages`ブランチはGitHubの機能で保護をしていて、`master`ブランチはPR経由でしか変更ができないようにしていて、`gh-pages`は特定の人にしかpush権限を与えていません。これによって、デプロイミスを極力防ごうとしています。
+{{<image src="/images/blogs/20161113/review.png" title="レビューまかせる様子" class="aden" >}}
+
+また、`master`ブランチとデプロイ用の`gh-pages`ブランチはGitHubの機能で保護をしていて、`master`ブランチはPR経由でしか変更ができないようにしていて、`gh-pages`は特定の人にしかpush権限を与えていません。これによって、デプロイミスを極力防ごうとしています( ´,_ゝ｀)
+
+#### ラベル
+
+意識して使っているラベルは`WIP`ラベルと`REVIEW`ラベルで、まだここは手動でつけているのですが、プルリクを立てて作業中には`WIP`ラベルを、作業を終えてレビューをお願いするときは`REVIEW`ラベルに切り替えて、レビュー待ちであることを明示化しています。
+
+他にISSUESで使っているラベルはデフォルトのもので、主にこんな感じのを使っています。
+
+|ラベル|意味|
+|:------------|:--------------|
+|`enhancement`|機能追加系|
+|`bug`        |普通にバグ。このラベルのISSUEは即対応心がけてる|
+|`help wanted`|助けが必要ヽ( ﾟдﾟ)ﾉ|
+|`question`   |質問や議論。解決したらクローズする|
 
 ### wwOthloの投稿フロー
 
@@ -65,4 +88,6 @@ Hugoという静的ページジェネレーターを使っているので、記�
 
 11/26(土)にYahoo!さんとコラボして、[Reactハンズオン](http://yj-meetup.connpass.com/event/44769/)を開くのでもしよければ来てくださいな(\*´∀`\*)
 
-{{<image src="https://connpass-tokyo.s3.amazonaws.com/thumbs/a1/89/a189d96b09f4d4958b199aa08cd6c138.png" title="OthloTech x Yahoo Reactハンズオン">}}
+<a href="http://yj-meetup.connpass.com/event/44769/" target="_blank">
+{{<image src="https://connpass-tokyo.s3.amazonaws.com/thumbs/a1/89/a189d96b09f4d4958b199aa08cd6c138.png" title="OthloTech x Yahoo Reactハンズオン" class="aden" >}}
+</a>
