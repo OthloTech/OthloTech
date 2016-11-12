@@ -45,7 +45,7 @@ hasCJKLanguage = true
 
 [[params.menu]]
  name = 'BLOG'
- url = '/posts/'
+ url = '/blogs/'
  weight = 3
 
 [[params.menu]]
@@ -106,4 +106,3 @@ hasCJKLanguage = true
   tag = 'tags'
   category = 'categories'
   event_tag = 'event_tags'
-  event_category = 'event_categories'
