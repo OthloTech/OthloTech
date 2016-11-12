@@ -1,41 +1,49 @@
 # 記事の投稿方法
 
-ww-othloにはイベントレポート( `events` )とブログ記事( `posts` )の二種類があります。
+記事にはイベントレポート( `events` )とブログ記事( `blogs` )の二種類があります。
 
 #### 1) ブランチを切る
 
 ```
-git checkout -b post/xxxx  # post/xxxxというブランチを作成し、そこへ移動
-# 例) git checkout -b post/othlohack2016
+git checkout -b event/xxxx  # event/xxxxというブランチを作成し、そこへ移動
+# 例) git checkout -b event/othlohack2016
 ```
 
-#### 2) 記事を生成
+#### 2) 記事を作成
 
 ```
-hugo new posts/xxxx.md     # content/postsフォルダに xxxx.md というファイルを作成
-# 例) hugo new posts/othlohack2016.md
+hugo new events/xxxx.md     # content/eventsフォルダに xxxx.md というファイルを作成
+# 例) hugo new events/othlohack2016.md
 ```
+（※ 直接`/content/blogs` や `/content/events`に`xxxx.md`ファイルを作成してもよい）
 
 #### 3) 記事を書く
-2)で生成した記事にマークダウン記法で記事を書く。
-[マークダウン記法](https://github.com/OthloTech/OthloTech/blob/master/markdown.md)を参照してください。
+`2)`で作成した記事にマークダウン記法で記事を書きます。  
+詳しくは[マークダウン記法](https://github.com/OthloTech/OthloTech/blob/master/docs/markdown.md)を参照してください。
 
-#### 4) 記事をプッシュする
-記事は `masterブランチ` にpushするのではなく、本番に反映前に一度確認を入れたいので、1)で切ったブランチにプッシュします。
-
+#### 4) 執筆途中の記事をコミット
 ```
+git branch  # 1)で作ったブランチにいるか確認
 git add .
-git commit -m 'OthloHack2016の記事を追加'
-git push origin posts/xxx
+git commit -m '写真を追加'  # 簡単なコミットメッセージを付ける
 ```
 
-#### 5) GitHub上でプルリクを出す
-pushしたのち、GitHub上でプルリクを出す。これをみんながレビューをして、LGTMが3つ以上つけば、責任者がマージをする。
-
-#### 6) 本番に反映(この操作は責任者が実行する)
+#### 5) 記事をプッシュ
+記事は `masterブランチ` にpushするのではなく、公開前のレビューをするために`1)`で切ったブランチにプッシュします。
 
 ```
-hugo -d pages  # pagesフォルダコンパイル
-cd pages       # pagesフォルダに移動
-git push origin gh-pages # gh-pagesブランチに反映
+git push origin events/xxx
+```
+
+#### 6) GitHub上でプルリクを出す
+プッシュしたのち、GitHub上で`Pull Request`を作成します。  
+作業途中であれば`WIP`、レビューOKであれば`REVIEW`のラベルを付けて下さい。  
+これをメンバーがレビューし、LGTMが3つ以上つけば、管理者がマージをします。
+
+レビューで確認する点については[記事の執筆方法](https://github.com/OthloTech/OthloTech/blob/master/docs/write-post.md)を参考にしてください。
+
+#### 7) Github Pagesにデプロイ(この操作は管理者が実行する)
+
+```
+./deploy.sh "コミットメッセージ"
 ```
