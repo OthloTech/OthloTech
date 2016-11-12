@@ -13,6 +13,8 @@
   - 例: 「ライトニングトーク」と「LT」
   - [ブログ記事のタグ一覧](http://www.othlo.tech/tags/), [イベント記事のタグ一覧](http://www.othlo.tech/event_tags/)
 - 他のサイトを参考にしたら参照元を示す
+- ショートコードがあるものは利用する
+  - 参考: https://github.com/OthloTech/OthloTech/blob/master/docs/shortcodes.md
 
 #### 見出しタグ
 
