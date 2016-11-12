@@ -4,7 +4,7 @@ title = 'Hugo+GithubPagesでサイトをリニューアル'
 date = "2016-10-23T02:45:17+09:00"
 categories = ['Web']
 tags = ['GitHub', 'HTML', 'CSS', 'Hugo']
-banner = 'images/banners/posts/hugo.png'
+banner = 'images/banners/blogs/hugo.png'
 +++
 
 # Hugo + GithubPages で公式サイトを作り直したお話
@@ -33,7 +33,7 @@ banner = 'images/banners/posts/hugo.png'
 
 ### Hugo
 
-{{< image src="/images/banners/posts/hugo.png" title="Hugo" class="aden" >}}
+{{< image src="/images/banners/blogs/hugo.png" title="Hugo" class="aden" >}}
 
 `Hugo`はGo言語で動いている静的サイトジェネレーターで静的な`html`を生成することができます。静的サイトジェネレーターは他にも
 `Jekyll`や`Hexo`など他にも色々あったのですが、なんとなくで今回は`Hugo`を選びました。
