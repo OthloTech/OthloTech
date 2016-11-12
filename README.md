@@ -52,6 +52,7 @@ npm run test    # SCSS-lin
 - [記事の投稿方法](https://github.com/OthloTech/OthloTech/blob/master/docs/new-post.md)
 - [記事の執筆ルール](https://github.com/OthloTech/OthloTech/blob/master/docs/write-post.md)
 - [マークダウン記法](https://github.com/OthloTech/OthloTech/blob/master/docs/markdown.md)
+- [ショートコードの使い方](https://github.com/OthloTech/OthloTech/blob/master/docs/shortcodes.md)
 
 ## 技術スタック
 
