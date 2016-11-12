@@ -5,6 +5,7 @@ date = "2016-10-23T02:45:17+09:00"
 categories = ['Web']
 tags = ['GitHub', 'HTML', 'CSS', 'Hugo']
 banner = 'images/banners/blogs/hugo.png'
+weight = 999
 +++
 
 # Hugo + GithubPages で公式サイトを作り直したお話

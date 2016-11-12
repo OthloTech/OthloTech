@@ -5,6 +5,7 @@ date = "2016-11-03"
 tags = ["LT", "ライトニングトーク", "プレゼンテーション", "PowerPoint", "Keynote", "資料作成"]
 categories = ["プレゼン"]
 banner = "images/banners/blogs/lightning_talk_banner.png"
+weight = 998
 +++
 
 # ライトニングトーク（LT）を面白くするたった3つのテクニック
