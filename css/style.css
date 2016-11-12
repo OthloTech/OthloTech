@@ -1,8 +1,5 @@
-@charset "UTF-8";
-/* base */
-/* header */
 .navbar {
-  box-shadow: 0px 1px 5px #424242; }
+  box-shadow: 0 1px 5px #424242; }
 
 header {
   margin-bottom: 70px; }
@@ -12,33 +9,27 @@ header {
   .home .logo {
     padding: 5px; }
 
-/* footer */
-#footer {
-  /* background-color: #fff; */ }
+body {
+  word-wrap: break-word;
+  word-wrap: break-word; }
 
 .copyright {
   text-align: center; }
 
-/* component */
-/* HOMEのスタイル */
-/* carousel */
-/* features */
 .box-image-text .image {
   min-height: 150px;
   max-height: 150px; }
 
-.box-simple {
+.features .box-simple {
   min-height: 180px; }
+  .features .box-simple .icon {
+    text-align: center;
+    vertical-align: middle; }
+    .features .box-simple .icon img {
+      display: inline-block;
+      position: relative;
+      top: -3px; }
 
-.features .box-simple .icon {
-  text-align: center;
-  vertical-align: middle; }
-  .features .box-simple .icon img {
-    display: inline-block;
-    position: relative;
-    top: -3px; }
-
-/* members */
 .members {
   padding: 0;
   margin-bottom: 40px; }
@@ -51,15 +42,15 @@ header {
     .members .item .member {
       position: relative;
       padding: 20px; }
-      .members .item .member:before {
-        content: " ";
+      .members .item .member::before {
+        content: ' ';
         display: table; }
-      .members .item .member:after {
-        content: " ";
+      .members .item .member::after {
+        content: ' ';
         display: table;
         clear: both; }
       .members .item .member .text {
-        color: #999999;
+        color: #999;
         margin-bottom: 40px; }
       .members .item .member .bottom {
         position: absolute;
@@ -81,9 +72,9 @@ header {
         .members .item .member .name-picture h5 {
           font-size: 14px;
           text-transform: uppercase;
-          letter-spacing: 0.08em; }
+          letter-spacing: .08em; }
         .members .item .member .name-picture p {
-          color: #999999;
+          color: #999;
           margin: 0;
           font-size: 12px; }
         .members .item .member .name-picture img {
@@ -92,7 +83,6 @@ header {
           border-radius: 30px;
           margin-left: 10px; }
 
-/* othlo-memberページのスタイル */
 .othlo-member {
   padding: 10px; }
   .othlo-member .img-thumbnail {
@@ -135,7 +125,6 @@ header {
     font-size: 16px;
     color: #666; }
 
-/* blog記事のスタイル */
 #blog-post {
   padding-bottom: 80px; }
   #blog-post h1 {
@@ -211,44 +200,38 @@ header {
       padding: 10px 8px;
       border-bottom: 1px solid #4fbfa8; }
     #blog-post table td {
-      padding: 10px 8px 3px 8px;
+      padding: 10px 8px 3px;
       white-space: nowrap; }
-    #blog-post table figure {
-      display: inline-block;
-      width: 100%;
-      margin: 40px 0 0;
-      text-align: center; }
-      #blog-post table figure img {
-        width: auto;
-        max-width: 100%; }
-      #blog-post table figure figcaption h4 {
-        text-align: center;
-        opacity: 0;
-        -webkit-transition: .3s;
-        transition: .3s;
-        font-size: 18px; }
-      #blog-post table figure figcaption p {
-        text-align: center;
-        opacity: 0;
-        -webkit-transition: .3s;
-        transition: .3s;
-        bottom: -60px;
-        right: 0; }
-      #blog-post table figure:before {
-        display: none; }
-      #blog-post table figure:after {
-        display: none; }
-      #blog-post table figure:hover h4 {
-        opacity: 1; }
-      #blog-post table figure:hover p {
-        opacity: 1;
-        -webkit-transition-delay: .3s;
-        transition-delay: .3s; }
+  #blog-post figure {
+    display: inline-block;
+    width: 100%;
+    margin: 40px 0 0;
+    text-align: center; }
+    #blog-post figure img {
+      width: auto;
+      max-width: 100%; }
+    #blog-post figure figcaption h4,
+    #blog-post figure figcaption p {
+      text-align: center;
+      opacity: 0;
+      -webkit-transition: .3s;
+      transition: .3s; }
+    #blog-post figure figcaption h4 {
+      font-size: 18px; }
+    #blog-post figure figcaption p {
+      bottom: -60px;
+      right: 0; }
+    #blog-post figure::before, #blog-post figure::after {
+      display: none; }
+    #blog-post figure:hover h4 {
+      opacity: 1; }
+    #blog-post figure:hover p {
+      opacity: 1;
+      -webkit-transition-delay: .3s;
+      transition-delay: .3s; }
 
-/* sidebarのスタイル */
-/* sns_share */
 ul.share-buttons {
-  margin-bottom: 20px;
+  margin: 0;
   color: #7e7e7e;
   display: block;
   font-family: 'Open Sans',Tahoma, Verdana, Arial, sans-serif, Faruma, Faseyha;
