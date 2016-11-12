@@ -1,5 +1,5 @@
 +++
-slug = 'othlotech_dev_cycle'
+slug = 'othlotech-dev-cycle'
 title = 'OthloTechでの開発サイクル'
 date = "2016-11-12T02:45:17+09:00"
 categories = ['Web']
@@ -11,7 +11,7 @@ weight = 997
 # OthloTechでの開発サイクル
 こんにちは∩(ﾟ∀ﾟ∩) [@ぽこひで](https://twitter.com/hyde141421356)です。
 
-{{<image src="/images/blogs/20161113/wwothlo.png" title="OthloTech公式サイト" class="aden" >}}
+{{<image src="/images/blogs/20161113/wwothlo.png" title="OthloTech公式サイト" >}}
 
 今日は **OthloTech** ではどのように開発をしているかをこの[OthloTech公式サイト](http://www.othlo.tech)を例に簡単に紹介できたらと思います。
 以下、OthloTech内での通称wwOthlo(ダブダブオスロ)と呼ぶことにします！
@@ -59,7 +59,7 @@ OthloTechではGitHub Flowを採用しています。
 
 レビューはプルリクを立てた人が適当にメンバーにメンションを飛ばして、レビューをしてもらう形を採用していて、そのレビュー担当者が`LGTM`ならマージをしています！
 
-{{<image src="/images/blogs/20161113/review.png" title="レビューまかせる様子" class="aden" >}}
+{{<image src="/images/blogs/20161113/review.png" title="レビューまかせる様子" >}}
 
 また、`master`ブランチとデプロイ用の`gh-pages`ブランチはGitHubの機能で保護をしていて、`master`ブランチはPR経由でしか変更ができないようにしていて、`gh-pages`は特定の人にしかpush権限を与えていません。これによって、デプロイミスを極力防ごうとしています( ´,_ゝ｀)
 
@@ -88,6 +88,4 @@ Hugoという静的ページジェネレーターを使っているので、記�
 
 11/26(土)にYahoo!さんとコラボして、[Reactハンズオン](http://yj-meetup.connpass.com/event/44769/)を開くのでもしよければ来てくださいな(\*´∀`\*)
 
-<a href="http://yj-meetup.connpass.com/event/44769/" target="_blank">
-{{<image src="https://connpass-tokyo.s3.amazonaws.com/thumbs/a1/89/a189d96b09f4d4958b199aa08cd6c138.png" title="OthloTech x Yahoo Reactハンズオン" class="aden" >}}
-</a>
+{{<image src="https://connpass-tokyo.s3.amazonaws.com/thumbs/a1/89/a189d96b09f4d4958b199aa08cd6c138.png" title="OthloTech x Yahoo Reactハンズオン" class="aden" link="http://yj-meetup.connpass.com/event/44769/" >}}
