@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OthloTech -学生クリエイティブ集団-</title>
+    <link>http://www.othlo.tech/tags/wwothlo/index.xml</link>
+    <description>Recent content on OthloTech -学生クリエイティブ集団-</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
+    <atom:link href="http://www.othlo.tech/tags/wwothlo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OthloTechでの開発サイクル</title>
+      <link>http://www.othlo.tech/blogs/othlotech-dev-cycle/</link>
+      <pubDate>Sat, 12 Nov 2016 02:45:17 +0900</pubDate>
+      
+      <guid>http://www.othlo.tech/blogs/othlotech-dev-cycle/</guid>
+      <description>
+
+&lt;h1 id=&#34;othlotechでの開発サイクル&#34;&gt;OthloTechでの開発サイクル&lt;/h1&gt;
+
+&lt;p&gt;こんにちは∩(ﾟ∀ﾟ∩) &lt;a href=&#34;https://twitter.com/hyde141421356&#34;&gt;@ぽこひで&lt;/a&gt;です。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161113/wwothlo.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;OthloTech公式サイト&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;今日は &lt;strong&gt;OthloTech&lt;/strong&gt; ではどのように開発をしているかをこの&lt;a href=&#34;http://www.othlo.tech&#34;&gt;OthloTech公式サイト&lt;/a&gt;を例に簡単に紹介できたらと思います。
+以下、OthloTech内での通称wwOthlo(ダブダブオスロ)と呼ぶことにします！&lt;/p&gt;
+
+&lt;h2 id=&#34;目次&#34;&gt;目次&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;wwOthloの開発環境&lt;/li&gt;
+&lt;li&gt;wwOthloの開発サイクル&lt;/li&gt;
+&lt;li&gt;wwOthloの投稿フロー&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;wwothloの開発環境&#34;&gt;wwOthloの開発環境&lt;/h3&gt;
+
+&lt;p&gt;OthloTechのサイトはサーバー側は持たずに&lt;a href=&#34;https://github.com/blog/2228-simpler-github-pages-publishing&#34;&gt;GitHub Pages&lt;/a&gt;というGitHubの提供するホスティングサービスを用いてるので、基本的に静的なページ(HTML, CSS, JavaScript)などで構成されています。&lt;/p&gt;
+
+&lt;p&gt;といっても、毎回ブログ記事やイベントレポートを投稿するたびにHTMLで一から書いていては身が持たないので、そこはGo製の静的ページジェネレータ&lt;a href=&#34;http://themes.gohugo.io/&#34;&gt;Hugo&lt;/a&gt;を用いてマークダウンから静的な記事を生成しています。&lt;/p&gt;
+
+&lt;p&gt;この辺の理由とかはめちゃくちゃ簡単にですが、前々回のブログ記事&lt;a href=&#34;http://www.othlo.tech/blogs/hugo+github-pages/&#34;&gt;Hugo + GithubPages で公式サイトを作り直したお話&lt;/a&gt;で触れているのでまだ読んでない方は見てみてくださいー！&lt;/p&gt;
+
+&lt;p&gt;他に、さすがに&lt;code&gt;CSS&lt;/code&gt;で書くのはだるいので、&lt;code&gt;SCSS&lt;/code&gt;で書いていて&lt;code&gt;SCSS-Lint&lt;/code&gt;で静的なチェックは行っています。ただ、現在はテンプレートを参考にサイトを作ったこともあってまだまだ負債を抱えているので、今後解消していけたらな！って感じです。&lt;/p&gt;
+
+&lt;p&gt;一応、wwOthloは&lt;a href=&#34;https://github.com/OthloTech/OthloTech&#34;&gt;オープンソース&lt;/a&gt;で開発をしているので、もしバグを見つけたらバグレポートをするでも、&lt;code&gt;fork&lt;/code&gt;してプルリクを出していただいてもどちらかしていただけると、超喜びます。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;∩(〃･ω･〃)∩ ばんじゃーい&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;wwothloの開発サイクル&#34;&gt;wwOthloの開発サイクル&lt;/h3&gt;
+
+&lt;p&gt;上記述べた感じで開発をしていて、今度はその開発サイクルについて紹介しますー！&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161113/othlotech_dev_cycle.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;GitHub Flow&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;OthloTechではGitHub Flowを採用しています。&lt;/p&gt;
+
+&lt;h4 id=&#34;ブランチ&#34;&gt;ブランチ&lt;/h4&gt;
+
+&lt;p&gt;以下のようなブランチ命名規則でブランチを切って直接&lt;code&gt;master&lt;/code&gt;ブランチにプルリクを出してレビューするといった流れを取っています。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;新機能：feature
+バグ修正：fix
+リファクタ系：clean or refactor
+記事とか：post or blog or event
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;この命名規則は最近決まったのでこれからメンバー内でも意識していこうといった感じです(･∀･)👍&lt;/p&gt;
+
+&lt;p&gt;レビューはプルリクを立てた人が適当にメンバーにメンションを飛ばして、レビューをしてもらう形を採用していて、そのレビュー担当者が&lt;code&gt;LGTM&lt;/code&gt;ならマージをしています！&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161113/review.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;レビューまかせる様子&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;また、&lt;code&gt;master&lt;/code&gt;ブランチとデプロイ用の&lt;code&gt;gh-pages&lt;/code&gt;ブランチはGitHubの機能で保護をしていて、&lt;code&gt;master&lt;/code&gt;ブランチはPR経由でしか変更ができないようにしていて、&lt;code&gt;gh-pages&lt;/code&gt;は特定の人にしかpush権限を与えていません。これによって、デプロイミスを極力防ごうとしています( ´,_ゝ｀)&lt;/p&gt;
+
+&lt;h4 id=&#34;ラベル&#34;&gt;ラベル&lt;/h4&gt;
+
+&lt;p&gt;意識して使っているラベルは&lt;code&gt;WIP&lt;/code&gt;ラベルと&lt;code&gt;REVIEW&lt;/code&gt;ラベルで、まだここは手動でつけているのですが、プルリクを立てて作業中には&lt;code&gt;WIP&lt;/code&gt;ラベルを、作業を終えてレビューをお願いするときは&lt;code&gt;REVIEW&lt;/code&gt;ラベルに切り替えて、レビュー待ちであることを明示化しています。&lt;/p&gt;
+
+&lt;p&gt;他にISSUESで使っているラベルはデフォルトのもので、主にこんな感じのを使っています。&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;ラベル&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;意味&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;enhancement&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;機能追加系&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;bug&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;普通にバグ。このラベルのISSUEは即対応心がけてる&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;help wanted&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;助けが必要ヽ( ﾟдﾟ)ﾉ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;code&gt;question&lt;/code&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;質問や議論。解決したらクローズする&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;wwothloの投稿フロー&#34;&gt;wwOthloの投稿フロー&lt;/h3&gt;
+
+&lt;p&gt;wwOthloでは現状、月に一度のペースで行われるイベントの&lt;a href=&#34;http://www.othlo.tech/events&#34;&gt;イベントレポート&lt;/a&gt;と&lt;a href=&#34;http://www.othlo.tech/blogs&#34;&gt;ブログ記事&lt;/a&gt;の二つを定期的に更新しています。そこでの投稿のフローを紹介していきまーす！&lt;/p&gt;
+
+&lt;p&gt;Hugoという静的ページジェネレーターを使っているので、記事を一からHTMLで書くのではなく、マークダウン記法で記事を書いています。投稿や校正にもPR形式で行っていて、エンジニアやデザイナーなど関係なしにみんなPRを立てて、メンバーで校正という名のレビューをして、&lt;code&gt;master&lt;/code&gt;ブランチにマージ -&amp;gt; デプロイといった流れで投稿まで行っています。&lt;/p&gt;
+
+&lt;h3 id=&#34;さいごに&#34;&gt;さいごに&lt;/h3&gt;
+
+&lt;p&gt;簡単にOthloTechでの開発サイクルをwwOthloを例に説明してみました。OthloTechでは他にも開発をしていたりしているので、興味の持った学生はゆるふわに&lt;a href=&#34;https://twitter.com/othlotech&#34;&gt;Twitter&lt;/a&gt;か&lt;a href=&#34;http://www.othlo.tech/contact/&#34;&gt;お問い合わせフォーム&lt;/a&gt;にて気軽に聞いてくださいー！&lt;/p&gt;
+
+&lt;p&gt;&lt;sup&gt;11&lt;/sup&gt;&amp;frasl;&lt;sub&gt;26&lt;/sub&gt;(土)にYahoo!さんとコラボして、&lt;a href=&#34;http://yj-meetup.connpass.com/event/44769/&#34;&gt;Reactハンズオン&lt;/a&gt;を開くのでもしよければ来てくださいな(*´∀`*)&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    &lt;a href=&#34;http://yj-meetup.connpass.com/event/44769/&#34;&gt;
+        &lt;img src=&#34;https://connpass-tokyo.s3.amazonaws.com/thumbs/a1/89/a189d96b09f4d4958b199aa08cd6c138.png&#34;  /&gt;
+    &lt;/a&gt;
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;OthloTech x Yahoo Reactハンズオン&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

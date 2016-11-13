@@ -3,12 +3,7 @@
   
   <url>
     <loc>http://www.othlo.tech/</loc>
-    <lastmod>2016-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.othlo.tech/blogs/lightning_talks_technique/</loc>
-    <lastmod>2016-11-03T00:00:00+00:00</lastmod>
+    <lastmod>2016-10-29T00:20:33+09:00</lastmod>
   </url>
   
   <url>
@@ -19,11 +14,6 @@
   <url>
     <loc>http://www.othlo.tech/events/othlohack2016/</loc>
     <lastmod>2016-10-24T23:13:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.othlo.tech/blogs/hugo&#43;github-pages/</loc>
-    <lastmod>2016-10-23T02:45:17+09:00</lastmod>
   </url>
   
   <url>
@@ -60,6 +50,21 @@
   
   <url>
     <loc>http://www.othlo.tech/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/blogs/othlotech-dev-cycle/</loc>
+    <lastmod>2016-11-12T02:45:17+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/blogs/lightning_talks_technique/</loc>
+    <lastmod>2016-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/blogs/hugo&#43;github-pages/</loc>
+    <lastmod>2016-10-23T02:45:17+09:00</lastmod>
   </url>
   
 </urlset>
