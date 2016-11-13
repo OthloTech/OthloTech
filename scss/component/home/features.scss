@@ -1,0 +1,21 @@
+.box-image-text .image {
+  min-height: 150px;
+  max-height: 150px;
+}
+
+.features {
+  .box-simple {
+    min-height: 180px;
+
+    .icon {
+      text-align: center;
+      vertical-align: middle;
+
+      img {
+        display: inline-block;
+        position: relative;
+        top: -3px;
+      }
+    }
+  }
+}

@@ -22,19 +22,34 @@
 
                     <!-- *** LEFT COLUMN *** -->
 
-                    <div class="col-md-9" id="blog-post">
+                    <div class="col-md-9" id="blog-post" class="blog-post">
 
-                        <p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}By <a href="#">{{ .Params.author }}</a> | {{ end }}{{ .Date.Format "January 2, 2006" }}</p>
+                        <div class="post-meta" style="height:32px">
+                            <div class="social-share-area col-sm-8 col-xs-12">
+                                <ul class="share-buttons" style="margin:0">
+                                    <li class="facebook">
+                                        <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}&t={{ .Params.title }}" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="/images/sns/Facebook.svg"></a>
+                                    </li>
+                                    <li class="twitter">
+                                        <a href="https://twitter.com/share?url={{ .Permalink }}&text={{ .Params.title }}&hashtags={{ .Site.Params.twitter }}&related={{ .Site.Params.twitter }}" target="_blank" title="Tweet"><img alt="Tweet" src="/images/sns/Twitter.svg"></a>
+                                    </li>
+                                    <li class="google">
+                                        <a href="https://plus.google.com/share?url={{ .Permalink }}" target="_blank" title="Share on Google+"><img alt="Share on Google+" src="/images/sns/Google+.svg"></a>
+                                    </li>
+                                    <li class="pocket">
+                                        <a href="https://getpocket.com/save?url={{ .Permalink }}&title={{ .Params.title }}" target="_blank" title="Add to Pocket"><img alt="Add to Pocket" src="/images/sns/Pocket.svg"></a>
+                                    </li>
+                                    <li class="hatebu">
+                                        <a class="hatena-share-button" href="http://b.hatena.ne.jp/add?mode=confirm&url={{ .Permalink }}&title={{ .Params.title }}" target="_blank"><img alt="Share on Hatebu" src="/images/sns/hatebu.svg"></a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <p class="text-muted text-uppercase mb-small text-center col-sm-4 col-xs-12" style="margin:0;line-height:32px;">{{ if .Params.author }}By <a href="#">{{ .Params.author }}</a> | {{ end }}{{ .Date.Format "January 2, 2006" }}</p>
+                        </div>
 
                         <div id="post-content">
                           {{ .Content }}
                         </div>
-                        <!-- /#post-content -->
-                        {{ if .Site.DisqusShortname }}
-                        <div id="comments">
-                            {{ template "_internal/disqus.html" . }}
-                        </div>
-                        {{ end }}
 
                     </div>
                     <!-- /#blog-post -->
@@ -47,7 +62,7 @@
 
                         <!-- *** MENUS AND WIDGETS *** -->
 
-                        {{ partial "sidebar.html" . }}
+                        {{ partial "blogs/sidebar.html" . }}
 
                         <!-- *** MENUS AND FILTERS END *** -->
 
