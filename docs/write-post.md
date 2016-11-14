@@ -33,9 +33,9 @@
 |項目|ルール|
 |:---:|:---|
 |容量|目安1ファイル100KB以下|
-|サイズ|幅1200px程度？ (最大幅1700px以下)|
+|サイズ|幅1200pxより大きい画像は1200pxにリサイズ|
 |形式|イラストは`png` or `jpg`、写真は`jpg`|
-|圧縮|[ImageOptim](https://imageoptim.com/mac)や[JPEGmini](http://www.jpegmini.com)などを使う|
+|圧縮|[ImageOptim](https://imageoptim.com/mac)、[JPEGmini](http://www.jpegmini.com)、[TinyPNG](https://tinypng.com)などを使う|
 
 ----
 

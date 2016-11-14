@@ -42,7 +42,7 @@ hugo server -w  # 変更を監視して自動リロード
 1. テスト
 
   ```
-npm run test    # SCSS-lin
+npm run test    # SCSS-Lint
 ```
 
 
