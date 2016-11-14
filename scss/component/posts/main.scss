@@ -54,6 +54,10 @@
     letter-spacing: .08em;
   }
 
+  a {
+    word-break: break-all;
+  }
+
   blockquote {
     font-style: italic;
 
