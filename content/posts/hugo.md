@@ -13,10 +13,6 @@ banner = 'images/banners/posts/hugo.png'
 
 この度、OthloTechの公式サイトをリニューアルしました。過去のサイトは
 
-<div class='my-fancy-table-class'>
-{{ .Inner }}
-</div>
-
 {{% table %}}
 
 |||
@@ -48,12 +44,15 @@ banner = 'images/banners/posts/hugo.png'
 
 一応特徴としては、記事の生成が高速らしく、他のブログから参照したのが以下の表。
 
+{{% table %}}
+
 |記事数|Octopress|Hexo|Pelican|Gitbook|Jekyll|Hugo|
 |:----|:-----|:----|:-----|:----|:-----|:----|
 |1|2.86|2.88|0.39|1.77|0.43|0.02|
 |10|2.98|2.96|0.44|1.64|0.37|0.03|
 |100|4.94|4.22|1.14|1.79|0.55|0.11|
 |1000|25.02|14.61|6.02|3.34|1.88|0.82|
+{{% /table %}}
 
 > [静的サイトジェネレータの生成時間比較](http://tamura.goga.co.jp/article/429818193.html) より
 

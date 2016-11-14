@@ -18,10 +18,6 @@ banner = "images/banners/events/othlo-event3.png"
 
 今回のイベントは、学生LTが3本と、株式会社ファントムタイプ 代表取締役の小久保 祐介さんの「Sketch入門」という豪華な詰め合わせでした！！
 
-<div class='my-fancy-table-class'>
-{{ .Inner }}
-</div>
-
 {{% table %}}
 
 |時間|内容|登壇者|

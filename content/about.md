@@ -32,10 +32,6 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
 
 ## 沿革
 
-<div class='my-fancy-table-class'>
-{{ .Inner }}
-</div>
-
 {{% table %}}
 
 | 年月         | 内容          |

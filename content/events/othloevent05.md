@@ -26,9 +26,6 @@ banner = "images/banners/events/othlo-event5.png"
 
 今回のイベントの時間割は以下の通り！
 
-<div class='my-fancy-table-class'>
-{{ .Inner }}
-</div>
 
 {{% table %}}
 |時間|内容|詳細|

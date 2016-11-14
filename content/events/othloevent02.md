@@ -25,10 +25,6 @@ OthloTechでは、月に一度のペースで勉強会やイベントを、情�
 
 イベントの内容は以下のようになっています。
 
-<div class='my-fancy-table-class'>
-{{ .Inner }}
-</div>
-
 {{% table %}}
 
 |時間|内容|備考|
