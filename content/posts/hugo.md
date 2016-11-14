@@ -13,6 +13,12 @@ banner = 'images/banners/posts/hugo.png'
 
 この度、OthloTechの公式サイトをリニューアルしました。過去のサイトは
 
+<div class='my-fancy-table-class'>
+{{ .Inner }}
+</div>
+
+{{% table %}}
+
 |||
 |:------------|:--------------|
 |`Node.js`|サーバーサイド|
@@ -20,6 +26,8 @@ banner = 'images/banners/posts/hugo.png'
 |`Heroku`|PaaS|
 |`gulp`|タスクランナー|
 |`ect`|テンプレートエンジン|
+
+{{% /table %}}
 
 サーバーサイドも自前で作っておけば何か機能を追加したいと思ったときに対応できるかなと、サーバーサイドも書いていたのですが
 当分は必要にならないだろうという理由と、動作に不調があったので、乗り換えることにしました。
