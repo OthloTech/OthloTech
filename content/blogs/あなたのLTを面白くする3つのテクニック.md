@@ -4,7 +4,8 @@ title = "ライトニングトークを面白くするたった3つのテクニ�
 date = "2016-11-03"
 tags = ["LT", "ライトニングトーク", "プレゼンテーション", "PowerPoint", "Keynote", "資料作成"]
 categories = ["プレゼン"]
-banner = "images/banners/posts/lightning_talk_banner.png"
+banner = "images/banners/blogs/lightning_talk_banner.png"
+weight = 998
 +++
 
 # ライトニングトーク（LT）を面白くするたった3つのテクニック
@@ -12,7 +13,7 @@ banner = "images/banners/posts/lightning_talk_banner.png"
 OthloTech初のブログを書くのは私、オトモレ([@otomore01](https://twitter.com/otomore01))でございます。
 ↓ある日のSlack↓
 
-{{< image src="/images/posts/20161103/slack_screenshot.png" title="ある日のSlack">}}
+{{< image src="/images/blogs/20161103/slack_screenshot.png" title="ある日のSlack">}}
 
 ということで、記念すべき第1稿に任命されました。**光栄です！**
 
@@ -30,12 +31,12 @@ OthloTech初のブログを書くのは私、オトモレ([@otomore01](https://t
 
 ## 1. フォントサイズをギリギリまでデカくしろ
 
-{{<image src="/images/posts/20161103/font-size_mini.png" title="フォントサイズ小">}}
+{{<image src="/images/blogs/20161103/font-size_mini.png" title="フォントサイズ小">}}
 
 これは、頭では分かっていてもやりがちな間違い。
 登壇者が好きなことほど、細かい部分まで書きたくなるものですが**そんなの誰も読まない**んですよ。
 
-{{<image src="/images/posts/20161103/font-size_big.png" title="フォントサイズ大">}}
+{{<image src="/images/blogs/20161103/font-size_big.png" title="フォントサイズ大">}}
 
 ### ついでにスライドサイズも変えておきましょう
 
@@ -54,14 +55,14 @@ LT == 漫才」**で Q.E.D. です。
 
 ### 画像でボケろ
 
-{{<image src="/images/posts/20161103/slide-24.png" title="時間が足りないとき">}}
+{{<image src="/images/blogs/20161103/slide-24.png" title="時間が足りないとき">}}
 
 これは「時間が足りないときってありますよね」などと話しながら見せるスライド。
 ドラマ「24」のように有名なドラマだと、見たことない人でも**時間が足りないことだけは何となくわかった気持ち**になります。
 
 次は少しレベルが高いかもしれません。
 
-{{<image src="/images/posts/20161103/slide-kaba.png" title="GABAの話をするとき">}}
+{{<image src="/images/blogs/20161103/slide-kaba.png" title="GABAの話をするとき">}}
 
 これは「みなさんGABA(ギャバ)って知ってますか？」と話す場面です。
 説明するまでもありませんが「GABA(ギャバ)」と「KABA(カバ)」をかけたダジャレです。
@@ -103,7 +104,7 @@ LT == 漫才」**で Q.E.D. です。
 本番前に、ディスプレイまたはプロジェクタのコネクタを確認しておきましょう。
 持ち合わせがなかったり忘れてしまった場合は、前後の人や主催者にお願いして借りるアテをつけておきましょう。
 
-{{<image src="/images/posts/20161103/tanshi_dsub.png" title="VGA端子">}}
+{{<image src="/images/blogs/20161103/tanshi_dsub.png" title="VGA端子">}}
 
 ### 時間配分
 
@@ -124,7 +125,7 @@ PowerPointやKeynoteの発表者ツールには、スライドショー開始時
 
 聴衆の目を見て話すだけで、「やっべ、見なきゃ！」という気持ちになります。（言うほど簡単じゃないんですけどね。）
 
-{{<image src="/images/posts/20161103/presentation_pc_man_eye.png" title="聴衆の目を見る">}}
+{{<image src="/images/blogs/20161103/presentation_pc_man_eye.png" title="聴衆の目を見る">}}
 
 ### 口癖に気をつける
 
@@ -149,4 +150,4 @@ PowerPointやKeynoteの発表者ツールには、スライドショー開始時
 
 <div style="text-align: center;font-size: xx-large; font-weight: bold">どうだい？ LTしたくなってきただろう？</div>
 
-{{<image src="/images/posts/20161103/message_goseichou_man.png" title="ご清聴ありがとうございました">}}
+{{<image src="/images/blogs/20161103/message_goseichou_man.png" title="ご清聴ありがとうございました">}}

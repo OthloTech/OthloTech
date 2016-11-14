@@ -22,7 +22,7 @@
 
                     <div class="col-md-9" id="blog-listing-medium">
 
-                        {{ $paginator := .Paginate (where .Data.Pages "Type" "posts") }}
+                        {{ $paginator := .Paginate (where .Data.Pages "Type" "events") }}
                         {{ range $paginator.Pages }}
                         <section class="post">
                             <div class="row">
@@ -88,7 +88,7 @@
 
                         <!-- *** MENUS AND WIDGETS *** -->
 
-                        {{ partial "blogs/sidebar.html" . }}
+                        {{ partial "events/sidebar.html" . }}
 
                         <!-- *** MENUS AND FILTERS END *** -->
 
