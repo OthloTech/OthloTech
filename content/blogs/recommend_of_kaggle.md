@@ -26,6 +26,8 @@ banner = '/images/banners/blogs/recommend_of_kaggle.png'
 
 ## そもそもKaggleって何？
 
+{{<image src="/images/blogs/20161117/kaggle.png" title="kaggle" >}}
+
 オンラインで機械学習の精度を競い合うサービスです。世界中のデータサイエンティストが集まって競っています。
 
 中には企業が問題を出して、賞金がかかったコンペも存在しております。
