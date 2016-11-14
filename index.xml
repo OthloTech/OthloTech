@@ -35,7 +35,7 @@
 
 &lt;p&gt;今回のイベントの時間割は以下の通り！&lt;/p&gt;
 
-&lt;table&gt;
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
@@ -76,6 +76,8 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+
 
 &lt;h3 id=&#34;bootcampの様子&#34;&gt;BootCampの様子！&lt;/h3&gt;
 
@@ -186,13 +188,13 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 
 &lt;h2 id=&#34;othlohack-2016-を開催しました&#34;&gt;OthloHack 2016 を開催しました！&lt;/h2&gt;
 
-&lt;p&gt;こんにちは、オトモレ(&lt;a href=&#34;https://twitter.com/otomore01&#34;&gt;@otomore01&lt;/a&gt;)です。&lt;br /&gt;
-2016/8/6-7に東海最大規模の学生限定ハッカソンイベントである&lt;a href=&#34;http://hack.othlo.tech/&#34;&gt;OthloHack 2016&lt;/a&gt;を開催しました！&lt;br /&gt;
+&lt;p&gt;こんにちは、オトモレ(&lt;a href=&#34;https://twitter.com/otomore01&#34;&gt;@otomore01&lt;/a&gt;)です。
+2016/8/6-7に東海最大規模の学生限定ハッカソンイベントである&lt;a href=&#34;http://hack.othlo.tech/&#34;&gt;OthloHack 2016&lt;/a&gt;を開催しました！
 僕はカメラ&amp;amp;SNS担当だったので、その模様を写真たっぷりでお伝えします！&lt;/p&gt;
 
 &lt;h3 id=&#34;タイムライン&#34;&gt;タイムライン&lt;/h3&gt;
 
-&lt;table&gt;
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;時間&lt;/th&gt;
@@ -305,6 +307,8 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+
 
 &lt;h3 id=&#34;協賛企業様&#34;&gt;協賛企業様&lt;/h3&gt;
 
@@ -572,7 +576,7 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 
 &lt;h3 id=&#34;最終発表&#34;&gt;最終発表&lt;/h3&gt;
 
-&lt;p&gt;作品のプレゼン &amp;amp; デモをしていきます。&lt;br /&gt;
+&lt;p&gt;作品のプレゼン &amp;amp; デモをしていきます。
 &lt;strong&gt;『プレゼンを制するものはハッカソンを制す』&lt;/strong&gt; と言います。
 &lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;チーム「十万獲太郎」の「トントン大相撲」&lt;br&gt;完成度がとても高いです！&lt;br&gt; &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/dPfHCJqT5Z&#34;&gt;pic.twitter.com/dPfHCJqT5Z&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/762222103374376960&#34;&gt;August 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
@@ -650,7 +654,7 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 
 &lt;h3 id=&#34;結果発表&#34;&gt;結果発表&lt;/h3&gt;
 
-&lt;p&gt;エイチーム賞『エイチームエンジニア社員との豪華ランチorディナー！』を受賞したのは&lt;br /&gt;
+&lt;p&gt;エイチーム賞『エイチームエンジニア社員との豪華ランチorディナー！』を受賞したのは
 &lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
@@ -673,7 +677,7 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 &lt;/figure&gt;
 &lt;/p&gt;
 
-&lt;p&gt;Misoca賞『Raspberry Piセット』を受賞したのは&lt;br /&gt;
+&lt;p&gt;Misoca賞『Raspberry Piセット』を受賞したのは
 &lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
@@ -696,7 +700,7 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 &lt;/figure&gt;
 &lt;/p&gt;
 
-&lt;p&gt;フューチャーアーキテクト賞『加藤牛肉店 肉博士あつし一押し！自慢肉セット』を受賞したのは&lt;br /&gt;
+&lt;p&gt;フューチャーアーキテクト賞『加藤牛肉店 肉博士あつし一押し！自慢肉セット』を受賞したのは
 &lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
@@ -719,7 +723,7 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 &lt;/figure&gt;
 &lt;/p&gt;
 
-&lt;p&gt;サポーターズ賞『GitHubパーカー or Tシャツ』を受賞したのは&lt;br /&gt;
+&lt;p&gt;サポーターズ賞『GitHubパーカー or Tシャツ』を受賞したのは
 &lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
@@ -742,7 +746,7 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 &lt;/figure&gt;
 &lt;/p&gt;
 
-&lt;p&gt;レバレジーズ賞『Leap Motion』を受賞したのは&lt;br /&gt;
+&lt;p&gt;レバレジーズ賞『Leap Motion』を受賞したのは
 &lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
@@ -765,7 +769,7 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 &lt;/figure&gt;
 &lt;/p&gt;
 
-&lt;p&gt;そして、OthloHack 2016 最優秀賞を受賞したのは&lt;br /&gt;
+&lt;p&gt;そして、OthloHack 2016 最優秀賞を受賞したのは
 &lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
@@ -831,25 +835,25 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 &lt;h4 id=&#34;othlohack-2016に参加してどうでしたか&#34;&gt;OthloHack 2016に参加してどうでしたか？&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;商品が豪華&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;主催者のお兄さんたちともっと話したかった&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;チーム開発が新鮮で楽しかった！&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;お昼ごはんが豪華&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;悔しかった&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;商品が豪華&lt;/li&gt;
+&lt;li&gt;主催者のお兄さんたちともっと話したかった&lt;/li&gt;
+&lt;li&gt;チーム開発が新鮮で楽しかった！&lt;/li&gt;
+&lt;li&gt;お昼ごはんが豪華&lt;/li&gt;
+&lt;li&gt;悔しかった&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;今後どのようなイベントに参加したいですか&#34;&gt;今後どのようなイベントに参加したいですか？&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;起業家とのトークイベントをやってほしい&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;汎用性の高い技術のハンズオンをやってほしい&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;もくもく会に参加したい&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;デザイナーに特化したイベントをやってほしい&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;起業家とのトークイベントをやってほしい&lt;/li&gt;
+&lt;li&gt;汎用性の高い技術のハンズオンをやってほしい&lt;/li&gt;
+&lt;li&gt;もくもく会に参加したい&lt;/li&gt;
+&lt;li&gt;デザイナーに特化したイベントをやってほしい&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;おわりに&#34;&gt;おわりに&lt;/h3&gt;
 
-&lt;p&gt;最後になりましたが、参加してくれた学生の皆さまや、ご協賛いただきました企業の皆さまのご支援ご協力あって大成功のイベントになりました。本当にありがとうございました！&lt;br /&gt;
+&lt;p&gt;最後になりましたが、参加してくれた学生の皆さまや、ご協賛いただきました企業の皆さまのご支援ご協力あって大成功のイベントになりました。本当にありがとうございました！
 今後ともOthloTechの活動にご期待ください！&lt;/p&gt;
 </description>
     </item>
@@ -876,7 +880,7 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 
 &lt;p&gt;今回のイベントの時間割は以下の通り！&lt;/p&gt;
 
-&lt;table&gt;
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
@@ -1013,6 +1017,8 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+
 
 &lt;h3 id=&#34;イベントの様子&#34;&gt;イベントの様子&lt;/h3&gt;
 
@@ -1095,7 +1101,7 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 
 &lt;p&gt;今回のイベントは、学生LTが3本と、株式会社ファントムタイプ 代表取締役の小久保 祐介さんの「Sketch入門」という豪華な詰め合わせでした！！&lt;/p&gt;
 
-&lt;table&gt;
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
@@ -1154,6 +1160,8 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+
 
 &lt;h3 id=&#34;学生lt&#34;&gt;学生LT&lt;/h3&gt;
 
@@ -1263,7 +1271,7 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
 
 &lt;p&gt;イベントの内容は以下のようになっています。&lt;/p&gt;
 
-&lt;table&gt;
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
@@ -1358,6 +1366,8 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+
 
 &lt;h2 id=&#34;学生lt枠&#34;&gt;学生LT枠&lt;/h2&gt;
 
@@ -1588,7 +1598,7 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
 
 &lt;p&gt;当日のLT会のタイムラインはこんな感じでした！&lt;/p&gt;
 
-&lt;table&gt;
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;left&#34;&gt;LTタイトル&lt;/th&gt;
@@ -1648,6 +1658,8 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+
 
 &lt;p&gt;数が多いのでピックアップして紹介(≧∀≦)／&lt;/p&gt;
 
@@ -2021,8 +2033,8 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
 
 &lt;h2 id=&#34;othlotechへの参加&#34;&gt;OthloTechへの参加&lt;/h2&gt;
 
-&lt;p&gt;月に1回、学生であれば誰でも参加できる勉強会イベント(OthloEvent)を開催しています。&lt;br /&gt;
-勉強会は&lt;a href=&#34;http://othlotech.connpass.com&#34; target=&#34;_blank&#34;&gt;connpass&lt;/a&gt;を通して参加申し込みが可能です。&lt;br /&gt;
+&lt;p&gt;月に1回、学生であれば誰でも参加できる勉強会イベント(OthloEvent)を開催しています。
+勉強会は&lt;a href=&#34;http://othlotech.connpass.com&#34; target=&#34;_blank&#34;&gt;connpass&lt;/a&gt;を通して参加申し込みが可能です。
 新しいイベントはOthloTechの&lt;a href=&#34;https://www.facebook.com/othlotech/&#34; target=&#34;_blank&#34;&gt;Facebook&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/othlotech&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;, &lt;a href=&#34;http://www.othlo.tech&#34; target=&#34;_blank&#34;&gt;公式サイト&lt;/a&gt;で告知しています。&lt;/p&gt;
 
 &lt;p&gt;過去のイベントには以下の大学・専門学校生が参加しています。&lt;/p&gt;
@@ -2033,7 +2045,7 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
 
 &lt;h2 id=&#34;沿革&#34;&gt;沿革&lt;/h2&gt;
 
-&lt;table&gt;
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;年月&lt;/th&gt;
@@ -2078,6 +2090,8 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+
 
 &lt;h2 id=&#34;企業の方へ&#34;&gt;企業の方へ&lt;/h2&gt;
 
@@ -2226,7 +2240,7 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
 
 &lt;p&gt;他にISSUESで使っているラベルはデフォルトのもので、主にこんな感じのを使っています。&lt;/p&gt;
 
-&lt;table&gt;
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;left&#34;&gt;ラベル&lt;/th&gt;
@@ -2256,6 +2270,8 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+
 
 &lt;h3 id=&#34;wwothloの投稿フロー&#34;&gt;wwOthloの投稿フロー&lt;/h3&gt;
 
@@ -2298,8 +2314,8 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
 
 &lt;h1 id=&#34;ライトニングトーク-lt-を面白くするたった3つのテクニック&#34;&gt;ライトニングトーク（LT）を面白くするたった3つのテクニック&lt;/h1&gt;
 
-&lt;p&gt;こんにちは(○´∀｀)ﾉﾞ&lt;br /&gt;
-OthloTech初のブログを書くのは私、オトモレ(&lt;a href=&#34;https://twitter.com/otomore01&#34;&gt;@otomore01&lt;/a&gt;)でございます。&lt;br /&gt;
+&lt;p&gt;こんにちは(○´∀｀)ﾉﾞ
+OthloTech初のブログを書くのは私、オトモレ(&lt;a href=&#34;https://twitter.com/otomore01&#34;&gt;@otomore01&lt;/a&gt;)でございます。
 ↓ある日のSlack↓&lt;/p&gt;
 
 
@@ -2326,11 +2342,11 @@ OthloTech初のブログを書くのは私、オトモレ(&lt;a href=&#34;https:
 &lt;div style=&#34;text-align: center;font-size: xx-large; font-weight: bold; color: red&#34;&gt;「お前らのLTはつまらん」&lt;/div&gt;
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 
-&lt;p&gt;初っ端からキツい内容でアレなんですが…… &lt;strong&gt;聞くに堪えないLTって正直少なくないですよね？&lt;/strong&gt;&lt;br /&gt;
-せっかく面白いネタがあるのに、面白く伝えないと聞いてもらえないし伝わりません。&lt;br /&gt;
+&lt;p&gt;初っ端からキツい内容でアレなんですが…… &lt;strong&gt;聞くに堪えないLTって正直少なくないですよね？&lt;/strong&gt;
+せっかく面白いネタがあるのに、面白く伝えないと聞いてもらえないし伝わりません。
 もったいない (´；ω；`)&lt;/p&gt;
 
-&lt;p&gt;でも大丈夫。&lt;br /&gt;
+&lt;p&gt;でも大丈夫。
 &lt;strong&gt;あなたのライトニングトークを面白くするテクニックを伝授します！&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;1-フォントサイズをギリギリまでデカくしろ&#34;&gt;1. フォントサイズをギリギリまでデカくしろ&lt;/h2&gt;
@@ -2352,7 +2368,7 @@ OthloTech初のブログを書くのは私、オトモレ(&lt;a href=&#34;https:
 &lt;/figure&gt;
 
 
-&lt;p&gt;これは、頭では分かっていてもやりがちな間違い。&lt;br /&gt;
+&lt;p&gt;これは、頭では分かっていてもやりがちな間違い。
 登壇者が好きなことほど、細かい部分まで書きたくなるものですが&lt;strong&gt;そんなの誰も読まない&lt;/strong&gt;んですよ。&lt;/p&gt;
 
 
@@ -2374,17 +2390,17 @@ OthloTech初のブログを書くのは私、オトモレ(&lt;a href=&#34;https:
 
 &lt;h3 id=&#34;ついでにスライドサイズも変えておきましょう&#34;&gt;ついでにスライドサイズも変えておきましょう&lt;/h3&gt;
 
-&lt;p&gt;せっかく文字をデカくしたのに、スクリーン(ディスプレイ)の端が余ってるのはモッタイナイ！&lt;br /&gt;
-スクリーンのサイズ（厳密にはアスペクト比）は「4:3」か「16:9」の2つがほとんどです。&lt;br /&gt;
+&lt;p&gt;せっかく文字をデカくしたのに、スクリーン(ディスプレイ)の端が余ってるのはモッタイナイ！
+スクリーンのサイズ（厳密にはアスペクト比）は「4:3」か「16:9」の2つがほとんどです。
 会場のスクリーンについて調べておくか、わからなければ両方作っておくのが良いでしょう。&lt;/p&gt;
 
 &lt;h2 id=&#34;2-ボケろ&#34;&gt;2. ボケろ&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;LTは漫才に似ています。&lt;/strong&gt; いやもう&lt;strong&gt;「
-LT == 漫才」&lt;/strong&gt;で Q.E.D. です。&lt;br /&gt;
+LT == 漫才」&lt;/strong&gt;で Q.E.D. です。
 おっとw 拙者ついクセで = (イコール) を2つ並べてしまったでござるﾃﾞｭﾌﾌww&lt;/p&gt;
 
-&lt;p&gt;面白いLTとは登壇者がボケ、聴衆が(心のなかで)ツッコミを入れることにより化学反応が起き笑いが生まれているのです。&lt;br /&gt;
+&lt;p&gt;面白いLTとは登壇者がボケ、聴衆が(心のなかで)ツッコミを入れることにより化学反応が起き笑いが生まれているのです。
 いきなり「ボケろ」と言われても難しいと思うので、いくつか例をご紹介します。&lt;/p&gt;
 
 &lt;h3 id=&#34;画像でボケろ&#34;&gt;画像でボケろ&lt;/h3&gt;
@@ -2406,7 +2422,7 @@ LT == 漫才」&lt;/strong&gt;で Q.E.D. です。&lt;br /&gt;
 &lt;/figure&gt;
 
 
-&lt;p&gt;これは「時間が足りないときってありますよね」などと話しながら見せるスライド。&lt;br /&gt;
+&lt;p&gt;これは「時間が足りないときってありますよね」などと話しながら見せるスライド。
 ドラマ「24」のように有名なドラマだと、見たことない人でも&lt;strong&gt;時間が足りないことだけは何となくわかった気持ち&lt;/strong&gt;になります。&lt;/p&gt;
 
 &lt;p&gt;次は少しレベルが高いかもしれません。&lt;/p&gt;
@@ -2428,44 +2444,44 @@ LT == 漫才」&lt;/strong&gt;で Q.E.D. です。&lt;br /&gt;
 &lt;/figure&gt;
 
 
-&lt;p&gt;これは「みなさんGABA(ギャバ)って知ってますか？」と話す場面です。&lt;br /&gt;
-説明するまでもありませんが「GABA(ギャバ)」と「KABA(カバ)」をかけたダジャレです。&lt;br /&gt;
+&lt;p&gt;これは「みなさんGABA(ギャバ)って知ってますか？」と話す場面です。
+説明するまでもありませんが「GABA(ギャバ)」と「KABA(カバ)」をかけたダジャレです。
 ただしこれは、&lt;strong&gt;一歩間違えると寒いオヤジギャグで終わることも有り得る&lt;/strong&gt;ので使い所が肝心です。&lt;/p&gt;
 
-&lt;p&gt;例に挙げたスライドは、分かりやすくするため文字を入れました。&lt;br /&gt;
+&lt;p&gt;例に挙げたスライドは、分かりやすくするため文字を入れました。
 本来ならば画像を全体に広げるほうがいいでしょう。&lt;/p&gt;
 
 &lt;h3 id=&#34;何度もボケろ&#34;&gt;何度もボケろ&lt;/h3&gt;
 
-&lt;p&gt;たとえオヤジギャグでも、何度も同じボケをするのは意外と有効です。&lt;br /&gt;
-何故ならば、&lt;strong&gt;同じボケを続けることにより「聴衆が笑いどころを理解する」から&lt;/strong&gt;です。&lt;br /&gt;
+&lt;p&gt;たとえオヤジギャグでも、何度も同じボケをするのは意外と有効です。
+何故ならば、&lt;strong&gt;同じボケを続けることにより「聴衆が笑いどころを理解する」から&lt;/strong&gt;です。
 例えるなら&lt;strong&gt;「バラエティ番組のスタッフの笑い声」と同じ&lt;/strong&gt;。&lt;/p&gt;
 
-&lt;p&gt;1度目2度目はウケなくてつらいかもしれませんが、見ている人に「ここがおもしろいんじゃ」と伝えてください。&lt;br /&gt;
+&lt;p&gt;1度目2度目はウケなくてつらいかもしれませんが、見ている人に「ここがおもしろいんじゃ」と伝えてください。
 3度目には会場全体から大爆笑を攫うことでしょう。(保証はしません)&lt;/p&gt;
 
 &lt;h3 id=&#34;オチを作れ&#34;&gt;オチを作れ&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;「終わり良ければすべて良し」&lt;/strong&gt;です。&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;「終わり良ければすべて良し」&lt;/strong&gt;です。
 最後の終わらせ方が上手くないと、それまでどれほど面白いLTをしていても評価が下がります。&lt;/p&gt;
 
-&lt;p&gt;オチの作り方は多種多様です。&lt;br /&gt;
+&lt;p&gt;オチの作り方は多種多様です。
 「三段オチ」や「起承転結」「伏線回収」を取り入れるといいでしょう。&lt;/p&gt;
 
-&lt;p&gt;また、必ずしも笑いを取る必要はありません。&lt;br /&gt;
+&lt;p&gt;また、必ずしも笑いを取る必要はありません。
 例えば、感動オチ（例：紆余曲折を経て解決する、とか）は聴衆からの共感を得るのに最適でしょう。&lt;/p&gt;
 
-&lt;p&gt;ネタを伝えてどのような感想を与えたいかによって変えてみて下さい。&lt;br /&gt;
+&lt;p&gt;ネタを伝えてどのような感想を与えたいかによって変えてみて下さい。
 「LTは漫才に似ています 」と書きましたが [漫才 オチ] などでググると参考になる資料と出会えます。&lt;/p&gt;
 
 &lt;h2 id=&#34;3-練習しろ&#34;&gt;3. 練習しろ&lt;/h2&gt;
 
-&lt;p&gt;ここまでスライドの作り方ばかりお伝えしてきましたが、最終的には練習あるのみです。&lt;br /&gt;
+&lt;p&gt;ここまでスライドの作り方ばかりお伝えしてきましたが、最終的には練習あるのみです。
 練習のときに気をつけるポイントは4つ。&lt;/p&gt;
 
 &lt;h3 id=&#34;機材のチェック&#34;&gt;機材のチェック&lt;/h3&gt;
 
-&lt;p&gt;本番前に、ディスプレイまたはプロジェクタのコネクタを確認しておきましょう。&lt;br /&gt;
+&lt;p&gt;本番前に、ディスプレイまたはプロジェクタのコネクタを確認しておきましょう。
 持ち合わせがなかったり忘れてしまった場合は、前後の人や主催者にお願いして借りるアテをつけておきましょう。&lt;/p&gt;
 
 
@@ -2487,14 +2503,14 @@ LT == 漫才」&lt;/strong&gt;で Q.E.D. です。&lt;br /&gt;
 
 &lt;h3 id=&#34;時間配分&#34;&gt;時間配分&lt;/h3&gt;
 
-&lt;p&gt;LTの時間はほとんどが5分、もしくは10分です。&lt;br /&gt;
-主催者視点からいうと、短く終わる場合は大歓迎。&lt;br /&gt;
+&lt;p&gt;LTの時間はほとんどが5分、もしくは10分です。
+主催者視点からいうと、短く終わる場合は大歓迎。
 &lt;strong&gt;時間を超えるとはっきり言って迷惑&lt;/strong&gt;です。&lt;/p&gt;
 
-&lt;p&gt;PowerPointやKeynoteの発表者ツールには、スライドショー開始時からの経過時間が表示できます。&lt;br /&gt;
+&lt;p&gt;PowerPointやKeynoteの発表者ツールには、スライドショー開始時からの経過時間が表示できます。
 チラっと見て、余裕がなければ早口で話すのもテクニックです。&lt;/p&gt;
 
-&lt;p&gt;練習時は30秒くらい早めに終わるのがいいでしょう。&lt;br /&gt;
+&lt;p&gt;練習時は30秒くらい早めに終わるのがいいでしょう。
 聴衆のリアクションの時間、例えば拍手喝采が起きたらその間はスライドを止めておくはずです。&lt;/p&gt;
 
 &lt;h3 id=&#34;聴衆を見て話す&#34;&gt;聴衆を見て話す&lt;/h3&gt;
@@ -2523,23 +2539,23 @@ LT == 漫才」&lt;/strong&gt;で Q.E.D. です。&lt;br /&gt;
 
 &lt;h3 id=&#34;口癖に気をつける&#34;&gt;口癖に気をつける&lt;/h3&gt;
 
-&lt;p&gt;次のセリフをロードする間「あのー」「えーと」などと垂れ流してしまうそこのアナタ！&lt;br /&gt;
+&lt;p&gt;次のセリフをロードする間「あのー」「えーと」などと垂れ流してしまうそこのアナタ！
 これらを&lt;strong&gt;1回使う度に、そのプレゼンの説得力は半減すると言います。&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;逆に言えば、&lt;strong&gt;1回「えーと」を減らせば説得力は倍になります！&lt;/strong&gt;&lt;br /&gt;
+&lt;p&gt;逆に言えば、&lt;strong&gt;1回「えーと」を減らせば説得力は倍になります！&lt;/strong&gt;
 これらの口癖を言ってしまうのには色々原因があるのですが、大抵は「単なる練習不足」です。&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;さあ、練習あるのみ！&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;〆&#34;&gt;〆&lt;/h3&gt;
 
-&lt;p&gt;いかがでしたか？&lt;br /&gt;
+&lt;p&gt;いかがでしたか？
 僕は「プレゼン」と「ライトニングトーク」は別モノだと思っています。&lt;/p&gt;
 
-&lt;p&gt;プレゼンで使うテクニックの中には、ライトニングトークだと逆効果のものもあります。（もちろん使えるものもあります:D）&lt;br /&gt;
+&lt;p&gt;プレゼンで使うテクニックの中には、ライトニングトークだと逆効果のものもあります。（もちろん使えるものもあります:D）
 いろんな人のLTを見て研究するも良し、慣れてきたら自分のオリジナリティを加えていくも良し。&lt;/p&gt;
 
-&lt;p&gt;いきなり全部は難しいかもしれません、ひとつずつ試していきましょう。&lt;br /&gt;
+&lt;p&gt;いきなり全部は難しいかもしれません、ひとつずつ試していきましょう。
 これでアナタもライトニングトークマスターになれるはずです！&lt;/p&gt;
 
 &lt;div style=&#34;text-align: center;font-size: xx-large; font-weight: bold&#34;&gt;どうだい？ LTしたくなってきただろう？&lt;/div&gt;
@@ -2577,7 +2593,7 @@ LT == 漫才」&lt;/strong&gt;で Q.E.D. です。&lt;br /&gt;
 
 &lt;p&gt;この度、OthloTechの公式サイトをリニューアルしました。過去のサイトは&lt;/p&gt;
 
-&lt;table&gt;
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
@@ -2612,6 +2628,8 @@ LT == 漫才」&lt;/strong&gt;で Q.E.D. です。&lt;br /&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+
 
 &lt;p&gt;サーバーサイドも自前で作っておけば何か機能を追加したいと思ったときに対応できるかなと、サーバーサイドも書いていたのですが
 当分は必要にならないだろうという理由と、動作に不調があったので、乗り換えることにしました。&lt;/p&gt;
@@ -2649,7 +2667,7 @@ LT == 漫才」&lt;/strong&gt;で Q.E.D. です。&lt;br /&gt;
 
 &lt;p&gt;一応特徴としては、記事の生成が高速らしく、他のブログから参照したのが以下の表。&lt;/p&gt;
 
-&lt;table&gt;
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;left&#34;&gt;記事数&lt;/th&gt;
@@ -2704,6 +2722,8 @@ LT == 漫才」&lt;/strong&gt;で Q.E.D. です。&lt;br /&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://tamura.goga.co.jp/article/429818193.html&#34;&gt;静的サイトジェネレータの生成時間比較&lt;/a&gt; より&lt;/p&gt;

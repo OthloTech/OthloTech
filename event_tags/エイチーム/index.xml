@@ -33,7 +33,7 @@
 
 &lt;p&gt;イベントの内容は以下のようになっています。&lt;/p&gt;
 
-&lt;table&gt;
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
@@ -128,6 +128,8 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+
 
 &lt;h2 id=&#34;学生lt枠&#34;&gt;学生LT枠&lt;/h2&gt;
 

@@ -125,7 +125,7 @@
 
 &lt;p&gt;他にISSUESで使っているラベルはデフォルトのもので、主にこんな感じのを使っています。&lt;/p&gt;
 
-&lt;table&gt;
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;left&#34;&gt;ラベル&lt;/th&gt;
@@ -155,6 +155,8 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+
 
 &lt;h3 id=&#34;wwothloの投稿フロー&#34;&gt;wwOthloの投稿フロー&lt;/h3&gt;
 
@@ -201,7 +203,7 @@
 
 &lt;p&gt;この度、OthloTechの公式サイトをリニューアルしました。過去のサイトは&lt;/p&gt;
 
-&lt;table&gt;
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
@@ -236,6 +238,8 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+
 
 &lt;p&gt;サーバーサイドも自前で作っておけば何か機能を追加したいと思ったときに対応できるかなと、サーバーサイドも書いていたのですが
 当分は必要にならないだろうという理由と、動作に不調があったので、乗り換えることにしました。&lt;/p&gt;
@@ -273,7 +277,7 @@
 
 &lt;p&gt;一応特徴としては、記事の生成が高速らしく、他のブログから参照したのが以下の表。&lt;/p&gt;
 
-&lt;table&gt;
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;left&#34;&gt;記事数&lt;/th&gt;
@@ -328,6 +332,8 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://tamura.goga.co.jp/article/429818193.html&#34;&gt;静的サイトジェネレータの生成時間比較&lt;/a&gt; より&lt;/p&gt;

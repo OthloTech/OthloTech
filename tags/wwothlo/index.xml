@@ -125,7 +125,7 @@
 
 &lt;p&gt;他にISSUESで使っているラベルはデフォルトのもので、主にこんな感じのを使っています。&lt;/p&gt;
 
-&lt;table&gt;
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;left&#34;&gt;ラベル&lt;/th&gt;
@@ -155,6 +155,8 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+
 
 &lt;h3 id=&#34;wwothloの投稿フロー&#34;&gt;wwOthloの投稿フロー&lt;/h3&gt;
 

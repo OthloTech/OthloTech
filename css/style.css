@@ -133,7 +133,8 @@ body {
     line-height: 1.6em;
     letter-spacing: .05em;
     padding-bottom: 12px;
-    border-bottom: solid 5px #4fbfa8; }
+    border-bottom: solid 5px #4fbfa8;
+    word-break: break-all; }
   #blog-post h2 {
     font-size: 24px;
     padding: 30px;
@@ -165,6 +166,8 @@ body {
     margin-top: 25px;
     line-height: 1.8em;
     letter-spacing: .08em; }
+  #blog-post a {
+    word-break: break-all; }
   #blog-post blockquote {
     font-style: italic; }
     #blog-post blockquote p {
@@ -184,16 +187,16 @@ body {
     padding: 20px 30px; }
   #blog-post section {
     margin-top: 35px; }
+  #blog-post .post-table {
+    width: 100%;
+    overflow: scroll; }
   #blog-post table {
     font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
     font-size: 16px;
     background: #fff;
     margin: 30px 0;
     border-collapse: collapse;
-    width: 100%;
-    overflow: scroll; }
-    #blog-post table tr {
-      overflow: scroll; }
+    width: 100%; }
     #blog-post table th {
       font-size: 16px;
       font-weight: bold;

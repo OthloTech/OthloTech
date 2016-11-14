@@ -27,7 +27,7 @@
 
 &lt;p&gt;今回のイベントは、学生LTが3本と、株式会社ファントムタイプ 代表取締役の小久保 祐介さんの「Sketch入門」という豪華な詰め合わせでした！！&lt;/p&gt;
 
-&lt;table&gt;
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
@@ -86,6 +86,8 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+
 
 &lt;h3 id=&#34;学生lt&#34;&gt;学生LT&lt;/h3&gt;
 

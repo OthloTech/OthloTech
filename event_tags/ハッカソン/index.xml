@@ -19,13 +19,13 @@
 
 &lt;h2 id=&#34;othlohack-2016-を開催しました&#34;&gt;OthloHack 2016 を開催しました！&lt;/h2&gt;
 
-&lt;p&gt;こんにちは、オトモレ(&lt;a href=&#34;https://twitter.com/otomore01&#34;&gt;@otomore01&lt;/a&gt;)です。&lt;br /&gt;
-2016/8/6-7に東海最大規模の学生限定ハッカソンイベントである&lt;a href=&#34;http://hack.othlo.tech/&#34;&gt;OthloHack 2016&lt;/a&gt;を開催しました！&lt;br /&gt;
+&lt;p&gt;こんにちは、オトモレ(&lt;a href=&#34;https://twitter.com/otomore01&#34;&gt;@otomore01&lt;/a&gt;)です。
+2016/8/6-7に東海最大規模の学生限定ハッカソンイベントである&lt;a href=&#34;http://hack.othlo.tech/&#34;&gt;OthloHack 2016&lt;/a&gt;を開催しました！
 僕はカメラ&amp;amp;SNS担当だったので、その模様を写真たっぷりでお伝えします！&lt;/p&gt;
 
 &lt;h3 id=&#34;タイムライン&#34;&gt;タイムライン&lt;/h3&gt;
 
-&lt;table&gt;
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;時間&lt;/th&gt;
@@ -138,6 +138,8 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+
 
 &lt;h3 id=&#34;協賛企業様&#34;&gt;協賛企業様&lt;/h3&gt;
 
@@ -405,7 +407,7 @@
 
 &lt;h3 id=&#34;最終発表&#34;&gt;最終発表&lt;/h3&gt;
 
-&lt;p&gt;作品のプレゼン &amp;amp; デモをしていきます。&lt;br /&gt;
+&lt;p&gt;作品のプレゼン &amp;amp; デモをしていきます。
 &lt;strong&gt;『プレゼンを制するものはハッカソンを制す』&lt;/strong&gt; と言います。
 &lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;チーム「十万獲太郎」の「トントン大相撲」&lt;br&gt;完成度がとても高いです！&lt;br&gt; &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/dPfHCJqT5Z&#34;&gt;pic.twitter.com/dPfHCJqT5Z&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/762222103374376960&#34;&gt;August 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
@@ -483,7 +485,7 @@
 
 &lt;h3 id=&#34;結果発表&#34;&gt;結果発表&lt;/h3&gt;
 
-&lt;p&gt;エイチーム賞『エイチームエンジニア社員との豪華ランチorディナー！』を受賞したのは&lt;br /&gt;
+&lt;p&gt;エイチーム賞『エイチームエンジニア社員との豪華ランチorディナー！』を受賞したのは
 &lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
@@ -506,7 +508,7 @@
 &lt;/figure&gt;
 &lt;/p&gt;
 
-&lt;p&gt;Misoca賞『Raspberry Piセット』を受賞したのは&lt;br /&gt;
+&lt;p&gt;Misoca賞『Raspberry Piセット』を受賞したのは
 &lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
@@ -529,7 +531,7 @@
 &lt;/figure&gt;
 &lt;/p&gt;
 
-&lt;p&gt;フューチャーアーキテクト賞『加藤牛肉店 肉博士あつし一押し！自慢肉セット』を受賞したのは&lt;br /&gt;
+&lt;p&gt;フューチャーアーキテクト賞『加藤牛肉店 肉博士あつし一押し！自慢肉セット』を受賞したのは
 &lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
@@ -552,7 +554,7 @@
 &lt;/figure&gt;
 &lt;/p&gt;
 
-&lt;p&gt;サポーターズ賞『GitHubパーカー or Tシャツ』を受賞したのは&lt;br /&gt;
+&lt;p&gt;サポーターズ賞『GitHubパーカー or Tシャツ』を受賞したのは
 &lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
@@ -575,7 +577,7 @@
 &lt;/figure&gt;
 &lt;/p&gt;
 
-&lt;p&gt;レバレジーズ賞『Leap Motion』を受賞したのは&lt;br /&gt;
+&lt;p&gt;レバレジーズ賞『Leap Motion』を受賞したのは
 &lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
@@ -598,7 +600,7 @@
 &lt;/figure&gt;
 &lt;/p&gt;
 
-&lt;p&gt;そして、OthloHack 2016 最優秀賞を受賞したのは&lt;br /&gt;
+&lt;p&gt;そして、OthloHack 2016 最優秀賞を受賞したのは
 &lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;
 ……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
@@ -664,25 +666,25 @@
 &lt;h4 id=&#34;othlohack-2016に参加してどうでしたか&#34;&gt;OthloHack 2016に参加してどうでしたか？&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;商品が豪華&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;主催者のお兄さんたちともっと話したかった&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;チーム開発が新鮮で楽しかった！&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;お昼ごはんが豪華&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;悔しかった&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;商品が豪華&lt;/li&gt;
+&lt;li&gt;主催者のお兄さんたちともっと話したかった&lt;/li&gt;
+&lt;li&gt;チーム開発が新鮮で楽しかった！&lt;/li&gt;
+&lt;li&gt;お昼ごはんが豪華&lt;/li&gt;
+&lt;li&gt;悔しかった&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;今後どのようなイベントに参加したいですか&#34;&gt;今後どのようなイベントに参加したいですか？&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;起業家とのトークイベントをやってほしい&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;汎用性の高い技術のハンズオンをやってほしい&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;もくもく会に参加したい&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;デザイナーに特化したイベントをやってほしい&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;起業家とのトークイベントをやってほしい&lt;/li&gt;
+&lt;li&gt;汎用性の高い技術のハンズオンをやってほしい&lt;/li&gt;
+&lt;li&gt;もくもく会に参加したい&lt;/li&gt;
+&lt;li&gt;デザイナーに特化したイベントをやってほしい&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;おわりに&#34;&gt;おわりに&lt;/h3&gt;
 
-&lt;p&gt;最後になりましたが、参加してくれた学生の皆さまや、ご協賛いただきました企業の皆さまのご支援ご協力あって大成功のイベントになりました。本当にありがとうございました！&lt;br /&gt;
+&lt;p&gt;最後になりましたが、参加してくれた学生の皆さまや、ご協賛いただきました企業の皆さまのご支援ご協力あって大成功のイベントになりました。本当にありがとうございました！
 今後ともOthloTechの活動にご期待ください！&lt;/p&gt;
 </description>
     </item>
