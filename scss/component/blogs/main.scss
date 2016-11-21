@@ -93,7 +93,7 @@
 
   .post-table {
     width: 100%;
-    overflow: scroll;
+    overflow: auto;
   }
 
   table {
@@ -109,11 +109,28 @@
       font-weight: bold;
       padding: 10px 8px;
       border-bottom: 1px solid #4fbfa8;
+      
+      &[align="left"] {
+        text-align: left;
+      }
+      &[align="center"] {
+        text-align: center;
+      }
+      &[align="right"] {
+        text-align: right;
+      }
     }
 
     td {
-      padding: 10px 8px 3px;
+      padding: 10px 8px 3px 12px;
       white-space: nowrap;
+    }
+
+    tr>* {
+      border-right: 1px solid #4fbfa8;
+      &:last-child {
+        border-right: none;
+      }
     }
   }
 
