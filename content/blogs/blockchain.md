@@ -25,6 +25,8 @@ OthloTechのブログ初投稿になります。私、たつま[@tatsutasu103](h
 
 こんな人たちに**Bitcoin**を教えちゃいます。
 
+{{<image src="/images/blogs/20161124/bitcoin.png" title="bitcoin" >}}
+
 でもBitcoinを始めるにはそれを支える技術である、**ブロックチェーン** について理解しなければなりません。
 
 そこで今回は、**ブロックチェーン** をご紹介します。
@@ -36,6 +38,8 @@ OthloTechのブログ初投稿になります。私、たつま[@tatsutasu103](h
 一言で行ってしまうと
 
 #### ***Bitcoinの取引履歴*** です。
+
+{{<image src="/images/blogs/20161124/blockchain.png" title="blockchain" >}}
 
 ここから詳しく説明していきますね！
 
@@ -60,4 +64,34 @@ Bitcoinのブロックチェーンとは、Bitcoinの通貨がどこからどこ
 チェーン状にデータが入っているブロックって??いきなりなんだよーって話なんですが、</br>
 取引データを単に保存しているデータベースは鎖のようにデータが結びついていないので、上記のような形態ではありません。
 
-鎖のようにというのは、
+鎖のようにというのは、***１つ前のプロックのハッシュ値を次のプロックの中に含まれている*** からそう呼ばれています。
+
+## プロックチェーン情報を確認する
+
+プロックチェーンの情報は全世界の人に公開されています。
+
+以下が、Bitcoinのブロックチェーンを確認するための有名なサイトになります。
+
+[Bitcoin Block Explorer - blockchain.info](https://blockchain.info/)
+
+
+## 終わりに
+
+今回はブロックチェーンについて紹介しました。ブロックチェーン技術はBitcoinに使われている技術だけではなく、
+世界的なOSSプロジェクトである、「[Hyper Ledger project](https://www.hyperledger.org/)」や「[Enigma](http://www.enigma.co/)」にも応用され、使われております。
+
+これからあらゆる分野で活躍が期待されている技術であるので、ぜひ学んでみる価値があります。
+
+
+
+## Bitcoinをより知りたい。
+
+参考になるサイトを紹介します。
+
+- [5分でわかるプロックチェーンの基本的な仕組み](http://www.slideshare.net/cookle/5-58379474)
+- [仮想通貨「Bitcoin」を完璧に理解するために知っておきたいことまとめ](http://gigazine.net/news/20140307-what-is-bitcoin-2nd/)
+- [仮想通貨「Bitcoin」を完璧に理解するために知っておきたいことまとめ](http://wazanova.jp/items/1314)
+- [ビットコインのブロックチェーンの技術的な説明 まとめ](http://qiita.com/hshimo/items/bd849363a871966a923f)
+- [ブロックチェーン技術ブログ](http://blocktech.hateblo.jp/)
+- [ブロックチェーンについて](http://qiita.com/hshimo/items/1881fba8957c2a6e17ca)
+- [ビットコイン2.0 とは? Bitcoin 2.0 資料まとめ](http://qiita.com/hshimo/items/8104dc2c4ad35720013e)
