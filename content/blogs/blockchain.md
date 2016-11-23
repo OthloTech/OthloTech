@@ -4,7 +4,7 @@ categories = ['blockchain']
 date = "2016-11-24"
 title = "ブロックチェーンって？"
 tags = ["blockchain","bitcoin","cryptocurrency"]
-banner = '/images/banners/blogs/bitcoin.png'
+banner = '/images/banners/blogs/blockchain-technology.jpg'
 +++
 
 # ブロックチェーンって???
