@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OthloTech -学生クリエイティブ集団-</title>
+    <link>http://www.othlo.tech/tags/python/index.xml</link>
+    <description>Recent content on OthloTech -学生クリエイティブ集団-</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
+    <atom:link href="http://www.othlo.tech/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>機械学習コンペティションKaggleのススメ</title>
+      <link>http://www.othlo.tech/blogs/recommend-of-kaggle/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/blogs/recommend-of-kaggle/</guid>
+      <description>
+
+&lt;h1 id=&#34;機械学習コンペティションkaggle&#34;&gt;機械学習コンペティションKaggle&lt;/h1&gt;
+
+&lt;p&gt;こんにちは、TeraBytesです。&lt;/p&gt;
+
+&lt;p&gt;読者のみなさんは機械学習には興味あったりしますでしょうか？&lt;/p&gt;
+
+&lt;p&gt;実際に試したいけどデータがないだとか、機械学習について深く勉強したいなんて方は、&lt;/p&gt;
+
+&lt;p&gt;機械学習のコンペティションであるKaggleをオススメします。&lt;/p&gt;
+
+&lt;p&gt;この記事は、&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;機械学習・データ分析に興味があるor極めたい！&lt;/li&gt;
+&lt;li&gt;英語がわかる（特にKaggleを極めたい人は）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;と英語のハードルがありますが、機械学習の初心者から上級者までためになる記事になるかと思います。&lt;/p&gt;
+
+&lt;h2 id=&#34;そもそもkaggleって何&#34;&gt;そもそもKaggleって何？&lt;/h2&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161117/kaggle.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;kaggle&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;オンラインで機械学習の精度を競い合うサービスです。世界中のデータサイエンティストが集まって競っています。&lt;/p&gt;
+
+&lt;p&gt;中には企業が問題を出して、賞金がかかったコンペも存在しております。&lt;/p&gt;
+
+&lt;p&gt;Kaggleのコンペティションでは、指定された機械学習のスコアの良さを競い合います。&lt;/p&gt;
+
+&lt;p&gt;Kaggleは&lt;a href=&#34;https://www.kaggle.com/&#34;&gt;こちら&lt;/a&gt;のサイトとなります。&lt;/p&gt;
+
+&lt;p&gt;英語が必要な理由の一つがkaggleというサイト自体が英語サイトである点ですね。&lt;/p&gt;
+
+&lt;p&gt;ちなみにガチ勢になりたいって人は他の英語のサイトも漁って行くことになるので、英語が必要になります。&lt;/p&gt;
+
+&lt;p&gt;また、Kaggleユーザがデータセットを公開し合ってそのデータを分析するということもできますが本記事では割愛で。&lt;/p&gt;
+
+&lt;h2 id=&#34;どうやって始めんの&#34;&gt;どうやって始めんの？&lt;/h2&gt;
+
+&lt;p&gt;とりあえず会員登録しましょう。&lt;a href=&#34;https://www.kaggle.com/&#34;&gt;ホームページ&lt;/a&gt;に入ってとりあえず &amp;ldquo;Create an account&amp;rdquo; を押す。そっから会員登録を済ませましょう。&lt;/p&gt;
+
+&lt;p&gt;会員登録を済ませたら、 &amp;ldquo;Competition&amp;rdquo; に移り、さらに一覧に出てくる &amp;ldquo;Titanic: Machine Learning from Disaster&amp;rdquo; へと移ります。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/c/titanic&#34;&gt;こちら&lt;/a&gt;に移るはずです。ここがコンペのチュートリアルになりますのでここから挑戦しましょう！&lt;/p&gt;
+
+&lt;p&gt;プログラミング言語はRかPythonを使ってできますが、Excelを使って参加することなんてできます。&lt;/p&gt;
+
+&lt;p&gt;また、機械学習やデータ分析に慣れていない人も、それらを簡単に扱えるようになるライブラリを覚えるいいきっかけとなります。&lt;/p&gt;
+
+&lt;h2 id=&#34;どうやったら良いスコア出せるの&#34;&gt;どうやったら良いスコア出せるの？&lt;/h2&gt;
+
+&lt;p&gt;高い精度を出すには、モデルを選んだり、モデルのパラメータを調整するだけではなく、データ自体をいじっていかないと高い順位は出せません。&lt;/p&gt;
+
+&lt;p&gt;というかデータいじりの方が重要になっていきます。（ディープラーニング使うとかだと別かもしれませんが・・・）&lt;/p&gt;
+
+&lt;p&gt;初めてだとなかなかとっつきにくいかと思いますが&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Kernelsを読む&lt;/li&gt;
+&lt;li&gt;外部のサイトで勉強する&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;といったことをすればより精度の高いモデルが作れるのではないかと思います。&lt;/p&gt;
+
+&lt;p&gt;1についてですが、コンペのページに &amp;ldquo;Kernels&amp;rdquo; という項目があります。そこには、こうしたらスコア上がったよーとかこういう分析結果が出たよー&lt;/p&gt;
+
+&lt;p&gt;といった記事が投稿されています。Kernelsはコンペごとに投稿される記事なのでこれを利用するっきゃないですね。&lt;/p&gt;
+
+&lt;p&gt;2については機械学習わからない、ガチ勢ってどんなことしているんだって人ほどお世話になるんじゃないかと思います。&lt;/p&gt;
+
+&lt;p&gt;前述の通り英語のサイトも漁っていかないといけないかもしれませんが、基本的なことはQiitaや日本語のブログから学ぶこともできます。&lt;/p&gt;
+
+&lt;p&gt;入門者向けの記事だと&lt;a href=&#34;http://matome.naver.jp/odai/2147187291050657501&#34;&gt;このようなまとめ&lt;/a&gt;があったり、&lt;a href=&#34;http://qiita.com/taka4sato/items/802c494fdebeaa7f43b7&#34;&gt;このような記事&lt;/a&gt;なんかが詳しいですね。&lt;/p&gt;
+
+&lt;p&gt;また、やり込んでいくうちにいろんな用語や手法に当たったりするので、やり込めばそれだけ力が身につきます。&lt;/p&gt;
+
+&lt;h2 id=&#34;終わりに&#34;&gt;終わりに&lt;/h2&gt;
+
+&lt;p&gt;本記事ではKaggleの紹介だけで、しかもKaggleのコンペやり込めば機械学習できるようになるよ！とかいう投げやりな感じなので、これだけじゃわかんねーんだけどって方は申し訳ないです。&lt;/p&gt;
+
+&lt;p&gt;Kaggleは有名なサイトなので、前述の通り調べていけばKaggleについてもわかっていくと思います。&lt;/p&gt;
+
+&lt;p&gt;というか&lt;a href=&#34;http://qiita.com/taka4sato/items/802c494fdebeaa7f43b7&#34;&gt;この記事&lt;/a&gt;の方が本記事よりも詳しいので、興味のある方はこちらを読んでスタートしましょう。&lt;/p&gt;
+
+&lt;p&gt;興味のある方はKaggleを始めて、機械学習やり込みましょう！&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

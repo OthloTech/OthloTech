@@ -189,7 +189,7 @@ body {
     margin-top: 35px; }
   #blog-post .post-table {
     width: 100%;
-    overflow: scroll; }
+    overflow: auto; }
   #blog-post table {
     font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
     font-size: 16px;
@@ -202,9 +202,19 @@ body {
       font-weight: bold;
       padding: 10px 8px;
       border-bottom: 1px solid #4fbfa8; }
+      #blog-post table th[align="left"] {
+        text-align: left; }
+      #blog-post table th[align="center"] {
+        text-align: center; }
+      #blog-post table th[align="right"] {
+        text-align: right; }
     #blog-post table td {
-      padding: 10px 8px 3px;
+      padding: 10px 8px 3px 12px;
       white-space: nowrap; }
+    #blog-post table tr > * {
+      border-right: 1px solid #4fbfa8; }
+      #blog-post table tr > *:last-child {
+        border-right: none; }
   #blog-post figure {
     display: inline-block;
     width: 100%;
