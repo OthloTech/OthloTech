@@ -61,10 +61,12 @@ Yahoo!では、秒間24,000アクセスをさばいているというお話に�
 
 #### React.jsとは？
 
-Facebook製のJavaScriptで書かれた(MVCのうちの)Viewを担当するUIライブラリのことを指します。JavaScriptの中に、JSXと呼ばれるHTMLタグみたいなものを書くことができます。
+React.js は、UI(MV*フレームワークでいうView)に特化した、Facebook製のJavaScriptライブラリです。  
+HTMLをリンダリングする際、実際にDOMを構成せず**仮想DOM**を構成します。そのため、変更があった差分のみを再レンダリングすることができるようになり、表示パフォーマンスを向上させることができます。  
 
-資料から1行ずつ抜粋させていただくと、このような違いがあります！
+また、React.jsではJSX呼ばれるXML風な記述をすることができ、非常に見通しがよくなります。
 
+JSXでの実装部分を、資料から1行ずつ抜粋させていただくと、このような違いがあります！
 
 ```
 // no JSX
@@ -76,7 +78,7 @@ React.createElement('h1', {}, "Hello, World!!"),
 <h1 className={className}>Hello, {name}!</h1>,
 ```
 
-圧倒的に見た目がHTMLっぽく、理解しやすいですよね！この構造が複雑になればなるほど、JSXの良さが出てくるとおもわれます。  
+圧倒的に見た目がHTMLっぽく、見通しが良くなり、理解しやすいですよね！構造が複雑になればなるほど、JSXの良さが出てくるとおもわれます。  
 React.jsもJSXの使用を推奨していますのでこの書き方を使ってハンズオンは進みます。
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">hello, world!!やで<a href="https://twitter.com/hashtag/yjmu?src=hash">#yjmu</a> <a href="https://twitter.com/hashtag/OthloTech?src=hash">#OthloTech</a> <a href="https://t.co/4JaD5bL3bg">pic.twitter.com/4JaD5bL3bg</a></p>&mdash; よしかわ (@k16123kk) <a href="https://twitter.com/k16123kk/status/802384912653262849">2016年11月26日</a></blockquote>
