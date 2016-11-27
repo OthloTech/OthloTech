@@ -2,7 +2,7 @@
 slug = "othloevent07-yahoo-japan"
 title = "OthloEvent@Yahoo!Japan #7"
 date = "2016-11-26"
-event_tags = ["ハンズオン", "OthloEvent", "Yahoo! Japan", "React.js"]
+event_tags = ["ハンズオン", "Yahoo! Japan", "React.js"]
 banner = "images/banners/events/othlo-event7.jpg"
 +++
 
@@ -12,7 +12,7 @@ banner = "images/banners/events/othlo-event7.jpg"
 
 はじめまして、[ライダー](https://twitter.com/mtmtkzm)です。
 
-11月26日(土)にYahoo! Japanの名古屋オフィスにて、Yahoo!の6代目JavaScript黒帯の穴井さんを招き、React.jsのハンズオンを開催しました！
+11月26日(土)にYahoo!Japanの名古屋オフィスにて、6代目JavaScript黒帯の穴井さんを招き、React.jsのハンズオンを開催しました！
 
 [イベントページ](https://yj-meetup.connpass.com/event/44769/)
 
@@ -30,18 +30,17 @@ banner = "images/banners/events/othlo-event7.jpg"
 |17:00|懇親会|
 |19:30|クロージング|
 
-
 {{% /table %}}
 
 ### Introduction
 
-{{< image src="/images/events/11-26/intro-yahoo.JPG" alt="Yahoo!Japan" >}}
+{{< image src="/images/events/11-26/intro-yahoo.jpg" alt="Yahoo!Japan" >}}
 
 {{< image src="/images/events/11-26/hide.jpg" alt="OthloTech代表からご挨拶" >}}
 
 毎回参加してくださっている方にとってはこの代表挨拶もそろそろ飽きてきた頃かと、心中お察します。
 
-Yahooでは、秒間24,000アクセスをさばいているというお話にどよめく一同！（`24回/1ms` のアクセス。僕にはいまいちピンときませんでした。笑）
+Yahoo!では、秒間24,000アクセスをさばいているというお話にどよめく一同！（`24回/1ms` のアクセス。僕にはいまいちピンときませんでした。笑）
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">Yahooの秒間2万4千はやばい。この前のサイバーのアドテクの秒間2千すらさばくの大変だったのに(´･ω･`)<a href="https://twitter.com/hashtag/yjmu?src=hash">#yjmu</a> <a href="https://twitter.com/hashtag/OthloTech?src=hash">#OthloTech</a></p>&mdash; ヒデ (@hyde141421356) <a href="https://twitter.com/hyde141421356/status/802364083970273280">2016年11月26日</a></blockquote>
 
@@ -57,7 +56,7 @@ Yahooでは、秒間24,000アクセスをさばいているというお話にど
 
 資料はこちら：https://github.com/pirosikick/react-hands-on-201611
 
-資料もボリューミーで、とても丁寧でしたし、それに加え、メンターをしてくださった他のYahooの社員さんは4名と、充実したフルサポートな環境でReact.jsに挑むことができました！
+資料もボリューミーで、とても丁寧でしたし、それに加え、メンターをしてくださった他のYahoo!の社員さんは4名と、充実したフルサポートな環境でReact.jsに挑むことができました！
 
 
 #### React.jsとは？
@@ -85,7 +84,7 @@ React.jsもJSXの使用を推奨していますのでこの書き方を使って
 
 #### もくもく作業！
 
-{{< image src="/images/events/11-26/handson1.JPG" alt="この感じ、ハンズオンっぽい！" >}}
+{{< image src="/images/events/11-26/handson1.jpg" alt="この感じ、ハンズオンっぽい！" >}}
 
 資料に沿って進む講義に参加者全員でコードを書いて理解を深めていきます。  
 ただコードを書き写してモノを完成させるのではなく、あくまでReactを理解するという意味で、書いたコードに対する穴井さんの丁寧な説明に大満足のようです！
@@ -94,7 +93,7 @@ React.jsもJSXの使用を推奨していますのでこの書き方を使って
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-{{< image src="/images/events/11-26/handson2.JPG" alt="この感じ、ハンズオンっぽい！" >}}
+{{< image src="/images/events/11-26/handson2.jpg" alt="この感じ、ハンズオンっぽい！" >}}
 
 メンターの方のお力を、ここぞとばかりに頼り、周りの人からの応援も受け、支え合う姿が見られるハンズオンはとてもいいですね〜！終始温かい雰囲気でコーディングができました。
 
@@ -112,7 +111,7 @@ React.jsもJSXの使用を推奨していますのでこの書き方を使って
 
 （集合写真撮り忘れた....）
 
-{{< image src="/images/events/11-26/member.JPG" alt="集合（している）写真" >}}
+{{< image src="/images/events/11-26/member.jpg" alt="集合（している）写真" >}}
 
 
 ### クロージング...と見せかけて？
