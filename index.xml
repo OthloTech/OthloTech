@@ -7,8 +7,136 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Thu, 17 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Nov 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.othlo.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ブロックチェーンってなに？</title>
+      <link>http://www.othlo.tech/blogs/blockchain/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/blogs/blockchain/</guid>
+      <description>
+
+&lt;h1 id=&#34;ブロックチェーンってなに&#34;&gt;ブロックチェーンってなに?&lt;/h1&gt;
+
+&lt;p&gt;こんにちは！&lt;/p&gt;
+
+&lt;p&gt;OthloTechのブログ初投稿になります。私、たつま&lt;a href=&#34;https://twitter.com/tatsutatsu103&#34;&gt;@tatsutasu103&lt;/a&gt;です。&lt;/p&gt;
+
+&lt;p&gt;今回のblogは以下に当てはまる人が対象です！&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;金儲けしたい人&lt;/li&gt;
+&lt;li&gt;小銭儲けしたい人&lt;/li&gt;
+&lt;li&gt;財布を潤したい人&lt;/li&gt;
+&lt;li&gt;お金は欲しいけど、肉体労働したくない人&lt;/li&gt;
+&lt;li&gt;不労所得で生きていきたい人&lt;/li&gt;
+&lt;li&gt;とりあえず、お金が欲しい人&amp;hellip;&lt;/li&gt;
+&lt;li&gt;etc,,,&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;こんな人たちに&lt;strong&gt;Bitcoin&lt;/strong&gt;を教えちゃいます。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161124/bitcoin.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;bitcoin&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;でもBitcoinを始めるにはそれを支える技術である、&lt;strong&gt;ブロックチェーン&lt;/strong&gt; について理解しなければなりません。&lt;/p&gt;
+
+&lt;p&gt;そこで今回は、&lt;strong&gt;ブロックチェーン&lt;/strong&gt; をご紹介します。&lt;/p&gt;
+
+&lt;p&gt;(もちろん、Bitcoinも出てきますよ！(￣ー￣)v)&lt;/p&gt;
+
+&lt;h2 id=&#34;ブロックチェーンとは&#34;&gt;ブロックチェーンとは??&lt;/h2&gt;
+
+&lt;p&gt;一言で行ってしまうと&lt;/p&gt;
+
+&lt;h4 id=&#34;bitcoinの取引履歴-です&#34;&gt;&lt;strong&gt;&lt;em&gt;Bitcoinの取引履歴&lt;/em&gt;&lt;/strong&gt; です。&lt;/h4&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161124/blockchain.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;blockchain&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;ここから詳しく説明していきますね！&lt;/p&gt;
+
+&lt;p&gt;わかりやすくいうと&amp;hellip;&lt;/p&gt;
+
+&lt;h4 id=&#34;ブロックチェーンは-すでにマイニング-採掘-されて世に存在するビットコインのやりとりのすべてを記録した-ビットコインの取引記録-です&#34;&gt;&lt;strong&gt;&lt;em&gt;ブロックチェーンは、すでにマイニング(採掘)されて世に存在するビットコインのやりとりのすべてを記録した「ビットコインの取引記録」です&lt;/em&gt;&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;by&lt;a href=&#34;http://gigazine.net/news/20140307-what-is-bitcoin-2nd/&#34;&gt;仮想通貨「Bitcoin」を完璧に理解するために知っておきたいことまとめ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;つまり&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Bitcoinのブロックチェーンとは、Bitcoinの通貨がどこからどこに送ったということが&lt;strong&gt;記録されている履歴&lt;/strong&gt; ということ！。&lt;/br&gt;
+そして、そのデータは一つの場所に保存されているのではなく、&lt;strong&gt;取引記録は、Bitcoinのネットワークに参加しているコンピュータに分散されて保存&lt;/strong&gt; されています！&lt;/p&gt;
+
+&lt;p&gt;ブロックチェーンは、取引記録(トランザクション)を一つのブロックにまとめて、そのブロックをチェーン(鎖)のようにつなげて保存したものになります。
+&lt;strong&gt;&lt;em&gt;チェーン状に繋げることで、データの変更、改ざんが実質不可能になります。&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;鎖のように繋がれているの意味&#34;&gt;鎖のように繋がれているの意味&lt;/h4&gt;
+
+&lt;p&gt;チェーン状にデータが入っているブロックって??いきなりなんだよーって話なんですが、&lt;/br&gt;
+取引データを単に保存しているデータベースは鎖のようにデータが結びついていないので、上記のような形態ではありません。&lt;/p&gt;
+
+&lt;p&gt;鎖のようにというのは、*&lt;strong&gt;１つ前のブロックのハッシュ値が次のブロックの中に含まれている&lt;/strong&gt; からそう呼ばれています。&lt;/p&gt;
+
+&lt;h2 id=&#34;ブロックチェーン情報を確認する&#34;&gt;ブロックチェーン情報を確認する&lt;/h2&gt;
+
+&lt;p&gt;ブロックチェーンの情報は全世界の人に公開されています。&lt;/p&gt;
+
+&lt;p&gt;以下が、Bitcoinのブロックチェーンを確認するための有名なサイトになります。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blockchain.info/&#34;&gt;Bitcoin Block Explorer - blockchain.info&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;終わりに&#34;&gt;終わりに&lt;/h2&gt;
+
+&lt;p&gt;今回はブロックチェーンについて紹介しました。ブロックチェーン技術はBitcoinに使われている技術だけではなく、
+世界的なOSSプロジェクトである、「&lt;a href=&#34;https://www.hyperledger.org/&#34;&gt;Hyper Ledger project&lt;/a&gt;」や「&lt;a href=&#34;http://www.enigma.co/&#34;&gt;Enigma&lt;/a&gt;」にも応用され、使われております。&lt;/p&gt;
+
+&lt;p&gt;これからあらゆる分野で活躍が期待されている技術であるので、ぜひ学んでみる価値があります。&lt;/p&gt;
+
+&lt;h2 id=&#34;bitcoinをより知りたい&#34;&gt;Bitcoinをより知りたい。&lt;/h2&gt;
+
+&lt;p&gt;参考になるサイトを紹介します。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/cookle/5-58379474&#34;&gt;5分でわかるブロックチェーンの基本的な仕組み&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gigazine.net/news/20140307-what-is-bitcoin-2nd/&#34;&gt;仮想通貨「Bitcoin」を完璧に理解するために知っておきたいことまとめ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wazanova.jp/items/1314&#34;&gt;ブロックチェーンをもう一段階深く理解する&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/hshimo/items/bd849363a871966a923f&#34;&gt;ビットコインのブロックチェーンの技術的な説明 まとめ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blocktech.hateblo.jp/&#34;&gt;ブロックチェーン技術ブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/hshimo/items/1881fba8957c2a6e17ca&#34;&gt;ブロックチェーンについて&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/hshimo/items/8104dc2c4ad35720013e&#34;&gt;ビットコイン2.0 とは? Bitcoin 2.0 資料まとめ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>機械学習コンペティションKaggleのススメ</title>
@@ -118,6 +246,232 @@
 &lt;p&gt;というか&lt;a href=&#34;http://qiita.com/taka4sato/items/802c494fdebeaa7f43b7&#34;&gt;この記事&lt;/a&gt;の方が本記事よりも詳しいので、興味のある方はこちらを読んでスタートしましょう。&lt;/p&gt;
 
 &lt;p&gt;興味のある方はKaggleを始めて、機械学習やり込みましょう！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OthloEvent@メ～テレ #6</title>
+      <link>http://www.othlo.tech/events/othloevent06-nagoya-tv/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent06-nagoya-tv/</guid>
+      <description>
+
+&lt;h1 id=&#34;othloevent-メ-テレ-6&#34;&gt;OthloEvent@メ〜テレ #6&lt;/h1&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/banner.jpg&#34; alt=&#34;イベントバナー&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;こんにちは！&lt;br /&gt;
+11月15日(火)に名古屋テレビ本社で&lt;a href=&#34;http://othlotech.connpass.com/event/43598/&#34;&gt;OthloEvent@メ〜テレ #6&lt;/a&gt;を開催しました。&lt;/p&gt;
+
+&lt;p&gt;それではイベントの様子をレポートします！&lt;/p&gt;
+
+&lt;h2 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h2&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;受付開始&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;オープニング&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:05&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;メ～テレの概要説明&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;制作～放送の流れ（技術の視点で）&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:25&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;マスター設備見学&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;4K編集室見学&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;20:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;メ～テレの新たな取り組み&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;20:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;21:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;クロージング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;オープニング&#34;&gt;オープニング&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/hide.jpg&#34; alt=&#34;OthloTech代表からご挨拶&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;最初にOthloTech代表からの挨拶。&lt;/p&gt;
+
+&lt;h3 id=&#34;講演1-制作-放送の流れ&#34;&gt;講演1: 制作〜放送の流れ&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/participants.jpg&#34; alt=&#34;参加者&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;テレビ番組が企画→収録→放送されるまでの流れを講演してくださいました。&lt;/p&gt;
+
+&lt;p&gt;放送進行表では本編とCMが秒単位で全てプログラムされていて、これをマスターのコントローラで制御して&amp;hellip;&lt;br /&gt;
+局の心臓部であるマスターは&lt;code&gt;現用&lt;/code&gt; &lt;code&gt;予備&lt;/code&gt; &lt;code&gt;待機&lt;/code&gt; 3つ同じ設備を用意して、障害時に自動で切り替える仕組みがあり&amp;hellip;&lt;br /&gt;
+などなど、どれも技術的な視点でとても興味深かったです。&lt;/p&gt;
+
+&lt;p&gt;ここでの講演の内容が次のマスター設備見学に繋がります。&lt;/p&gt;
+
+&lt;h3 id=&#34;マスター設備-4k編集室見学&#34;&gt;マスター設備・4K編集室見学&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/master-room.jpg&#34; alt=&#34;マスター室イメージ&#34; /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        
+        &lt;a href=&#34;http://www.tbcconsoles.com/gallery.aspx?galleryid=1&#34;&gt; 
+            出典: TBC Consoles
+        &lt;/a&gt; 
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;次にマスター設備を見学しました！（写真は撮れなかったためイメージですw）&lt;/p&gt;
+
+&lt;p&gt;上の画像のようにたくさんのディスプレイが並べられた部屋で、先ほどの講義で説明のあった放送進行表から実際に放送されるまでの映像の流れを解説していただきました！&lt;/p&gt;
+
+&lt;p&gt;4K編集室では、最新技術を駆使した4K&amp;amp;HDRを体験。&lt;/p&gt;
+
+&lt;p&gt;通常の2Kを観たあとに4Kを観るのと、4Kを観たあとに2Kを観るのとでは、前者の方が視聴体験が良いという説明を受けました。&lt;br /&gt;
+4Kなんて目を凝らさないと違い分からないじゃん？と思っていましたが、なるほど確かに&amp;hellip;&lt;/p&gt;
+
+&lt;h3 id=&#34;講演2-メ-テレの新たな取り組み&#34;&gt;講演2: メ～テレの新たな取り組み&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/lecture.jpg&#34; alt=&#34;メ～テレの新たな取組&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;最後の講演では、今後のテレビ業界の動向も踏まえてメ～テレの技術的な取り組みについて講演してくださいました。&lt;/p&gt;
+
+&lt;p&gt;メ～テレでは「メ～テレ秋まつり2016」でハイブリッドキャストを使用した4K放送を実施したそうです。（このときハイブリッドキャストのネットワーク側は&lt;code&gt;Amazon EC2&lt;/code&gt;を使っていたみたいです）&lt;/p&gt;
+
+&lt;h3 id=&#34;懇親会&#34;&gt;懇親会&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/after-party.jpg&#34; alt=&#34;懇親会&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;勉強会後は、メ～テレさんに懇親会をご用意していただきました！&lt;br /&gt;
+勉強会の本編もさることながら、懇親会で他大学の学生と横の繋がりを増やすのもとても重要です！&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/4k-camera.jpg&#34; alt=&#34;4Kカメラ&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;懇親会中には、本物の4Kカメラを担いで試すことができました。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/group-photo.jpg&#34; alt=&#34;集合写真&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;最後に集合写真！&lt;br /&gt;
+今回は20名以上の方にご参加頂きました。&lt;/p&gt;
+
+&lt;p&gt;とても充実した内容で、参加者のみなさんもとても満足そうで良かったです。&lt;br /&gt;
+勉強会にご協力頂いたメ～テレさん、ありがとうございました！&lt;/p&gt;
 </description>
     </item>
     
@@ -2687,257 +3041,6 @@ LT == 漫才」&lt;/strong&gt;で Q.E.D. です。
 
 &lt;/figure&gt;
 
-</description>
-    </item>
-    
-    <item>
-      <title>Hugo&#43;GithubPagesでサイトをリニューアル</title>
-      <link>http://www.othlo.tech/blogs/hugo&#43;github-pages/</link>
-      <pubDate>Sun, 23 Oct 2016 02:45:17 +0900</pubDate>
-      
-      <guid>http://www.othlo.tech/blogs/hugo&#43;github-pages/</guid>
-      <description>
-
-&lt;h1 id=&#34;hugo-githubpages-で公式サイトを作り直したお話&#34;&gt;Hugo + GithubPages で公式サイトを作り直したお話&lt;/h1&gt;
-
-&lt;p&gt;こんにちは、&lt;a href=&#34;https://twitter.com/hyde141421356&#34;&gt;@pokohide&lt;/a&gt;です。&lt;/p&gt;
-
-&lt;p&gt;この度、OthloTechの公式サイトをリニューアルしました。過去のサイトは&lt;/p&gt;
-
-&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;code&gt;Node.js&lt;/code&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;サーバーサイド&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;code&gt;Material UI&lt;/code&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;CSSフレームワーク&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;code&gt;Heroku&lt;/code&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;PaaS&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;code&gt;gulp&lt;/code&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;タスクランナー&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;code&gt;ect&lt;/code&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;テンプレートエンジン&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;サーバーサイドも自前で作っておけば何か機能を追加したいと思ったときに対応できるかなと、サーバーサイドも書いていたのですが
-当分は必要にならないだろうという理由と、動作に不調があったので、乗り換えることにしました。&lt;/p&gt;
-
-&lt;p&gt;リニューアルする目的としては&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;マークダウンで記事が書ける&lt;/li&gt;
-&lt;li&gt;保守が楽&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;この条件から、今回は &lt;code&gt;Hugo&lt;/code&gt; と &lt;code&gt;GitHub Pages&lt;/code&gt; で構成しました。&lt;/p&gt;
-
-&lt;h3 id=&#34;hugo&#34;&gt;Hugo&lt;/h3&gt;
-
-
-&lt;figure class=&#34;aden&#34;&gt;
-
-    
-        &lt;img src=&#34;http://www.othlo.tech/images/banners/blogs/hugo.png&#34;  /&gt;
-    
-
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Hugo&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-      
-
-&lt;/figure&gt;
-
-
-&lt;p&gt;&lt;code&gt;Hugo&lt;/code&gt;はGo言語で動いている静的サイトジェネレーターで静的な&lt;code&gt;html&lt;/code&gt;を生成することができます。静的サイトジェネレーターは他にも
-&lt;code&gt;Jekyll&lt;/code&gt;や&lt;code&gt;Hexo&lt;/code&gt;など他にも色々あったのですが、なんとなくで今回は&lt;code&gt;Hugo&lt;/code&gt;を選びました。&lt;/p&gt;
-
-&lt;p&gt;一応特徴としては、記事の生成が高速らしく、他のブログから参照したのが以下の表。&lt;/p&gt;
-
-&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;記事数&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Octopress&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Hexo&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Pelican&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Gitbook&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Jekyll&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Hugo&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;2.86&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;2.88&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0.39&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;1.77&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0.43&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0.02&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;10&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;2.98&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;2.96&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0.44&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;1.64&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0.37&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0.03&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;100&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;4.94&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;4.22&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;1.14&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;1.79&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0.55&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0.11&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1000&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;25.02&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;14.61&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;6.02&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;3.34&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;1.88&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0.82&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://tamura.goga.co.jp/article/429818193.html&#34;&gt;静的サイトジェネレータの生成時間比較&lt;/a&gt; より&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;1000記事の生成ともなると、違いがわかるほどの速いことがわかります。まぁ1000記事まで貯まるまでには何年かかるかわからないですけどね。&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;Hugo&lt;/code&gt;のテーマはここにあるので、これを参考にして作るか自作するかどちらでもいいでしょう。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://themes.gohugo.io/&#34;&gt;http://themes.gohugo.io/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;github-pages&#34;&gt;GitHub Pages&lt;/h3&gt;
-
-&lt;p&gt;&lt;code&gt;GitHub Pages&lt;/code&gt;はGitHubのサービスのひとつで、GitHub上のリポジトリにあるコンテンツを利用してWEBページとして公開できるホスティングサービスです。
-静的ページ、静的コンテンツのみを公開できるので&lt;code&gt;Node.js&lt;/code&gt;や&lt;code&gt;PHP&lt;/code&gt;などで動的ページの生成などはできません。&lt;/p&gt;
-
-&lt;p&gt;あと無料∩(ﾟ∀ﾟ∩)&lt;/p&gt;
-
-&lt;p&gt;詳細は&lt;a href=&#34;https://github.com/blog/2228-simpler-github-pages-publishing&#34;&gt;本家&lt;/a&gt;を参照してください。&lt;/p&gt;
-
-&lt;h2 id=&#34;サイトつくろー&#34;&gt;サイトつくろー&lt;/h2&gt;
-
-&lt;p&gt;雑ですが、Hugoの導入からテンプレートを使ってサイトを作るまでの流れは以下のリンクを参考にしてください。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://qiita.com/syui/items/869538099551f24acbbf&#34;&gt;http://qiita.com/syui/items/869538099551f24acbbf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;マークダウンで記事とかを書くときは&lt;code&gt;Shortcode&lt;/code&gt;を使うといいですよ。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://qiita.com/waytoa/items/4107945cbd3883f51755&#34;&gt;http://qiita.com/waytoa/items/4107945cbd3883f51755&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;デプロイの流れ&#34;&gt;デプロイの流れ&lt;/h2&gt;
-
-&lt;p&gt;今回はOthloTechの組織アカウントでOthloTechというレポジトリを作って開発を行っていました。&lt;/p&gt;
-
-&lt;p&gt;GitHub Pagesには2種類の方法があって、グループページという&lt;code&gt;アカウント名.github.io&lt;/code&gt;というレポジトリのmasterブランチを反映する方法と
-プロジェクトページといって、適当なレポジトリの&lt;code&gt;gh-pages&lt;/code&gt;ブランチを&lt;code&gt;http://アカウント名.github.io/リポジトリ名/&lt;/code&gt;に反映する方法があります。&lt;/p&gt;
-
-&lt;p&gt;※ 最近ではどのブランチを反映するかを設定できるみたいです。ただ今回は通例に従って&lt;code&gt;gh-pages&lt;/code&gt;ブランチをデプロイブランチにすることにします。&lt;/p&gt;
-
-&lt;p&gt;今回は後者の方法で実装するので、&lt;code&gt;gh-pages&lt;/code&gt;にデプロイする流れを説明して終わりにします。流れとしては、同じレポジトリのあるサブディレクトリの中身を
-別ブランチに&lt;code&gt;push&lt;/code&gt;する方法をとります。&lt;/p&gt;
-
-&lt;p&gt;そのために&lt;a href=&#34;https://git-scm.com/docs/git-worktree&#34;&gt;git-worktree&lt;/a&gt;を使います。&lt;code&gt;git-worktree&lt;/code&gt;を使うと指定のブランチをサブディレクトリ以下にチェックアウト
-することができるので、作業用のブランチと公開用の&lt;code&gt;gh-pages&lt;/code&gt;ブランチを切り替えずに同時に編集できるようになります。&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo -d pages # pagesディレクトリにコンテンツを生成する。(デフォルトだとpublicフォルダ)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;このコマンドでコンテンツをpagesフォルダに生成できるので、このディレクトリの中身を&lt;code&gt;gh-pages&lt;/code&gt;にプッシュします。&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git checkout master
-git worktree add pages gh-pages # pagesがブランチをチェックアウトするディレクトリ名、gh-pagesが取り込むブランチ名
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;これでgh-pagesブランチにpagesディレクトリ以下がプッシュされます。しかし、この方法だとコンテンツを消した際に再び&lt;code&gt;hugo -d pages&lt;/code&gt;と
-コマンドを打っても、過去の記事が&lt;code&gt;pages&lt;/code&gt;フォルダから消えずに残ったままになります。&lt;/p&gt;
-
-&lt;p&gt;なので、過去の記事を消して、記事を再生成して、デプロイするのをシェルを書いて楽します。&lt;/p&gt;
-
-&lt;h5 id=&#34;deploy-sh&#34;&gt;deploy.sh&lt;/h5&gt;
-
-&lt;pre&gt;&lt;code&gt;#!/bin/sh
-
-# pagesフォルダの ., .., .git 以外を消去
-ls -la pages | grep -v -E &#39;.|.git$&#39; | xargs rm -rf
-
-# deploy用のファイルを生成
-hugo -d pages
-
-# deploy
-cd pages
-git add .
-git commit -m &#39;updated by deploy.sh&#39;
-git push origin gh-pages
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;chmod 755 deploy.sh # 実行権限を与える
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;これであとは&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;./deploy.sh
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;デプロイできます。ハッピー。&lt;/p&gt;
-
-&lt;h3 id=&#34;ドメイン設定&#34;&gt;ドメイン設定&lt;/h3&gt;
-
-&lt;p&gt;こうして公開したサイトに独自ドメインを設定して、 &lt;a href=&#34;http://www.othlo.tech&#34;&gt;OthloTechの公式サイト&lt;/a&gt;としました。&lt;/p&gt;
-
-&lt;p&gt;そのあたりはここを参考するとわかりやすいと思います。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://qiita.com/tiwu_official/items/d7fb6c493ed5eb9ee4fc&#34;&gt;http://qiita.com/tiwu_official/items/d7fb6c493ed5eb9ee4fc&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;さいごに&#34;&gt;さいごに&lt;/h3&gt;
-
-&lt;p&gt;せっかくリニューアルしたので、イベントレポートやブログを書いていこうと思います！&lt;/p&gt;
-
-&lt;p&gt;一応作業のフローはプルリクベースで文章の校正などを見て、メンバーのLGTMが2つ以上ついたらマージ可能にするという体制で&lt;/p&gt;
-
-&lt;p&gt;記事の更新もしていこうと思っているので、そのあたりもまとまってきたらまた記事にしたいと思いますー！&lt;/p&gt;
-
-&lt;p&gt;これからもOthloTechをよろしくお願いしますo(*⌒─⌒*)o&lt;/p&gt;
 </description>
     </item>
     

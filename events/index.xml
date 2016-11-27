@@ -7,8 +7,234 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Sat, 29 Oct 2016 00:20:33 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 15 Nov 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.othlo.tech/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OthloEvent@メ～テレ #6</title>
+      <link>http://www.othlo.tech/events/othloevent06-nagoya-tv/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent06-nagoya-tv/</guid>
+      <description>
+
+&lt;h1 id=&#34;othloevent-メ-テレ-6&#34;&gt;OthloEvent@メ〜テレ #6&lt;/h1&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/banner.jpg&#34; alt=&#34;イベントバナー&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;こんにちは！&lt;br /&gt;
+11月15日(火)に名古屋テレビ本社で&lt;a href=&#34;http://othlotech.connpass.com/event/43598/&#34;&gt;OthloEvent@メ〜テレ #6&lt;/a&gt;を開催しました。&lt;/p&gt;
+
+&lt;p&gt;それではイベントの様子をレポートします！&lt;/p&gt;
+
+&lt;h2 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h2&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;受付開始&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;オープニング&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:05&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;メ～テレの概要説明&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;制作～放送の流れ（技術の視点で）&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:25&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;マスター設備見学&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;4K編集室見学&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;20:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;メ～テレの新たな取り組み&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;20:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;21:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;クロージング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;オープニング&#34;&gt;オープニング&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/hide.jpg&#34; alt=&#34;OthloTech代表からご挨拶&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;最初にOthloTech代表からの挨拶。&lt;/p&gt;
+
+&lt;h3 id=&#34;講演1-制作-放送の流れ&#34;&gt;講演1: 制作〜放送の流れ&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/participants.jpg&#34; alt=&#34;参加者&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;テレビ番組が企画→収録→放送されるまでの流れを講演してくださいました。&lt;/p&gt;
+
+&lt;p&gt;放送進行表では本編とCMが秒単位で全てプログラムされていて、これをマスターのコントローラで制御して&amp;hellip;&lt;br /&gt;
+局の心臓部であるマスターは&lt;code&gt;現用&lt;/code&gt; &lt;code&gt;予備&lt;/code&gt; &lt;code&gt;待機&lt;/code&gt; 3つ同じ設備を用意して、障害時に自動で切り替える仕組みがあり&amp;hellip;&lt;br /&gt;
+などなど、どれも技術的な視点でとても興味深かったです。&lt;/p&gt;
+
+&lt;p&gt;ここでの講演の内容が次のマスター設備見学に繋がります。&lt;/p&gt;
+
+&lt;h3 id=&#34;マスター設備-4k編集室見学&#34;&gt;マスター設備・4K編集室見学&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/master-room.jpg&#34; alt=&#34;マスター室イメージ&#34; /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        
+        &lt;a href=&#34;http://www.tbcconsoles.com/gallery.aspx?galleryid=1&#34;&gt; 
+            出典: TBC Consoles
+        &lt;/a&gt; 
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;次にマスター設備を見学しました！（写真は撮れなかったためイメージですw）&lt;/p&gt;
+
+&lt;p&gt;上の画像のようにたくさんのディスプレイが並べられた部屋で、先ほどの講義で説明のあった放送進行表から実際に放送されるまでの映像の流れを解説していただきました！&lt;/p&gt;
+
+&lt;p&gt;4K編集室では、最新技術を駆使した4K&amp;amp;HDRを体験。&lt;/p&gt;
+
+&lt;p&gt;通常の2Kを観たあとに4Kを観るのと、4Kを観たあとに2Kを観るのとでは、前者の方が視聴体験が良いという説明を受けました。&lt;br /&gt;
+4Kなんて目を凝らさないと違い分からないじゃん？と思っていましたが、なるほど確かに&amp;hellip;&lt;/p&gt;
+
+&lt;h3 id=&#34;講演2-メ-テレの新たな取り組み&#34;&gt;講演2: メ～テレの新たな取り組み&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/lecture.jpg&#34; alt=&#34;メ～テレの新たな取組&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;最後の講演では、今後のテレビ業界の動向も踏まえてメ～テレの技術的な取り組みについて講演してくださいました。&lt;/p&gt;
+
+&lt;p&gt;メ～テレでは「メ～テレ秋まつり2016」でハイブリッドキャストを使用した4K放送を実施したそうです。（このときハイブリッドキャストのネットワーク側は&lt;code&gt;Amazon EC2&lt;/code&gt;を使っていたみたいです）&lt;/p&gt;
+
+&lt;h3 id=&#34;懇親会&#34;&gt;懇親会&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/after-party.jpg&#34; alt=&#34;懇親会&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;勉強会後は、メ～テレさんに懇親会をご用意していただきました！&lt;br /&gt;
+勉強会の本編もさることながら、懇親会で他大学の学生と横の繋がりを増やすのもとても重要です！&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/4k-camera.jpg&#34; alt=&#34;4Kカメラ&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;懇親会中には、本物の4Kカメラを担いで試すことができました。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/group-photo.jpg&#34; alt=&#34;集合写真&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;最後に集合写真！&lt;br /&gt;
+今回は20名以上の方にご参加頂きました。&lt;/p&gt;
+
+&lt;p&gt;とても充実した内容で、参加者のみなさんもとても満足そうで良かったです。&lt;br /&gt;
+勉強会にご協力頂いたメ～テレさん、ありがとうございました！&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>OthloEvent@Goodfind #5</title>
