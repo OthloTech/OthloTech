@@ -7,8 +7,245 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Tue, 15 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Nov 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.othlo.tech/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OthloEvent@ヤフー株式会社 #7</title>
+      <link>http://www.othlo.tech/events/othloevent07-yahoo/</link>
+      <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent07-yahoo/</guid>
+      <description>
+
+&lt;h1 id=&#34;othloevent-ヤフー株式会社-7&#34;&gt;OthloEvent@ヤフー株式会社 #7&lt;/h1&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-26/banner.jpg&#34; alt=&#34;イベントバナー&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;はじめまして、&lt;a href=&#34;https://twitter.com/mtmtkzm&#34;&gt;ライダー&lt;/a&gt;です。&lt;/p&gt;
+
+&lt;p&gt;11月26日(土)にヤフー株式会社の名古屋オフィスにて、6代目JavaScript黒帯の穴井さんを招き、React.jsのハンズオンを開催しました！&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://yj-meetup.connpass.com/event/44769/&#34;&gt;イベントページ&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h2&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;12:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;受付開始&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;会場案内&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Introduction&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:20&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;React.jsハンズオン開始&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;17:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;React.jsハンズオン終了&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;17:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;クロージング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-26/intro-yahoo.jpg&#34; alt=&#34;Yahoo!Japan&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;Yahoo!Japanでは、秒間24,000アクセスをさばいているというお話にどよめく一同！（&lt;code&gt;24回/1ms&lt;/code&gt; のアクセス。僕にはいまいちピンときませんでした。笑）&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;Yahooの秒間2万4千はやばい。この前のサイバーのアドテクの秒間2千すらさばくの大変だったのに(´･ω･`)&lt;a href=&#34;https://twitter.com/hashtag/yjmu?src=hash&#34;&gt;#yjmu&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt;&lt;/p&gt;&amp;mdash; ヒデ (@hyde141421356) &lt;a href=&#34;https://twitter.com/hyde141421356/status/802364083970273280&#34;&gt;2016年11月26日&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;react-jsハンズオン本編の開始&#34;&gt;React.jsハンズオン本編の開始！&lt;/h3&gt;
+
+&lt;p&gt;講師は、JavaScript黒帯 穴井 宏幸さんです！
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-26/anai.jpg&#34; alt=&#34;JavaScript黒帯 穴井 宏幸さん&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&#34;ハンズオン資料&#34;&gt;ハンズオン資料&lt;/h4&gt;
+
+&lt;p&gt;このハンズオンにあたって、とーーっても濃い内容をGitHubにて公開してくださいましたので、なんらかの理由で参加できなかった方はこれでReact.jsに入門しましょう！&lt;/p&gt;
+
+&lt;p&gt;資料はこちら：&lt;a href=&#34;https://github.com/pirosikick/react-hands-on-201611&#34;&gt;https://github.com/pirosikick/react-hands-on-201611&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;資料もボリューミーで、とても丁寧でしたし、それに加え、メンターをしてくださった他のYahoo!の社員さんは4名と、充実したフルサポートな環境でReact.jsに挑むことができました！&lt;/p&gt;
+
+&lt;h4 id=&#34;react-jsとは&#34;&gt;React.jsとは？&lt;/h4&gt;
+
+&lt;p&gt;React.js は、UI(MV*フレームワークでいうView)に特化した、Facebook製のJavaScriptライブラリです。&lt;br /&gt;
+HTMLをレンダリングする際、実際にDOMを構成せず&lt;strong&gt;仮想DOM&lt;/strong&gt;を構成します。そのため、変更があった差分のみを再レンダリングすることができるようになり、表示パフォーマンスを向上させることができます。&lt;/p&gt;
+
+&lt;p&gt;また、React.jsではJSX呼ばれるXML風な記述をすることができ、非常に見通しがよくなります。&lt;/p&gt;
+
+&lt;p&gt;JSXでの実装部分を、資料から1行ずつ抜粋させていただくと、このような違いがあります！&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;// no JSX
+React.createElement(&#39;h1&#39;, {}, &amp;quot;Hello, World!!&amp;quot;),
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;// JSX
+&amp;lt;h1 className={className}&amp;gt;Hello, {name}!&amp;lt;/h1&amp;gt;,
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;圧倒的に見た目がHTMLっぽく、見通しが良くなり、理解しやすいですよね！構造が複雑になればなるほど、JSXの良さが出てくるとおもわれます。&lt;br /&gt;
+React.jsもJSXの使用を推奨していますのでこの書き方を使ってハンズオンは進みます。&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;hello, world!!やで&lt;a href=&#34;https://twitter.com/hashtag/yjmu?src=hash&#34;&gt;#yjmu&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/4JaD5bL3bg&#34;&gt;pic.twitter.com/4JaD5bL3bg&lt;/a&gt;&lt;/p&gt;&amp;mdash; よしかわ (@k16123kk) &lt;a href=&#34;https://twitter.com/k16123kk/status/802384912653262849&#34;&gt;2016年11月26日&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;もくもく作業&#34;&gt;もくもく作業！&lt;/h4&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-26/handson1.jpg&#34; alt=&#34;この感じ、ハンズオンっぽい！&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;資料に沿って進む講義に参加者全員でコードを書いて理解を深めていきます。&lt;br /&gt;
+ただコードを書き写してモノを完成させるのではなく、あくまでReactを理解するという意味で、書いたコードに対する穴井さんの丁寧な説明に大満足のようです！&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;Yahooの黒帯の方の説明めっちゃ丁寧だし優しい喋り方で好感持てる。やはり技術力だけではダメですね。 &lt;a href=&#34;https://twitter.com/hashtag/yjmu?src=hash&#34;&gt;#yjmu&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt;&lt;/p&gt;&amp;mdash; キンチキ (@garukujane) &lt;a href=&#34;https://twitter.com/garukujane/status/802375281398812672&#34;&gt;2016年11月26日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-26/handson2.jpg&#34; alt=&#34;この感じ、ハンズオンっぽい！&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;メンターの方のお力を、ここぞとばかりに頼り、周りの人からの応援も受け、支え合う姿が見られるハンズオンはとてもいいですね〜！終始温かい雰囲気でコーディングができました。&lt;/p&gt;
+
+&lt;h4 id=&#34;作ったもの&#34;&gt;作ったもの&lt;/h4&gt;
+
+&lt;p&gt;今回は、ToDoアプリを作りました！定番ですね！&lt;/p&gt;
+
+&lt;p&gt;ToDoアプリには、Webアプリケーションを作る上で必須であり基本となる、要素の&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create(生成)&lt;/li&gt;
+&lt;li&gt;Read(読み出し)&lt;/li&gt;
+&lt;li&gt;Update(更新)&lt;/li&gt;
+&lt;li&gt;Delete(削除)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;が揃っており、かつ、誰でも知っているということから、新しいライブラリや言語を始めるときには入門として作ることが、この界隈では慣習となっているのだと思われます！&lt;/p&gt;
+
+&lt;p&gt;また、講師の穴井さんは、様々なライブラリ・フレームワークで作られたToDoアプリだけをまとめたサイトも紹介してくださいました。&lt;br /&gt;
+&lt;a href=&#34;http://todomvc.com/&#34;&gt;http://todomvc.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;懇親会&#34;&gt;懇親会&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-26/foods.jpg&#34; alt=&#34;懇親会豪華！&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;本編後は、とーーっても豪華なご飯とともに懇親会です！&lt;/p&gt;
+
+&lt;p&gt;静岡や岐阜..と、いつもより遠方から来てくださっている方が多くいて新鮮さがありましたね！&lt;/p&gt;
+
+&lt;p&gt;懇親会で繋がった人たちがまた何か新しいものをうみ出すことを期待しています。&lt;br /&gt;
+そういう意味で、OthloEventではイベント後必ず懇親会の時間をとっています。&lt;/p&gt;
+
+&lt;p&gt;（集合写真撮り忘れた&amp;hellip;.）&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-26/member.jpg&#34; alt=&#34;集合（している）写真&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;クロージング-と見せかけて&#34;&gt;クロージング&amp;hellip;と見せかけて？&lt;/h3&gt;
+
+&lt;p&gt;最後の最後に、残っていたメンバーだけで、オフィスをぐるっと一周、見学させていただくことができました！&lt;/p&gt;
+
+&lt;p&gt;それでは、最後になりましたが、&lt;br /&gt;
+参加してくださったみなさん、ヤフー株式会社のみなさん、ありがとうございました！！&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>OthloEvent@メ～テレ #6</title>
