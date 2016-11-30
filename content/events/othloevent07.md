@@ -1,6 +1,6 @@
 +++
 slug = "othloevent07-yahoo-japan"
-title = "OthloEvent@Yahoo!Japan #7"
+title = "OthloEvent@ヤフー株式会社 #7"
 date = "2016-11-26"
 event_tags = ["ハンズオン", "Yahoo! Japan", "React.js"]
 banner = "images/banners/events/othlo-event7.jpg"
@@ -12,7 +12,7 @@ banner = "images/banners/events/othlo-event7.jpg"
 
 はじめまして、[ライダー](https://twitter.com/mtmtkzm)です。
 
-11月26日(土)にYahoo!Japanの名古屋オフィスにて、6代目JavaScript黒帯の穴井さんを招き、React.jsのハンズオンを開催しました！
+11月26日(土)にヤフー株式会社の名古屋オフィスにて、6代目JavaScript黒帯の穴井さんを招き、React.jsのハンズオンを開催しました！
 
 [イベントページ](https://yj-meetup.connpass.com/event/44769/)
 
@@ -36,11 +36,7 @@ banner = "images/banners/events/othlo-event7.jpg"
 
 {{< image src="/images/events/11-26/intro-yahoo.jpg" alt="Yahoo!Japan" >}}
 
-{{< image src="/images/events/11-26/hide.jpg" alt="OthloTech代表からご挨拶" >}}
-
-毎回参加してくださっている方にとってはこの代表挨拶もそろそろ飽きてきた頃かと、心中お察します。
-
-Yahoo!では、秒間24,000アクセスをさばいているというお話にどよめく一同！（`24回/1ms` のアクセス。僕にはいまいちピンときませんでした。笑）
+Yahoo!Japanでは、秒間24,000アクセスをさばいているというお話にどよめく一同！（`24回/1ms` のアクセス。僕にはいまいちピンときませんでした。笑）
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">Yahooの秒間2万4千はやばい。この前のサイバーのアドテクの秒間2千すらさばくの大変だったのに(´･ω･`)<a href="https://twitter.com/hashtag/yjmu?src=hash">#yjmu</a> <a href="https://twitter.com/hashtag/OthloTech?src=hash">#OthloTech</a></p>&mdash; ヒデ (@hyde141421356) <a href="https://twitter.com/hyde141421356/status/802364083970273280">2016年11月26日</a></blockquote>
 
@@ -49,10 +45,11 @@ Yahoo!では、秒間24,000アクセスをさばいているというお話に�
 ### React.jsハンズオン本編の開始！
 
 講師は、JavaScript黒帯 穴井 宏幸さんです！
+{{< image src="/images/events/11-26/anai.jpg" alt="JavaScript黒帯 穴井 宏幸さん" >}}
 
 #### ハンズオン資料
 
-このハンズオンにあたって、とーーっても濃い内容をGitHubにて公開してくださいましたのでぜひみなさん復習を！！なんらかの理由で参加できなかった方はこれでReact.jsに入門しましょう！
+このハンズオンにあたって、とーーっても濃い内容をGitHubにて公開してくださいましたので、なんらかの理由で参加できなかった方はこれでReact.jsに入門しましょう！
 
 資料はこちら：https://github.com/pirosikick/react-hands-on-201611
 
@@ -62,7 +59,7 @@ Yahoo!では、秒間24,000アクセスをさばいているというお話に�
 #### React.jsとは？
 
 React.js は、UI(MV*フレームワークでいうView)に特化した、Facebook製のJavaScriptライブラリです。  
-HTMLをリンダリングする際、実際にDOMを構成せず**仮想DOM**を構成します。そのため、変更があった差分のみを再レンダリングすることができるようになり、表示パフォーマンスを向上させることができます。  
+HTMLをレンダリングする際、実際にDOMを構成せず**仮想DOM**を構成します。そのため、変更があった差分のみを再レンダリングすることができるようになり、表示パフォーマンスを向上させることができます。
 
 また、React.jsではJSX呼ばれるXML風な記述をすることができ、非常に見通しがよくなります。
 
@@ -99,6 +96,22 @@ React.jsもJSXの使用を推奨していますのでこの書き方を使って
 
 メンターの方のお力を、ここぞとばかりに頼り、周りの人からの応援も受け、支え合う姿が見られるハンズオンはとてもいいですね〜！終始温かい雰囲気でコーディングができました。
 
+#### 作ったもの
+
+今回は、ToDoアプリを作りました！定番ですね！
+
+ToDoアプリには、Webアプリケーションを作る上で必須であり基本となる、要素の
+
+- Create(生成)
+- Read(読み出し)
+- Update(更新)
+- Delete(削除)
+
+が揃っており、かつ、誰でも知っているということから、新しいライブラリや言語を始めるときには入門として作ることが、この界隈では慣習となっているのだと思われます！
+
+また、講師の穴井さんは、様々なライブラリ・フレームワークで作られたToDoアプリだけをまとめたサイトも紹介してくださいました。  
+http://todomvc.com/
+
 
 ### 懇親会
 
@@ -108,7 +121,7 @@ React.jsもJSXの使用を推奨していますのでこの書き方を使って
 
 静岡や岐阜..と、いつもより遠方から来てくださっている方が多くいて新鮮さがありましたね！
 
-このイベントのこの懇親会で繋がった人・技術でまた何か新しいものが生まれることを期待しています。  
+懇親会で繋がった人たちがまた何か新しいものをうみ出すことを期待しています。  
 そういう意味で、OthloEventではイベント後必ず懇親会の時間をとっています。
 
 （集合写真撮り忘れた....）
@@ -121,4 +134,4 @@ React.jsもJSXの使用を推奨していますのでこの書き方を使って
 最後の最後に、残っていたメンバーだけで、オフィスをぐるっと一周、見学させていただくことができました！
 
 それでは、最後になりましたが、  
-参加してくださったみなさん、Yahoo!Japanのみなさん、ありがとうございました！！
+参加してくださったみなさん、ヤフー株式会社のみなさん、ありがとうございました！！
