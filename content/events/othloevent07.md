@@ -1,8 +1,8 @@
 +++
-slug = "othloevent07-yahoo-japan"
+slug = "othloevent07-yahoo"
 title = "OthloEvent@ヤフー株式会社 #7"
 date = "2016-11-26"
-event_tags = ["ハンズオン", "Yahoo! Japan", "React.js"]
+event_tags = ["ハンズオン", "ヤフー株式会社", "React.js"]
 banner = "images/banners/events/othlo-event7.jpg"
 +++
 
