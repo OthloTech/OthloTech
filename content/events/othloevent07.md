@@ -6,7 +6,7 @@ event_tags = ["ハンズオン", "ヤフー株式会社", "React.js"]
 banner = "images/banners/events/othlo-event7.jpg"
 +++
 
-# OthloEvent@Yahoo! Japan #6
+# OthloEvent@ヤフー株式会社 #7
 
 {{< image src="/images/events/11-26/banner.jpg" alt="イベントバナー" >}}
 
