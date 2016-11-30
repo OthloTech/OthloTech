@@ -1,52 +1,60 @@
 # OthloTech
 
-[OthloTech](www.othlo.tech)の公式サイトの開発レポジトリです。
+[OthloTechホームページ](www.othlo.tech)の開発リポジトリです。
 
-## セットアップ
 [Hugo](https://gohugo.io/)というGO製の静的サイトジェネレーターを使用しています。
 
-### レポジトリをクローンする
+## Installation
 
-```
-git clone https://github.com/OthloTech/OthloTech.git
-cd OthloTech
-```
+1. リポジトリをクローンする
 
-### `Hugo` のダウンロード
+  ```
+  git clone https://github.com/OthloTech/OthloTech.git
+  cd OthloTech
+  ```
 
-`homebrew` 経由でダウンロードする場合は
+1. `Hugo` のダウンロード
 
-```
+  `homebrew` 経由でダウンロードする場合は  
+
+  ```
 brew doctor        # homebrew のチェック
 brew update        # homebrew を最新版に
 brew install hugo  # hugo をインストール
 ```
 
-### サーバーの立ち上げ
+1. 必要な物をインストール
 
-```
+  ```
 bundle install  # install gem
 npm install     # install node module
+```
+
+1. サーバーの立ち上げ
+
+  ```
 npm run watch   # scssファイルを監視
 hugo server -w  # 変更を監視して自動リロード
 #=> http://localhost:1313 でアクセス
+#=> npm run start で代用可能
 ```
 
-### テスト
+1. テスト
 
+  ```
+npm run test    # SCSS-Lint
 ```
-npm run test    # SCSS-lin
-```
 
-## 開発ドキュメント
 
-### 記事の投稿方法
-[記事の投稿FLOW](https://github.com/OthloTech/OthloTech/blob/master/post.md) を参照してください。
+## Documentation
 
-### マークダウン
-[マークダウン記法](https://github.com/OthloTech/OthloTech/blob/master/markdown.md) を参照してください。
+`./docs`の中に各ドキュメントがあります。
+- [記事の投稿方法](https://github.com/OthloTech/OthloTech/blob/master/docs/new-post.md)
+- [記事の執筆ルール](https://github.com/OthloTech/OthloTech/blob/master/docs/write-post.md)
+- [マークダウン記法](https://github.com/OthloTech/OthloTech/blob/master/docs/markdown.md)
+- [ショートコードの使い方](https://github.com/OthloTech/OthloTech/blob/master/docs/shortcodes.md)
 
-### 技術スタック
+## 技術スタック
 
 #### サーバーサイド
 
@@ -67,6 +75,5 @@ npm run test    # SCSS-lin
 ##### JS
 - jQuery(2系)
 
-#### タスクランナー
-現在は使用していない。
+##### タスクランナー
 - [Gulp](http://gulpjs.com/)

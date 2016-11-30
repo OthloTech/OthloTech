@@ -22,8 +22,8 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
 
 ## OthloTechへの参加
 
-月に1回、学生であれば誰でも参加できる勉強会イベント(OthloEvent)を開催しています。  
-勉強会は<a href="http://othlotech.connpass.com" target="_blank">connpass</a>を通して参加申し込みが可能です。  
+月に1回、学生であれば誰でも参加できる勉強会イベント(OthloEvent)を開催しています。
+勉強会は<a href="http://othlotech.connpass.com" target="_blank">connpass</a>を通して参加申し込みが可能です。
 新しいイベントはOthloTechの<a href="https://www.facebook.com/othlotech/" target="_blank">Facebook</a>, <a href="https://twitter.com/othlotech" target="_blank">Twitter</a>, <a href="http://www.othlo.tech" target="_blank">公式サイト</a>で告知しています。
 
 過去のイベントには以下の大学・専門学校生が参加しています。
@@ -31,6 +31,8 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
 > 名古屋大学、名古屋工業大学、名古屋市立大学、名城大学、愛知工業大学、中京大学、南山大学、トライデントコンピュータ専門学校、名古屋工学院専門学校、岐阜大学、鈴鹿工業高等専門学校など
 
 ## 沿革
+
+{{% table %}}
 
 | 年月         | 内容          |
 | ------------- | ------------- |
@@ -41,6 +43,8 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
 | 2016年8月  | 東海最大規模の学生ハッカソンOthloHack2016を開催 |
 | 2016年8月 | TECH_SALONとのコラボ勉強会を開催 |
 | 2016年10月 | GoodFindとのコラボ勉強会を開催 |
+
+{{% /table %}}
 
 ## 企業の方へ
 

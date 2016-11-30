@@ -21,6 +21,9 @@ banner = "images/banners/events/othlo-event4.png"
 
 今回のイベントの時間割は以下の通り！
 
+
+{{% table %}}
+
 |時間|内容|登壇者|
 |:-----:|:-----|:-----|
 |15:50|受付開始||
@@ -44,6 +47,8 @@ banner = "images/banners/events/othlo-event4.png"
 |-|エンジニアの住処|Tatsu10|
 |18:00|懇親会||
 |18:30|自由解散||
+
+{{% /table %}}
 
 
 

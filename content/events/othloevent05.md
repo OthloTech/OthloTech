@@ -25,6 +25,8 @@ banner = "images/banners/events/othlo-event5.png"
 
 今回のイベントの時間割は以下の通り！
 
+
+{{% table %}}
 |時間|内容|詳細|
 |:-----:|:-----|:-----|
 |11:00 - 12:00|イントロダクション|環境構築と使用するツールの説明|
@@ -32,7 +34,7 @@ banner = "images/banners/events/othlo-event5.png"
 |15:10 - 17:45|Ruby on Railsの実装|アソシエーションによる複数テーブルの処理|
 |18:00 - 19:00|Ruby on Rails 応用編|Gemを使った実装|
 |19:00 - |懇親会||
-
+{{% /table %}}
 
 ### BootCampの様子！
 

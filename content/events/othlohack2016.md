@@ -8,11 +8,12 @@ banner = "images/banners/othlohack.jpg"
 
 ## OthloHack 2016 を開催しました！
 
-こんにちは、オトモレ([@otomore01](https://twitter.com/otomore01))です。  
-2016/8/6-7に東海最大規模の学生限定ハッカソンイベントである[OthloHack 2016](http://hack.othlo.tech/)を開催しました！  
+こんにちは、オトモレ([@otomore01](https://twitter.com/otomore01))です。
+2016/8/6-7に東海最大規模の学生限定ハッカソンイベントである[OthloHack 2016](http://hack.othlo.tech/)を開催しました！
 僕はカメラ&SNS担当だったので、その模様を写真たっぷりでお伝えします！
 
 ### タイムライン
+{{% table %}}
 |時間|内容|備考|
 |---|---|---|
 |**1日目**|||
@@ -31,7 +32,8 @@ banner = "images/banners/othlohack.jpg"
 |18:00|最終発表||
 |19:00|懇親会||
 |19:30|結果発表・表彰||
-|20:30|クローズ||  
+|20:30|クローズ||
+{{% /table %}}
 
 ### 協賛企業様
 
@@ -103,7 +105,7 @@ OthloTechと[株式会社ギブリー](https://givery.co.jp/)様より大量の�
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
 ### 最終発表
-作品のプレゼン & デモをしていきます。  
+作品のプレゼン & デモをしていきます。
 **『プレゼンを制するものはハッカソンを制す』** と言います。
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="ja" dir="ltr">チーム「十万獲太郎」の「トントン大相撲」<br>完成度がとても高いです！<br> <a href="https://twitter.com/hashtag/OthloTech?src=hash">#OthloTech</a> <a href="https://t.co/dPfHCJqT5Z">pic.twitter.com/dPfHCJqT5Z</a></p>&mdash; OthloTech (@OthloTech) <a href="https://twitter.com/OthloTech/status/762222103374376960">August 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -135,7 +137,7 @@ OthloTechと[株式会社ギブリー](https://givery.co.jp/)様より大量の�
 
 ### 結果発表
 
-エイチーム賞『エイチームエンジニア社員との豪華ランチorディナー！』を受賞したのは  
+エイチーム賞『エイチームエンジニア社員との豪華ランチorディナー！』を受賞したのは
 <br/><br/>
 ……<br/><br/>
 ……<br/><br/>
@@ -143,7 +145,7 @@ OthloTechと[株式会社ギブリー](https://givery.co.jp/)様より大量の�
 **えーちーむ**
 {{<image src="https://lh3.googleusercontent.com/sqif6S-2Xx4Bvxp0xMIxCWcJ-zzeZsMtOyxteLXB6GfTfdYBRfIUcG7gMR6kPJMbomzY7LLfenHIK3LqMsFp-C5dQLRFPup9p82EyuEh1nN4goxcwpiICl3ZOOMkIYGTR5GZTLhZdDmcWfpUfpBihDTiWJhZLe1XlSDDNO7QGNWmrwe_Kukfc8zEdd37TUtbj3jgFLg586GA5nF7iso4AXTm7wrXeIRFdidNgc8WW5Fc9XbsM8OcqIWNNAW65m2IP6IFJtFi-8EftzZ5W5kvu1ZtvcVqbzOP95kXxcvg8nI5W3kwHyrFUDpN7fb-eo6CaNBnPuUywNVLEuF0Uoljpx_kLATedj6DVg7y0gte5CIpYEXzS2WZF70piFPQ2H8NttQCEZvIile7kAexZY3QF20HrLJYWEp5P3rueUcdFrwWdyU2XZaILva3Cn8F_q7hvQYUVneG8EvI20IlFnqNgFzpXlbpOHMgrspAU_ZrTYJN1rOEq_hCGSgwKkQnxdA1RzjV4GSzPmNRCcvMMK2XVb-zB2c8Q3vp0JT9H8L1_Rh3NuvzMrcEABefC_cPCh7AkV2sfDfhaM1PG3GaUaITvnqX4We2t9eu6fgIcZ4jL8aliwwf" title="エイチーム賞" class="aden">}}
 
-Misoca賞『Raspberry Piセット』を受賞したのは  
+Misoca賞『Raspberry Piセット』を受賞したのは
 <br/><br/>
 ……<br/><br/>
 ……<br/><br/>
@@ -151,7 +153,7 @@ Misoca賞『Raspberry Piセット』を受賞したのは
 **えーちーむ**
 {{<image src="https://lh3.googleusercontent.com/K9Y-6I6PXiLQNkdsnntH_OjvXE9zAsip48WgpUBmUts7UZBHd3KU4wpHZzRClHnd7My0bHCtIAkWRiCjXnP3wOPM_i3_zNkgFCy1T0ejSXKxwBHgpS7MgHnYyaYgKYZX2v2bkdimWFWe5jzcJTIjAsqvoA6j4lMC1irKxAKHgd5JvckbICzv4ccMq3PdBV-Ow-285GB5wmaqxe2FUnC7h_eYaLEScjaZf-nVGWZCwmZUdasAlImaKwtvAnV-le8OZCbIHlW-0yC2yHumNue1xmRmnOh40JboeWbh6GebYuxxQcqjbJ0f6UCKtMLDP8Usg6zQgel_Lmof3vvi7V4R_jw8kRPSkgMH___5dXFIoNr4zzYdElKm_uzdUasL1n80vBHSNWpiw4n9YQ3u3I9IKPaNqFVoqwUd9oj8-yg30wxwG2HEJ9zQXZLTaw9OxS3HH7-f8zmCkT0UJm7y8wX_zEZv8lc5jE2HuTqyy6_A-0eDxtRAGgG1CjNsgpssQqrWuIuJJ5mtE5EfF9jv6Z55spsdpygQR5liG00ydtnn4ph6-BjcQkrPY8phh2hlwByqyNMmGeUNv5FfDL7YrSEwdSdbNybGpRNjY71_2o9wk1EkDbhwPw" title="Misoca賞" class="aden">}}
 
-フューチャーアーキテクト賞『加藤牛肉店 肉博士あつし一押し！自慢肉セット』を受賞したのは  
+フューチャーアーキテクト賞『加藤牛肉店 肉博士あつし一押し！自慢肉セット』を受賞したのは
 <br/><br/>
 ……<br/><br/>
 ……<br/><br/>
@@ -159,7 +161,7 @@ Misoca賞『Raspberry Piセット』を受賞したのは
 **ぼっちめし。**
 {{<image src="https://lh3.googleusercontent.com/-61giV7lX4IC2BgYemwYcipgDifi0VWESXmwnyQLkyYKKyKm5wySQScpOJSRC8RH93RzDtpWL3v0mWtHz2J_apT-s3RaAHOgYulyJMsgPJHdegBtkBvPvCAvV8Zrpo0mmpVtFHoN5yvilhVAK1aMfWws279qBaGs_yJtVJZSOt2ms2yISKyL7a-8p_CYB0_wLyRC_AtxjCS1L-xytoe7CxZv94O_t1dKjswXpHU85khYZOh-ICUQy1q3VyLjBANre6CG5U9c2_weWGCCKTT0jMHE47joR7ik1c-kth7EYQjo9iH9ExsttQeeO8oSHs8feghmNWCb6i6_Fp-9v3wri_19imjBNDDzIgH1hRfNspMySxVG4e1V0GzWescT4bmuiqkMmm78myLxm4f1T1fZoqRbWQpMzvQ60ZlPT4yW8E1fEh6zYmz3rXJceKK_3TUm7e3em3T8-7VQHMhE4qKLovOmn7U7-DdVm9AK8vtBwFZbnB2QwqIMMiiMwaaLw92-pcIY9px0UxzXmpo6sf2IYrBXwvV6xRgY1rqnIWj0srO0uvCeipzWz7T65d3TIiILYZEsjqF346MYlj-tQnFyO3_S2_pLG08MYHfTQRPOBJ0KK2E_mw" title="フューチャーアーキテクト賞" class="aden">}}
 
-サポーターズ賞『GitHubパーカー or Tシャツ』を受賞したのは  
+サポーターズ賞『GitHubパーカー or Tシャツ』を受賞したのは
 <br/><br/>
 ……<br/><br/>
 ……<br/><br/>
@@ -167,7 +169,7 @@ Misoca賞『Raspberry Piセット』を受賞したのは
 **その日ぐらし**
 {{<image src="https://lh3.googleusercontent.com/cGdhdjCsCPvHm838nPv5avXaIiMHbtdHMPHAqD_NokjaUWrYgEs-CtNiLIykWIbfX0WPHnTSdeiDymEXXKEU5GHKqu0teD_4BXfgivSAJ7qBo8U06rmcDr7GmPKI4VkI5zUIBL_hXpp9v7hpLZRJn2nXrywOVLuDo53FPdmjhGvnYkuTd-JgU1xpxYSMLMB8jE4GvcNt17dTydbeCC42d6wFuHGL9bdj8eGSBBwNExHXSAYuzow3p5GrNGr9ed7QN_hW0v0fW7lh1FPQmst5IVwgRgxDHdHsC_0fzDbQCGuhoBLvQrrzlBW1qK9k5bBo17Nn8V8VAvNPc5gZ1B7e6NrIhSaI_l44zZQMEMlAIN_A1yiegkIifWES3O0R1Q5_pqBDX1AewM-E5ZJb5XfBKrt9-bKqrJ261zSiopuN2pE4y7rPvq0YstaSg2Ps9wqva0VXhrOH7DRs1FP8XxmftRMA55tivndKyiPm2D4ixG1PKgpunVvDu1AkwTbfQd7wYDud14sFXSMUiK4iHaqXdJBLT-W5Z_OqcwBnEEmvD6hGcAd-7NExul6MrmS2ppMDOePurFNxQgJmJfAxh5ytrkEYz0zucRPsYjHpuDY4znKLEP15" title="サポーターズ賞" class="aden">}}
 
-レバレジーズ賞『Leap Motion』を受賞したのは  
+レバレジーズ賞『Leap Motion』を受賞したのは
 <br/><br/>
 ……<br/><br/>
 ……<br/><br/>
@@ -175,7 +177,7 @@ Misoca賞『Raspberry Piセット』を受賞したのは
 **ぼっちめし。**
 {{<image src="https://lh3.googleusercontent.com/l10oo5nn5aT-saKIFMoxnk0AWNazma6wA4Nu2kxozhXeaCCHQMUuHqIbsdOPEGX13JcFC8gJp2wtxgT943lOxk11tDZHLHF4O6bOkMWSqVOxOoYrwoVUQgRvsX3ydbnctTeVIXeTv5G50-zWywJPCy-Keb82RYkfcDQIHdzQ639CbP4xry0phqWmNkNNbRPP9oPWt87NqYfQ7C01mnN6mugpPQm6HSAW717M4Stp3--M2q5rrmFuhw2l20yFUsyFxYsxIKKXHGiaWEBgRBhoYMpUz4RYHyj3bqf7tGKuawj45I27EU4yLYMVk4Mw9M1q4AnTloKbXyckTpwkMtMb1y3urtsKlsGMy0GXSCV3-D9XrwDmwL4q36Zc5mFXgRcl1VvyzIaVAPTxWP9vIbDXpOOYg7hrXPDVCZJRH_U0ch_d47_ClGz1CRdvA4Kn1MmJdSVFTslKjlFHlv4uUbb5Gzq5AC7Hn0wLqvEH6Nh5LxSJEo4UKmtAfhs-FbDBZzePL0kQBepA7wX41sTXduEDh6WLn-dEGfDb5wFsNOUCbLXX1fB8l_V_wMrSwdZiOU_ecgP0NSx6RKgOozY476H8nIsU6gMovcBjCyw99jFiSB_2OWeL" title="レバレジーズ賞" class="aden">}}
 
-そして、OthloHack 2016 最優秀賞を受賞したのは  
+そして、OthloHack 2016 最優秀賞を受賞したのは
 <br/><br/>
 ……<br/><br/>
 ……<br/><br/>
@@ -191,22 +193,22 @@ Misoca賞『Raspberry Piセット』を受賞したのは
 {{<image src="https://lh3.googleusercontent.com/Mt1XwNMmK6PiNZH5ivcUVr9P9ZXO_QRvF9MC_GQs9S3a05S_Qo5gMP3j4y21_QOMdDcg1zms4TbheTEonWduWZE0biONDY5k6VWQMkXvR7T-QvxCY22I5egvQD-Odpyo46c8qyH_4cs2H1DqugB3DbDIpJnYJTQGvLK42eQYZWyJHSRaOLXWNaU_GK4dyK5KIXcw4O2-jDb_LdH2SZyAtYUIWCfl4GLK99jtHWSbWWcT1dCDQzpeX2ZiErpdIIlmb3w6ELV1-vE3dpdKmgnp6iETxX3utVdO9bWEUM-tXjqu16IeIwPBft57Z7fKnNfMsS6JTh76vEi_xnI2CaM2DAdZctwdE85es1j11QmLv0WGxWPnro866QctWS3TSvi2Fdw9DU6hG7km_mMKoDqzQw9POBM9r8uPOLqxy_RZCub-l5XwA7ZcVjmdRMlrsA5WQjp2PJskdPB7y7EX7-CskXhupnASZ8gavlYfaXkkDmbFpVwpIQLLmOrj_ikls0C3lncVEYwXcvDPrCk9-GyxuKHT3qcgm-asFsAiuoQopOSCpztG0DyY4K9e0wJNlrXQd8Qp5AsGqTfq9RYh31akMXF5oJjY8TE8EfguXQ_XyWWSLbth" title="集合写真" class="aden">}}
 
 ### 参加者の声
-#### OthloHack 2016に参加してどうでしたか？  
+#### OthloHack 2016に参加してどうでしたか？
 
-+ 商品が豪華  
-+ 主催者のお兄さんたちともっと話したかった  
-+ チーム開発が新鮮で楽しかった！  
-+ お昼ごはんが豪華  
-+ 悔しかった  
++ 商品が豪華
++ 主催者のお兄さんたちともっと話したかった
++ チーム開発が新鮮で楽しかった！
++ お昼ごはんが豪華
++ 悔しかった
 
-#### 今後どのようなイベントに参加したいですか？  
+#### 今後どのようなイベントに参加したいですか？
 
-+ 起業家とのトークイベントをやってほしい  
-+ 汎用性の高い技術のハンズオンをやってほしい  
-+ もくもく会に参加したい  
-+ デザイナーに特化したイベントをやってほしい  
++ 起業家とのトークイベントをやってほしい
++ 汎用性の高い技術のハンズオンをやってほしい
++ もくもく会に参加したい
++ デザイナーに特化したイベントをやってほしい
 
 ### おわりに
 
-最後になりましたが、参加してくれた学生の皆さまや、ご協賛いただきました企業の皆さまのご支援ご協力あって大成功のイベントになりました。本当にありがとうございました！  
+最後になりましたが、参加してくれた学生の皆さまや、ご協賛いただきました企業の皆さまのご支援ご協力あって大成功のイベントになりました。本当にありがとうございました！
 今後ともOthloTechの活動にご期待ください！
