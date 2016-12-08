@@ -1,6 +1,6 @@
 +++
 slug = "othloevent08-LINE"
-title = "OthloEvent@LINE Bot Caravan #8"
+title = "OthloEvent@LINE #8"
 date = "2016-12-03"
 event_tags = ["ハッカソン", "LINE", "chatbot"]
 banner = "images/banners/events/othlo-event8.png"
@@ -12,7 +12,9 @@ banner = "images/banners/events/othlo-event8.png"
 
 こんにちは！OthloTechの広報担当(?)になりました[@gmsesame](https://twitter.com/gmsesame)です。
 
-12月3日(土)に名城大学にて[LINE Bot Caravan](http://line-hr.jp/archives/48845196.html)の運営のお手伝いをしました！
+12月3日(土)に名城大学にて[LINE Bot Caravan](http://line-hr.jp/archives/48845196.html)が開催されました。
+
+LINE Bot Caravanは全国４都市で開催されるLINE BOTをテーマにしたワークショップ形式のハッカソンで、OthloTechは名古屋会場の広報・集客などを手伝わせていただきました。
 
 今回はLINE Bot Carevanの様子をレポートしたいと思います！
 
@@ -24,7 +26,7 @@ banner = "images/banners/events/othlo-event8.png"
 |時間|内容|
 |:----:|:-----|
 |12:30|受付開始|
-|13:00|コース選択|
+|13:00|イントロダクション|
 |13:15|アイデアソン|
 |14:30|開発スタート|
 |18:30|懇親会|
@@ -33,17 +35,21 @@ banner = "images/banners/events/othlo-event8.png"
 
 ### 豪華な参加者特典！
 
-参加者にはLINE Botのスターターキットを無料で贈呈。
+参加者にはLINE Botのスターターキットが無料で配布されました。
 
 {{< image src="/images/events/12-3/linebot_book.jpg" alt="チュートリアルテキスト" >}}
 
-チュートリアルテキストやステッカー、さらには**LINE Beacon**もいただきました。とっても豪華ヽ(=´▽`=)ﾉ
+LINE Bot開発のチュートリアルテキストやステッカー、さらには**LINE Beacon**も入っており、とっても豪華ヽ(=´▽`=)ﾉ
 
-受付でBeaconを受け取った参加者のみなさんも、大喜びでした！
+特にLINE Beaconは一部の開発者にしか配布していないものなので、参加者も大喜びでした！
 
-### レベル別に開発
 
-chatbotの開発経験の有無やcaravan参加の目的から、
+
+### イントロダクション
+
+{{< image src="/images/events/12-3/linebot_intro.jpg" alt="イントロダクション" >}}
+
+本イベントは参加者のchatbotの開発経験に合わせて、
 
 A「開発しているものに関して質問したりfeedbackが欲しい」
 
@@ -53,9 +59,9 @@ C「チームでは開発したいので仲間を見つけたい」
 
 D「とりあえずチュートリアルに従って作ってみたい」
 
-の４つのグループに分かれ、それぞれのレベルにあって開発を進めていくスタイルでした。
+の４つのグループに分かれて開発を進めていくスタイルでした。
 
-本イベントではCとDグループの方が多めでした。
+まずは自分がどのグループとして参加したいかアンケートを取りました。本イベントではCとDグループの方が多めでした。
 
 
 ### アイデアソン
@@ -75,7 +81,15 @@ D「とりあえずチュートリアルに従って作ってみたい」
 
 チームで開発をしたり、チュートリアルテキストを見ながらEcho Botを作ってみたり、皆思い思いにPCとスマホに向き合ってました。
 
+とりあえずチュートリアルに従って作ってみたい」を目的としているDグループの参加者は、下準備としてまずLINE Business Centerに登録し、Messaging APIを申し込みました。
+
+その後Botアカウントを作成＆基本情報を入力し、チュートリアルテキストや[プログラミング初心者向けの資料](https://gist.github.com/krrrr38/57630dde0a5525d79e2ac4d33e561b48)を参考にしながら、発言をそのまま返信するecho botを作成しました。
+
+echo botの作成にはSDKを使用しました。SDKには[PHP](https://github.com/line/line-bot-sdk-php)、[Go](https://github.com/line/line-bot-sdk-go)、[Ruby](https://github.com/line/line-bot-sdk-ruby)などがあります（SDKのある言語一覧は[こちら](https://github.com/line?q=line-bot-sdk)）。
+
 LINEのエンジニアさんもメンターとしていらっしゃっていたので、分からないことがあればすぐに質問することができました！
+
+先述の[プログラミング初心者向けの資料](https://gist.github.com/krrrr38/57630dde0a5525d79e2ac4d33e561b48)はサーバーを立てた経験のない私にとってもわかりやすい内容だったので、「LINE Botに興味はあるけど、何から始めていいかわからない…」という方にとてもオススメです！
 
 ### 懇親会
 ４時間近くBotの開発に尽力した後は、お待ちかねの懇親会。
@@ -88,6 +102,6 @@ LINEのエンジニアさんもメンターとしていらっしゃっていた�
 ### お疲れ様でした！
 今回も充実した時間を過ごすことができました！
 
-{{< image src="/images/events/12-3/linebot_back.jpg" alt="２つの背中" >}}
+{{< image src="/images/events/12-3/linebot02.jpg" alt="集合写真！" >}}
 
 参加者の皆様、LINE株式会社の皆様、ありがとうございました！
