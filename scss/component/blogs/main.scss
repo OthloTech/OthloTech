@@ -122,15 +122,8 @@
     }
 
     td {
-      padding: 10px 8px 3px 12px;
+      padding: 10px 8px 8px 12px;
       white-space: nowrap;
-    }
-
-    tr>* {
-      border-right: 1px solid #4fbfa8;
-      &:last-child {
-        border-right: none;
-      }
     }
   }
 
