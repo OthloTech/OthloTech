@@ -7,8 +7,215 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Dec 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.othlo.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OthloEvent@LINE #8</title>
+      <link>http://www.othlo.tech/events/othloevent08-LINE/</link>
+      <pubDate>Sat, 03 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent08-LINE/</guid>
+      <description>
+
+&lt;h1 id=&#34;othloevent-line-8&#34;&gt;OthloEvent@LINE #8&lt;/h1&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/12-3/banner.png&#34; alt=&#34;イベントバナー&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;こんにちは！OthloTechの広報担当(?)になりました&lt;a href=&#34;https://twitter.com/gmsesame&#34;&gt;@gmsesame&lt;/a&gt;です。&lt;/p&gt;
+
+&lt;p&gt;12月3日(土)に名城大学にて&lt;a href=&#34;http://line-hr.jp/archives/48845196.html&#34;&gt;LINE Bot Caravan&lt;/a&gt;が開催されました。&lt;/p&gt;
+
+&lt;p&gt;LINE Bot Caravanは全国4都市で開催されるLINE BOTをテーマにしたワークショップ形式のハッカソンで、OthloTechは名古屋会場のお手伝いをさせていただきました。&lt;/p&gt;
+
+&lt;p&gt;今回はLINE Bot Carevanの様子をレポートしたいと思います！&lt;/p&gt;
+
+&lt;h2 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h2&gt;
+
+&lt;p&gt;本イベントの1日の流れはこんな感じでした。&lt;/p&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;12:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;受付開始&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;イントロダクション&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:15&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;アイデアソン&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;14:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;開発スタート&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;豪華な参加者特典&#34;&gt;豪華な参加者特典！&lt;/h3&gt;
+
+&lt;p&gt;参加者にはLINE Botのスターターキットが無料で配布されました。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/12-3/linebot_book.jpg&#34; alt=&#34;チュートリアルテキスト&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;LINE Bot開発のチュートリアルテキストやステッカー、さらには&lt;strong&gt;LINE Beacon&lt;/strong&gt;も入っており、とっても豪華ヽ(=´▽`=)ﾉ&lt;/p&gt;
+
+&lt;p&gt;特にLINE Beaconは一部の開発者にしか配布していないものなので、参加者も大喜びでした！&lt;/p&gt;
+
+&lt;h3 id=&#34;イントロダクション&#34;&gt;イントロダクション&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/12-3/linebot_intro.jpg&#34; alt=&#34;イントロダクション&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;本イベントは参加者のchatbotの開発経験に合わせて、&lt;/p&gt;
+
+&lt;p&gt;A「開発しているものに関して質問したりfeedbackが欲しい」&lt;/p&gt;
+
+&lt;p&gt;B「企画にあたって良いアイデアが欲しい」&lt;/p&gt;
+
+&lt;p&gt;C「チームで開発したいので仲間を見つけたい」&lt;/p&gt;
+
+&lt;p&gt;D「とりあえずチュートリアルに従って作ってみたい」&lt;/p&gt;
+
+&lt;p&gt;の４つのグループに分かれて開発を進めていくスタイルでした。&lt;/p&gt;
+
+&lt;p&gt;まずは自分がどのグループとして参加したいかアンケートを取りました。本イベントではCとDグループの方が多めでした。&lt;/p&gt;
+
+&lt;h3 id=&#34;アイデアソン&#34;&gt;アイデアソン&lt;/h3&gt;
+
+&lt;p&gt;自己紹介も兼ねて、各グループの人同士で４人組のチームを組んでおしゃべり。&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;アイデアソンなう(°▽°)！&lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/botcaravan?src=hash&#34;&gt;#botcaravan&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/hashtag/LINE?src=hash&#34;&gt;#LINE&lt;/a&gt; &lt;a href=&#34;https://t.co/uRHipHlG3B&#34;&gt;pic.twitter.com/uRHipHlG3B&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/804910462781394944&#34;&gt;December 3, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;その後、お題カードに従って新しいLINE Botを考えるアイデアソンを行いました。&lt;/p&gt;
+
+&lt;h3 id=&#34;開発スタート&#34;&gt;開発スタート！&lt;/h3&gt;
+
+&lt;p&gt;近くの席の人たちと親睦を深めた後は、いよいよ開発スタート。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/12-3/linebot01.jpg&#34; alt=&#34;もくもく&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;チームで開発をしたり、チュートリアルテキストを見ながらEcho Botを作ってみたり、皆思い思いにPCとスマホに向き合ってました。&lt;/p&gt;
+
+&lt;p&gt;とりあえずチュートリアルに従って作ってみたい」を目的としているDグループの参加者は、下準備としてまずLINE Business Centerに登録し、Messaging APIを申し込みました。&lt;/p&gt;
+
+&lt;p&gt;その後Botアカウントを作成＆基本情報を入力し、チュートリアルテキストや&lt;a href=&#34;https://gist.github.com/krrrr38/57630dde0a5525d79e2ac4d33e561b48&#34;&gt;プログラミング初心者向けの資料&lt;/a&gt;を参考にしながら、発言をそのまま返信するecho botを作成しました。&lt;/p&gt;
+
+&lt;p&gt;echo botの作成にはSDKを使用しました。SDKには&lt;a href=&#34;https://github.com/line/line-bot-sdk-php&#34;&gt;PHP&lt;/a&gt;、&lt;a href=&#34;https://github.com/line/line-bot-sdk-go&#34;&gt;Go&lt;/a&gt;、&lt;a href=&#34;https://github.com/line/line-bot-sdk-ruby&#34;&gt;Ruby&lt;/a&gt;などがあります（SDKのある言語一覧は&lt;a href=&#34;https://github.com/line?q=line-bot-sdk&#34;&gt;こちら&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;p&gt;LINEのエンジニアさんもメンターとしていらっしゃっていたので、分からないことがあればすぐに質問することができました！&lt;/p&gt;
+
+&lt;p&gt;先述の&lt;a href=&#34;https://gist.github.com/krrrr38/57630dde0a5525d79e2ac4d33e561b48&#34;&gt;プログラミング初心者向けの資料&lt;/a&gt;はサーバーを立てた経験のない私にとってもわかりやすい内容だったので、「LINE Botに興味はあるけど、何から始めていいかわからない…」という方にとてもオススメです！&lt;/p&gt;
+
+&lt;h3 id=&#34;懇親会&#34;&gt;懇親会&lt;/h3&gt;
+
+&lt;p&gt;４時間近くBotの開発に尽力した後は、お待ちかねの懇親会。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/12-3/linebot_af.jpg&#34; alt=&#34;懇親会！&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;人事の方に会社のことについて質問したり、学生同士で開発したBotのブラッシュアップ案を出し合ったり、和気あいあいとした雰囲気でした。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/12-3/linebot_back.jpg&#34; alt=&#34;LINE x OthloTech&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;お疲れ様でした&#34;&gt;お疲れ様でした！&lt;/h3&gt;
+
+&lt;p&gt;今回も充実した時間を過ごすことができました！&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/12-3/linebot02.jpg&#34; alt=&#34;集合写真！&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;参加者の皆様、LINE株式会社の皆様、ありがとうございました！&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>名古屋のテック系学生団体「OthloTech」を創った経緯</title>
@@ -2962,22 +3169,6 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
       
       <guid>http://www.othlo.tech/member/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>お問い合わせ</title>
-      <link>http://www.othlo.tech/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.othlo.tech/contact/</guid>
-      <description>
-
-&lt;h3 id=&#34;お気軽にご質問ください&#34;&gt;お気軽にご質問ください&lt;/h3&gt;
-
-&lt;p&gt;OthloTechの活動内容やイベント、その他質問等がある方は以下のフォームよりお問い合わせください。&lt;/p&gt;
-
-&lt;p&gt;またはTwitterにリプをいただいても可能な限り迅速に対応します。&lt;/p&gt;
-</description>
     </item>
     
   </channel>
