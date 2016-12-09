@@ -14,7 +14,7 @@ banner = "images/banners/events/othlo-event8.png"
 
 12月3日(土)に名城大学にて[LINE Bot Caravan](http://line-hr.jp/archives/48845196.html)が開催されました。
 
-LINE Bot Caravanは全国４都市で開催されるLINE BOTをテーマにしたワークショップ形式のハッカソンで、OthloTechは名古屋会場の広報・集客などを手伝わせていただきました。
+LINE Bot Caravanは全国4都市で開催されるLINE BOTをテーマにしたワークショップ形式のハッカソンで、OthloTechは名古屋会場のお手伝いをさせていただきました。
 
 今回はLINE Bot Carevanの様子をレポートしたいと思います！
 
@@ -55,7 +55,7 @@ A「開発しているものに関して質問したりfeedbackが欲しい」
 
 B「企画にあたって良いアイデアが欲しい」
 
-C「チームでは開発したいので仲間を見つけたい」
+C「チームで開発したいので仲間を見つけたい」
 
 D「とりあえずチュートリアルに従って作ってみたい」
 
@@ -98,6 +98,7 @@ LINEのエンジニアさんもメンターとしていらっしゃっていた�
 
 人事の方に会社のことについて質問したり、学生同士で開発したBotのブラッシュアップ案を出し合ったり、和気あいあいとした雰囲気でした。
 
+{{< image src="/images/events/12-3/linebot_back.jpg" alt="LINE x OthloTech" >}}
 
 ### お疲れ様でした！
 今回も充実した時間を過ごすことができました！
