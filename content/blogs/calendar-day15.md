@@ -1,5 +1,5 @@
 +++
-slug = 'the_Reason_Of_UsingSketch'
+slug = 'the-reason-of-usingsketch'
 tags = ['AdventCalendar']
 categories = ["デザイン"]
 date = "2016-12-15"
@@ -13,11 +13,11 @@ banner = 'images/banners/blogs/the_Reason_Of_UsingSketch.png'
 
 昨日の記事は[Morinikki](http://qiita.com/Morinikki)さんの[ハースストーンの類似カードをDeep Learningで探してみた](http://qiita.com/Morinikki/items/66941b9e3e57b9224fd7)でした。<br />
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー<br />
-初めまして！OthloTechの運営に携わらせてもらっている[にーさん(@ni_san2000)](https://twitter.com/ni_san2000)です！<br />
+初めまして！OthloTechの運営メンバーの一人[にーさん(@ni_san2000)](https://twitter.com/ni_san2000)です！<br />
 OthloTechブログは初投稿になりますのでお手柔らかにお願いします！
 
 さて今回はアプリエンジニアなら知っておいて損はないUI制作アプリケーション「[Sketch](https://www.sketchapp.com/)」について話していきたいと思います！<br />
-illustrtorやPhotoShopなどはたくさんの方が知っていますがSketchはまだあまり知れ渡っていないので書かせていただきました。<br />
+IllustratorやPhotoshopなどはたくさんの方が知っていますがSketchはまだあまり知れ渡っていないので書かせていただきました。<br />
 (過去に[Othloevent@Misoca #3](https://othlotech.connpass.com/event/34943/)に参加していただいた方はご存知かもしれませんが･･･！)
 
 {{<image src="/images/blogs/20161215/SketchHeader.png"  alt="SketchHeader" >}}
@@ -25,7 +25,7 @@ illustrtorやPhotoShopなどはたくさんの方が知っていますがSketch�
 ## そもそもSketchとは？
 SketchとはMac上で動作するUI制作アプリケーションです。公式ページは[こちら](https://www.sketchapp.com/)からどうぞ。
 
-- illustrtorと同じようにベクターを扱うことができ、さらにターゲットをUIデザイン寄りにしたようなイメージ！
+- Illustratorと同じようにベクターを扱うことができ、さらにターゲットをUIデザイン寄りにしたようなイメージ！
 - 使い方を見ないでもなんとなく使いこなせる（特に説明書を読まないタイプの人にぴったり）
 - 無料試用期間が30日、その後永久ライセンスが$99だが、 **学生なら$49で買うことができる**
 - **一目惚れします(笑)**
@@ -46,8 +46,8 @@ SketchとはMac上で動作するUI制作アプリケーションです。公式
 
 いかがでしょう･･･？これだけでもSketchがiOSアプリのプロトタイプを作ることと相性がいいことが分かってきたでしょうか？
 
-#### ②illustrtorのようにシンボルも作成できる
-illustrtorの機能の一つに「シンボル」があります。これは「繰り返し何度も使用するオブジェクトを効率よく配置できるようにしたもの」で、エンジニアに分かりやすい言葉で噛み砕くとオブジェクト指向におけるクラスのようなものです。
+#### ②Illustratorのようにシンボルも作成できる
+Illustratorの機能の一つに「シンボル」があります。これは「繰り返し何度も使用するオブジェクトを効率よく配置できるようにしたもの」で、エンジニアに分かりやすい言葉で噛み砕くとオブジェクト指向におけるクラスのようなものです。
 {{<image src="/images/blogs/20161215/symboladded.png"  alt="symboladded" >}}
 このように幾つも生成、それぞれのパラメーターも変えることができます！自分のお好みのUIパーツも作れますね。
 
@@ -75,7 +75,7 @@ Sketchで作成した画像をCSSに変換、微調整が出来たりする。We
 30日ライセンスが終了したので購入しました。
 
 SketchはUIデザインが初めての人も簡単に扱えることができ、エンジニアがデザインに簡単に触れられるアプリケーションだと思っています。<br />
-また、デザインはillustrtorやPhotoShopが無いと出来ないといった先入観を取りはらってくれます！
+また、デザインはIllustratorやPhotoshopが無いと出来ないといった先入観を取りはらってくれます！
 どうか、この記事で新たなSketchユーザーが増えることを願っています。<br />
 
 最後まで見ていただきありがとうございました！
