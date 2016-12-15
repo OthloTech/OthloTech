@@ -18,7 +18,7 @@ OthloTechブログは初投稿になりますのでお手柔らかにお願い�
 
 さて今回はアプリエンジニアなら知っておいて損はないUI制作アプリケーション「[Sketch](https://www.sketchapp.com/)」について話していきたいと思います！<br />
 IllustratorやPhotoshopなどはたくさんの方が知っていますがSketchはまだあまり知れ渡っていないので書かせていただきました。<br />
-(過去に[Othloevent@Misoca #3](https://othlotech.connpass.com/event/34943/)に参加していただいた方はご存知かもしれませんが･･･！)
+(過去に[Othloevent@Misoca #3](http://www.othlo.tech/events/othloevent03-misoca/)に参加していただいた方はご存知かもしれませんが･･･！)
 
 {{<image src="/images/blogs/20161215/SketchHeader.png"  alt="SketchHeader" >}}
 
