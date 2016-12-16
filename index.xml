@@ -7,8 +7,167 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Sat, 03 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Dec 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.othlo.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>僕がSketchに一目惚れした4つの理由</title>
+      <link>http://www.othlo.tech/blogs/the-reason-of-usingsketch/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/blogs/the-reason-of-usingsketch/</guid>
+      <description>
+
+&lt;h1 id=&#34;僕がsketchに一目惚れした4つの理由&#34;&gt;僕がSketchに一目惚れした4つの理由&lt;/h1&gt;
+
+&lt;p&gt;この記事は&lt;a href=&#34;http://qiita.com/advent-calendar/2016/othlotech&#34;&gt;OthloTech Advent Calendar 2016&lt;/a&gt;の15日目の記事です。&lt;/p&gt;
+
+&lt;p&gt;昨日の記事は&lt;a href=&#34;http://qiita.com/Morinikki&#34;&gt;Morinikki&lt;/a&gt;さんの&lt;a href=&#34;http://qiita.com/Morinikki/items/66941b9e3e57b9224fd7&#34;&gt;ハースストーンの類似カードをDeep Learningで探してみた&lt;/a&gt;でした。&lt;br /&gt;
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー&lt;br /&gt;
+初めまして！OthloTechの運営メンバーの一人&lt;a href=&#34;https://twitter.com/ni_san2000&#34;&gt;にーさん(@ni_san2000)&lt;/a&gt;です！&lt;br /&gt;
+OthloTechブログは初投稿になりますのでお手柔らかにお願いします！&lt;/p&gt;
+
+&lt;p&gt;さて今回はアプリエンジニアなら知っておいて損はないUI制作アプリケーション「&lt;a href=&#34;https://www.sketchapp.com/&#34;&gt;Sketch&lt;/a&gt;」について話していきたいと思います！&lt;br /&gt;
+IllustratorやPhotoshopなどはたくさんの方が知っていますがSketchはまだあまり知れ渡っていないので書かせていただきました。&lt;br /&gt;
+(過去に&lt;a href=&#34;http://www.othlo.tech/events/othloevent03-misoca/&#34;&gt;Othloevent@Misoca #3&lt;/a&gt;に参加していただいた方はご存知かもしれませんが･･･！)&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161215/SketchHeader.png&#34; alt=&#34;SketchHeader&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;そもそもsketchとは&#34;&gt;そもそもSketchとは？&lt;/h2&gt;
+
+&lt;p&gt;SketchとはMac上で動作するUI制作アプリケーションです。公式ページは&lt;a href=&#34;https://www.sketchapp.com/&#34;&gt;こちら&lt;/a&gt;からどうぞ。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Illustratorと同じようにベクターを扱うことができ、さらにターゲットをUIデザイン寄りにしたようなイメージ！&lt;/li&gt;
+&lt;li&gt;使い方を見ないでもなんとなく使いこなせる（特に説明書を読まないタイプの人にぴったり）&lt;/li&gt;
+&lt;li&gt;無料試用期間が30日、その後永久ライセンスが$99だが、 &lt;strong&gt;学生なら$49で買うことができる&lt;/strong&gt;&lt;br /&gt;
+ライセンス購入には学生証のコピー(pdf)が必要なので、学生であるうちに買っちゃいましょう！&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;一目惚れします(笑)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;気になった方はまずインストールしてみてください！&lt;/p&gt;
+
+&lt;h2 id=&#34;僕がsketchに一目惚れした4つの理由-1&#34;&gt;僕がSketchに一目惚れした4つの理由&lt;/h2&gt;
+
+&lt;h3 id=&#34;①iosのuiテンプレートが標準装備&#34;&gt;①iOSのUIテンプレートが標準装備&lt;/h3&gt;
+
+&lt;p&gt;何と言っても、これ。すぐにiOSのレイアウトデザインができちゃうんです。&lt;br /&gt;
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161215/iOSTemplates.png&#34; alt=&#34;iOSTemplates&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+僕はこれを見た瞬間「コピーするだけじゃん！」って今まで紙で書いてきたことを後悔していた記憶があります。（もちろん紙のスケッチもいいとこあるけどね･･･！）&lt;br /&gt;
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161215/usingSketch.png&#34; alt=&#34;usingSketch&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+30分もあればこんな感じのネイティブアプリのUIデザイン、プロトタイプがすぐに作れます。&lt;/p&gt;
+
+&lt;p&gt;この他にもオンラインには様々なアプリケーションのUIの参考となるデザインが公開されており、見るだけでもワクワクしちゃいますね！&lt;br /&gt;
+&lt;a href=&#34;http://puzzles.design/&#34;&gt;Puzzles - iOS 10&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;いかがでしょう･･･？これだけでもSketchがiOSアプリのプロトタイプを作ることと相性がいいことが分かってきたでしょうか？&lt;/p&gt;
+
+&lt;h3 id=&#34;②illustratorのようにシンボルも作成できる&#34;&gt;②Illustratorのようにシンボルも作成できる&lt;/h3&gt;
+
+&lt;p&gt;Illustratorの機能の一つに「シンボル」があります。これは「繰り返し何度も使用するオブジェクトを効率よく配置できるようにしたもの」で、エンジニアに分かりやすい言葉で噛み砕くとオブジェクト指向におけるクラスのようなものです。この機能もちゃんとSketchは用意してあり、パラメーターの編集はより直感的に扱うことができます。
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161215/symboladded.png&#34; alt=&#34;symboladded&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+このように幾つも生成、それぞれのパラメーターも変えることができます！自分のお好みのUIパーツも作れますね。&lt;/p&gt;
+
+&lt;h3 id=&#34;③スマホで常時プレビューが見られる&#34;&gt;③スマホで常時プレビューが見られる！&lt;/h3&gt;
+
+&lt;p&gt;Sketchには&lt;a href=&#34;https://itunes.apple.com/jp/app/sketch-mirror/id677296955?mt=8&#34;&gt;Sketch Mirror&lt;/a&gt;といったiOSアプリがあり、PC版のSketchとリンクをすると常時プレビューがスマホの画面に映し出されます！&lt;br /&gt;これがものすごく便利で、「実際にスマホに表示させたらどんな印象になるだろう･･･」といったデバッグが一瞬で終わります。&lt;br /&gt;しかも常時反映されるので自分自身でUXを確認しながらのデザインが出来ちゃいます！手元で即確認できる便利さは一度実感したらもう戻れません･･･！
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161215/Sketchmirror.png&#34; alt=&#34;Sketchmirror&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;④sketchのプラグインがイケてる&#34;&gt;④Sketchのプラグインがイケてる&lt;/h3&gt;
+
+&lt;p&gt;Sketchには様々な機能を拡張できるプラグインなるものがあります。有償無償ありますが有志の方が様々なプラグインを公開しており、自由に使うことができます。&lt;br /&gt;
+しかもダウンロード、インストールが超簡単。zipを展開して.sketchpluginファイルを実行するだけでインストールが完了します。&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://blog.prottapp.com/post/ja/sketch-integration&#34;&gt;Sketch Plugin&lt;/a&gt;&lt;br /&gt;
+プロトタイプ作成サイトProttに作ったUIデザインやプロトタイプの画面を簡単に送信できるもの。1枚ずつ画像を出力してProttにアップロードするのは面倒だからね･･･！&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/rodi01/RenameIt&#34;&gt;RenameIt&lt;/a&gt;&lt;br /&gt;
+複数のレイヤーを連番でリネームできる優れもの。複数のアイコンや画像を動かすコレクションビューなどに最適。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/JohnCoates/CSSketch&#34;&gt;CSSketch&lt;/a&gt;&lt;br /&gt;
+Sketchで作成した画像をCSSに変換、微調整が出来たりする。Webデザイナーにも使えるし常時反映してくれるからバックエンドのエンジニアにもぴったり。&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;などなど。調べてみればまだまだたくさんのプラグインが見つかります。&lt;/p&gt;
+
+&lt;h2 id=&#34;おわりに&#34;&gt;おわりに&lt;/h2&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161215/iboughtsketch.png&#34; alt=&#34;iboughtsketch&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+30日ライセンスが終了したので購入しました。&lt;/p&gt;
+
+&lt;p&gt;SketchはUIデザインが初めての人も簡単に扱えることができ、エンジニアがデザインに簡単に触れられるアプリケーションだと思っています。&lt;br /&gt;
+また、デザインはIllustratorやPhotoshopが無いと出来ないといった先入観を取りはらってくれます！
+どうか、この記事で新たなSketchユーザーが増えることを願っています。&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;最後まで見ていただきありがとうございました！&lt;/p&gt;
+
+&lt;p&gt;次は16日目、&lt;a href=&#34;http://qiita.com/KosukeQiita&#34;&gt;KosukeQiita&lt;/a&gt;さんの記事になります。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://qiita.com/advent-calendar/2016/othlotech&#34;&gt;OthloTech Advent Calendar 2016&lt;/a&gt;はまだまだたくさんの方が投稿してくれます。
+初めて見に来ていただい方、見逃してしまった方もぜひみなさんの投稿も見てくださいね！&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>OthloEvent@LINE #8</title>
@@ -3103,7 +3262,7 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
 &lt;p&gt;過去のイベントには以下の大学・専門学校生が参加しています。&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;名古屋大学、名古屋工業大学、名古屋市立大学、名城大学、愛知工業大学、中京大学、南山大学、トライデントコンピュータ専門学校、名古屋工学院専門学校、岐阜大学、鈴鹿工業高等専門学校など&lt;/p&gt;
+&lt;p&gt;名古屋大学、名古屋工業大学、名古屋市立大学、名城大学、愛知工業大学、中京大学、中部大学、南山大学、静岡大学、岐阜大学、トライデントコンピュータ専門学校、名古屋工学院専門学校、鈴鹿工業高等専門学校など&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&#34;沿革&#34;&gt;沿革&lt;/h2&gt;
@@ -3111,64 +3270,83 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
 &lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;年月&lt;/th&gt;
-&lt;th&gt;内容&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;年&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;月&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;2016年5月&lt;/td&gt;
-&lt;td&gt;OthloTechを結成&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;2016年&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;5月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;OthloTechを結成&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;2016年5月&lt;/td&gt;
-&lt;td&gt;名城大学で第1回勉強会を行い、約30名が集まる&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.othlo.tech/events/othloevent01-shake/&#34;&gt;学生LT &amp;amp; クイズ大会&lt;/a&gt;を開催&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;2016年6月&lt;/td&gt;
-&lt;td&gt;株式会社エイチームとのコラボ勉強会を開催&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;6月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.othlo.tech/events/othloevent02-ateam/&#34;&gt;株式会社エイチームとのコラボ勉強会&lt;/a&gt;を開催&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;2016年7月&lt;/td&gt;
-&lt;td&gt;株式会社Misocaとのコラボ勉強会を開催&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;7月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.othlo.tech/events/othloevent03-misoca/&#34;&gt;株式会社Misocaとのコラボ勉強会&lt;/a&gt;を開催&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;2016年8月&lt;/td&gt;
-&lt;td&gt;東海最大規模の学生ハッカソンOthloHack2016を開催&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;8月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;東海最大規模の学生ハッカソン&lt;a href=&#34;http://www.othlo.tech/events/othlohack2016/&#34;&gt;OthloHack2016&lt;/a&gt;を開催&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;2016年8月&lt;/td&gt;
-&lt;td&gt;TECH_SALONとのコラボ勉強会を開催&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;TECH_SALONとのコラボ勉強会を開催&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;2016年10月&lt;/td&gt;
-&lt;td&gt;GoodFindとのコラボ勉強会を開催&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;9月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.othlo.tech/events/othloevent04-shake/&#34;&gt;学生LT大会&lt;/a&gt;を開催&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;10月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.othlo.tech/events/othloevent05-goodfind/&#34;&gt;GoodFindとのコラボ勉強会&lt;/a&gt;を開催&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;11月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.othlo.tech/events/othloevent07-yahoo/&#34;&gt;ヤフー株式会社とのコラボ勉強会&lt;/a&gt;を開催&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;12月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;LINE株式会社の&lt;a href=&#34;http://line-hr.jp/archives/48845196.html&#34;&gt;LINE BOT CARAVAN&lt;/a&gt; 名古屋会場の運営補助&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
 
 
-&lt;h2 id=&#34;企業の方へ&#34;&gt;企業の方へ&lt;/h2&gt;
+&lt;h2 id=&#34;企業-団体の方へ&#34;&gt;企業・団体の方へ&lt;/h2&gt;
 
 &lt;p&gt;OthloTechでは、弊団体のイベント・プロダクト・その他活動にご賛同いただき、ご協賛頂ける企業・団体を募集しています。&lt;/p&gt;
+
+&lt;p&gt;お問合わせは&lt;a href=&#34;http://www.othlo.tech/contact&#34;&gt;こちら&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>OthloTechメンバー</title>
-      <link>http://www.othlo.tech/member/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.othlo.tech/member/</guid>
-      <description></description>
     </item>
     
   </channel>
