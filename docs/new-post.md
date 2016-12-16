@@ -45,5 +45,8 @@ git push origin events/xxx
 #### 7) Github Pagesにデプロイ(この操作は管理者が実行する)
 
 ```
+cd pages
+git pull origin gh-pages # ローカルのブランチをリモートに合わせる
+cd ..
 ./deploy.sh "コミットメッセージ"
 ```
