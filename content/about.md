@@ -37,14 +37,14 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
 |年|月||
 |:---|:---|:---|
 |2016年|5月|OthloTechを結成|
-|||[学生LT & クイズ大会](http://localhost:1313/events/othloevent01-shake/)を開催|
-||6月|[株式会社エイチームとのコラボ勉強会](http://localhost:1313/events/othloevent02-ateam/)を開催|
-||7月|[株式会社Misocaとのコラボ勉強会](http://localhost:1313/events/othloevent03-misoca/)を開催|
-||8月|東海最大規模の学生ハッカソン[OthloHack2016](http://localhost:1313/events/othlohack2016/)を開催|
+|||[学生LT & クイズ大会](http://www.othlo.tech/events/othloevent01-shake/)を開催|
+||6月|[株式会社エイチームとのコラボ勉強会](http://www.othlo.tech/events/othloevent02-ateam/)を開催|
+||7月|[株式会社Misocaとのコラボ勉強会](http://www.othlo.tech/events/othloevent03-misoca/)を開催|
+||8月|東海最大規模の学生ハッカソン[OthloHack2016](http://www.othlo.tech/events/othlohack2016/)を開催|
 |||TECH_SALONとのコラボ勉強会を開催|
-||9月|[学生LT大会](http://localhost:1313/events/othloevent04-shake/)を開催|
-||10月|[GoodFindとのコラボ勉強会](http://localhost:1313/events/othloevent05-goodfind/)を開催|
-||11月|[ヤフー株式会社とのコラボ勉強会](http://localhost:1313/events/othloevent07-yahoo/)を開催|
+||9月|[学生LT大会](http://www.othlo.tech/events/othloevent04-shake/)を開催|
+||10月|[GoodFindとのコラボ勉強会](http://www.othlo.tech/events/othloevent05-goodfind/)を開催|
+||11月|[ヤフー株式会社とのコラボ勉強会](http://www.othlo.tech/events/othloevent07-yahoo/)を開催|
 ||12月|LINE株式会社の[LINE BOT CARAVAN](http://line-hr.jp/archives/48845196.html) 名古屋会場の運営補助|
 
 {{% /table %}}
@@ -52,3 +52,5 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
 ## 企業・団体の方へ
 
 OthloTechでは、弊団体のイベント・プロダクト・その他活動にご賛同いただき、ご協賛頂ける企業・団体を募集しています。
+
+お問合わせは[こちら](http://www.othlo.tech/contact)
