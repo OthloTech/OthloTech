@@ -1,0 +1,3353 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OthloTech -学生クリエイティブ集団-</title>
+    <link>http://www.othlo.tech/index.xml</link>
+    <description>Recent content on OthloTech -学生クリエイティブ集団-</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
+    <lastBuildDate>Thu, 15 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.othlo.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>僕がSketchに一目惚れした4つの理由</title>
+      <link>http://www.othlo.tech/blogs/the-reason-of-usingsketch/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/blogs/the-reason-of-usingsketch/</guid>
+      <description>
+
+&lt;h1 id=&#34;僕がsketchに一目惚れした4つの理由&#34;&gt;僕がSketchに一目惚れした4つの理由&lt;/h1&gt;
+
+&lt;p&gt;この記事は&lt;a href=&#34;http://qiita.com/advent-calendar/2016/othlotech&#34;&gt;OthloTech Advent Calendar 2016&lt;/a&gt;の15日目の記事です。&lt;/p&gt;
+
+&lt;p&gt;昨日の記事は&lt;a href=&#34;http://qiita.com/Morinikki&#34;&gt;Morinikki&lt;/a&gt;さんの&lt;a href=&#34;http://qiita.com/Morinikki/items/66941b9e3e57b9224fd7&#34;&gt;ハースストーンの類似カードをDeep Learningで探してみた&lt;/a&gt;でした。&lt;br /&gt;
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー&lt;br /&gt;
+初めまして！OthloTechの運営メンバーの一人&lt;a href=&#34;https://twitter.com/ni_san2000&#34;&gt;にーさん(@ni_san2000)&lt;/a&gt;です！&lt;br /&gt;
+OthloTechブログは初投稿になりますのでお手柔らかにお願いします！&lt;/p&gt;
+
+&lt;p&gt;さて今回はアプリエンジニアなら知っておいて損はないUI制作アプリケーション「&lt;a href=&#34;https://www.sketchapp.com/&#34;&gt;Sketch&lt;/a&gt;」について話していきたいと思います！&lt;br /&gt;
+IllustratorやPhotoshopなどはたくさんの方が知っていますがSketchはまだあまり知れ渡っていないので書かせていただきました。&lt;br /&gt;
+(過去に&lt;a href=&#34;http://www.othlo.tech/events/othloevent03-misoca/&#34;&gt;Othloevent@Misoca #3&lt;/a&gt;に参加していただいた方はご存知かもしれませんが･･･！)&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161215/SketchHeader.png&#34; alt=&#34;SketchHeader&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;そもそもsketchとは&#34;&gt;そもそもSketchとは？&lt;/h2&gt;
+
+&lt;p&gt;SketchとはMac上で動作するUI制作アプリケーションです。公式ページは&lt;a href=&#34;https://www.sketchapp.com/&#34;&gt;こちら&lt;/a&gt;からどうぞ。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Illustratorと同じようにベクターを扱うことができ、さらにターゲットをUIデザイン寄りにしたようなイメージ！&lt;/li&gt;
+&lt;li&gt;使い方を見ないでもなんとなく使いこなせる（特に説明書を読まないタイプの人にぴったり）&lt;/li&gt;
+&lt;li&gt;無料試用期間が30日、その後永久ライセンスが$99だが、 &lt;strong&gt;学生なら$49で買うことができる&lt;/strong&gt;&lt;br /&gt;
+ライセンス購入には学生証のコピー(pdf)が必要なので、学生であるうちに買っちゃいましょう！&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;一目惚れします(笑)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;気になった方はまずインストールしてみてください！&lt;/p&gt;
+
+&lt;h2 id=&#34;僕がsketchに一目惚れした4つの理由-1&#34;&gt;僕がSketchに一目惚れした4つの理由&lt;/h2&gt;
+
+&lt;h3 id=&#34;①iosのuiテンプレートが標準装備&#34;&gt;①iOSのUIテンプレートが標準装備&lt;/h3&gt;
+
+&lt;p&gt;何と言っても、これ。すぐにiOSのレイアウトデザインができちゃうんです。&lt;br /&gt;
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161215/iOSTemplates.png&#34; alt=&#34;iOSTemplates&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+僕はこれを見た瞬間「コピーするだけじゃん！」って今まで紙で書いてきたことを後悔していた記憶があります。（もちろん紙のスケッチもいいとこあるけどね･･･！）&lt;br /&gt;
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161215/usingSketch.png&#34; alt=&#34;usingSketch&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+30分もあればこんな感じのネイティブアプリのUIデザイン、プロトタイプがすぐに作れます。&lt;/p&gt;
+
+&lt;p&gt;この他にもオンラインには様々なアプリケーションのUIの参考となるデザインが公開されており、見るだけでもワクワクしちゃいますね！&lt;br /&gt;
+&lt;a href=&#34;http://puzzles.design/&#34;&gt;Puzzles - iOS 10&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;いかがでしょう･･･？これだけでもSketchがiOSアプリのプロトタイプを作ることと相性がいいことが分かってきたでしょうか？&lt;/p&gt;
+
+&lt;h3 id=&#34;②illustratorのようにシンボルも作成できる&#34;&gt;②Illustratorのようにシンボルも作成できる&lt;/h3&gt;
+
+&lt;p&gt;Illustratorの機能の一つに「シンボル」があります。これは「繰り返し何度も使用するオブジェクトを効率よく配置できるようにしたもの」で、エンジニアに分かりやすい言葉で噛み砕くとオブジェクト指向におけるクラスのようなものです。この機能もちゃんとSketchは用意してあり、パラメーターの編集はより直感的に扱うことができます。
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161215/symboladded.png&#34; alt=&#34;symboladded&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+このように幾つも生成、それぞれのパラメーターも変えることができます！自分のお好みのUIパーツも作れますね。&lt;/p&gt;
+
+&lt;h3 id=&#34;③スマホで常時プレビューが見られる&#34;&gt;③スマホで常時プレビューが見られる！&lt;/h3&gt;
+
+&lt;p&gt;Sketchには&lt;a href=&#34;https://itunes.apple.com/jp/app/sketch-mirror/id677296955?mt=8&#34;&gt;Sketch Mirror&lt;/a&gt;といったiOSアプリがあり、PC版のSketchとリンクをすると常時プレビューがスマホの画面に映し出されます！&lt;br /&gt;これがものすごく便利で、「実際にスマホに表示させたらどんな印象になるだろう･･･」といったデバッグが一瞬で終わります。&lt;br /&gt;しかも常時反映されるので自分自身でUXを確認しながらのデザインが出来ちゃいます！手元で即確認できる便利さは一度実感したらもう戻れません･･･！
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161215/Sketchmirror.png&#34; alt=&#34;Sketchmirror&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;④sketchのプラグインがイケてる&#34;&gt;④Sketchのプラグインがイケてる&lt;/h3&gt;
+
+&lt;p&gt;Sketchには様々な機能を拡張できるプラグインなるものがあります。有償無償ありますが有志の方が様々なプラグインを公開しており、自由に使うことができます。&lt;br /&gt;
+しかもダウンロード、インストールが超簡単。zipを展開して.sketchpluginファイルを実行するだけでインストールが完了します。&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://blog.prottapp.com/post/ja/sketch-integration&#34;&gt;Sketch Plugin&lt;/a&gt;&lt;br /&gt;
+プロトタイプ作成サイトProttに作ったUIデザインやプロトタイプの画面を簡単に送信できるもの。1枚ずつ画像を出力してProttにアップロードするのは面倒だからね･･･！&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/rodi01/RenameIt&#34;&gt;RenameIt&lt;/a&gt;&lt;br /&gt;
+複数のレイヤーを連番でリネームできる優れもの。複数のアイコンや画像を動かすコレクションビューなどに最適。&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/JohnCoates/CSSketch&#34;&gt;CSSketch&lt;/a&gt;&lt;br /&gt;
+Sketchで作成した画像をCSSに変換、微調整が出来たりする。Webデザイナーにも使えるし常時反映してくれるからバックエンドのエンジニアにもぴったり。&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;などなど。調べてみればまだまだたくさんのプラグインが見つかります。&lt;/p&gt;
+
+&lt;h2 id=&#34;おわりに&#34;&gt;おわりに&lt;/h2&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161215/iboughtsketch.png&#34; alt=&#34;iboughtsketch&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+30日ライセンスが終了したので購入しました。&lt;/p&gt;
+
+&lt;p&gt;SketchはUIデザインが初めての人も簡単に扱えることができ、エンジニアがデザインに簡単に触れられるアプリケーションだと思っています。&lt;br /&gt;
+また、デザインはIllustratorやPhotoshopが無いと出来ないといった先入観を取りはらってくれます！
+どうか、この記事で新たなSketchユーザーが増えることを願っています。&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;最後まで見ていただきありがとうございました！&lt;/p&gt;
+
+&lt;p&gt;次は16日目、&lt;a href=&#34;http://qiita.com/KosukeQiita&#34;&gt;KosukeQiita&lt;/a&gt;さんの記事になります。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://qiita.com/advent-calendar/2016/othlotech&#34;&gt;OthloTech Advent Calendar 2016&lt;/a&gt;はまだまだたくさんの方が投稿してくれます。
+初めて見に来ていただい方、見逃してしまった方もぜひみなさんの投稿も見てくださいね！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OthloEvent@LINE #8</title>
+      <link>http://www.othlo.tech/events/othloevent08-LINE/</link>
+      <pubDate>Sat, 03 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent08-LINE/</guid>
+      <description>
+
+&lt;h1 id=&#34;othloevent-line-8&#34;&gt;OthloEvent@LINE #8&lt;/h1&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/12-3/banner.png&#34; alt=&#34;イベントバナー&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;こんにちは！OthloTechの広報担当(?)になりました&lt;a href=&#34;https://twitter.com/gmsesame&#34;&gt;@gmsesame&lt;/a&gt;です。&lt;/p&gt;
+
+&lt;p&gt;12月3日(土)に名城大学にて&lt;a href=&#34;http://line-hr.jp/archives/48845196.html&#34;&gt;LINE Bot Caravan&lt;/a&gt;が開催されました。&lt;/p&gt;
+
+&lt;p&gt;LINE Bot Caravanは全国4都市で開催されるLINE BOTをテーマにしたワークショップ形式のハッカソンで、OthloTechは名古屋会場のお手伝いをさせていただきました。&lt;/p&gt;
+
+&lt;p&gt;今回はLINE Bot Carevanの様子をレポートしたいと思います！&lt;/p&gt;
+
+&lt;h2 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h2&gt;
+
+&lt;p&gt;本イベントの1日の流れはこんな感じでした。&lt;/p&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;12:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;受付開始&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;イントロダクション&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:15&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;アイデアソン&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;14:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;開発スタート&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;豪華な参加者特典&#34;&gt;豪華な参加者特典！&lt;/h3&gt;
+
+&lt;p&gt;参加者にはLINE Botのスターターキットが無料で配布されました。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/12-3/linebot_book.jpg&#34; alt=&#34;チュートリアルテキスト&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;LINE Bot開発のチュートリアルテキストやステッカー、さらには&lt;strong&gt;LINE Beacon&lt;/strong&gt;も入っており、とっても豪華ヽ(=´▽`=)ﾉ&lt;/p&gt;
+
+&lt;p&gt;特にLINE Beaconは一部の開発者にしか配布していないものなので、参加者も大喜びでした！&lt;/p&gt;
+
+&lt;h3 id=&#34;イントロダクション&#34;&gt;イントロダクション&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/12-3/linebot_intro.jpg&#34; alt=&#34;イントロダクション&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;本イベントは参加者のchatbotの開発経験に合わせて、&lt;/p&gt;
+
+&lt;p&gt;A「開発しているものに関して質問したりfeedbackが欲しい」&lt;/p&gt;
+
+&lt;p&gt;B「企画にあたって良いアイデアが欲しい」&lt;/p&gt;
+
+&lt;p&gt;C「チームで開発したいので仲間を見つけたい」&lt;/p&gt;
+
+&lt;p&gt;D「とりあえずチュートリアルに従って作ってみたい」&lt;/p&gt;
+
+&lt;p&gt;の４つのグループに分かれて開発を進めていくスタイルでした。&lt;/p&gt;
+
+&lt;p&gt;まずは自分がどのグループとして参加したいかアンケートを取りました。本イベントではCとDグループの方が多めでした。&lt;/p&gt;
+
+&lt;h3 id=&#34;アイデアソン&#34;&gt;アイデアソン&lt;/h3&gt;
+
+&lt;p&gt;自己紹介も兼ねて、各グループの人同士で４人組のチームを組んでおしゃべり。&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;アイデアソンなう(°▽°)！&lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/botcaravan?src=hash&#34;&gt;#botcaravan&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/hashtag/LINE?src=hash&#34;&gt;#LINE&lt;/a&gt; &lt;a href=&#34;https://t.co/uRHipHlG3B&#34;&gt;pic.twitter.com/uRHipHlG3B&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/804910462781394944&#34;&gt;December 3, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;その後、お題カードに従って新しいLINE Botを考えるアイデアソンを行いました。&lt;/p&gt;
+
+&lt;h3 id=&#34;開発スタート&#34;&gt;開発スタート！&lt;/h3&gt;
+
+&lt;p&gt;近くの席の人たちと親睦を深めた後は、いよいよ開発スタート。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/12-3/linebot01.jpg&#34; alt=&#34;もくもく&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;チームで開発をしたり、チュートリアルテキストを見ながらEcho Botを作ってみたり、皆思い思いにPCとスマホに向き合ってました。&lt;/p&gt;
+
+&lt;p&gt;とりあえずチュートリアルに従って作ってみたい」を目的としているDグループの参加者は、下準備としてまずLINE Business Centerに登録し、Messaging APIを申し込みました。&lt;/p&gt;
+
+&lt;p&gt;その後Botアカウントを作成＆基本情報を入力し、チュートリアルテキストや&lt;a href=&#34;https://gist.github.com/krrrr38/57630dde0a5525d79e2ac4d33e561b48&#34;&gt;プログラミング初心者向けの資料&lt;/a&gt;を参考にしながら、発言をそのまま返信するecho botを作成しました。&lt;/p&gt;
+
+&lt;p&gt;echo botの作成にはSDKを使用しました。SDKには&lt;a href=&#34;https://github.com/line/line-bot-sdk-php&#34;&gt;PHP&lt;/a&gt;、&lt;a href=&#34;https://github.com/line/line-bot-sdk-go&#34;&gt;Go&lt;/a&gt;、&lt;a href=&#34;https://github.com/line/line-bot-sdk-ruby&#34;&gt;Ruby&lt;/a&gt;などがあります（SDKのある言語一覧は&lt;a href=&#34;https://github.com/line?q=line-bot-sdk&#34;&gt;こちら&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;p&gt;LINEのエンジニアさんもメンターとしていらっしゃっていたので、分からないことがあればすぐに質問することができました！&lt;/p&gt;
+
+&lt;p&gt;先述の&lt;a href=&#34;https://gist.github.com/krrrr38/57630dde0a5525d79e2ac4d33e561b48&#34;&gt;プログラミング初心者向けの資料&lt;/a&gt;はサーバーを立てた経験のない私にとってもわかりやすい内容だったので、「LINE Botに興味はあるけど、何から始めていいかわからない…」という方にとてもオススメです！&lt;/p&gt;
+
+&lt;h3 id=&#34;懇親会&#34;&gt;懇親会&lt;/h3&gt;
+
+&lt;p&gt;４時間近くBotの開発に尽力した後は、お待ちかねの懇親会。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/12-3/linebot_af.jpg&#34; alt=&#34;懇親会！&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;人事の方に会社のことについて質問したり、学生同士で開発したBotのブラッシュアップ案を出し合ったり、和気あいあいとした雰囲気でした。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/12-3/linebot_back.jpg&#34; alt=&#34;LINE x OthloTech&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;お疲れ様でした&#34;&gt;お疲れ様でした！&lt;/h3&gt;
+
+&lt;p&gt;今回も充実した時間を過ごすことができました！&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/12-3/linebot02.jpg&#34; alt=&#34;集合写真！&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;参加者の皆様、LINE株式会社の皆様、ありがとうございました！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>名古屋のテック系学生団体「OthloTech」を創った経緯</title>
+      <link>http://www.othlo.tech/blogs/othlotech-launch-story/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/blogs/othlotech-launch-story/</guid>
+      <description>
+
+&lt;h1 id=&#34;名古屋のテック系学生団体-othlotech-を創った経緯&#34;&gt;名古屋のテック系学生団体「OthloTech」を創った経緯&lt;/h1&gt;
+
+&lt;p&gt;この記事は&lt;a href=&#34;http://qiita.com/advent-calendar/2016/othlotech&#34;&gt;OthloTech Advent Calendar 2016&lt;/a&gt;の1日目の記事です。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161201/othlotech-logo-1.png&#34; alt=&#34;OthloTech&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;こんにちは！OthloTechの矢崎です。&lt;/p&gt;
+
+&lt;p&gt;12月1日から25日間、&lt;a href=&#34;http://qiita.com/advent-calendar/2016/othlotech&#34;&gt;OthloTech Advent Calendar 2016&lt;/a&gt;でOthloTechコミュニティの学生が毎日1記事ずつ投稿してくれます。&lt;br /&gt;
+この記事はその一番目ということで、「OthloTechってなに？」「なんで始めたの？」というイントロダクション的なのをつらつらと書いていきます。&lt;/p&gt;
+
+&lt;h2 id=&#34;othlotechとは&#34;&gt;OthloTechとは？&lt;/h2&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161201/othlotech-logo-2.jpg&#34; alt=&#34;OthloTech&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;strong&gt;名古屋近辺のWeb系、IT系、技術系に興味のある学生エンジニア・デザイナーが集まるコミュニティ&lt;/strong&gt;です。&lt;br /&gt;
+Webサービスやアプリを開発・デザインする人が多いので「学生クリエイティブ集団」なんて言ったりもしています。（手前味噌ですがｗ）&lt;/p&gt;
+
+&lt;p&gt;自分含めて3人の学生が2016年5月に始めて、まだ半年ちょっとしか経っていません。&lt;br /&gt;
+勉強会の運営をしてくれる人や、何かしらOthloTechに関係のあるコアメンバーは10名ほどいます。&lt;/p&gt;
+
+&lt;p&gt;コアメンバーだけがOthloTechのコミュニティなのかというとそうではなく、今回の&lt;a href=&#34;http://qiita.com/advent-calendar/2016/othlotech&#34;&gt;OthloTech Advent Calendar 2016&lt;/a&gt;や勉強会イベントに参加してくれる学生みんなが、&lt;strong&gt;新しい技術知識を得たり学生同士の繋がりを作れる環境&lt;/strong&gt;が、OthloTechの目指しているコミュニティです。&lt;/p&gt;
+
+&lt;h3 id=&#34;どんな人がいるのか&#34;&gt;どんな人がいるのか&lt;/h3&gt;
+
+&lt;p&gt;OthloTech界隈にどんな学生がいるのか、具体的には&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;メガベンチャーに内定しているエンジニア数名&lt;/li&gt;
+&lt;li&gt;数々のメガベンチャーでインターンを経験したエンジニア数名&lt;/li&gt;
+&lt;li&gt;名古屋のミドルベンチャーでインターンしているデザイナー&lt;/li&gt;
+&lt;li&gt;世界各地で開催している某スタートアップイベントを名古屋でオーガナイズしている学生達&lt;/li&gt;
+&lt;li&gt;東京のWeb系、IT系で就活をしている人などなど&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;実績・肩書からしていかにもデキそうな人もいますが、最近プログラミングを勉強し始めた人、これから起業したいけど技術のことが全然わからなくて、といった学生もいます。&lt;/p&gt;
+
+&lt;p&gt;中にはOthloTechのイベントがきっかけでITベンチャーに興味を持ち、実際にインターンをしている人もいます。&lt;/p&gt;
+
+&lt;h2 id=&#34;othlotechがやっていること&#34;&gt;OthloTechがやっていること&lt;/h2&gt;
+
+&lt;p&gt;月に1,2回、学生限定の勉強会イベントを名古屋で開催しています。&lt;br /&gt;
+LT会を開いたり、企業とコラボしてサービス開発のお話をしてもらったり、企業のエンジニアに講師をお願いしてハンズオン形式の勉強会を開催してます。&lt;/p&gt;
+
+&lt;p&gt;過去のイベントは&lt;a href=&#34;https://othlotech.connpass.com/&#34;&gt;connpassページ&lt;/a&gt;や&lt;a href=&#34;http://www.othlo.tech/events/&#34;&gt;イベントレポート&lt;/a&gt;で確認できます。&lt;/p&gt;
+
+&lt;p&gt;2016年5月に初めてOthloTechとしての勉強会イベントを開催して、&lt;strong&gt;半年ちょっとでイベントを10回開催、延べ250人以上の方が参加&lt;/strong&gt;しました。&lt;br /&gt;
+また、8月には&lt;a href=&#34;http://hack.othlo.tech/&#34;&gt;OthloHack 2016&lt;/a&gt;という学生限定のハッカソンを二日間開催しています。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161201/othlohack.jpg&#34; alt=&#34;OthloHack2016&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;勉強会は主に&lt;a href=&#34;https://othlotech.connpass.com/&#34;&gt;connpassページ&lt;/a&gt;で集客していますが、企業とコラボする場合は企業側のページやプラットフォームも使っています。&lt;/p&gt;
+
+&lt;h2 id=&#34;othlotechを立ち上げた経緯&#34;&gt;OthloTechを立ち上げた経緯&lt;/h2&gt;
+
+&lt;p&gt;各大学にコンピュータ系の部活・サークルは点在していますが、&lt;strong&gt;大学の垣根を超えた学生同士の繋がりが名古屋では少ない&lt;/strong&gt;んですよね。&lt;/p&gt;
+
+&lt;h3 id=&#34;東京と名古屋の格差&#34;&gt;東京と名古屋の格差？&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;東京だと企業が学生向けにIT系の勉強会をたくさん開催&lt;/strong&gt;していて、参加学生同士の繋がりでコミュニティがなんとなく出来上がってる。&lt;br /&gt;
+&lt;strong&gt;東京だとスタートアップ、ベンチャー企業がたくさんあって&lt;/strong&gt;学生アルバイト・インターン等でWeb界隈・IT界隈の人たちと繋がる機会が多い。&lt;/p&gt;
+
+&lt;p&gt;反対に名古屋だと、東京のそういった機会が皆無で、必死に探してたまに見つかる程度。&lt;br /&gt;
+東京のようなインターネット界隈に触れる機会を名古屋でも作りたい。学生同士がお互いに刺激を受けて高め合う環境を作りたい。みんなで名古屋のIT界隈を盛り上げようよ。そんな思いを持ってOthloTechが立ち上がりました。&lt;/p&gt;
+
+&lt;p&gt;（意識高い感じですが、わりと切実な思いです。笑）&lt;/p&gt;
+
+&lt;p&gt;また、同じタイミングで名古屋の学生が「&lt;a href=&#34;https://nagoyastartupnews.com&#34;&gt;Nagoya Startup News&lt;/a&gt;」という名古屋のスタートアップにフィーチャーしたメディアを始めました。このメディアをやっている若目田くんも似たような思いがあるのではないでしょうか。&lt;/p&gt;
+
+&lt;h3 id=&#34;他都市のテック系学生団体の存在&#34;&gt;他都市のテック系学生団体の存在&lt;/h3&gt;
+
+&lt;p&gt;東京以外にも京都、福岡、北海道にはテック系学生団体のコミュニティが存在します。&lt;br /&gt;
+他都市にあって名古屋になかったことがOthloTechを始めた理由でもあります。&lt;/p&gt;
+
+&lt;p&gt;個人的には、自分が就活をしていたときに、東京のIT企業が大阪・福岡で就活イベントやセミナーを開くのに何故か名古屋だけハブられることが良くあって悔しかったです。笑&lt;/p&gt;
+
+&lt;h3 id=&#34;なぜ学生限定なのか&#34;&gt;なぜ学生限定なのか&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161201/othloevent.jpg&#34; alt=&#34;OthloEvent&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;名古屋でも技術系の勉強会は盛んに開催されています。しかし、Ruby、Xamarin、機械学習など各々の分野に別れていて、余程もの好きな学生でないと気軽に参加できるような雰囲気ではないように感じています。&lt;/p&gt;
+
+&lt;p&gt;学生だけのコミュニティであれば「ちょっと興味があるから」とか「友達が行くから」といった軽い気持ちでも、きっかけが生まれやすいと思っています。&lt;/p&gt;
+
+&lt;h2 id=&#34;othlotechのこれから&#34;&gt;OthloTechのこれから&lt;/h2&gt;
+
+&lt;p&gt;先ほども書いたように、OthloTechを始めて&lt;strong&gt;半年ちょっとでイベントを10回開催、延べ250人以上の方が参加&lt;/strong&gt;しました。&lt;br /&gt;
+特にこれでお金儲けをしようとかは考えていません。まだまだ未熟な組織ですが、このコミュニティが維持して、誰かの何かのきっかけになれたら嬉しいです。&lt;/p&gt;
+
+&lt;p&gt;自分は来年の4月から東京で就職するので、来年度からは後輩が僕らの意思を引き継いでくれるのではないかな〜と、期待しています。&lt;/p&gt;
+
+&lt;p&gt;☆（ゝω・）vｷｬﾋﾟ&lt;/p&gt;
+
+&lt;h2 id=&#34;おわりに&#34;&gt;おわりに&lt;/h2&gt;
+
+&lt;p&gt;たらたらと長い文章になってしまいましたが、僕たちはこんな経緯でOthloTechをやっています。&lt;/p&gt;
+
+&lt;p&gt;OthloTechコミュニティの学生たちがQiitaのアドベントカレンダーにこれからいろんな記事を書いてくれるので、是非確認してみてください。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://qiita.com/advent-calendar/2016/othlotech&#34;&gt;OthloTech Advent Calendar 2016&lt;/a&gt;&lt;br /&gt;
+(Qiitaの趣旨的には技術的な話をしたほうがいいのかな〜とは思ったのですが、1日目なのでイントロダクション的な投稿にしましたw)&lt;/p&gt;
+
+&lt;p&gt;少しでもOthloTechの活動に興味を持ってもらえたら、Twitter&lt;a href=&#34;https://twitter.com/OthloTech&#34;&gt;@OthloTech&lt;/a&gt;や&lt;a href=&#34;https://www.facebook.com/Othlotech&#34;&gt;Facebookページ&lt;/a&gt;で今後の活動をチェックしてみてください！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OthloEvent@ヤフー株式会社 #7</title>
+      <link>http://www.othlo.tech/events/othloevent07-yahoo/</link>
+      <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent07-yahoo/</guid>
+      <description>
+
+&lt;h1 id=&#34;othloevent-ヤフー株式会社-7&#34;&gt;OthloEvent@ヤフー株式会社 #7&lt;/h1&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-26/banner.jpg&#34; alt=&#34;イベントバナー&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;はじめまして、&lt;a href=&#34;https://twitter.com/mtmtkzm&#34;&gt;ライダー&lt;/a&gt;です。&lt;/p&gt;
+
+&lt;p&gt;11月26日(土)にヤフー株式会社の名古屋オフィスにて、6代目JavaScript黒帯の穴井さんを招き、React.jsのハンズオンを開催しました！&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://yj-meetup.connpass.com/event/44769/&#34;&gt;イベントページ&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h2&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;12:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;受付開始&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;会場案内&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Introduction&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:20&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;React.jsハンズオン開始&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;17:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;React.jsハンズオン終了&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;17:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;クロージング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-26/intro-yahoo.jpg&#34; alt=&#34;Yahoo!Japan&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;Yahoo!Japanでは、秒間24,000アクセスをさばいているというお話にどよめく一同！（&lt;code&gt;24回/1ms&lt;/code&gt; のアクセス。僕にはいまいちピンときませんでした。笑）&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;Yahooの秒間2万4千はやばい。この前のサイバーのアドテクの秒間2千すらさばくの大変だったのに(´･ω･`)&lt;a href=&#34;https://twitter.com/hashtag/yjmu?src=hash&#34;&gt;#yjmu&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt;&lt;/p&gt;&amp;mdash; ヒデ (@hyde141421356) &lt;a href=&#34;https://twitter.com/hyde141421356/status/802364083970273280&#34;&gt;2016年11月26日&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;react-jsハンズオン本編の開始&#34;&gt;React.jsハンズオン本編の開始！&lt;/h3&gt;
+
+&lt;p&gt;講師は、JavaScript黒帯 穴井 宏幸さんです！
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-26/anai.jpg&#34; alt=&#34;JavaScript黒帯 穴井 宏幸さん&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&#34;ハンズオン資料&#34;&gt;ハンズオン資料&lt;/h4&gt;
+
+&lt;p&gt;このハンズオンにあたって、とーーっても濃い内容をGitHubにて公開してくださいましたので、なんらかの理由で参加できなかった方はこれでReact.jsに入門しましょう！&lt;/p&gt;
+
+&lt;p&gt;資料はこちら：&lt;a href=&#34;https://github.com/pirosikick/react-hands-on-201611&#34;&gt;https://github.com/pirosikick/react-hands-on-201611&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;資料もボリューミーで、とても丁寧でしたし、それに加え、メンターをしてくださった他のYahoo!の社員さんは4名と、充実したフルサポートな環境でReact.jsに挑むことができました！&lt;/p&gt;
+
+&lt;h4 id=&#34;react-jsとは&#34;&gt;React.jsとは？&lt;/h4&gt;
+
+&lt;p&gt;React.js は、UI(MV*フレームワークでいうView)に特化した、Facebook製のJavaScriptライブラリです。&lt;br /&gt;
+HTMLをレンダリングする際、実際にDOMを構成せず&lt;strong&gt;仮想DOM&lt;/strong&gt;を構成します。そのため、変更があった差分のみを再レンダリングすることができるようになり、表示パフォーマンスを向上させることができます。&lt;/p&gt;
+
+&lt;p&gt;また、React.jsではJSX呼ばれるXML風な記述をすることができ、非常に見通しがよくなります。&lt;/p&gt;
+
+&lt;p&gt;JSXでの実装部分を、資料から1行ずつ抜粋させていただくと、このような違いがあります！&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;// no JSX
+React.createElement(&#39;h1&#39;, {}, &amp;quot;Hello, World!!&amp;quot;),
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;// JSX
+&amp;lt;h1 className={className}&amp;gt;Hello, {name}!&amp;lt;/h1&amp;gt;,
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;圧倒的に見た目がHTMLっぽく、見通しが良くなり、理解しやすいですよね！構造が複雑になればなるほど、JSXの良さが出てくるとおもわれます。&lt;br /&gt;
+React.jsもJSXの使用を推奨していますのでこの書き方を使ってハンズオンは進みます。&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;hello, world!!やで&lt;a href=&#34;https://twitter.com/hashtag/yjmu?src=hash&#34;&gt;#yjmu&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/4JaD5bL3bg&#34;&gt;pic.twitter.com/4JaD5bL3bg&lt;/a&gt;&lt;/p&gt;&amp;mdash; よしかわ (@k16123kk) &lt;a href=&#34;https://twitter.com/k16123kk/status/802384912653262849&#34;&gt;2016年11月26日&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;もくもく作業&#34;&gt;もくもく作業！&lt;/h4&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-26/handson1.jpg&#34; alt=&#34;この感じ、ハンズオンっぽい！&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;資料に沿って進む講義に参加者全員でコードを書いて理解を深めていきます。&lt;br /&gt;
+ただコードを書き写してモノを完成させるのではなく、あくまでReactを理解するという意味で、書いたコードに対する穴井さんの丁寧な説明に大満足のようです！&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;Yahooの黒帯の方の説明めっちゃ丁寧だし優しい喋り方で好感持てる。やはり技術力だけではダメですね。 &lt;a href=&#34;https://twitter.com/hashtag/yjmu?src=hash&#34;&gt;#yjmu&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt;&lt;/p&gt;&amp;mdash; キンチキ (@garukujane) &lt;a href=&#34;https://twitter.com/garukujane/status/802375281398812672&#34;&gt;2016年11月26日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-26/handson2.jpg&#34; alt=&#34;この感じ、ハンズオンっぽい！&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;メンターの方のお力を、ここぞとばかりに頼り、周りの人からの応援も受け、支え合う姿が見られるハンズオンはとてもいいですね〜！終始温かい雰囲気でコーディングができました。&lt;/p&gt;
+
+&lt;h4 id=&#34;作ったもの&#34;&gt;作ったもの&lt;/h4&gt;
+
+&lt;p&gt;今回は、ToDoアプリを作りました！定番ですね！&lt;/p&gt;
+
+&lt;p&gt;ToDoアプリには、Webアプリケーションを作る上で必須であり基本となる、要素の&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create(生成)&lt;/li&gt;
+&lt;li&gt;Read(読み出し)&lt;/li&gt;
+&lt;li&gt;Update(更新)&lt;/li&gt;
+&lt;li&gt;Delete(削除)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;が揃っており、かつ、誰でも知っているということから、新しいライブラリや言語を始めるときには入門として作ることが、この界隈では慣習となっているのだと思われます！&lt;/p&gt;
+
+&lt;p&gt;また、講師の穴井さんは、様々なライブラリ・フレームワークで作られたToDoアプリだけをまとめたサイトも紹介してくださいました。&lt;br /&gt;
+&lt;a href=&#34;http://todomvc.com/&#34;&gt;http://todomvc.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;懇親会&#34;&gt;懇親会&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-26/foods.jpg&#34; alt=&#34;懇親会豪華！&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;本編後は、とーーっても豪華なご飯とともに懇親会です！&lt;/p&gt;
+
+&lt;p&gt;静岡や岐阜..と、いつもより遠方から来てくださっている方が多くいて新鮮さがありましたね！&lt;/p&gt;
+
+&lt;p&gt;懇親会で繋がった人たちがまた何か新しいものをうみ出すことを期待しています。&lt;br /&gt;
+そういう意味で、OthloEventではイベント後必ず懇親会の時間をとっています。&lt;/p&gt;
+
+&lt;p&gt;（集合写真撮り忘れた&amp;hellip;.）&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-26/member.jpg&#34; alt=&#34;集合（している）写真&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;クロージング-と見せかけて&#34;&gt;クロージング&amp;hellip;と見せかけて？&lt;/h3&gt;
+
+&lt;p&gt;最後の最後に、残っていたメンバーだけで、オフィスをぐるっと一周、見学させていただくことができました！&lt;/p&gt;
+
+&lt;p&gt;それでは、最後になりましたが、&lt;br /&gt;
+参加してくださったみなさん、ヤフー株式会社のみなさん、ありがとうございました！！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ブロックチェーンってなに？</title>
+      <link>http://www.othlo.tech/blogs/blockchain/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/blogs/blockchain/</guid>
+      <description>
+
+&lt;h1 id=&#34;ブロックチェーンってなに&#34;&gt;ブロックチェーンってなに?&lt;/h1&gt;
+
+&lt;p&gt;こんにちは！&lt;/p&gt;
+
+&lt;p&gt;OthloTechのブログ初投稿になります。私、たつま&lt;a href=&#34;https://twitter.com/tatsutatsu103&#34;&gt;@tatsutasu103&lt;/a&gt;です。&lt;/p&gt;
+
+&lt;p&gt;今回のblogは以下に当てはまる人が対象です！&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;金儲けしたい人&lt;/li&gt;
+&lt;li&gt;小銭儲けしたい人&lt;/li&gt;
+&lt;li&gt;財布を潤したい人&lt;/li&gt;
+&lt;li&gt;お金は欲しいけど、肉体労働したくない人&lt;/li&gt;
+&lt;li&gt;不労所得で生きていきたい人&lt;/li&gt;
+&lt;li&gt;とりあえず、お金が欲しい人&amp;hellip;&lt;/li&gt;
+&lt;li&gt;etc,,,&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;こんな人たちに&lt;strong&gt;Bitcoin&lt;/strong&gt;を教えちゃいます。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161124/bitcoin.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;bitcoin&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;でもBitcoinを始めるにはそれを支える技術である、&lt;strong&gt;ブロックチェーン&lt;/strong&gt; について理解しなければなりません。&lt;/p&gt;
+
+&lt;p&gt;そこで今回は、&lt;strong&gt;ブロックチェーン&lt;/strong&gt; をご紹介します。&lt;/p&gt;
+
+&lt;p&gt;(もちろん、Bitcoinも出てきますよ！(￣ー￣)v)&lt;/p&gt;
+
+&lt;h2 id=&#34;ブロックチェーンとは&#34;&gt;ブロックチェーンとは??&lt;/h2&gt;
+
+&lt;p&gt;一言で行ってしまうと&lt;/p&gt;
+
+&lt;h4 id=&#34;bitcoinの取引履歴-です&#34;&gt;&lt;strong&gt;&lt;em&gt;Bitcoinの取引履歴&lt;/em&gt;&lt;/strong&gt; です。&lt;/h4&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161124/blockchain.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;blockchain&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;ここから詳しく説明していきますね！&lt;/p&gt;
+
+&lt;p&gt;わかりやすくいうと&amp;hellip;&lt;/p&gt;
+
+&lt;h4 id=&#34;ブロックチェーンは-すでにマイニング-採掘-されて世に存在するビットコインのやりとりのすべてを記録した-ビットコインの取引記録-です&#34;&gt;&lt;strong&gt;&lt;em&gt;ブロックチェーンは、すでにマイニング(採掘)されて世に存在するビットコインのやりとりのすべてを記録した「ビットコインの取引記録」です&lt;/em&gt;&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;by&lt;a href=&#34;http://gigazine.net/news/20140307-what-is-bitcoin-2nd/&#34;&gt;仮想通貨「Bitcoin」を完璧に理解するために知っておきたいことまとめ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;つまり&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Bitcoinのブロックチェーンとは、Bitcoinの通貨がどこからどこに送ったということが&lt;strong&gt;記録されている履歴&lt;/strong&gt; ということ！。&lt;/br&gt;
+そして、そのデータは一つの場所に保存されているのではなく、&lt;strong&gt;取引記録は、Bitcoinのネットワークに参加しているコンピュータに分散されて保存&lt;/strong&gt; されています！&lt;/p&gt;
+
+&lt;p&gt;ブロックチェーンは、取引記録(トランザクション)を一つのブロックにまとめて、そのブロックをチェーン(鎖)のようにつなげて保存したものになります。
+&lt;strong&gt;&lt;em&gt;チェーン状に繋げることで、データの変更、改ざんが実質不可能になります。&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;鎖のように繋がれているの意味&#34;&gt;鎖のように繋がれているの意味&lt;/h4&gt;
+
+&lt;p&gt;チェーン状にデータが入っているブロックって??いきなりなんだよーって話なんですが、&lt;/br&gt;
+取引データを単に保存しているデータベースは鎖のようにデータが結びついていないので、上記のような形態ではありません。&lt;/p&gt;
+
+&lt;p&gt;鎖のようにというのは、*&lt;strong&gt;１つ前のブロックのハッシュ値が次のブロックの中に含まれている&lt;/strong&gt; からそう呼ばれています。&lt;/p&gt;
+
+&lt;h2 id=&#34;ブロックチェーン情報を確認する&#34;&gt;ブロックチェーン情報を確認する&lt;/h2&gt;
+
+&lt;p&gt;ブロックチェーンの情報は全世界の人に公開されています。&lt;/p&gt;
+
+&lt;p&gt;以下が、Bitcoinのブロックチェーンを確認するための有名なサイトになります。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blockchain.info/&#34;&gt;Bitcoin Block Explorer - blockchain.info&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;終わりに&#34;&gt;終わりに&lt;/h2&gt;
+
+&lt;p&gt;今回はブロックチェーンについて紹介しました。ブロックチェーン技術はBitcoinに使われている技術だけではなく、
+世界的なOSSプロジェクトである、「&lt;a href=&#34;https://www.hyperledger.org/&#34;&gt;Hyper Ledger project&lt;/a&gt;」や「&lt;a href=&#34;http://www.enigma.co/&#34;&gt;Enigma&lt;/a&gt;」にも応用され、使われております。&lt;/p&gt;
+
+&lt;p&gt;これからあらゆる分野で活躍が期待されている技術であるので、ぜひ学んでみる価値があります。&lt;/p&gt;
+
+&lt;h2 id=&#34;bitcoinをより知りたい&#34;&gt;Bitcoinをより知りたい。&lt;/h2&gt;
+
+&lt;p&gt;参考になるサイトを紹介します。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/cookle/5-58379474&#34;&gt;5分でわかるブロックチェーンの基本的な仕組み&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gigazine.net/news/20140307-what-is-bitcoin-2nd/&#34;&gt;仮想通貨「Bitcoin」を完璧に理解するために知っておきたいことまとめ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wazanova.jp/items/1314&#34;&gt;ブロックチェーンをもう一段階深く理解する&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/hshimo/items/bd849363a871966a923f&#34;&gt;ビットコインのブロックチェーンの技術的な説明 まとめ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blocktech.hateblo.jp/&#34;&gt;ブロックチェーン技術ブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/hshimo/items/1881fba8957c2a6e17ca&#34;&gt;ブロックチェーンについて&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/hshimo/items/8104dc2c4ad35720013e&#34;&gt;ビットコイン2.0 とは? Bitcoin 2.0 資料まとめ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>機械学習コンペティションKaggleのススメ</title>
+      <link>http://www.othlo.tech/blogs/recommend-of-kaggle/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/blogs/recommend-of-kaggle/</guid>
+      <description>
+
+&lt;h1 id=&#34;機械学習コンペティションkaggle&#34;&gt;機械学習コンペティションKaggle&lt;/h1&gt;
+
+&lt;p&gt;こんにちは、TeraBytesです。&lt;/p&gt;
+
+&lt;p&gt;読者のみなさんは機械学習には興味あったりしますでしょうか？&lt;/p&gt;
+
+&lt;p&gt;実際に試したいけどデータがないだとか、機械学習について深く勉強したいなんて方は、&lt;/p&gt;
+
+&lt;p&gt;機械学習のコンペティションであるKaggleをオススメします。&lt;/p&gt;
+
+&lt;p&gt;この記事は、&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;機械学習・データ分析に興味があるor極めたい！&lt;/li&gt;
+&lt;li&gt;英語がわかる（特にKaggleを極めたい人は）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;と英語のハードルがありますが、機械学習の初心者から上級者までためになる記事になるかと思います。&lt;/p&gt;
+
+&lt;h2 id=&#34;そもそもkaggleって何&#34;&gt;そもそもKaggleって何？&lt;/h2&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161117/kaggle.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;kaggle&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;オンラインで機械学習の精度を競い合うサービスです。世界中のデータサイエンティストが集まって競っています。&lt;/p&gt;
+
+&lt;p&gt;中には企業が問題を出して、賞金がかかったコンペも存在しております。&lt;/p&gt;
+
+&lt;p&gt;Kaggleのコンペティションでは、指定された機械学習のスコアの良さを競い合います。&lt;/p&gt;
+
+&lt;p&gt;Kaggleは&lt;a href=&#34;https://www.kaggle.com/&#34;&gt;こちら&lt;/a&gt;のサイトとなります。&lt;/p&gt;
+
+&lt;p&gt;英語が必要な理由の一つがkaggleというサイト自体が英語サイトである点ですね。&lt;/p&gt;
+
+&lt;p&gt;ちなみにガチ勢になりたいって人は他の英語のサイトも漁って行くことになるので、英語が必要になります。&lt;/p&gt;
+
+&lt;p&gt;また、Kaggleユーザがデータセットを公開し合ってそのデータを分析するということもできますが本記事では割愛で。&lt;/p&gt;
+
+&lt;h2 id=&#34;どうやって始めんの&#34;&gt;どうやって始めんの？&lt;/h2&gt;
+
+&lt;p&gt;とりあえず会員登録しましょう。&lt;a href=&#34;https://www.kaggle.com/&#34;&gt;ホームページ&lt;/a&gt;に入ってとりあえず &amp;ldquo;Create an account&amp;rdquo; を押す。そっから会員登録を済ませましょう。&lt;/p&gt;
+
+&lt;p&gt;会員登録を済ませたら、 &amp;ldquo;Competition&amp;rdquo; に移り、さらに一覧に出てくる &amp;ldquo;Titanic: Machine Learning from Disaster&amp;rdquo; へと移ります。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/c/titanic&#34;&gt;こちら&lt;/a&gt;に移るはずです。ここがコンペのチュートリアルになりますのでここから挑戦しましょう！&lt;/p&gt;
+
+&lt;p&gt;プログラミング言語はRかPythonを使ってできますが、Excelを使って参加することなんてできます。&lt;/p&gt;
+
+&lt;p&gt;また、機械学習やデータ分析に慣れていない人も、それらを簡単に扱えるようになるライブラリを覚えるいいきっかけとなります。&lt;/p&gt;
+
+&lt;h2 id=&#34;どうやったら良いスコア出せるの&#34;&gt;どうやったら良いスコア出せるの？&lt;/h2&gt;
+
+&lt;p&gt;高い精度を出すには、モデルを選んだり、モデルのパラメータを調整するだけではなく、データ自体をいじっていかないと高い順位は出せません。&lt;/p&gt;
+
+&lt;p&gt;というかデータいじりの方が重要になっていきます。（ディープラーニング使うとかだと別かもしれませんが・・・）&lt;/p&gt;
+
+&lt;p&gt;初めてだとなかなかとっつきにくいかと思いますが&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Kernelsを読む&lt;/li&gt;
+&lt;li&gt;外部のサイトで勉強する&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;といったことをすればより精度の高いモデルが作れるのではないかと思います。&lt;/p&gt;
+
+&lt;p&gt;1についてですが、コンペのページに &amp;ldquo;Kernels&amp;rdquo; という項目があります。そこには、こうしたらスコア上がったよーとかこういう分析結果が出たよー&lt;/p&gt;
+
+&lt;p&gt;といった記事が投稿されています。Kernelsはコンペごとに投稿される記事なのでこれを利用するっきゃないですね。&lt;/p&gt;
+
+&lt;p&gt;2については機械学習わからない、ガチ勢ってどんなことしているんだって人ほどお世話になるんじゃないかと思います。&lt;/p&gt;
+
+&lt;p&gt;前述の通り英語のサイトも漁っていかないといけないかもしれませんが、基本的なことはQiitaや日本語のブログから学ぶこともできます。&lt;/p&gt;
+
+&lt;p&gt;入門者向けの記事だと&lt;a href=&#34;http://matome.naver.jp/odai/2147187291050657501&#34;&gt;このようなまとめ&lt;/a&gt;があったり、&lt;a href=&#34;http://qiita.com/taka4sato/items/802c494fdebeaa7f43b7&#34;&gt;このような記事&lt;/a&gt;なんかが詳しいですね。&lt;/p&gt;
+
+&lt;p&gt;また、やり込んでいくうちにいろんな用語や手法に当たったりするので、やり込めばそれだけ力が身につきます。&lt;/p&gt;
+
+&lt;h2 id=&#34;終わりに&#34;&gt;終わりに&lt;/h2&gt;
+
+&lt;p&gt;本記事ではKaggleの紹介だけで、しかもKaggleのコンペやり込めば機械学習できるようになるよ！とかいう投げやりな感じなので、これだけじゃわかんねーんだけどって方は申し訳ないです。&lt;/p&gt;
+
+&lt;p&gt;Kaggleは有名なサイトなので、前述の通り調べていけばKaggleについてもわかっていくと思います。&lt;/p&gt;
+
+&lt;p&gt;というか&lt;a href=&#34;http://qiita.com/taka4sato/items/802c494fdebeaa7f43b7&#34;&gt;この記事&lt;/a&gt;の方が本記事よりも詳しいので、興味のある方はこちらを読んでスタートしましょう。&lt;/p&gt;
+
+&lt;p&gt;興味のある方はKaggleを始めて、機械学習やり込みましょう！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OthloEvent@メ～テレ #6</title>
+      <link>http://www.othlo.tech/events/othloevent06-nagoya-tv/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent06-nagoya-tv/</guid>
+      <description>
+
+&lt;h1 id=&#34;othloevent-メ-テレ-6&#34;&gt;OthloEvent@メ〜テレ #6&lt;/h1&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/banner.jpg&#34; alt=&#34;イベントバナー&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;こんにちは！&lt;br /&gt;
+11月15日(火)に名古屋テレビ本社で&lt;a href=&#34;http://othlotech.connpass.com/event/43598/&#34;&gt;OthloEvent@メ〜テレ #6&lt;/a&gt;を開催しました。&lt;/p&gt;
+
+&lt;p&gt;それではイベントの様子をレポートします！&lt;/p&gt;
+
+&lt;h2 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h2&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;受付開始&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;オープニング&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:05&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;メ～テレの概要説明&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;制作～放送の流れ（技術の視点で）&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:25&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;マスター設備見学&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;4K編集室見学&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;20:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;メ～テレの新たな取り組み&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;20:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;21:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;クロージング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;オープニング&#34;&gt;オープニング&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/hide.jpg&#34; alt=&#34;OthloTech代表からご挨拶&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;最初にOthloTech代表からの挨拶。&lt;/p&gt;
+
+&lt;h3 id=&#34;講演1-制作-放送の流れ&#34;&gt;講演1: 制作〜放送の流れ&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/participants.jpg&#34; alt=&#34;参加者&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;テレビ番組が企画→収録→放送されるまでの流れを講演してくださいました。&lt;/p&gt;
+
+&lt;p&gt;放送進行表では本編とCMが秒単位で全てプログラムされていて、これをマスターのコントローラで制御して&amp;hellip;&lt;br /&gt;
+局の心臓部であるマスターは&lt;code&gt;現用&lt;/code&gt; &lt;code&gt;予備&lt;/code&gt; &lt;code&gt;待機&lt;/code&gt; 3つ同じ設備を用意して、障害時に自動で切り替える仕組みがあり&amp;hellip;&lt;br /&gt;
+などなど、どれも技術的な視点でとても興味深かったです。&lt;/p&gt;
+
+&lt;p&gt;ここでの講演の内容が次のマスター設備見学に繋がります。&lt;/p&gt;
+
+&lt;h3 id=&#34;マスター設備-4k編集室見学&#34;&gt;マスター設備・4K編集室見学&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/master-room.jpg&#34; alt=&#34;マスター室イメージ&#34; /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        
+        &lt;a href=&#34;http://www.tbcconsoles.com/gallery.aspx?galleryid=1&#34;&gt; 
+            出典: TBC Consoles
+        &lt;/a&gt; 
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;次にマスター設備を見学しました！（写真は撮れなかったためイメージですw）&lt;/p&gt;
+
+&lt;p&gt;上の画像のようにたくさんのディスプレイが並べられた部屋で、先ほどの講義で説明のあった放送進行表から実際に放送されるまでの映像の流れを解説していただきました！&lt;/p&gt;
+
+&lt;p&gt;4K編集室では、最新技術を駆使した4K&amp;amp;HDRを体験。&lt;/p&gt;
+
+&lt;p&gt;通常の2Kを観たあとに4Kを観るのと、4Kを観たあとに2Kを観るのとでは、前者の方が視聴体験が良いという説明を受けました。&lt;br /&gt;
+4Kなんて目を凝らさないと違い分からないじゃん？と思っていましたが、なるほど確かに&amp;hellip;&lt;/p&gt;
+
+&lt;h3 id=&#34;講演2-メ-テレの新たな取り組み&#34;&gt;講演2: メ～テレの新たな取り組み&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/lecture.jpg&#34; alt=&#34;メ～テレの新たな取組&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;最後の講演では、今後のテレビ業界の動向も踏まえてメ～テレの技術的な取り組みについて講演してくださいました。&lt;/p&gt;
+
+&lt;p&gt;メ～テレでは「メ～テレ秋まつり2016」でハイブリッドキャストを使用した4K放送を実施したそうです。（このときハイブリッドキャストのネットワーク側は&lt;code&gt;Amazon EC2&lt;/code&gt;を使っていたみたいです）&lt;/p&gt;
+
+&lt;h3 id=&#34;懇親会&#34;&gt;懇親会&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/after-party.jpg&#34; alt=&#34;懇親会&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;勉強会後は、メ～テレさんに懇親会をご用意していただきました！&lt;br /&gt;
+勉強会の本編もさることながら、懇親会で他大学の学生と横の繋がりを増やすのもとても重要です！&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/4k-camera.jpg&#34; alt=&#34;4Kカメラ&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;懇親会中には、本物の4Kカメラを担いで試すことができました。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/11-15/group-photo.jpg&#34; alt=&#34;集合写真&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;最後に集合写真！&lt;br /&gt;
+今回は20名以上の方にご参加頂きました。&lt;/p&gt;
+
+&lt;p&gt;とても充実した内容で、参加者のみなさんもとても満足そうで良かったです。&lt;br /&gt;
+勉強会にご協力頂いたメ～テレさん、ありがとうございました！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OthloEvent@Goodfind #5</title>
+      <link>http://www.othlo.tech/events/othloevent05-goodfind/</link>
+      <pubDate>Sat, 29 Oct 2016 00:20:33 +0900</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent05-goodfind/</guid>
+      <description>
+
+&lt;h2 id=&#34;othloevent-goodfind-5&#34;&gt;OthloEvent @ Goodfind #5&lt;/h2&gt;
+
+&lt;p&gt;こんにちは〜！ごまき(&lt;a href=&#34;https://twitter.com/gmsesame&#34;&gt;@gmsesame&lt;/a&gt;)です。&lt;/p&gt;
+
+&lt;p&gt;最近、いきなり寒くなりましたね(ﾉ_･｡) 冬の訪れを感じます。&lt;br/&gt;
+みなさん、風邪をひかないように気をつけてくださいね…!!&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;さて、10月29日(土)に５回目となるOthloEvent&lt;a href=&#34;http://othlotech.connpass.com/event/42511/&#34;&gt;【Rails初心者向け】OthloEvent@Goodfind #5&lt;/a&gt;を&lt;a href=&#34;https://www.facebook.com/Open-Village-297407053963807/&#34;&gt;OpenVillage&lt;/a&gt;にて開催しました(&amp;lsquo;-&amp;rsquo;*)&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;今回は、Goodfindさんとのコラボイベント！&lt;br/&gt;
+東京・京都と開催されたProgramming Bootcamp「Ruby on Railsを極める1Day Camp」がついに名古屋にやってきましたヽ(‘ ∇‘ )ノ&lt;br/&gt;
+この記事では、その様子をレポートします！&lt;br/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h3&gt;
+
+&lt;p&gt;今回のイベントの時間割は以下の通り！&lt;/p&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;詳細&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;11:00 - 12:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;イントロダクション&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;環境構築と使用するツールの説明&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:00 - 15:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ruby on Railsの基本と実装&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;レコードの取得／登録／更新／削除&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;15:10 - 17:45&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ruby on Railsの実装&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;アソシエーションによる複数テーブルの処理&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:00 - 19:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ruby on Rails 応用編&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Gemを使った実装&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:00 -&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;bootcampの様子&#34;&gt;BootCampの様子！&lt;/h3&gt;
+
+&lt;p&gt;今回のイベントはエンジニアしてはちょっと朝早め(?)の１１時からでした。&lt;br/&gt;
+1日でRailsを詰め込むためには早起きも苦ではない…はず！&lt;br/&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;bootcampスタート&#34;&gt;BootCampスタート！&lt;/h4&gt;
+
+&lt;p&gt;最初はGoodfindさんのエンジニアによるイントロダクション。&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;まずはアイスブレイクとして、周りの席の人と自己紹介をしてもらいました。&lt;br/&gt;
+OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡･ω･)&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;その後、Webアプリケーションの仕組みやフレームワークのイメージなどについて講義していただきました。&lt;br/&gt;
+東京・京都で何度も開催していることもあり、スライドも分かりやすい〜！と好評でした(&amp;lsquo;-&amp;rsquo;*)&lt;br/&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/bootcamp01.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;講義なう&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&#34;ここでブレイク&#34;&gt;ここでブレイク&lt;/h4&gt;
+
+&lt;p&gt;講義を受けた後は、お昼休憩〜。&lt;br/&gt;
+会場となったOpenVillageは大須商店街の近くにあるため、人気の飲食店がたくさんあるんです！&lt;br/&gt;
+今日がはじめましての人も、みんな仲良くランチにGO！&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;お昼休憩はハンバーガーパーリー🍔🎉 &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/uyAcftKmbs&#34;&gt;pic.twitter.com/uyAcftKmbs&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/792214371132841985&#34;&gt;October 29, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Othloメンバーはハンバーガー食べてました笑&lt;br/&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;本格スタート&#34;&gt;本格スタート！&lt;/h4&gt;
+
+&lt;p&gt;周りの人と仲良くなって、お腹いっぱいになったところで講義再開！&lt;br/&gt;
+午後からは実際に手を動かし、Ruby on Railsによるブログシステムの実装に挑戦。&lt;br/&gt;
+(ちなみに講義資料は非公開なので、興味のある方は次回開催にご期待ください…！）&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;みんな集中してもくもくと、でもわからないところはちゃんとメンターさんや近くの友達に聞いて取り組んでいました。&lt;br/&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/bootcamp02.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;時には友達とわいわい&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;懇親会&#34;&gt;懇親会！&lt;/h3&gt;
+
+&lt;p&gt;頭を使った後はお待ちかねの懇親会！ヘ(^∇^ヘ)ヘ(^∇^ヘ) ｳﾋｮﾋｮ&lt;br/&gt;
+みんな和気藹々とおしゃべりしていました〜。
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/10-29/afterparty.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;お疲れ〜！&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;お疲れ様でした&#34;&gt;お疲れ様でした！&lt;/h3&gt;
+
+&lt;p&gt;次回のOthloEventは、なんと！メ〜テレさんとのコラボイベントですw(ﾟoﾟ)w ｵｵｰ!&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;11月15日(火)、19:00より開催します。放課後、メ〜テレにGO！&lt;/p&gt;
+
+&lt;p&gt;詳細は&lt;a href=&#34;http://othlotech.connpass.com/event/43598/&#34;&gt;Connpass&lt;/a&gt;を見てくださいね！&lt;/p&gt;
+
+&lt;p&gt;それでは〜(*￣▽￣)ﾉ&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OthloHack 2016</title>
+      <link>http://www.othlo.tech/events/othlohack2016/</link>
+      <pubDate>Mon, 24 Oct 2016 23:13:51 +0900</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othlohack2016/</guid>
+      <description>
+
+&lt;h2 id=&#34;othlohack-2016-を開催しました&#34;&gt;OthloHack 2016 を開催しました！&lt;/h2&gt;
+
+&lt;p&gt;こんにちは、オトモレ(&lt;a href=&#34;https://twitter.com/otomore01&#34;&gt;@otomore01&lt;/a&gt;)です。
+2016/8/6-7に東海最大規模の学生限定ハッカソンイベントである&lt;a href=&#34;http://hack.othlo.tech/&#34;&gt;OthloHack 2016&lt;/a&gt;を開催しました！
+僕はカメラ&amp;amp;SNS担当だったので、その模様を写真たっぷりでお伝えします！&lt;/p&gt;
+
+&lt;h3 id=&#34;タイムライン&#34;&gt;タイムライン&lt;/h3&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;th&gt;備考&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;1日目&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;td&gt;会場受付&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10:20&lt;/td&gt;
+&lt;td&gt;オープニング・協賛企業紹介&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10:40&lt;/td&gt;
+&lt;td&gt;アイデアソン・チームビルディング&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;12:10&lt;/td&gt;
+&lt;td&gt;お昼休憩&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;13:40&lt;/td&gt;
+&lt;td&gt;ゴール宣言&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14:00&lt;/td&gt;
+&lt;td&gt;開発開始&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;20:30&lt;/td&gt;
+&lt;td&gt;１日目終了&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;　&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;2日目&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;9:30&lt;/td&gt;
+&lt;td&gt;集合・作業開始&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;td&gt;中間発表&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;お昼休憩&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;18:00&lt;/td&gt;
+&lt;td&gt;最終発表&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;19:00&lt;/td&gt;
+&lt;td&gt;懇親会&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;19:30&lt;/td&gt;
+&lt;td&gt;結果発表・表彰&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;20:30&lt;/td&gt;
+&lt;td&gt;クローズ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;協賛企業様&#34;&gt;協賛企業様&lt;/h3&gt;
+
+&lt;p&gt;今回OthloHack 2016にご協力いただいた協賛企業様をご紹介します。(順不同/敬称略)&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/8-6/company_logo.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;協賛企業様&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;(株) エイチーム&lt;/li&gt;
+&lt;li&gt;フューチャーアーキテクト (株)&lt;/li&gt;
+&lt;li&gt;(株) サポーターズ&lt;/li&gt;
+&lt;li&gt;(株) Misoca&lt;/li&gt;
+&lt;li&gt;レバレジーズ (株)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;アイデアソン-チームビルディング&#34;&gt;アイデアソン・チームビルディング&lt;/h3&gt;
+
+&lt;p&gt;アイデアソンからチームビルディングまでは、Misocaの松本様にメンターをしていただきました。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/jz0G5H6jl7dBfLIUhdpg-qqfJKqcSL7YXF56WcW8tVx_oojS58y13o8bak3d3G8SYzawWLjDWiXrXARMFUAhiA7aKjbFQpn5c-xAdW4oIMHKLTf2AyT2SM9MkbOsnVTYQzSjDdptJrlaCD2SLJbCnvUZjXaaEpKGckOMmpB8AptpB7Ba1dBwHIzGzBY6ZCfzXxbSQsTho7fl95VOp_5E8Un2FRqvi7gi_EEonMIgGOCHIkMpGWUuOqi_tg0YWI14etf5mSuCu1FpPBId5a2d6ZyaKp0mgCHbKDQTgZGP3pbGPrONhIfvokszw0xL2BkWQkaRO_XecrzruVv0-3aK8DGWYWMBNSOfF1-bEnm89BZ9PXw3xAKDhMZYAQTpgnWOkfa_Hiisd93ACwuiLnltO4-VgoExYQR9aT64KNureuFeN4J4dP4_fY0S8z1P3VbSsfFxCYJTV7dS3-tBH5E3h9FZYxN1eZ9RARZ44k1gF7srizDCfD8S3Es6Fp-kGqdp5V5aW7fQPwTMtQbUpzjRNqFvDcPR0-B7zCuhYjkfQn9WF2_NAJgLYtcfyVIhFbH2cHnE9nzytMLzteEV1W2ladKkeKmKvzxuPDpzsU9suZCMeaQp&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;チームビルディング風景&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/FD5HKxK7Yy18GBKblKSGG_3HO1xwWXcQqLbB5UubxHXmTwX_935ozUVuOVSUdjaMdSJ-A7GeARAnOKXwwY2n77Z5ToykbqDYbzrs2G4AYvCSBILpYirowPYsmMovu2zC2m7lpozJJ8zELftd4xfAVK1TiN4prNqVyH1jF-_Kwdxp-U3I6ManNU8_8r8EuKrPi8GK-ojl58bUAeDut1ogVZZp4XxDK4u0QLUrAEa31dmLt0cKmTbg1lQe2K36FNG4Q--mL3eefjck0JR-BAmKHvmHJVc6Wa3NvlIwA_BL_nuKuL4WDMCoAVQbo2QpuODT9jroxeyetPOAHCDI7CvHy_UjWqEKjD6ZRNzzFwYSftpqKtCmrzb7HXweH9zUEAwwCKIlLaj-Y7UO9meDbKXBs6SHAISURxicMQUlgutnTUtH8j67NWMmzlPJsciKZjseYGXmQfP14ZcZeR6GEu-j49ZFoYTwN7hsiStbPkZPu8TB8b2Ez1-d9l-mz2nQVTxPP08fB3uf0l6ri9jVQ_RRoVWfGLFqxdFOLV5zHF61e1rBNXu8C07ko4zDYQ4VP5Z-NQxRUogrBBiF9f_TCTeSqkiJ751seP0EH9j01hM7UIKdiqZa&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;チーム開発のアドバイス&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;アイデアソンです！&lt;br&gt;モデレーターはmisocaの松本さん&lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/FlsvMJx94V&#34;&gt;pic.twitter.com/FlsvMJx94V&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/761744963927367680&#34;&gt;2016年8月6日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;チーム紹介-昼食風景&#34;&gt;チーム紹介 ＆ 昼食風景&lt;/h3&gt;
+
+&lt;p&gt;チームビルディングを経て結成された6チームを紹介します！&lt;/p&gt;
+
+&lt;h4 id=&#34;十万獲太郎&#34;&gt;十万獲太郎&lt;/h4&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/RHAuKyk1D0BZw_asTR6jueimW1VtJVuB1_hc2h1Ow8wLfUuyO-qg9A5cswuXWO3kzw--18Gh4mvoHvjJHsOJhWwPCHL_UBdKuTjp379htDCjEQ-nkQBuFpqB1GhbIcmJQsMURZOJRlcsFiX1BRyQyuUJYjPIICY74jFNWcrH_IN7apsRFakJWTLrrOLuliQQvNTS1NpivZwK4Ik7tZgSreT15JOb2wKSXb3zyQJseei3xNPdknr-KF1H_xaUUYZVvTxm0BSYk5yp-D1bH0f8sTYfxuHSpsKm8eHu2JZAU2kX5pgyf-7Q2MTmfxlBKkJ35qLBzJoMNhLX1njEWv1m4lW3AV26Tp2nnWIMBMjEGPgON-A3B2_CmTy7aBxaxtDz0iKV9q7vYKoBEUuOktc-y5xytoGtmzQzeSn0uaX6PrQ6FFjQ050k2B8zb8xeG4-b1gasQliCkYLNJBIoytCa7qO5u6eJzuwFWcCoMpTMXc0H2hDTSWAPQBIFuk_FBxHnEWnBPYCb2t0Tp6tJAgLVGaIVuwT9szLgRj5L0CBYVSsvsq3cXQ7IaUTVilJsyNK4bruhe3ML6KFc-Gcb2_oWq53LgfOYQZJq29-nFEk4bQeDi_Az&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;十万獲太郎&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;ぼっちめし&#34;&gt;ぼっちめし。&lt;/h4&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/3qOMXoHqNGuoolVjOALy7Lyl62576U6CK-UD48pLgQr0yMgYHC6vBf8SgMJDYa0NIdCE_YP2Sx-2mN8vNndLcBm4NHJFsY0G8sgUs4vpsIbUDvkoQlbmusKj0uyGHfI3dw23rv0L5orWnEJFfppJeoZZ1yDWE5Z3GwBG5-Zu4ZFThbiw3cQBovKdRVfpqnwszHAuXw3AjXj_DlLLrPpmixQ_txdR4DCtnBRBKghbotUGyRRYFEPcOu1pUoQwIwCN8_Mno_hhevByE5JyJaC4tEObDkp7wq73s7b4ZmKJ28Sb42u5SbqZ-7GUvvNpkX57X0tsReHxIIVVaGz5yzWd_1mvjPUEyVpaGGh6vxsz-etSc1iFaLc1NGe-uMXtEu4vqvneiARphxggUyHfeGouEBrNCWtGFDCra44wTv3QOWUCZpajyk6QBvjuY3-k4iGvCaeT3i8R_w0WMUzSrWqXUBGfXgtNfDp3s7bm-xdjxq9UZfZ6MbH3aSOIpcOjmN9fzdGcRzOeNipT9t5MnQ_v8HzXTzfFBb5qLabzFX7pv4pzTvAFLVrGG12VvRZSS_1LIzy87ExRsXMpv7X0bn73yi0rtzQzzmqc3GUSiMHDeOYLQbgB&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;ぼっちめし。&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;えーちーむ&#34;&gt;えーちーむ&lt;/h4&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/8nv4cR2Nkjax-17zMMNixczu62mms9j1q0CoYsH2pUSPbfi3GETtlb07gLSe0wTlkHUsLBXeYG3ihDXo0nrjPGYPQD9g6lHh34Cdzw88lo7sTO6cz1QtzqREvcGfcRaLmYoTAykTHgffMz7sGQ_uhl7YzqKAS2GMHHOpux6b1Xu3sI9tDfwnaPdapmL8tAUkvJ5EgCBpyvpAzilP32-kUX0li4RNysbrzJuTafV15N_G2MQAXFGgo2Q7vS2VPGCDO5hIguR0zneA2AwhyyFAYe1pzpFgbPP8EHGfoaT-5_DKh0cFeCrAJ3rfb_kYCM6DXsCPkQl99xOZu0-Pvpy7V3nUOhAkAQeLECOWhKF9QygVQDM-lYQCwJpIS8HXISTod_qOgHK5LoTItKmtvdcOWyMLBNhCgu455CN2HWcZ09IfFV2LB4Px7CBJp-_Kk9Rr3wci-lL4IyBxFBX9OI-VgnCPsLPyBeRj-684Mx7K2GjOdSq8DjufoJDuNrKcBINvlUFa8Hhtpg25HVd7rReoAUXouO3mduMZwCyfbGFWABY79NXi3tJkQKYp2DV4BZFauwuV0jUUp95ONThj1AQjrxTyratTncIQy4rcvS9RcepN5GYd&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;えーちーむ&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;その日ぐらし&#34;&gt;その日ぐらし&lt;/h4&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/BYB9znMQCcS_SpMeWSk6ICmF36NYSuRQzRQgIAOsBTypc857H4EZbIicCa27tphx19nQ3LGUVj0UGnWRBc6Sx-q2hJGQyZQv_c-yRKBkpffupqgNarMl-rVc3Qsb1JgILUXlCkfJr6s1dyGPR4FNVtg2RFjW5DQR3GS6QsqAIkesF3MK_C8SYTJGcTJSuRE_6GAhe5GEJUK5cf0kK5_3oZPQ0C42EmurImdsY0wjVELyfRbZ7kRsZA-XWmmzMyoqWbpq7iE7Ydg2CQALFPlwqGneNehHQsNaf-xmw18YHOEr4l20wlGam-fkrgRvNJHTa8Y7Kx8ahM1XlYHolXxBNAgzz_76zlHRtXG0sTck3497N4HQQmHxyd2g4WoHcyQ19NBMDNzRWoxuHFYIneyhyk_LBsNdIEajBKN9lFY1Q8DwGk7xUPgyROZj9SrcjZnNqCygqDGQiVxqLfT9Lw7VXVhaBzO-dNtojNMJFdGExa_p_cN1M4Te9uN_olmYBRBLS6qzUftkR1WypdGk_xOKVhcbwQse62nFHtZkg6RMhPqAM-eBioyA-INRIVi05BE-RwWpP8oyjs6WDNRFZOhxg0r9ouCvvjOKgbuCL-h00rVJHtQn&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;その日ぐらし&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;ダブらない&#34;&gt;ダブらない&lt;/h4&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/klSJPaXA1v5EvNO7qoC3ZM_rWyIsVWx_hSSSIjo_J8MFgd3UMlX4y3rZC_KM0AxDnzWIs3k5XmnME8y3N7551huaIAgz1J6c6_NPUFXjbzI9vRV76sfi7p1Ws3JqzZvLciwu3VaX6bz3K-yyfzwj4XNFnDLxojGCUCOFXYN8VKem7c40i5dBnYahzeW2tWPfK79HSVz5tD3jU5-wcFAyFbqv3hy3_t-QTpOkUvVkoB2xrc29feDR5F2Tf7j_iq1onjTlfmaFnDYOp3B7IlpEhPufhUMmkDqysuQhmkqs4dO2E1-b72bfWe8D6PITwagBwAVrpAsahYenxwQW119K7fGsJhF4o5MnbOwCVCTBiIlJF-C5IqvatP4NullGqqBk84qNqOygkm6YCOoeCNRyr3BqwN-CxYJOrqpEV-74J6LfWO9ILhI5mN9qKDZ9P0vWzCV7m0wftBcruFQXGtJqpYrXVTDEG5wJze9_d_ALfMlU9MWIoBWcXho6k9cYPtU2uh1hkLTn5TkaT3HT5zJy84PD7gJAzG3ik6ZTsyj8qZw_G0MlXGib1JenhXwCgy2uB-Qbe-xPq4-ozO_aDQ3w4DLudsHXqPX1kykQV_ovN8iBxrIn&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;ダブらない&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;女の子&#34;&gt;女の子&lt;/h4&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/OlT6SmYbOrhWjn76S4WngO7SgPfjX6d3Ho0w1RtHBGD2feR7OzBXO-42Wq6ay6XmIcfyoi8kuX2r3d2S2GmTsJsq0xMlf25NuNB_t3cNa43BLVo-XtgnEJ_vUn1wb1zvkCXJYioqq0B5EK3jM5FK12199DBLZH-iSbYqEU1pdauhs-aAlbi-o-pR_-vx5Q-9DQVz3gAWBLiXC2BwXLz38kVWJ4GBmSCHXrX6P8fJHKsh_FuEPck4JFwWVI6hAzm2c-fkgXx4G88PMPT46Godk4qjTx7O4j1dfdv9lT2fllaItEaBKD76Du-CQ_vXNsY4TrIznxg2m9VhX8oiTKv1gIiWf8qUDHaDhWFV32pwkeH3cEqxy2xTX5vvvRTONI7vvzF3Vyg3ry-_ri9to57sCzjqp9aPdizQxq5_p1n3Hl8ejJtc_MuX1_zP0t_Su4-RB5s3MAHMDEPr-sVQSebmwzFOhGGJ2iDqRi1ziS_bcTs4ve5BmPGCknaw8HUWgbG7q7YFqwNr1PK98PpdCxSjVhY3exCZ2dmSQYTgqtWa2O9SBQ9OStflAe4kJ9fRMfNCETvi3qPrUiUEinUkmUzmiJSYfc54pYpP1jcW-r8NGfYo29uk&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;女の子&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;開発スタート&#34;&gt;開発スタート！&lt;/h3&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/tEYHjl2AvzUemyDaUrc-rOUdR9vkrtDU29yllwRdrutM_LM1xk3pF_QXC5NbLTGD3Ci5qCD3ZeoUxQ7JUbSB14Rrwzp9eamASbFAk_B9dk7SBxdNJS1tMdayXyYkuoQqPj64kpEmh0LJcQLs9Oj3upkdVnW-XdHL8C460FYCVfOAKuy6SjAWv7v3jpviJFrYF10-vsbpqw9KWxpQ_ioK67RlMMoxHWlMV86e7QEn7JBsWd7PRygRhGjQnlOTclI6LdBAS9tWZzJyhOOlDq1yWskSUNi6CHiliAlE6ZYm4jD85DDHUu6ng-Ej0DayzzhifPOhR30WOin0fAP2ygjSgkUu_0bbbC7lEfWiG1v6RB2LrQ8OvF5yvQxQLcWlKC99TFYgfn931YubDxAQOli0spjqEYqXlvy-bWil9oAGI-eNPP9E-c_cWyKXkWjYekeQp1OK6y8yMWnvhxFEjaXenrhMRloGDwlcb6RX6ztYOG5z36XtQdH1k_f28v11b9lw9J9Y0JBY2Bbo5-zYy7TfqxO-PKzq-w0fu8DY92KXZ6jN0skSsygpCVbS4k9AIlK20_vnjYwJgUoa4BGzD-RKTXqX7geiuqrS_SDIknqDwNIwzDn_AQ&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;開発中 えーちーむ&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/ZbZy0jetE-5oXxNGKqL8arXLBiOhenVWsPZAJBcQaPuoMF-G6hsfvfRxOGLBYL7Sche_1dGThTVCKImYmV8DNTAL6-ItlrcQpatvzwPHdLa-aO1VoBq5j5X6cQzY6VYDc3VQUbDTiNJf7i6S_nE0-_gzDOqhtj7DfeevZ9PQB746USY6hkRgvllU7lAUwi0mI3mDOGOReLp1TXWl3rdTJGMYxGkr8Si9Z2WZa7fyfTeYHlsEom3e3q3EIPLqBEHT11vF7BsmIeRu18dOZohlg_S4LRS8Zuob9mQKGoIhLwn7RvDBWZE3zvyxE4yCEagf-FhMtvO_QcKAnYTABST-lO0e5UmrCH1_YMr-xz-yJaeEFPwIf2GeeKjHl--g9z-Kdjb0-By_Yl2yw3uHDDKXe1pEca6V2LxJidSIVTWrZph-j98vpGyZtcGPoglGFgu27v-BqJo7wGFon0ai6l-GF-j1L17BvesjQjJcSF2fVXJk9MzorC4hLiX89truX6nPTwDIMMZq68T4DB4f_fYiLABHhQHRVkYPR-8ifjrUrlNIbKLa6E1XHPLcOBaxglDkVPMQA7UpAmG6tTzG6Chy1vnSSzBLX0AsLnJj4ZkyVjIwYrkb&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;開発中 十万獲太郎&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/KTwPdz66yke3XYFuPSgYcFIgm1NjvI7vcHRZMu2KtktZrd6r1t8DAuQur9Dg2L2ixQj2Q6-WgZxr9po2IxMQhKHVe1bJZBVlND7cw2OSOj51Uj_JkyQhfx9yDsVZshYZPqnhDW3ecfVOC4n3UIPVqfmyThbFEBN23EbFBnFhh2r-0aAemQ3q7Fq6ilN3-MiApP-lkPHveRk9m_ZCEYJhrJRV6pABXyAWFKvNlJyVkKUBojuXWLnlpvrwWazpqJeIBdTktyXkzVgXcJ9V1g1MDBOV5FekuSCq6-xHFybHp_EH9k7XN0KjDc9Wni9k5BfReIc96YUwzQEgnm1ZdhDgTL6lXqUmOENUzCkB171vtUEycESRw1ILRj-DHmjJFw8E0ItUBLIc3wWsLV261HFnXRekoe0wcnkjhsK0w-ilX0LmpnRz6JmyWXVtGRr39YqR9VgvzlGQ2caO9lhsQNrK_4DoFAzB5hRwrim124a9SXvLUFRUsJCcGJYZ0DN0IYnUCE3hP1evnUWtku3yPCZwWzmqnekLYloe8hGBFCAil1vXQqVgDJOftkDEtgV0QIFaLoDVSaUUN76NlV4ZZiMXee-Yp1BmCeQnO48zTsUISjrgjG7z&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;開発中 全体風景&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;エナジードリンク投入&#34;&gt;⚠⚠⚠エナジードリンク投入⚠⚠⚠&lt;/h3&gt;
+
+&lt;p&gt;OthloTechと&lt;a href=&#34;https://givery.co.jp/&#34;&gt;株式会社ギブリー&lt;/a&gt;様より大量のエナジードリンクが届けられました。
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;君はどれにする？ &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/nZdIb4kskW&#34;&gt;pic.twitter.com/nZdIb4kskW&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/761848240144654336&#34;&gt;2016年8月6日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;───“チカラ”が欲しいか？ &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/S40SNyhcW0&#34;&gt;pic.twitter.com/S40SNyhcW0&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/761851155517362176&#34;&gt;August 6, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;株式会社ギブリー様より差し入れを頂きました。ありがとうございます！ 残り2時間。&lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/Xs05SYqdFP&#34;&gt;pic.twitter.com/Xs05SYqdFP&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/762170114397630464&#34;&gt;August 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;突如現れるスーパーエンジニア&#34;&gt;突如現れるスーパーエンジニア&lt;/h3&gt;
+
+&lt;p&gt;運営側の「青空ハッカソンをしてほしい！」という想いが届かず、当日の気温は30℃超え。
+代わりに僕が暇な時間を見つけて、名城大学 名古屋ドーム前キャンパスの川に浸りながら開発しておきました！&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;スーパーエンジニアは、働く場所を選ばない。&lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/wMvpe7look&#34;&gt;pic.twitter.com/wMvpe7look&lt;/a&gt;&lt;/p&gt;&amp;mdash; オトモレ (@otomore01) &lt;a href=&#34;https://twitter.com/otomore01/status/762137872556109824&#34;&gt;2016年8月7日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;最終発表&#34;&gt;最終発表&lt;/h3&gt;
+
+&lt;p&gt;作品のプレゼン &amp;amp; デモをしていきます。
+&lt;strong&gt;『プレゼンを制するものはハッカソンを制す』&lt;/strong&gt; と言います。
+&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;チーム「十万獲太郎」の「トントン大相撲」&lt;br&gt;完成度がとても高いです！&lt;br&gt; &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/dPfHCJqT5Z&#34;&gt;pic.twitter.com/dPfHCJqT5Z&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/762222103374376960&#34;&gt;August 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;チーム「ぼっちめし。」の発表。サービス名「みんなめし。」&lt;br&gt;ぼっちで寂しい人達で集まって食事をするサービス。ビジネスプランまで考えていてすごい！&lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/4OxqohVtXd&#34;&gt;pic.twitter.com/4OxqohVtXd&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/762222923482472448&#34;&gt;August 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;チーム「その日ぐらし」の作品「School GO」。&lt;br&gt;講義に出席してスマホをスリープさせるとクエスト攻略という大胆なアイディア！&lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/d7bSEAspoy&#34;&gt;pic.twitter.com/d7bSEAspoy&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/762224263327649792&#34;&gt;August 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;チーム「女の子」の作品「COURSE MASTER」&lt;br&gt;複雑で面倒な履修登録を簡略化できる、学生目線ならではの実用的なサービス。 &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/N7NqJIGo2c&#34;&gt;pic.twitter.com/N7NqJIGo2c&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/762225968215797760&#34;&gt;August 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;チーム「ダブらない」の作品「yattoke」&lt;br&gt;「学生のうちにやっておけ」という先輩の言葉から、webサービスの学割などをキュレーションするサイト。 &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/8OhyNWYd1Y&#34;&gt;pic.twitter.com/8OhyNWYd1Y&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/762229775729500160&#34;&gt;August 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;チーム「えーちーむ」の作品「chatbook」&lt;br&gt;講義に特化した先生と生徒間のチャットサービス。PDFで講義ノートのように出力できるというちょっと便利機能も実装！&lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/3PMym22x85&#34;&gt;pic.twitter.com/3PMym22x85&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/762232969096368132&#34;&gt;August 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;懇親会&#34;&gt;懇親会&lt;/h3&gt;
+
+&lt;p&gt;作品を見せ合ったりと、お疲れにも関わらず大盛り上がりでした！&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/M1Rrng2bRJsjWoZ-vIi8J3Te36Zc2E-pLTnx8HCcOVfsBV2-7lSbHm6rih4aD9nb_1HPpn0vN5j4iHWYmyk9qOb4ki7J21j4Avs9ym4boOxDx_YrWbRUOhoeLRxbDtpvk4FxN-JEBOGCCDjLAGPsLGqX6RyMQw77iSQCFKbzpva3qaat1eF12FMxI3tRgdVACw-iSkFcMYVG7nXHsT1wmrwonxyuCtkVffddRtsLhtGIWaakg8no_FcIHwRd6Hd2h0DdMLA0Bk1xPVbNxhglST7EjBwpdFF42nC0LHaWVn9bOy4wGqZwd9IVALprqgqM3R_NpyT1djAdCssqEAxHWuayUDQMDb43S7bfowHHDUYb2Ppe-0cLEatH28o2j6wJGD0fsOj6fQaUe-n_Of92UDtYD9VQ4wUCwAw_prBSfxA__yn6zXgrgIPrpgp4C0wKnl1vbBku9F2hp1A5KEunYDwSEBF1_h7b9fE9BowV0vd2pte6EhqZPX2zrHVqXLNBV9-vxzDCiQYRlFJnGqhgmB6WLgo2qpWpQnWwb-Et1zoS1DH7Hp93YuGbTbv8QyIH5Yx_AzvG029Q99urJjPFR-wprVdNtOavD__lIhJgc6NDMXSc&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;懇親会①&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/k8_JdDpdTJ-Qn-7SUdtWI_Z0m5YoGlzBwpqPSQqAoV1-h549caYiTa_6KDrtPckm0LgV4WCYbvfoS70yxQdjAdI5xF89LRjH0wnP_lfYgBFdrtOx8CBrLrsZx0YrKJ_NM8uDqQTjl-Kf2-x3v4yxob9qz75_zL64fUknlbNqpAVruhaoRP4Zqyh8XkFQTOFLi-D5FCdPacPdbqg7z9EwUr2DozBpFmdQ4jmNGviznMPfayFmdCUNDVrtWDgXfPNLMkwVO1mjj-Wh8ESqlodDa0BOtbvWCz61H09ObEdW9jN_Zv1CKDAunVRkuxHs60022AzbEdpBgLe5TSBAfSwr_7-6wlb-_z_dW1KJ7Mtm75RoFvY7I829_S6JFZPaGRWYtHzSCWb7BMkKDccoNUt518Oi5rSmAu6xhldtEqICMvkdu1zyqM3uzaLOQRxX9FOnHF8AZOrcc9jX1-klshaikW8zNnOnFOiK3zgQPne295y75KLPK0z6Dgk2Fv-d-KIQSa3df3y4aubmJ4Rcr62kHD1uM6tF13QeG9CvYyoIxH2afgd7Zm4eLBqok03rS1btZtMpc7vNBZygjOW17N5OMLv92in8tL32l6_zMNvFuGwwO9Qu&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;懇親会②&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/FGpWRDsWhFI3jmjb3oWobj0fhgmX7fZvgu8hzLijs_0ApC745d2dV48DnmZopaVmZnBWsqPRF0HTTXOFXCuGD4TTzB2VGYZA9hYWjJt7rhSaBPPbvHQeh63kvfp3sGiy7eGYVCf-MYz9rqWawdieQVTvhKhOQdj7SUWCdPIICkblQTG-QxJhq7cpdOArS5zfQ9NaL6dp9KLTr6jQsYnLOFBn6gpQ0zBfV02_ISwn26Pq0aQU2XHSmM0vBqMLzhuvbBBC1KMh6Zzj1XspEO4ZmHt7xrmpwWKv0XwKjkA9Dr4umbUYIRK6oS4R4dF8CuNPg5ZK1V_GHH1GjyYRkZOSRS76g56sDxjbgzvCtD6jEQ1OHjTpnIhiQP80v8oP6mihZ2g36976E2wEOU5ZUUbrdoi5xHKSf1HBw7CJM1aTUhL78t5YmgwAARz5Ex1ALCX6gSOKvRBL64EA_RjV3HB5-Ise2v6gzjh8bvXfhnVMIC-jYAItjwIN5XWk1cYYhRytIgmdJ9NoWfSPB4lGzb7rBXKvlwdi1Vxw_fVc8yoMdvfHEA3ovj61zDK4nAz7bHVofd470qtJNR8uuN8RVS9tc77kQG7JFg0jt6hyPDa44IpaPV-jUw&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;懇親会③&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;結果発表&#34;&gt;結果発表&lt;/h3&gt;
+
+&lt;p&gt;エイチーム賞『エイチームエンジニア社員との豪華ランチorディナー！』を受賞したのは
+&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;えーちーむ&lt;/strong&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/sqif6S-2Xx4Bvxp0xMIxCWcJ-zzeZsMtOyxteLXB6GfTfdYBRfIUcG7gMR6kPJMbomzY7LLfenHIK3LqMsFp-C5dQLRFPup9p82EyuEh1nN4goxcwpiICl3ZOOMkIYGTR5GZTLhZdDmcWfpUfpBihDTiWJhZLe1XlSDDNO7QGNWmrwe_Kukfc8zEdd37TUtbj3jgFLg586GA5nF7iso4AXTm7wrXeIRFdidNgc8WW5Fc9XbsM8OcqIWNNAW65m2IP6IFJtFi-8EftzZ5W5kvu1ZtvcVqbzOP95kXxcvg8nI5W3kwHyrFUDpN7fb-eo6CaNBnPuUywNVLEuF0Uoljpx_kLATedj6DVg7y0gte5CIpYEXzS2WZF70piFPQ2H8NttQCEZvIile7kAexZY3QF20HrLJYWEp5P3rueUcdFrwWdyU2XZaILva3Cn8F_q7hvQYUVneG8EvI20IlFnqNgFzpXlbpOHMgrspAU_ZrTYJN1rOEq_hCGSgwKkQnxdA1RzjV4GSzPmNRCcvMMK2XVb-zB2c8Q3vp0JT9H8L1_Rh3NuvzMrcEABefC_cPCh7AkV2sfDfhaM1PG3GaUaITvnqX4We2t9eu6fgIcZ4jL8aliwwf&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;エイチーム賞&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Misoca賞『Raspberry Piセット』を受賞したのは
+&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;えーちーむ&lt;/strong&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/K9Y-6I6PXiLQNkdsnntH_OjvXE9zAsip48WgpUBmUts7UZBHd3KU4wpHZzRClHnd7My0bHCtIAkWRiCjXnP3wOPM_i3_zNkgFCy1T0ejSXKxwBHgpS7MgHnYyaYgKYZX2v2bkdimWFWe5jzcJTIjAsqvoA6j4lMC1irKxAKHgd5JvckbICzv4ccMq3PdBV-Ow-285GB5wmaqxe2FUnC7h_eYaLEScjaZf-nVGWZCwmZUdasAlImaKwtvAnV-le8OZCbIHlW-0yC2yHumNue1xmRmnOh40JboeWbh6GebYuxxQcqjbJ0f6UCKtMLDP8Usg6zQgel_Lmof3vvi7V4R_jw8kRPSkgMH___5dXFIoNr4zzYdElKm_uzdUasL1n80vBHSNWpiw4n9YQ3u3I9IKPaNqFVoqwUd9oj8-yg30wxwG2HEJ9zQXZLTaw9OxS3HH7-f8zmCkT0UJm7y8wX_zEZv8lc5jE2HuTqyy6_A-0eDxtRAGgG1CjNsgpssQqrWuIuJJ5mtE5EfF9jv6Z55spsdpygQR5liG00ydtnn4ph6-BjcQkrPY8phh2hlwByqyNMmGeUNv5FfDL7YrSEwdSdbNybGpRNjY71_2o9wk1EkDbhwPw&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Misoca賞&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;フューチャーアーキテクト賞『加藤牛肉店 肉博士あつし一押し！自慢肉セット』を受賞したのは
+&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ぼっちめし。&lt;/strong&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/-61giV7lX4IC2BgYemwYcipgDifi0VWESXmwnyQLkyYKKyKm5wySQScpOJSRC8RH93RzDtpWL3v0mWtHz2J_apT-s3RaAHOgYulyJMsgPJHdegBtkBvPvCAvV8Zrpo0mmpVtFHoN5yvilhVAK1aMfWws279qBaGs_yJtVJZSOt2ms2yISKyL7a-8p_CYB0_wLyRC_AtxjCS1L-xytoe7CxZv94O_t1dKjswXpHU85khYZOh-ICUQy1q3VyLjBANre6CG5U9c2_weWGCCKTT0jMHE47joR7ik1c-kth7EYQjo9iH9ExsttQeeO8oSHs8feghmNWCb6i6_Fp-9v3wri_19imjBNDDzIgH1hRfNspMySxVG4e1V0GzWescT4bmuiqkMmm78myLxm4f1T1fZoqRbWQpMzvQ60ZlPT4yW8E1fEh6zYmz3rXJceKK_3TUm7e3em3T8-7VQHMhE4qKLovOmn7U7-DdVm9AK8vtBwFZbnB2QwqIMMiiMwaaLw92-pcIY9px0UxzXmpo6sf2IYrBXwvV6xRgY1rqnIWj0srO0uvCeipzWz7T65d3TIiILYZEsjqF346MYlj-tQnFyO3_S2_pLG08MYHfTQRPOBJ0KK2E_mw&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;フューチャーアーキテクト賞&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;サポーターズ賞『GitHubパーカー or Tシャツ』を受賞したのは
+&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;その日ぐらし&lt;/strong&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/cGdhdjCsCPvHm838nPv5avXaIiMHbtdHMPHAqD_NokjaUWrYgEs-CtNiLIykWIbfX0WPHnTSdeiDymEXXKEU5GHKqu0teD_4BXfgivSAJ7qBo8U06rmcDr7GmPKI4VkI5zUIBL_hXpp9v7hpLZRJn2nXrywOVLuDo53FPdmjhGvnYkuTd-JgU1xpxYSMLMB8jE4GvcNt17dTydbeCC42d6wFuHGL9bdj8eGSBBwNExHXSAYuzow3p5GrNGr9ed7QN_hW0v0fW7lh1FPQmst5IVwgRgxDHdHsC_0fzDbQCGuhoBLvQrrzlBW1qK9k5bBo17Nn8V8VAvNPc5gZ1B7e6NrIhSaI_l44zZQMEMlAIN_A1yiegkIifWES3O0R1Q5_pqBDX1AewM-E5ZJb5XfBKrt9-bKqrJ261zSiopuN2pE4y7rPvq0YstaSg2Ps9wqva0VXhrOH7DRs1FP8XxmftRMA55tivndKyiPm2D4ixG1PKgpunVvDu1AkwTbfQd7wYDud14sFXSMUiK4iHaqXdJBLT-W5Z_OqcwBnEEmvD6hGcAd-7NExul6MrmS2ppMDOePurFNxQgJmJfAxh5ytrkEYz0zucRPsYjHpuDY4znKLEP15&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;サポーターズ賞&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;レバレジーズ賞『Leap Motion』を受賞したのは
+&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ぼっちめし。&lt;/strong&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/l10oo5nn5aT-saKIFMoxnk0AWNazma6wA4Nu2kxozhXeaCCHQMUuHqIbsdOPEGX13JcFC8gJp2wtxgT943lOxk11tDZHLHF4O6bOkMWSqVOxOoYrwoVUQgRvsX3ydbnctTeVIXeTv5G50-zWywJPCy-Keb82RYkfcDQIHdzQ639CbP4xry0phqWmNkNNbRPP9oPWt87NqYfQ7C01mnN6mugpPQm6HSAW717M4Stp3--M2q5rrmFuhw2l20yFUsyFxYsxIKKXHGiaWEBgRBhoYMpUz4RYHyj3bqf7tGKuawj45I27EU4yLYMVk4Mw9M1q4AnTloKbXyckTpwkMtMb1y3urtsKlsGMy0GXSCV3-D9XrwDmwL4q36Zc5mFXgRcl1VvyzIaVAPTxWP9vIbDXpOOYg7hrXPDVCZJRH_U0ch_d47_ClGz1CRdvA4Kn1MmJdSVFTslKjlFHlv4uUbb5Gzq5AC7Hn0wLqvEH6Nh5LxSJEo4UKmtAfhs-FbDBZzePL0kQBepA7wX41sTXduEDh6WLn-dEGfDb5wFsNOUCbLXX1fB8l_V_wMrSwdZiOU_ecgP0NSx6RKgOozY476H8nIsU6gMovcBjCyw99jFiSB_2OWeL&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;レバレジーズ賞&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;そして、OthloHack 2016 最優秀賞を受賞したのは
+&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;十万獲太郎&lt;/strong&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/7uFXMaP__PDtM9L9JdZnu-V_JoY2aeFKyZGph4I-4n9Fo6S_3FJab-2KrreI8W6OPMT635MpOnFHfBDQhfrX3O34UmYjNEGzs_YrHynBovNn77NMaiVxREYG7uJWpEOnouttoKAz0ozZO5l3G3svAQGZ9R3wE8sMzXQ-a7AHd4L_H89z2zDROx9i4h0OoKVZmbvHXsgbqnF67Xipqodv2Lcg7dKOs_qjewYScyRJt7Yxk9vwS5eCT8UEFgDn2ecmQm9mbGw_vqM29P6NujJoIlFbTfeaeg8BRT3sWGasJTAbd80VqPHt28k5cPG8q1RVzvvTAjGpnEf7aRO4PW3MHTx-9jg7o1sIHx6O8HlScRhNUjVrfXld4521MtC4jDrKLkFU9rh9HcPzsybzQFWTRrtqsSMURnwZpwv49jwBmkOE6AWQ7W1W2DbiAX77zzk8UnNeOr9LmCH_dDeiN210FYFY9u3vZCD8Sm-FtTsDgqWXsWE7xg6_kmT-fiPCTiwxS-qY3dPViXpBC788rfMEAgZoMZ-1roxTs5dFNuRjLDCCErbFawwGb8PVlLXEn8gMByZ3GjBSBwyXsbjMia53tM1yScalacl1G2ZEEVC6MnfLpOpF&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;最優秀賞&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;チーム名通りに十万円を獲ったということで、何に使うのか聞いたところ悪い顔してました！&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/qRTAvlANsMdJAY5QE_s3AF8XGpSXa3et5dMVvesM6nk2jPVFLlwNQiZ9HRQBv-4X1wYhI6FGQSepftba0xHVy385tNsxDfPPp-hs-qBXoT5HBGNoaZcNIW11Hp4sFouoxQrVpL5a7IL6cpudO8aCfbsJ9A6BkxnMC8IJud_-FW3Dm95AOxc5rzD12PcEurVkYQOGnRdZBE0bG3HX-ZWPmwbtBkvDI9EPjm-t6Cg7HcdktjNe7HZbvY0jzlU4s3DEZGSnEpMPykKHZbifT9QgCBkA5-Ib87VEjVD3A9GYU_cG5x8RobPkKImBofoi89VB-9r43MJJZk856xhp-yiolPYnhdb5g1-TvTAO_GCmV8pMRB2NmvCrapE2KostyqWGB8eiw-L1emGE6dYEL4_MIS4ldbZNZz6ou8cZawdJSV1vUs3ZG438KPKE0-Z-x5kxnj7WTRwXmTI0HWgQMG1rZCwXYw2Fo1QKwaFseMv_FxtIg65NqiDPgXliaPfYwLDuZnaeP7RNMaeZKoGXbHgveuEZ8koFfKdGU3omJi7TKwq8Xco-6cgoWnDreDs83boPRipN2eqJ_tThDaMS8YzNfiY3SifGsbsV9FvlbbbTusXgKxP4&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;十万獲った十万獲太郎のみなさん&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;最後に集合写真&#34;&gt;最後に集合写真&lt;/h3&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/Mt1XwNMmK6PiNZH5ivcUVr9P9ZXO_QRvF9MC_GQs9S3a05S_Qo5gMP3j4y21_QOMdDcg1zms4TbheTEonWduWZE0biONDY5k6VWQMkXvR7T-QvxCY22I5egvQD-Odpyo46c8qyH_4cs2H1DqugB3DbDIpJnYJTQGvLK42eQYZWyJHSRaOLXWNaU_GK4dyK5KIXcw4O2-jDb_LdH2SZyAtYUIWCfl4GLK99jtHWSbWWcT1dCDQzpeX2ZiErpdIIlmb3w6ELV1-vE3dpdKmgnp6iETxX3utVdO9bWEUM-tXjqu16IeIwPBft57Z7fKnNfMsS6JTh76vEi_xnI2CaM2DAdZctwdE85es1j11QmLv0WGxWPnro866QctWS3TSvi2Fdw9DU6hG7km_mMKoDqzQw9POBM9r8uPOLqxy_RZCub-l5XwA7ZcVjmdRMlrsA5WQjp2PJskdPB7y7EX7-CskXhupnASZ8gavlYfaXkkDmbFpVwpIQLLmOrj_ikls0C3lncVEYwXcvDPrCk9-GyxuKHT3qcgm-asFsAiuoQopOSCpztG0DyY4K9e0wJNlrXQd8Qp5AsGqTfq9RYh31akMXF5oJjY8TE8EfguXQ_XyWWSLbth&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;集合写真&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;参加者の声&#34;&gt;参加者の声&lt;/h3&gt;
+
+&lt;h4 id=&#34;othlohack-2016に参加してどうでしたか&#34;&gt;OthloHack 2016に参加してどうでしたか？&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;商品が豪華&lt;/li&gt;
+&lt;li&gt;主催者のお兄さんたちともっと話したかった&lt;/li&gt;
+&lt;li&gt;チーム開発が新鮮で楽しかった！&lt;/li&gt;
+&lt;li&gt;お昼ごはんが豪華&lt;/li&gt;
+&lt;li&gt;悔しかった&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;今後どのようなイベントに参加したいですか&#34;&gt;今後どのようなイベントに参加したいですか？&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;起業家とのトークイベントをやってほしい&lt;/li&gt;
+&lt;li&gt;汎用性の高い技術のハンズオンをやってほしい&lt;/li&gt;
+&lt;li&gt;もくもく会に参加したい&lt;/li&gt;
+&lt;li&gt;デザイナーに特化したイベントをやってほしい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;おわりに&#34;&gt;おわりに&lt;/h3&gt;
+
+&lt;p&gt;最後になりましたが、参加してくれた学生の皆さまや、ご協賛いただきました企業の皆さまのご支援ご協力あって大成功のイベントになりました。本当にありがとうございました！
+今後ともOthloTechの活動にご期待ください！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OthloEvent@名城shake #4</title>
+      <link>http://www.othlo.tech/events/othloevent04-shake/</link>
+      <pubDate>Sat, 24 Sep 2016 00:20:33 +0900</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent04-shake/</guid>
+      <description>
+
+&lt;h2 id=&#34;othloevent-名城shake-を開催しました&#34;&gt;OthloEvent@名城shake を開催しました！&lt;/h2&gt;
+
+&lt;p&gt;こんにちは〜！　&lt;a href=&#34;https://twitter.com/gmsesame&#34;&gt;@gmsesame&lt;/a&gt;です！！&lt;/p&gt;
+
+&lt;p&gt;大学生の夏休みもそろそろ終わり…だんだん涼しくなってきて、どこか寂しさを感じる時期ですね。&lt;br/&gt;
+みなさんの夏休みはいかがだったでしょうか？&lt;/p&gt;
+
+&lt;p&gt;さて、今回はそんな夏休み終了シーズンの9月24日(土)に名城大学shakeにて開催した「&lt;a href=&#34;http://othlotech.connpass.com/event/38183/&#34; title=&#34;【学生LT大会】OthloEvent@名城shake #4&#34;&gt;【学生LT大会】OthloEvent@名城shake #4&lt;/a&gt;
+」の様子をお伝えしたいと思います(｡･ω･)ﾉﾞ&lt;/p&gt;
+
+&lt;h3 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h3&gt;
+
+&lt;p&gt;今回のイベントの時間割は以下の通り！&lt;/p&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;登壇者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;15:50&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;受付開始&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;16:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;オープニング&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;16:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;LT大会 ~前半~&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;7人&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;routerboard　is GOD&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;evena_evenas&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;MacのBootcampでWindows 10のインストールを自動化&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;moutend&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;10月に名古屋で開催予定のテック系イベントをまとめてみた&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;わかめだ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;名古屋に来て半年で友達300人つくった話&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;gmsesame&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;開発中アプリのご紹介&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;渡辺稜太&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ぽこひで戦記 ~第2章 成長の刻~&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ぽこひで&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Webデザインの配色&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ちーず&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;17:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;LT大会 ~後半~&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;8人&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;セキュリティキャンプ実施報告(仮)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;KageShiron&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Mac標準プレビュー.appを使い倒す&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ライダー&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ポケモンGOのあそびかた&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;@iyuto_&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;KubernetesではじめてのDocker管理に挑戦した話（仮）&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Katsuaki Takagi&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;【体験記】２週間ドワンゴのエンジニアに囲まれてみた&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;祖父江 亮&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Arduino programming in Haskell&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;くぅ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;人工秘書を作りたい&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;野村&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;エンジニアの住処&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Tatsu10&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;自由解散&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;イベントの様子&#34;&gt;イベントの様子&lt;/h3&gt;
+
+&lt;p&gt;土曜日開催！そしてゆったり16:00スタート！&lt;br/&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/9-24/opening.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;オープニングトーク！&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;OthloTech代表・ぽこひで(&lt;a href=&#34;https://twitter.com/hyde141421356&#34;&gt;@pokohide&lt;/a&gt;)による挨拶が終了した後、いよいよ参加者１５人全員によるLT大会がスタートしました。&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/9-24/riderLT.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;ライダーさんのLTの様子&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;みんな思い思いに自分の興味のある分野や夏休みのインターン経験についてLTしていました。&lt;br/&gt;
+ 全員分の詳しいLT内容については、&lt;a href=&#34;https://nagoyastartupnews.com/%E6%9D%B1%E6%B5%B7%E3%81%AE%E5%AD%A6%E7%94%9F%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E9%9B%86%E5%9B%A3%E3%81%8C%E3%82%A2%E3%83%84%E3%81%84-othlotech-%E3%81%AE%E5%AD%A6%E7%94%9Flt%E5%A4%A7%E4%BC%9A-%E5%90%8D%E5%9F%8Eshake-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88-b1cf7ba0c2fa#.ys0ig8e2j&#34; title=&#34;参加者全員登壇！？OthloTech主催の学生LT大会@名城shake レポート -NagoyaStartupNews&#34;&gt;NagoyaStartupNews&lt;/a&gt;にも掲載されているので、ぜひご覧ください(&amp;lsquo;-&amp;rsquo;*)&lt;/p&gt;
+
+&lt;p&gt;全員LT会の後は、懇親会でお菓子を食べながらワイワイしつつ…&lt;br/&gt;
+参加者投票で人気の高かったLT者に、素敵なプレゼントを贈呈(＇ｰ＇)&lt;/p&gt;
+
+&lt;h3 id=&#34;お疲れ様でした-0&#34;&gt;お疲れ様でした(^0^)/&lt;/h3&gt;
+
+&lt;p&gt;9月も無事にイベントを開催することができました！&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;次回のOthloEventもお楽しみに〜。&lt;/p&gt;
+
+&lt;h3 id=&#34;ちなみに&#34;&gt;ちなみに…&lt;/h3&gt;
+
+&lt;p&gt;メンバーである &lt;a href=&#34;https://twitter.com/mtmtkzm&#34;&gt;@mtmtkzm&lt;/a&gt; がこのLT大会で発表した&lt;a href=&#34;http://qiita.com/mtmtkzm/items/160d5bac95d4d4aaea0e&#34; title=&#34;Mac標準「プレビュー」の意外と知られていないTips&#34;&gt;Mac標準「プレビュー」の意外と知られていないTips&lt;/a&gt;がバズりました！！
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;ストックもPVも大台乗った感じある。ソーシャル系も結構いい感じで嬉しー &lt;a href=&#34;https://t.co/emg9WBnHA3&#34;&gt;pic.twitter.com/emg9WBnHA3&lt;/a&gt;&lt;/p&gt;&amp;mdash; ライダー (@mtmtkzm) &lt;a href=&#34;https://twitter.com/mtmtkzm/status/782977260135428096&#34;&gt;October 3, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;ぜひご確認くださいヾ(￣ω￣〃)ﾉ&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OthloEvent@Misoca #3</title>
+      <link>http://www.othlo.tech/events/othloevent03-misoca/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent03-misoca/</guid>
+      <description>
+
+&lt;h2 id=&#34;othloevent-misoca-3-を開催しました&#34;&gt;OthloEvent@Misoca #3 を開催しました！&lt;/h2&gt;
+
+&lt;p&gt;はじめまして、&lt;a href=&#34;https://twitter.com/mtmtkzm&#34;&gt;ライダー&lt;/a&gt;です。&lt;/p&gt;
+
+&lt;p&gt;2016/7/15に開催された&lt;a href=&#34;http://othlotech.connpass.com/event/34943/&#34;&gt;OthloEvent#3&lt;/a&gt;のレポートを書きます！&lt;/p&gt;
+
+&lt;h3 id=&#34;タイムライン&#34;&gt;タイムライン&lt;/h3&gt;
+
+&lt;p&gt;今回のイベントは、学生LTが3本と、株式会社ファントムタイプ 代表取締役の小久保 祐介さんの「Sketch入門」という豪華な詰め合わせでした！！&lt;/p&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;登壇者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;受付開始&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;学生LT(5分)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;卒研でアプリを作った&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;@levena_evenas&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Go言語でGitHub Issuesのビューアを作ったよ〜&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;もうてん&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Sketchは学割で買いましょう😆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ライダー&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Sketch入門&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;小久保 祐介&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;20:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;21:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;完全撤収&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;学生lt&#34;&gt;学生LT&lt;/h3&gt;
+
+&lt;h4 id=&#34;levena-evenas-卒研でアプリを作った&#34;&gt;@levena_evenas「卒研でアプリを作った」&lt;/h4&gt;
+
+&lt;p&gt;コミュニケーションってめっちゃ大切だよっていう話。
+何をするにも土台にあるのに忘れがちだったりしますよね&amp;hellip;！&lt;/p&gt;
+
+&lt;h4 id=&#34;もうてん-go言語でgithub-issuesのビューアを作ったよ&#34;&gt;もうてん「Go言語でGitHub Issuesのビューアを作ったよ〜」&lt;/h4&gt;
+
+&lt;p&gt;デモを見せながらのLT、盛り上がっていましたねー！&lt;/p&gt;
+
+&lt;p&gt;発表資料はこちら &amp;gt; &lt;a href=&#34;http://qiita.com/moutend/items/2365c51d9de35596ee1d&#34;&gt;GoでGitHub Issuesのビューアを作った&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;ライダー-sketchは学割で買いましょう&#34;&gt;ライダー「Sketchは学割で買いましょう😆」&lt;/h4&gt;
+
+&lt;p&gt;僕のLTですね。
+Sketchは学割で半額で購入できるのですが、購入当時それを知らず購入してしまった僕は悔しさのあまりその差額で何ができるのかを話しました。&lt;/p&gt;
+
+&lt;h5 id=&#34;6117円でできること&#34;&gt;6117円でできること&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;高速バスで名古屋 &amp;lt;&amp;ndash;&amp;gt; 東京を往復できる。&lt;/li&gt;
+&lt;li&gt;レッドブル1ヶ月分&lt;/li&gt;
+&lt;li&gt;数万PV（アフィリエイト）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;sketch入門&#34;&gt;Sketch入門&lt;/h3&gt;
+
+&lt;p&gt;この内容でLTしてくださいました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://qiita.com/yusuke_kokubo/items/4e28e1fb66cc34cae2b6&#34;&gt;http://qiita.com/yusuke_kokubo/items/4e28e1fb66cc34cae2b6&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;懇親会&#34;&gt;懇親会&lt;/h3&gt;
+
+&lt;p&gt;大盛況でしたね！&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;キーボード展覧会www &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; 懇親会にて &lt;a href=&#34;https://t.co/4oycR6cOHy&#34;&gt;pic.twitter.com/4oycR6cOHy&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/753931014695714816&#34;&gt;2016年7月15日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;ライブ放送&#34;&gt;ライブ放送&lt;/h4&gt;
+
+&lt;p&gt;そういえば、&lt;a href=&#34;https://twitter.com/otomore01&#34;&gt;オトモレくん&lt;/a&gt;が、自前の通信料でライブ放送をしてくれました。ご覧あれ。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.periscope.tv/w/1mnxekMMzMRGX&#34;&gt;懇親会の模様を見る！&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;おわりに&#34;&gt;おわりに&lt;/h3&gt;
+
+&lt;h4 id=&#34;公式アカウントあります&#34;&gt;公式アカウントあります&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/OthloTech&#34; class=&#34;twitter-follow-button&#34; data-show-count=&#34;true&#34;&gt;Follow @OthloTech&lt;/a&gt;&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;イベントの情報をメインに、ツイートしています。
+OthloTechのTwitter公式アカウントを、フォローお願いします😏&lt;/p&gt;
+
+&lt;p&gt;ご参加いただいた皆様、ご登壇いただいた皆様、会場をお貸しくださったMisoca様、皆様のご協力で大成功のイベントになりました。ありがとうございました！&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/7-15/1.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;集合写真&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h5 id=&#34;おわりに-1&#34;&gt;おわりに&lt;/h5&gt;
+
+&lt;p&gt;この日の写真の自分を見て、髪を切ること決断しました。&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;思い立ったらなんとやら &lt;a href=&#34;https://t.co/NICwvwBRZY&#34;&gt;pic.twitter.com/NICwvwBRZY&lt;/a&gt;&lt;/p&gt;&amp;mdash; ライダー (@mtmtkzm) &lt;a href=&#34;https://twitter.com/mtmtkzm/status/753983890612596736&#34;&gt;2016年7月15日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OthloEvent@エイチーム #2</title>
+      <link>http://www.othlo.tech/events/othloevent02-ateam/</link>
+      <pubDate>Fri, 24 Jun 2016 00:20:33 +0900</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent02-ateam/</guid>
+      <description>
+
+&lt;h1 id=&#34;othloevent-エイチーム-を開催しました&#34;&gt;OthloEvent @ エイチーム を開催しました！&lt;/h1&gt;
+
+&lt;p&gt;こんにちは、&lt;a href=&#34;https://twitter.com/hyde141421356&#34;&gt;@pokohide&lt;/a&gt;です。&lt;/p&gt;
+
+&lt;p&gt;6月24日(金)に&lt;a href=&#34;http://othlotech.connpass.com/event/32485/&#34;&gt;【学生限定】OthloEvent@エイチーム #2&lt;/a&gt;を開催しました！
+&lt;strong&gt;OthloTech&lt;/strong&gt; の第2回のイベントで株式会社エイチームさんのオフィスで開きました。&lt;/p&gt;
+
+&lt;p&gt;OthloTechでは、月に一度のペースで勉強会やイベントを、情報や知識の共有とともに、その後に懇親会で学生エンジニアもデザイナーもいるんだから、
+何かしら生まれる &lt;strong&gt;きっかけ&lt;/strong&gt; が生まれないたらいいね👍 という思いのもと開催しています！&lt;/p&gt;
+
+&lt;p&gt;この記事では、先日開催されたこのイベントの様子をゆる〜くお伝えします∩(ﾟ∀ﾟ∩).&lt;/p&gt;
+
+&lt;h2 id=&#34;タイムライン&#34;&gt;タイムライン&lt;/h2&gt;
+
+&lt;p&gt;イベントの内容は以下のようになっています。&lt;/p&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;備考&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;17:40&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;受付開始&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;オープニング&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;エイチーム会社紹介&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:20&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;学生LT枠&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;5分x4人(5分休憩)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ハードウェアでできること&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;by wami&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;『Neo4jのすゝめ』&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;by topgear&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;アメリカのインターンシップを通して学んだこと&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;by いぬづかまみ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;GPGPU入門&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;by kururu&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;エイチーム社員LT&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ウェブサービスの開発サイクル(仮)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;10分&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ウェブサービスのデザインにおける考え方(仮)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;10分&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:20&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;オフィスツアー&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;20:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;完全撤収&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;学生lt枠&#34;&gt;学生LT枠&lt;/h2&gt;
+
+&lt;p&gt;イベントの参加学生4人にも持ち時間5分でLTをしていただきました！&lt;/p&gt;
+
+&lt;h3 id=&#34;ハードウェアでできること-by-wami&#34;&gt;ハードウェアでできること by wami&lt;/h3&gt;
+
+&lt;p&gt;ハードウェアを使えば何をできるかをLTしてくれました！&lt;/p&gt;
+
+&lt;p&gt;今、大学でVerilog HDL(ハードウェア記述言語)を書いていますが、最近はArduinoとかRaspberry PiだったりCだったりスクリプト言語だったり
+環境はとても整ってるのでアイデアをどんどん実現していきたいと思うLTでした!!&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/6-24/wami.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;ハードウェアでできること&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;天気情報や飲食店やいろいろなAPIも豊富ですし、可能性は無限大ですね(･∀･)👍&lt;/p&gt;
+
+&lt;h3 id=&#34;neo4jのすゝめ-by-topgear&#34;&gt;Neo4jのすゝめ by topgear&lt;/h3&gt;
+
+&lt;p&gt;Neo4jというグラフDB(データの構造が全てグラフ構造で表されるDB)についてLTしてくれました！&lt;/p&gt;
+
+&lt;p&gt;Neo4jじゃJavaで実装されていて、オープンソースとして公開・開発がされています。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://neo4j.com/&#34;&gt;Neo4j公式&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/6-24/hayashi.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Neo4jのすゝめ&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;地下鉄の路線図だったり、有向グラフで表せるものをDBに入れようと思うといろいろ困ると思うのですが、そんな時こそこれ使ってみましょっ！
+最短経路を取得したり、DBとしてもいろいろな使い道があるので使ってみたいと思いました∩(ﾟ∀ﾟ∩)&lt;/p&gt;
+
+&lt;p&gt;Javaで実装されていますが&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;Spring Framework&lt;/li&gt;
+&lt;li&gt;.NET&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Ruby&lt;/li&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;とかのSDKは用意されてるっぽいですね! &lt;a href=&#34;https://neo4j.com/developer/language-guides/&#34;&gt;参考リンク&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;アメリカのインターンシップを通して学んだこと-by-いぬづか&#34;&gt;アメリカのインターンシップを通して学んだこと by いぬづか&lt;/h3&gt;
+
+&lt;p&gt;行動力がすごいっ!!&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/6-24/mami.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;アメリカのインターンシップを通して学んだこと&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;アメリカで何のつてもなかったけれど、インターンしたいの熱意とやる気でひたすらアタックして初めての学生インターン枠を設けてもらって
+学んできたお話。&lt;/p&gt;
+
+&lt;p&gt;さらっとLTしてたけど、すごいっすよ((((;´･ω･`))))&lt;/p&gt;
+
+&lt;p&gt;「ここで働かせてくださいっ!」(千と千尋風)&lt;/p&gt;
+
+&lt;h3 id=&#34;gpgpu入門-by-kururu&#34;&gt;GPGPU入門 by kururu&lt;/h3&gt;
+
+&lt;p&gt;GPGPUっていうのは&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;GPUを画像処理ではなく他の用途（ex. 暗号解読、音声処理）に使用するときに使用される&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;らしい!!&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/6-24/kururu.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;GPGPU入門&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;GPUがそもそもCPUに比べて並列処理の長けてて、演算性能が高いから数倍 ~ 100倍以上の速度らしい。&lt;/p&gt;
+
+&lt;p&gt;GPUが何で速いかっていうとCPUに搭載されてる分岐予測だったり投機実行だったり、アウトオブオーダーだったりが
+簡素化されてて、その分コア数を増やせるからだとか。&lt;/p&gt;
+
+&lt;p&gt;GPGPUを用いると性能が上がるアプリケーションの例として&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;流体計算・気候シミュレーション&lt;/li&gt;
+&lt;li&gt;天体シミュレーション&lt;/li&gt;
+&lt;li&gt;暗号解読&lt;/li&gt;
+&lt;li&gt;音声処理&lt;/li&gt;
+&lt;li&gt;市況分析&lt;/li&gt;
+&lt;li&gt;最適化問題&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;なんかがあって、未来に期待★━━━…‥･&lt;/p&gt;
+
+&lt;h2 id=&#34;エイチーム社員lt&#34;&gt;エイチーム社員LT&lt;/h2&gt;
+
+&lt;p&gt;イベント会場であるエイチームさんの社員にもLTをしていただきました！&lt;/p&gt;
+
+&lt;p&gt;っとここは、会場にいた人のみのお話でした。&lt;/p&gt;
+
+&lt;h2 id=&#34;エイチーム見学&#34;&gt;エイチーム見学!&lt;/h2&gt;
+
+&lt;p&gt;オフィス見学ツアーもしました(o＾ω＾o)&lt;/p&gt;
+
+&lt;p&gt;滑り台だったり、ボルダリングだったり、超集中できそうな防音の椅子だったり、ブランコだったり、アスレチックだったり。。。
+いろいろあって面白かった!(遊び系しか覚えていない。。)&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/6-24/rider.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;子供のようにはしゃぐライダー&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;楽しかったよ-総勢40名&#34;&gt;楽しかったよ!! 総勢40名!&lt;/h2&gt;
+
+&lt;p&gt;なんと40名も集まってくれました(*´∀`*)
+名古屋の未来は明るいな&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/6-24/gather.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;集合写真でっせ&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>学生LT会@名古屋 ~エンジニア/デザイナー~</title>
+      <link>http://www.othlo.tech/events/othloevent01-shake/</link>
+      <pubDate>Sun, 22 May 2016 00:20:33 +0900</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent01-shake/</guid>
+      <description>
+
+&lt;h1 id=&#34;学生lt会-名古屋-エンジニア-デザイナー-を開催しました&#34;&gt;学生LT会@名古屋 ~エンジニア/デザイナー~ を開催しました！&lt;/h1&gt;
+
+&lt;p&gt;こんにちは、&lt;a href=&#34;https://twitter.com/hyde141421356&#34;&gt;@pokohide&lt;/a&gt;です。&lt;/p&gt;
+
+&lt;p&gt;5月22日(土)に&lt;a href=&#34;http://othlotech.connpass.com/event/31136/&#34;&gt;学生LT会@名古屋 ~エンジニア/デザイナー~&lt;/a&gt;を開催しました！
+&lt;strong&gt;OthloTech&lt;/strong&gt; の第1回のイベントで名城大学の新キャンパスにあるShakeというスペースで開きました。&lt;/p&gt;
+
+&lt;p&gt;OthloTechでは、月に一度のペースで勉強会やイベントを、情報や知識の共有とともに、その後に懇親会で学生エンジニアもデザイナーもいるんだから、
+何かしら生まれる &lt;strong&gt;きっかけ&lt;/strong&gt; が生まれないたらいいね👍 という思いのもと開催しています！&lt;/p&gt;
+
+&lt;p&gt;この記事では、先日開催されたこのイベントの様子をゆる〜くお伝えします∩(ﾟ∀ﾟ∩).&lt;/p&gt;
+
+&lt;h2 id=&#34;イベント概要&#34;&gt;イベント概要&lt;/h2&gt;
+
+&lt;p&gt;今回のイベントでは前半に学生LT会をやって、後半に自分たちの考えたエンジニアでもデザイナーでも楽しく解けそうな
+謎をグループ対抗しました！&lt;/p&gt;
+
+&lt;h2 id=&#34;タイムライン&#34;&gt;タイムライン&lt;/h2&gt;
+
+&lt;p&gt;当日のLT会のタイムラインはこんな感じでした！&lt;/p&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;LTタイトル&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;発表者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;360度動画の話&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;KohkiNakaji&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;『名古屋スタートアップニュース（仮）』発刊のお知らせ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;若目田大貴&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;penGL ES2.0のすすめorコンピュートシェーダー入門&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;kururu448&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;拡張機能の歴史と標準化&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;@levena_evenas&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Lifelogしたい話&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;yazakiyuto&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;学生エンジニア・デザイナーのためのエナジードリンクの適切な利用法&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;potato4d&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;個人的にAWSの素晴らしさを紹介&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;まるちゃん&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;フォントのお話&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ダブらん&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;Seleniumでスクレイピング&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;TeraBytesMemory&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;エンジニアバイトのすゝめ&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ya_s_u&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;数が多いのでピックアップして紹介(≧∀≦)／&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/5-22/360.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;360度動画の話&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;最近はやりの360度動画のお話。
+360度動画がどういうものなのかから、実際に360度動画が作られてまで話してくれました！&lt;/p&gt;
+
+&lt;p&gt;Unityで実装したお話つき&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/5-22/font.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;フォントのお話&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;OthloTech には学生エンジニアだけではなく、学生デザイナーもいますっ！&lt;/p&gt;
+
+&lt;p&gt;ということで今回、初LT挑戦でWEBフォントのLTをしてくれましたー。&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/5-22/energy.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;学生エンジニア・デザイナーのためのエナジードリンクの適切な利用法&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;みなさん適切な方法でエナジードリンク飲んでますか?&lt;/p&gt;
+
+&lt;p&gt;なんと関西からわざわざ来てくれた高校生。末恐ろしい((((;´･ω･`)))&lt;/p&gt;
+
+&lt;p&gt;要約すると、燃え尽きるまで飲むもの = エナジードリンク&lt;/p&gt;
+
+&lt;p&gt;みなさん、途中でセーブしちゃってませんか?&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/5-22/selenium.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Seleniumでスクレイピング&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;シンプルなHTMLパーサーがあればスクレイピングはできる!でも、JavaScriptで非同期な処理のあるサイトにはこれは通用しない。。&lt;/p&gt;
+
+&lt;p&gt;ということで &lt;strong&gt;Selenium&lt;/strong&gt; !!&lt;/p&gt;
+
+&lt;p&gt;WebのテストでもおなじみのSeleniumを用いて、実際にニコ動からコメントを取ってくるところを実践してくれていましたー。動画には性格がでますね(･∀･) ﾆﾔﾆﾔ&lt;/p&gt;
+
+&lt;h2 id=&#34;謎解きクイズ&#34;&gt;謎解きクイズ!!&lt;/h2&gt;
+
+&lt;p&gt;学生エンジニア、デザイナがどっちも楽しめそうなクイズを頑張ってメンバーで考えました。。案外大変だったよ(´･ω･`)
+でも、めちゃ盛り上がったんで報われました👍&lt;/p&gt;
+
+&lt;p&gt;しかも、今回は優勝したチームには&amp;hellip;景品付き！　みんな頑張ってました！！&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/5-22/quiz1-1.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;違うフォントを見つけろ!&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;デザイナーよりの問題? 違うフォントを見つけろっ!! さっと見つけるチームもあれば苦戦するチームも。。ここはまずまずの勝負でした。&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/5-22/quiz1-2.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;悩んでる(´･ω･`)&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;悩んでるチームもいました。&lt;/p&gt;
+
+&lt;p&gt;他にも写真を撮り忘れてしまったのですが、WEBフロントエンドでCSSをより、構文的に素晴らしくかける感じの &lt;code&gt;SCSS&lt;/code&gt; を使った問題を出しました。&lt;/p&gt;
+
+&lt;h4 id=&#34;あなたは何色が正解かわかりますか&#34;&gt;あなたは何色が正解かわかりますか?&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-scss&#34;&gt;.box {
+  background-color: mix(#4A8ECC, #771D32, 15%);
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;section&gt;
+  &lt;div style=&#39;display:inline-block;background-color:#702e49;width:200px;height:200px;text-align:center;&#39;&gt;
+  &lt;span style=&#39;font-size:50px;color:#fff&#39;&gt;A&lt;/span&gt;&lt;/div&gt;
+  &lt;div style=&#39;display:inline-block;background-color:#6a3f60;width:200px;height:200px;text-align:center;&#39;&gt;
+  &lt;span style=&#39;font-size:50px;color:#fff&#39;&gt;B&lt;/span&gt;&lt;/div&gt;
+  &lt;div style=&#39;display:inline-block;background-color:#5377ad;width:200px;height:200px;text-align:center;&#39;&gt;
+  &lt;span style=&#39;font-size:50px;color:#fff&#39;&gt;C&lt;/span&gt;&lt;/div&gt;
+  &lt;p&gt;答えはここ⤵︎&lt;/p&gt;
+  &lt;p style=&#39;color:#fff&#39;&gt;A&lt;/p&gt;
+&lt;/section&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/5-22/quiz2.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;ソースを見る問題&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;最後はソースを見て規則性を見つけて解く感じの問題でした！みんな真剣にソースを読んでて各チームいい感じに盛り上がってました！&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/5-22/priz.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;謎解きの優勝商品&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;謎解きの優勝商品は今回協賛していただいた株式会社HASHIGOさんから新本の「フロントエンジニアの必須知識」をメンバー全員にいただきました！ありがとうございます(o＾ω＾o)&lt;/p&gt;
+
+&lt;h2 id=&#34;懇親会&#34;&gt;懇親会&lt;/h2&gt;
+
+&lt;p&gt;勉強終わりは懇親会で参加者同士でだべります！！&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/5-22/social.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;かんぱーい&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;かんぱ〜〜〜〜〜〜〜〜〜〜〜〜〜い！
+こういう時の乾杯の音頭をとるのはとても緊張する。&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/5-22/social2.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;なんかいい写真&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;みんな楽しくだべってます！ここから未来を作るサービスが生まれるかもしれない&lt;/p&gt;
+
+&lt;h2 id=&#34;終わりに&#34;&gt;終わりに&lt;/h2&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/5-22/gather.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;集合写真だよん&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;解散してから気づいた。集合写真を撮っていないことに。。&lt;/p&gt;
+
+&lt;p&gt;てなわけで、人数が減った状態で集合写真！本日はありがとうございましたー！&lt;/p&gt;
+
+&lt;p&gt;あなたは気がつきましたか。。?&lt;/p&gt;
+
+&lt;p&gt;隙間から覗く警備員の姿に」」」&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;こんな感じで月一でエンジニア/デザイナー向けの勉強会を開催しています！&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/othlotech&#34;&gt;Twitter&lt;/a&gt;と&lt;a href=&#34;https://www.facebook.com/othlotech/&#34;&gt;Facebook&lt;/a&gt;でイベント情報等を流しているのでフォローやいいね 👍 をしていただけると嬉しいです！！&lt;/p&gt;
+
+&lt;p&gt;協賛していただいた&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;株式会社misoca&lt;/li&gt;
+&lt;li&gt;株式会社ギブリー&lt;/li&gt;
+&lt;li&gt;株式会社ハシゴ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ありがとうございました！！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>http://www.othlo.tech/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/faq/</guid>
+      <description>
+
+&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
+
+&lt;h2 id=&#34;1-what-to-do-if-i-have-still-not-received-the-order&#34;&gt;1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?&lt;/h2&gt;
+
+&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
+&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;li&gt;Vestibulum auctor dapibus neque.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2-what-are-the-postal-rates&#34;&gt;2. WHAT ARE THE POSTAL RATES?&lt;/h2&gt;
+
+&lt;p&gt;Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven&amp;rsquo;t heard of them accusamus labore sustainable VHS.&lt;/p&gt;
+
+&lt;h2 id=&#34;3-do-you-send-overseas&#34;&gt;3. DO YOU SEND OVERSEAS?&lt;/h2&gt;
+
+&lt;p&gt;Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven&amp;rsquo;t heard of them accusamus labore sustainable VHS.&lt;/p&gt;
+
+&lt;h2 id=&#34;4-why-are-you-more-expensive-than-others&#34;&gt;4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?&lt;/h2&gt;
+
+&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
+&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;li&gt;Vestibulum auctor dapibus neque.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;5-another-important-question&#34;&gt;5. ANOTHER IMPORTANT QUESTION&lt;/h2&gt;
+
+&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
+&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;li&gt;Vestibulum auctor dapibus neque.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In case you haven&amp;rsquo;t found the answer for your question please feel free to contact us, our customer support will be happy to help you.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OthloTech とは?</title>
+      <link>http://www.othlo.tech/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;othlotechとは&#34;&gt;OthloTechとは&lt;/h1&gt;
+
+&lt;p&gt;OthloTech(オスロテック)は「名古屋にクリエイティブな学生のコミュニティを作ろう」という思いから、2016年5月に立ち上がりました。
+OthloTechでは、名古屋の学生エンジニア・学生デザイナーが集まり、チーム開発や勉強会イベントを開催しています。&lt;/p&gt;
+
+&lt;h2 id=&#34;othlotechの目標-目的&#34;&gt;OthloTechの目標/目的&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;学内ではなかなか出会えない専門知識を持った優秀な学生との横のつながりを広げます&lt;/li&gt;
+&lt;li&gt;お互いに刺激を与え合い、楽しく技術を磨けるコミュニティを名古屋に作ります&lt;/li&gt;
+&lt;li&gt;学生ならではのサービスを開発して世の中をちょっぴり豊かにします&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;また、チーム開発の楽しさを知りうまく活用することで、一人では成し遂げられなかったものを作り上げる達成感や経験を積むことも目的としています。&lt;/p&gt;
+
+&lt;h2 id=&#34;othlotechの活動&#34;&gt;OthloTechの活動&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;学生エンジニア/デザイナー向けの勉強会を月に1回開催しています&lt;/li&gt;
+&lt;li&gt;学生ならではのサービスを開発・運用しています&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;othlotechへの参加&#34;&gt;OthloTechへの参加&lt;/h2&gt;
+
+&lt;p&gt;月に1回、学生であれば誰でも参加できる勉強会イベント(OthloEvent)を開催しています。
+勉強会は&lt;a href=&#34;http://othlotech.connpass.com&#34; target=&#34;_blank&#34;&gt;connpass&lt;/a&gt;を通して参加申し込みが可能です。
+新しいイベントはOthloTechの&lt;a href=&#34;https://www.facebook.com/othlotech/&#34; target=&#34;_blank&#34;&gt;Facebook&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/othlotech&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;, &lt;a href=&#34;http://www.othlo.tech&#34; target=&#34;_blank&#34;&gt;公式サイト&lt;/a&gt;で告知しています。&lt;/p&gt;
+
+&lt;p&gt;過去のイベントには以下の大学・専門学校生が参加しています。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;名古屋大学、名古屋工業大学、名古屋市立大学、名城大学、愛知工業大学、中京大学、中部大学、南山大学、静岡大学、岐阜大学、トライデントコンピュータ専門学校、名古屋工学院専門学校、鈴鹿工業高等専門学校など&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;沿革&#34;&gt;沿革&lt;/h2&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;年&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;月&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2016年&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;5月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;OthloTechを結成&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.othlo.tech/events/othloevent01-shake/&#34;&gt;学生LT &amp;amp; クイズ大会&lt;/a&gt;を開催&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;6月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.othlo.tech/events/othloevent02-ateam/&#34;&gt;株式会社エイチームとのコラボ勉強会&lt;/a&gt;を開催&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;7月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.othlo.tech/events/othloevent03-misoca/&#34;&gt;株式会社Misocaとのコラボ勉強会&lt;/a&gt;を開催&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;8月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;東海最大規模の学生ハッカソン&lt;a href=&#34;http://www.othlo.tech/events/othlohack2016/&#34;&gt;OthloHack2016&lt;/a&gt;を開催&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;TECH_SALONとのコラボ勉強会を開催&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;9月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.othlo.tech/events/othloevent04-shake/&#34;&gt;学生LT大会&lt;/a&gt;を開催&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;10月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.othlo.tech/events/othloevent05-goodfind/&#34;&gt;GoodFindとのコラボ勉強会&lt;/a&gt;を開催&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;11月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.othlo.tech/events/othloevent07-yahoo/&#34;&gt;ヤフー株式会社とのコラボ勉強会&lt;/a&gt;を開催&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;12月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;LINE株式会社の&lt;a href=&#34;http://line-hr.jp/archives/48845196.html&#34;&gt;LINE BOT CARAVAN&lt;/a&gt; 名古屋会場の運営補助&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;企業-団体の方へ&#34;&gt;企業・団体の方へ&lt;/h2&gt;
+
+&lt;p&gt;OthloTechでは、弊団体のイベント・プロダクト・その他活動にご賛同いただき、ご協賛頂ける企業・団体を募集しています。&lt;/p&gt;
+
+&lt;p&gt;お問合わせは&lt;a href=&#34;http://www.othlo.tech/contact&#34;&gt;こちら&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

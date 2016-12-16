@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OthloTech -学生クリエイティブ集団-</title>
+    <link>http://www.othlo.tech/tags/bitcoin/index.xml</link>
+    <description>Recent content on OthloTech -学生クリエイティブ集団-</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
+    <atom:link href="http://www.othlo.tech/tags/bitcoin/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ブロックチェーンってなに？</title>
+      <link>http://www.othlo.tech/blogs/blockchain/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/blogs/blockchain/</guid>
+      <description>
+
+&lt;h1 id=&#34;ブロックチェーンってなに&#34;&gt;ブロックチェーンってなに?&lt;/h1&gt;
+
+&lt;p&gt;こんにちは！&lt;/p&gt;
+
+&lt;p&gt;OthloTechのブログ初投稿になります。私、たつま&lt;a href=&#34;https://twitter.com/tatsutatsu103&#34;&gt;@tatsutasu103&lt;/a&gt;です。&lt;/p&gt;
+
+&lt;p&gt;今回のblogは以下に当てはまる人が対象です！&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;金儲けしたい人&lt;/li&gt;
+&lt;li&gt;小銭儲けしたい人&lt;/li&gt;
+&lt;li&gt;財布を潤したい人&lt;/li&gt;
+&lt;li&gt;お金は欲しいけど、肉体労働したくない人&lt;/li&gt;
+&lt;li&gt;不労所得で生きていきたい人&lt;/li&gt;
+&lt;li&gt;とりあえず、お金が欲しい人&amp;hellip;&lt;/li&gt;
+&lt;li&gt;etc,,,&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;こんな人たちに&lt;strong&gt;Bitcoin&lt;/strong&gt;を教えちゃいます。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161124/bitcoin.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;bitcoin&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;でもBitcoinを始めるにはそれを支える技術である、&lt;strong&gt;ブロックチェーン&lt;/strong&gt; について理解しなければなりません。&lt;/p&gt;
+
+&lt;p&gt;そこで今回は、&lt;strong&gt;ブロックチェーン&lt;/strong&gt; をご紹介します。&lt;/p&gt;
+
+&lt;p&gt;(もちろん、Bitcoinも出てきますよ！(￣ー￣)v)&lt;/p&gt;
+
+&lt;h2 id=&#34;ブロックチェーンとは&#34;&gt;ブロックチェーンとは??&lt;/h2&gt;
+
+&lt;p&gt;一言で行ってしまうと&lt;/p&gt;
+
+&lt;h4 id=&#34;bitcoinの取引履歴-です&#34;&gt;&lt;strong&gt;&lt;em&gt;Bitcoinの取引履歴&lt;/em&gt;&lt;/strong&gt; です。&lt;/h4&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161124/blockchain.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;blockchain&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;ここから詳しく説明していきますね！&lt;/p&gt;
+
+&lt;p&gt;わかりやすくいうと&amp;hellip;&lt;/p&gt;
+
+&lt;h4 id=&#34;ブロックチェーンは-すでにマイニング-採掘-されて世に存在するビットコインのやりとりのすべてを記録した-ビットコインの取引記録-です&#34;&gt;&lt;strong&gt;&lt;em&gt;ブロックチェーンは、すでにマイニング(採掘)されて世に存在するビットコインのやりとりのすべてを記録した「ビットコインの取引記録」です&lt;/em&gt;&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;by&lt;a href=&#34;http://gigazine.net/news/20140307-what-is-bitcoin-2nd/&#34;&gt;仮想通貨「Bitcoin」を完璧に理解するために知っておきたいことまとめ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;つまり&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Bitcoinのブロックチェーンとは、Bitcoinの通貨がどこからどこに送ったということが&lt;strong&gt;記録されている履歴&lt;/strong&gt; ということ！。&lt;/br&gt;
+そして、そのデータは一つの場所に保存されているのではなく、&lt;strong&gt;取引記録は、Bitcoinのネットワークに参加しているコンピュータに分散されて保存&lt;/strong&gt; されています！&lt;/p&gt;
+
+&lt;p&gt;ブロックチェーンは、取引記録(トランザクション)を一つのブロックにまとめて、そのブロックをチェーン(鎖)のようにつなげて保存したものになります。
+&lt;strong&gt;&lt;em&gt;チェーン状に繋げることで、データの変更、改ざんが実質不可能になります。&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;鎖のように繋がれているの意味&#34;&gt;鎖のように繋がれているの意味&lt;/h4&gt;
+
+&lt;p&gt;チェーン状にデータが入っているブロックって??いきなりなんだよーって話なんですが、&lt;/br&gt;
+取引データを単に保存しているデータベースは鎖のようにデータが結びついていないので、上記のような形態ではありません。&lt;/p&gt;
+
+&lt;p&gt;鎖のようにというのは、*&lt;strong&gt;１つ前のブロックのハッシュ値が次のブロックの中に含まれている&lt;/strong&gt; からそう呼ばれています。&lt;/p&gt;
+
+&lt;h2 id=&#34;ブロックチェーン情報を確認する&#34;&gt;ブロックチェーン情報を確認する&lt;/h2&gt;
+
+&lt;p&gt;ブロックチェーンの情報は全世界の人に公開されています。&lt;/p&gt;
+
+&lt;p&gt;以下が、Bitcoinのブロックチェーンを確認するための有名なサイトになります。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blockchain.info/&#34;&gt;Bitcoin Block Explorer - blockchain.info&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;終わりに&#34;&gt;終わりに&lt;/h2&gt;
+
+&lt;p&gt;今回はブロックチェーンについて紹介しました。ブロックチェーン技術はBitcoinに使われている技術だけではなく、
+世界的なOSSプロジェクトである、「&lt;a href=&#34;https://www.hyperledger.org/&#34;&gt;Hyper Ledger project&lt;/a&gt;」や「&lt;a href=&#34;http://www.enigma.co/&#34;&gt;Enigma&lt;/a&gt;」にも応用され、使われております。&lt;/p&gt;
+
+&lt;p&gt;これからあらゆる分野で活躍が期待されている技術であるので、ぜひ学んでみる価値があります。&lt;/p&gt;
+
+&lt;h2 id=&#34;bitcoinをより知りたい&#34;&gt;Bitcoinをより知りたい。&lt;/h2&gt;
+
+&lt;p&gt;参考になるサイトを紹介します。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/cookle/5-58379474&#34;&gt;5分でわかるブロックチェーンの基本的な仕組み&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gigazine.net/news/20140307-what-is-bitcoin-2nd/&#34;&gt;仮想通貨「Bitcoin」を完璧に理解するために知っておきたいことまとめ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wazanova.jp/items/1314&#34;&gt;ブロックチェーンをもう一段階深く理解する&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/hshimo/items/bd849363a871966a923f&#34;&gt;ビットコインのブロックチェーンの技術的な説明 まとめ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blocktech.hateblo.jp/&#34;&gt;ブロックチェーン技術ブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/hshimo/items/1881fba8957c2a6e17ca&#34;&gt;ブロックチェーンについて&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://qiita.com/hshimo/items/8104dc2c4ad35720013e&#34;&gt;ビットコイン2.0 とは? Bitcoin 2.0 資料まとめ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
