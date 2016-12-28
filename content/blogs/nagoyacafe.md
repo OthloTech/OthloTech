@@ -2,7 +2,7 @@
 slug = 'nagoyacafe'
 title = "名古屋にある開発にオススメなカフェ"
 date = "2016-12-29"
-categories = ["カフェ", "名古屋オススメスポット"]
+categories = ["開発環境(物理)"]
 tags = ["Cafe", "Nagoya"]
 banner = 'images/banners/blogs/nagoyacafecover.jpg'
 +++
