@@ -48,4 +48,6 @@ pages/
 # scss
 static/css
 
+# Mac
+*.rdb
 
