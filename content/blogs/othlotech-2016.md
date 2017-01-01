@@ -1,6 +1,6 @@
 +++
 slug = "othlotech-2016"
-title = "2016年の総括と今後のOthloTech"
+title = "2016年の総括と今後のOthloTechについて"
 date = "2017-01-01"
 categories = ["OthloTech"]
 tags = ["お知らせ"]
@@ -11,7 +11,7 @@ banner = 'images/banners/blogs/bye2016.jpg'
 
 こんにちは、OthloTech代表の[@pokohide](https://twitter.com/hyde141421356)です。
 
-この記事では、OthloTechについて簡単に紹介した後、今年の活動を振り返りながら、OthloTechの今後について語れればと思います。
+この記事では、OthloTechについて簡単に紹介した後、昨年の活動を振り返りながら、OthloTechの今後について語れればと思います。
 
 ## OthloTechについて
 
