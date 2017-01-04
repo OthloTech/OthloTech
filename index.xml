@@ -7,8 +7,91 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Thu, 22 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.othlo.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2016年の総括と今後のOthloTechについて</title>
+      <link>http://www.othlo.tech/blogs/othlotech-2016/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/blogs/othlotech-2016/</guid>
+      <description>
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20170101/bye2016.jpg&#34; alt=&#34;ByeBye 2016&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;こんにちは、OthloTech代表の&lt;a href=&#34;https://twitter.com/hyde141421356&#34;&gt;@pokohide&lt;/a&gt;です。&lt;/p&gt;
+
+&lt;p&gt;この記事では、OthloTechについて簡単に紹介した後、昨年の活動を振り返りながら、OthloTechの今後について語れればと思います。&lt;/p&gt;
+
+&lt;h2 id=&#34;othlotechについて&#34;&gt;OthloTechについて&lt;/h2&gt;
+
+&lt;p&gt;OthloTechは &lt;strong&gt;名古屋近辺のWeb系、IT系、技術系に興味のある学生エンジニア・デザイナーが集まるコミュニティ&lt;/strong&gt; です。&lt;/p&gt;
+
+&lt;p&gt;OthloTechを作った経緯に関しては一緒に立ち上げた矢崎が&lt;a href=&#34;http://qiita.com/advent-calendar/2016/othlotech&#34;&gt;OthloTech Advent Calendar 2016&lt;/a&gt;の1日目に語ってくれたのでここで改めて紹介します。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.othlo.tech/blogs/othlotech-launch-story&#34;&gt;名古屋のテック系学生団体「OthloTech」を創った経緯&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;現在は月に1,2回、学生限定の勉強会やイベントを開催して、そこでのコミュニティづくりなどを行っています。&lt;/p&gt;
+
+&lt;h2 id=&#34;運営体制&#34;&gt;運営体制&lt;/h2&gt;
+
+&lt;p&gt;OthloTechでは立ち上げ当初から、連絡やミーティングは&lt;a href=&#34;https://slack.com/&#34;&gt;Slack&lt;/a&gt;や&lt;a href=&#34;https://github.com/&#34;&gt;GitHub&lt;/a&gt;を使用してきました。
+このブログをプルリクベースでマージ・デプロイをするようにエンジニア・デザイナーだけでなく、広報スタッフもGitHubやSlackを使っています。&lt;/p&gt;
+
+&lt;p&gt;またミーティングでは、&lt;a href=&#34;https://hackmd.io/&#34;&gt;hackmd&lt;/a&gt;を用いてリアルでミーティングに参加している人とリモートで参加している人が同時に見れるように意識していたり、定期的なミーティングを行わないからこその環境を構築してきました。&lt;/p&gt;
+
+&lt;p&gt;各イベントごとのレポートも当初は主催者や参加していた運営メンバーが書いていましたが、広報スタッフや撮影スタッフなどの役職を与えることでそれぞれの役割分担を明確にしたり、運営体制の変更も逐次行ってきました。&lt;/p&gt;
+
+&lt;p&gt;まだ立ち上げて7ヶ月ほどしか経っていないからこそ、色々と確立的なことがないので大変ではありましたが、運営面でも成長を感じられる年だったと思います。&lt;/p&gt;
+
+&lt;h2 id=&#34;2016年のまとめ&#34;&gt;2016年のまとめ&lt;/h2&gt;
+
+&lt;p&gt;今年は学生限定のLT大会だったり、企業とコラボをしてのハッカソンや、ハンズオン形式の勉強会だったりと全部で &lt;strong&gt;13&lt;/strong&gt; ものイベントに携わってきて、合計300名近くの方に参加していただきました。&lt;/p&gt;
+
+&lt;p&gt;また、当初3人だった運営メンバーも、イベントを開くにつれて増えていき、今では10名ほどとなりました。&lt;/p&gt;
+
+&lt;p&gt;OthloTechのイベントに参加してくれた学生たちが、他の勉強会やイベントに参加して結果的に東海圏のIT界隈が盛り上がればいいなと思っています。&lt;/p&gt;
+
+&lt;p&gt;過去のイベントは&lt;a href=&#34;https://othlotech.connpass.com/&#34;&gt;connpassページ&lt;/a&gt;や&lt;a href=&#34;http://www.othlo.tech/events/&#34;&gt;イベントレポート&lt;/a&gt;で確認できます。&lt;/p&gt;
+
+&lt;h2 id=&#34;今後の発展&#34;&gt;今後の発展&lt;/h2&gt;
+
+&lt;p&gt;これからも月に1,2度のペースで勉強会やイベントを開催していきます。&lt;/p&gt;
+
+&lt;p&gt;もちろんそのイベント内容に興味を持って来ていただいたほうがもちろん嬉しいのですが、それだけではなくて、「OthloTechのイベントに行けば同じ分野の人と話せる」だったり、「友達が行くから喋りたいし行ってみるかー」みたいに気軽に参加してもらえればと思います。&lt;/p&gt;
+
+&lt;p&gt;そんな感じでふら～っと来ていただいたイベントで、もしかしたら面白い人に出会えるかもしれないですし、運命的な言語との出会いがあるかもしれません（笑）&lt;/p&gt;
+
+&lt;p&gt;このように、イベントに参加する！というよりもOthloTechというコミュニティに参加しに行くみたいにゆるふわに接していただくためにも、今年はOthloTechとして無料のシェアスペースを持とうと考えています。&lt;/p&gt;
+
+&lt;p&gt;そこに行けば誰かがいて、いつでもイベントの懇親会で楽しく話すように語り合えたり、そこで一緒に勉強が出来たり、気軽にLTが出来たり、自分主催で勉強会を開いてみたり。&lt;/p&gt;
+
+&lt;p&gt;無料スペースの開設に尽力するとともに、今まで通り勉強会やイベントにも力を入れていくので是非とも今年もよろしくお願いします＼(^o^)／&lt;/p&gt;
+
+&lt;p&gt;イベント参加してね(・∀・)👍&lt;/p&gt;
+
+&lt;h2 id=&#34;さいごに&#34;&gt;さいごに&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;OthloTech&lt;/strong&gt; は今年の5月に作ってまだ半年ほどしか経っていないのですが色々な企業の方や、東海圏以外の学生にまで
+広く認知していただいているようで、嬉しい半面、本当に今まで東海にはそういったコミュニティはなかったのだなと感じます。&lt;/p&gt;
+
+&lt;p&gt;だからこそ、発展のしがいもあるし、需要があると信じているのでこれからも運営一同頑張っていきたいと思いますので今年も
+よろしくお願い致します。&lt;/p&gt;
+
+&lt;p&gt;来期も引き続き、@pokohideが代表を務めさせていただきます。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>スマホでいい感じの写真を撮るために覚えておくといい４つのこと</title>
@@ -3381,62 +3464,6 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
 &lt;/ul&gt;
 
 &lt;p&gt;ありがとうございました！！&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>FAQ</title>
-      <link>http://www.othlo.tech/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.othlo.tech/faq/</guid>
-      <description>
-
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
-
-&lt;h2 id=&#34;1-what-to-do-if-i-have-still-not-received-the-order&#34;&gt;1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?&lt;/h2&gt;
-
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
-&lt;li&gt;Vestibulum auctor dapibus neque.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;2-what-are-the-postal-rates&#34;&gt;2. WHAT ARE THE POSTAL RATES?&lt;/h2&gt;
-
-&lt;p&gt;Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven&amp;rsquo;t heard of them accusamus labore sustainable VHS.&lt;/p&gt;
-
-&lt;h2 id=&#34;3-do-you-send-overseas&#34;&gt;3. DO YOU SEND OVERSEAS?&lt;/h2&gt;
-
-&lt;p&gt;Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven&amp;rsquo;t heard of them accusamus labore sustainable VHS.&lt;/p&gt;
-
-&lt;h2 id=&#34;4-why-are-you-more-expensive-than-others&#34;&gt;4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?&lt;/h2&gt;
-
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
-&lt;li&gt;Vestibulum auctor dapibus neque.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;5-another-important-question&#34;&gt;5. ANOTHER IMPORTANT QUESTION&lt;/h2&gt;
-
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
-&lt;li&gt;Vestibulum auctor dapibus neque.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;In case you haven&amp;rsquo;t found the answer for your question please feel free to contact us, our customer support will be happy to help you.&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
