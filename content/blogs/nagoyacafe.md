@@ -18,9 +18,17 @@ OthloTechのごまき([@gmsesame](https://twitter.com/gmsesame))です。
 私は、自宅以外でするようにしています。自宅はリラックスして寝るだけの場所！と決めて、作業場所と分けないとダラけてしまうので＞＜
 
 今回は、名古屋市内で作業するのにオススメなカフェを紹介したいと思います！
-もちろん、Wi-fiと電源も完備！
+もちろん、Wi-Fiと電源も完備！
 
 # 名古屋にある開発にオススメなカフェ！
+
+今ブログでは以下の５つのカフェを紹介します。
+1.<http://shirucafe.com/|知るカフェ　名古屋大学前店>
+2.<https://tabelog.com/aichi/A2301/A230103/23003074/|スターバックス　栄チェリープラザ店>
+3.<https://tabelog.com/aichi/A2301/A230101/23030946/|PRONTO-プロント- 名古屋ビルディング店>
+4.<https://tabelog.com/aichi/A2301/A230113/23051299/|Cafe Concent>
+5.<https://tabelog.com/aichi/A2301/A230106/23059717/|ガスト 今池駅前店>
+
 ## 知るカフェ　名古屋大学前店
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">本日26日(月)と明日27日(火)も知るカフェは営業しております😊<br>12:00〜20:00の短縮営業です。<br><br>学期末レポートや課題をひと足早く終わらせて、素敵な冬休みを迎えましょう⛄️🌟<br><br>コーヒーや紅茶をお供にどうぞ☕️<br>とってもはかどりますよ😳<br><br>お待ちしております！ <a href="https://t.co/joyd8ZrC3Q">pic.twitter.com/joyd8ZrC3Q</a></p>&mdash; 知るカフェ@名古屋大学前店（4号店） (@shirucafe04) <a href="https://twitter.com/shirucafe04/status/813258243346546688">December 26, 2016</a></blockquote>
@@ -51,7 +59,7 @@ OthloTechもミーティングで利用してますよ〜！
 |住所|名古屋市昭和区山手通り1-17-1　シャンボール山手A棟|
 ||名古屋大学から徒歩2分|
 |座席数|35席禁煙（カウンターあり）|
-|電源・Wi-fi|両方あり|
+|電源・Wi-Fi|両方あり|
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3262.165943941085!2d136.96399531524426!3d35.15248198032096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDA5JzA4LjkiTiAxMzbCsDU3JzU4LjMiRQ!5e0!3m2!1sja!2sus!4v1482940484383" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -78,7 +86,7 @@ OthloTechもミーティングで利用してますよ〜！
 |住所|愛知県名古屋市中区栄3-19-8 チェリープラザ02|
 ||名古屋市営地下鉄名城線 矢場町駅から469m|
 |座席数|？(たくさん)|
-|電源・Wi-fi|両方あり|
+|電源・Wi-Fi|両方あり|
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3261.639444165378!2d136.90229441558225!3d35.16561183031763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600370d2e59b9a61%3A0x1ab7014348e49a61!2z44CSNDYwLTAwMDgg5oSb55-l55yM5ZCN5Y-k5bGL5biC5Lit5Yy65qCE77yT5LiB55uu77yR77yZ4oiS77yYIOaghOODn-ODiuODn-W5s-WSjOODk-ODqw!5e0!3m2!1sja!2sjp!4v1482942977839" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -99,7 +107,7 @@ OthloTechもミーティングで利用してますよ〜！
 |住所|愛知県 名古屋市中村区 名駅 4-6-17 名古屋ビルディング Ｂ１Ｆ|
 ||名古屋地下鉄東山線名古屋駅5番出口より徒歩2分|
 |座席数|60席 （テーブル60席）|
-|電源・Wi-fi|電源のみ|
+|電源・Wi-Fi|両方あり|
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6523.000700366571!2d136.88256099966887!3d35.16907984253476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd9f7c64cf5a5d212!2z44OX44Ot44Oz44OIIOWQjeWPpOWxi-ODk-ODq-ODh-OCo-ODs-OCsOW6lw!5e0!3m2!1sja!2sus!4v1483954253591" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -124,7 +132,7 @@ OthloTechもミーティングで利用してますよ〜！
 |住所|愛知県名古屋市中村区椿町3-19 ウイングビル 2F|
 ||地下鉄東山線 名古屋駅 西7番出口 徒歩1分|
 |座席数|100席|
-|電源・Wi-fi|電源のみ|
+|電源・Wi-Fi|電源のみ|
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3261.4028397334214!2d136.87650536558246!3d35.17151088031636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600376e8b5122c61%3A0xe01bd86c107095d9!2z5pel5pysLCDjgJI0NTMtMDAxNSDmhJvnn6XnnIzlkI3lj6TlsYvluILkuK3mnZHljLrmpL_nlLrvvJPiiJLvvJHvvJkg44Km44Kk44Oz44Kw44OT44Or!5e0!3m2!1sja!2sus!4v1483958019424" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -144,7 +152,7 @@ OthloTechもミーティングで利用してますよ〜！
 |住所|愛知県名古屋市千種区今池4-9-23|
 ||名古屋市営地下鉄　今池駅から徒歩１分|
 |座席数|？(広々しています・駐車場もアリ)|
-|電源・Wi-fi|電源のみ|
+|電源・Wi-Fi|電源のみ|
 
 # 長居に注意！
 カフェはおしゃれなBGMも流れているし美味しいコーヒーもあるので、ついつい開発に夢中になってしまって長居しがちですね。
