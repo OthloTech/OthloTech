@@ -1,8 +1,8 @@
 +++
 slug = 'nagoyacafe'
 title = "名古屋にある開発にオススメなカフェ5選"
-date = "2016-1-12"
-categories = ["開発環境(物理)"]
+date = "2017-1-12"
+categories = ["雑記"]
 tags = ["Cafe", "Nagoya"]
 banner = 'images/banners/blogs/nagoyacafecover.jpg'
 +++
@@ -23,11 +23,17 @@ OthloTechのごまき([@gmsesame](https://twitter.com/gmsesame))です。
 # 名古屋にある開発にオススメなカフェ！
 
 今ブログでは以下の５つのカフェを紹介します。
-1.<http://shirucafe.com/|知るカフェ　名古屋大学前店>
-2.<https://tabelog.com/aichi/A2301/A230103/23003074/|スターバックス　栄チェリープラザ店>
-3.<https://tabelog.com/aichi/A2301/A230101/23030946/|PRONTO-プロント- 名古屋ビルディング店>
-4.<https://tabelog.com/aichi/A2301/A230113/23051299/|Cafe Concent>
-5.<https://tabelog.com/aichi/A2301/A230106/23059717/|ガスト 今池駅前店>
+
+1.知るカフェ　名古屋大学前店
+
+2.スターバックス　栄チェリープラザ店
+
+3.PRONTO-プロント- 名古屋ビルディング店
+
+4.Cafe Concent
+
+5.ガスト 今池駅前店
+
 
 ## 知るカフェ　名古屋大学前店
 
