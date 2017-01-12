@@ -1,7 +1,7 @@
 +++
 slug = 'nagoyacafe'
 title = "名古屋にある開発にオススメなカフェ5選"
-date = "2017-1-12"
+date = "2017-01-12"
 categories = ["雑記"]
 tags = ["Cafe", "Nagoya"]
 banner = 'images/banners/blogs/nagoyacafecover.jpg'
@@ -50,7 +50,9 @@ OthloTechのごまき([@gmsesame](https://twitter.com/gmsesame))です。
 
 また、**持ち込み可＆近くにコンビニ**もあるので、１杯を飲み終わってもずっと作業可能です。
 
-もちろん、Wi-fiと電源も使えます。Wi-fiは、私の在学する名古屋大学のものよりは速い印象です。
+(追記：2017年2月頃から軽食の有料販売を開始、それに伴って持ち込みが禁止になるようです。)
+
+もちろん、Wi-Fiと電源も使えます。Wi-Fiは、私の在学する名古屋大学のものよりは速い印象です。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">知るカフェでmtgしてる怪しい集団やってました <a href="https://t.co/Al2AePtQml">pic.twitter.com/Al2AePtQml</a></p>&mdash; ごまき (@gmsesame) <a href="https://twitter.com/gmsesame/status/790915656141139969">October 25, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -66,6 +68,7 @@ OthloTechもミーティングで利用してますよ〜！
 ||名古屋大学から徒歩2分|
 |座席数|35席禁煙（カウンターあり）|
 |電源・Wi-Fi|両方あり|
+|URL|http://shirucafe.com/|
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3262.165943941085!2d136.96399531524426!3d35.15248198032096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDA5JzA4LjkiTiAxMzbCsDU3JzU4LjMiRQ!5e0!3m2!1sja!2sus!4v1482940484383" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -93,6 +96,7 @@ OthloTechもミーティングで利用してますよ〜！
 ||名古屋市営地下鉄名城線 矢場町駅から469m|
 |座席数|？(たくさん)|
 |電源・Wi-Fi|両方あり|
+|URL|http://www.starbucks.co.jp/store/search/detail.php?id=364|
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3261.639444165378!2d136.90229441558225!3d35.16561183031763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600370d2e59b9a61%3A0x1ab7014348e49a61!2z44CSNDYwLTAwMDgg5oSb55-l55yM5ZCN5Y-k5bGL5biC5Lit5Yy65qCE77yT5LiB55uu77yR77yZ4oiS77yYIOaghOODn-ODiuODn-W5s-WSjOODk-ODqw!5e0!3m2!1sja!2sjp!4v1482942977839" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -114,6 +118,7 @@ OthloTechもミーティングで利用してますよ〜！
 ||名古屋地下鉄東山線名古屋駅5番出口より徒歩2分|
 |座席数|60席 （テーブル60席）|
 |電源・Wi-Fi|両方あり|
+|URL|https://tabelog.com/aichi/A2301/A230101/23030946/|
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6523.000700366571!2d136.88256099966887!3d35.16907984253476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd9f7c64cf5a5d212!2z44OX44Ot44Oz44OIIOWQjeWPpOWxi-ODk-ODq-ODh-OCo-ODs-OCsOW6lw!5e0!3m2!1sja!2sus!4v1483954253591" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -121,7 +126,7 @@ OthloTechもミーティングで利用してますよ〜！
 
 こちらは大学の友人からオススメされたカフェです。名古屋駅近くにあり、電源が使えます。
 
-また、周囲にキャリア系のWi-fiも多く飛んでおり、サクサクと作業が進められます。
+また、周囲にキャリア系のWi-Fiも多く飛んでおり、サクサクと作業が進められます。
 
 名駅周辺にあり、軽食のメニューも豊富なので就職活動の面接の合間や新幹線の待ち時間にいかがでしょうか？
 
@@ -139,6 +144,7 @@ OthloTechもミーティングで利用してますよ〜！
 ||地下鉄東山線 名古屋駅 西7番出口 徒歩1分|
 |座席数|100席|
 |電源・Wi-Fi|電源のみ|
+|URL|https://tabelog.com/aichi/A2301/A230113/23051299/|
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3261.4028397334214!2d136.87650536558246!3d35.17151088031636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600376e8b5122c61%3A0xe01bd86c107095d9!2z5pel5pysLCDjgJI0NTMtMDAxNSDmhJvnn6XnnIzlkI3lj6TlsYvluILkuK3mnZHljLrmpL_nlLrvvJPiiJLvvJHvvJkg44Km44Kk44Oz44Kw44OT44Or!5e0!3m2!1sja!2sus!4v1483958019424" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -159,6 +165,7 @@ OthloTechもミーティングで利用してますよ〜！
 ||名古屋市営地下鉄　今池駅から徒歩１分|
 |座席数|？(広々しています・駐車場もアリ)|
 |電源・Wi-Fi|電源のみ|
+|URL|https://tabelog.com/aichi/A2301/A230106/23059717/|
 
 # 長居に注意！
 カフェはおしゃれなBGMも流れているし美味しいコーヒーもあるので、ついつい開発に夢中になってしまって長居しがちですね。
