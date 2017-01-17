@@ -76,7 +76,7 @@ Xamarinの歴史やXamarinでできることなどを紹介していただきま
 
 ### ハンズオン MSP 玉木([@r_ralph_h](https://twitter.com/r_ralph_h))
 
-Xamarin.Formsを用いてXamarin Dev Daysの本社スピーカーもリストと、その人の詳細を表示するアプリを作成しました。
+Xamarin.Formsを用いてXamarin Dev Daysの本社スピーカーのリストと、その人の詳細を表示するアプリを作成しました。
 
 {{< image src="/images/events/2017-01-15/xamarin_demo.gif" alt="Xamarin.Forms" >}}  
 
