@@ -84,7 +84,7 @@ iOS Simulatorで実行していますが、もちろんAndroidでも実行可能
 
 ハンズオン中たまに見えるデスクトップが気になって仕方がなかったため、休憩中に無理を言って見せてもらいました。
 
-<a href="/images/events/2017-01-15/DSC2349.JPG">{{< image src="/images/events/2017-01-15/DSC2349.PNG" alt="デスクトップ" >}}</a>
+<a href="/images/events/2017-01-15/DSC2350.JPG">{{< image src="/images/events/2017-01-15/DSC2349.JPG" alt="デスクトップ" >}}</a>
 
 （画像クリックで無加工の画像を開けますが **自己責任** で。）
 
