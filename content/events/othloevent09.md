@@ -1,5 +1,5 @@
 +++
-slug = "othloevent09-Xamarin"
+slug = "othloevent09-xamarin"
 event_tags = ["Xamarin", "OthloEvent", "Misoca", "ハンズオン"]
 date = "2017-01-15"
 title = "OthloEvent@Xamarin #9"
@@ -65,7 +65,7 @@ MSPとは、マイクロソフトが全世界で展開する学生向けのパ�
 
 Xamarinの歴史やXamarinでできることなどを紹介していただきました。JXUGについて興味がある方はコンタクトを取っててみるといいかも。
 
-{{< image src="/images/events/2017-01-15/DSC2332.JPG" alt="田淵さん" >}}  
+{{< image src="/images/events/2017-01-15/xamarin-ytabuchi.jpg" alt="田淵さん" >}}  
 
 ### Xamarin + Azure Mobile Apps, JXUG 久米([@Fumiya_Kume](https://twitter.com/Fumiya_Kume))
 
@@ -84,7 +84,7 @@ iOS Simulatorで実行していますが、もちろんAndroidでも実行可能
 
 ハンズオン中たまに見えるデスクトップが気になって仕方がなかったため、休憩中に無理を言って見せてもらいました。
 
-<a href="/images/events/2017-01-15/DSC2350.JPG">{{< image src="/images/events/2017-01-15/DSC2349.JPG" alt="デスクトップ" >}}</a>
+<a href="/images/events/2017-01-15/desktop-original.jpg">{{< image src="/images/events/2017-01-15/desktop-preview.jpg" alt="デスクトップ" >}}</a>
 
 （画像クリックで無加工の画像を開けますが **自己責任** で。）
 
@@ -99,7 +99,7 @@ iOS Simulatorで実行していますが、もちろんAndroidでも実行可能
 会場を貸していただいたMisocaさん、ありがとうございました！
 最後に集合写真をパチリ。
 
-{{< image src="/images/events/2017-01-15/DSC2370.JPG" alt="集合写真" >}}
+{{< image src="/images/events/2017-01-15/group-photo.jpg" alt="集合写真" >}}
 
 &nbsp;
 
