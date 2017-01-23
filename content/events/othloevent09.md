@@ -1,5 +1,5 @@
 +++
-slug = "othloevent09-Xamarin"
+slug = "othloevent09-xamarin"
 event_tags = ["Xamarin", "OthloEvent", "Misoca", "ハンズオン"]
 date = "2017-01-15"
 title = "OthloEvent@Xamarin #9"
