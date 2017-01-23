@@ -1,13 +1,232 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OthloTech -学生クリエイティブ集団-</title>
+    <title>Misoca on OthloTech -学生クリエイティブ集団-</title>
     <link>http://www.othlo.tech/event_tags/misoca/index.xml</link>
-    <description>Recent content on OthloTech -学生クリエイティブ集団-</description>
+    <description>Recent content in Misoca on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
     <atom:link href="http://www.othlo.tech/event_tags/misoca/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OthloEvent@Xamarin #9</title>
+      <link>http://www.othlo.tech/events/othloevent09-Xamarin/</link>
+      <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent09-Xamarin/</guid>
+      <description>
+
+&lt;h1 id=&#34;othloevent-xamarin-9&#34;&gt;OthloEvent@Xamarin #9&lt;/h1&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-01-15/banner.png&#34; alt=&#34;イベントバナー&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;新年あけましておめでとうございます。2017年一発目のイベントを担当します、オトモレ(&lt;a href=&#34;https://twitter.com/otomore01/&#34;&gt;@otomore01&lt;/a&gt;)です。&lt;br /&gt;
+今回は、Misocaさんの会場をお借りして&lt;a href=&#34;https://www.facebook.com/groups/xm.jxug.student/&#34;&gt;JXUG学生支部&lt;/a&gt;さん、&lt;a href=&#34;http://mspjp.net/&#34;&gt;Microsoft Student Partners&lt;/a&gt;さんとのコラボ勉強会！&lt;/p&gt;
+
+&lt;p&gt;イベントページ：&lt;a href=&#34;https://othlotech.connpass.com/event/45888/&#34;&gt;https://othlotech.connpass.com/event/45888/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;xamarinとは&#34;&gt;Xamarinとは&lt;/h2&gt;
+
+&lt;p&gt;Xamarinとは、クロスプラットフォーム開発環境の一つで、Xamarin社によって開発され2016年にMicrosoftが買収し無料化されました。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-01-15/xamarin_history.png&#34; alt=&#34;Xamarin History&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+&lt;br /&gt;
+（&lt;a href=&#34;http://xamarinandroid.blogspot.jp/2014/06/what-is-xamarin-part-i.html&#34;&gt;What is Xamarin?&lt;/a&gt;より）&lt;/p&gt;
+
+&lt;p&gt;通常モバイルアプリを開発する際、iOSならObjective-C/SwiftとXcode、AndroidならJavaとAndroid Studioを用います。（HTML5とJavaScriptを使う方法など例外もあります。）&lt;br /&gt;
+Xamarinでは、C#とVisual Sturio/Xamarin Studioを用いてiOS APIやAndroid APIを100％使用できます。また、UIを共通化するXamarin.Formsというライブラリが提供されており、C#もしくはXAMLでUIを記述し同じコードで各ネイティブのUIにマップされます。&lt;/p&gt;
+
+&lt;p&gt;詳しくは田淵さんが書いた『&lt;a href=&#34;http://www.buildinsider.net/mobile/xamarin/01&#34;&gt;10分間で分かった気になれるXamarin概要 - Build Insider&lt;/a&gt;』がわかりやすいです。&lt;/p&gt;
+
+&lt;h2 id=&#34;共催団体&#34;&gt;共催団体&lt;/h2&gt;
+
+&lt;h3 id=&#34;jxug学生支部&#34;&gt;JXUG学生支部&lt;/h3&gt;
+
+&lt;p&gt;Xamarin を愛する方のコミュニティ &lt;strong&gt;JXUG&lt;/strong&gt;(Japan Xamarin User Group)の学生支部です。&lt;/p&gt;
+
+&lt;p&gt;Facebookグループ：&lt;a href=&#34;https://www.facebook.com/groups/xm.jxug.student/&#34;&gt;https://www.facebook.com/groups/xm.jxug.student/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;microsoft-student-partners&#34;&gt;Microsoft Student Partners&lt;/h3&gt;
+
+&lt;p&gt;MSPとは、マイクロソフトが全世界で展開する学生向けのパートナープログラムです。&lt;br /&gt;
+なお、メンバー募集中とのことなので興味がある方は連絡してみてください。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mspjp.net/&#34;&gt;Microsoft Student Partners JAPAN&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h2&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;11:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;受付開始 兼 Xamarinインストール補助&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;12:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;オープニング&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;12:15&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Xamarin概要+JXUGについて, JXUG 田淵さん(&lt;a href=&#34;https://twitter.com/ytabuchi&#34;&gt;@ytabuchi&lt;/a&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Xamarin + Azure Mobile Apps, JXUG 久米(&lt;a href=&#34;https://twitter.com/Fumiya_Kume&#34;&gt;@Fumiya_Kume&lt;/a&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;休憩&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:45&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ハンズオン MSP 玉木(&lt;a href=&#34;https://twitter.com/r_ralph_h&#34;&gt;@r_ralph_h&lt;/a&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;17:15&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会 &amp;amp; LT&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:15&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;クロージング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;オープニング&#34;&gt;オープニング&lt;/h3&gt;
+
+&lt;p&gt;いつも通り各団体から簡単なご挨拶。
+&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;OthloEvent #9 始まりました！ &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/JXUG?src=hash&#34;&gt;#JXUG&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/mspjp?src=hash&#34;&gt;#mspjp&lt;/a&gt; &lt;a href=&#34;https://t.co/ijhZNbC8RS&#34;&gt;pic.twitter.com/ijhZNbC8RS&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/820468275637194754&#34;&gt;January 15, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;xamarin概要-jxugについて-jxug-田淵さん-ytabuchi-https-twitter-com-ytabuchi&#34;&gt;Xamarin概要+JXUGについて, JXUG 田淵さん(&lt;a href=&#34;https://twitter.com/ytabuchi&#34;&gt;@ytabuchi&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;Xamarinの歴史やXamarinでできることなどを紹介していただきました。JXUGについて興味がある方はコンタクトを取っててみるといいかも。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-01-15/DSC2332.JPG&#34; alt=&#34;田淵さん&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;xamarin-azure-mobile-apps-jxug-久米-fumiya-kume-https-twitter-com-fumiya-kume&#34;&gt;Xamarin + Azure Mobile Apps, JXUG 久米(&lt;a href=&#34;https://twitter.com/Fumiya_Kume&#34;&gt;@Fumiya_Kume&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://azure.microsoft.com/ja-jp/&#34;&gt;Microsoft Azure&lt;/a&gt;の特徴・簡単な使い方と、Azureを使った例を紹介していただきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;くぅさん &lt;a href=&#34;https://twitter.com/Fumiya_Kume&#34;&gt;@Fumiya_Kume&lt;/a&gt; による『Xamarin + Azure Mobile Apps』です。 &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/JXUG?src=hash&#34;&gt;#JXUG&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/mspjp?src=hash&#34;&gt;#mspjp&lt;/a&gt; &lt;a href=&#34;https://t.co/rU9HM4gfmD&#34;&gt;pic.twitter.com/rU9HM4gfmD&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/820484883667558400&#34;&gt;January 15, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;ハンズオン-msp-玉木-r-ralph-h-https-twitter-com-r-ralph-h&#34;&gt;ハンズオン MSP 玉木(&lt;a href=&#34;https://twitter.com/r_ralph_h&#34;&gt;@r_ralph_h&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;Xamarin.Formsを用いてXamarin Dev Daysの本社スピーカーのリストと、その人の詳細を表示するアプリを作成しました。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-01-15/xamarin_demo.gif&#34; alt=&#34;Xamarin.Forms&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;iOS Simulatorで実行していますが、もちろんAndroidでも実行可能。&lt;/p&gt;
+
+&lt;p&gt;ハンズオン中たまに見えるデスクトップが気になって仕方がなかったため、休憩中に無理を言って見せてもらいました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.othlo.tech/images/events/2017-01-15/DSC2350.JPG&#34;&gt;
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-01-15/DSC2349.JPG&#34; alt=&#34;デスクトップ&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;（画像クリックで無加工の画像を開けますが &lt;strong&gt;自己責任&lt;/strong&gt; で。）&lt;/p&gt;
+
+&lt;p&gt;ハンズオンの資料はこちら：&lt;a href=&#34;https://github.com/chomado/xamarin-dev-doc&#34;&gt;https://github.com/chomado/xamarin-dev-doc&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;懇親会-ライトニングトーク&#34;&gt;懇親会 &amp;amp; ライトニングトーク&lt;/h3&gt;
+
+&lt;p&gt;懇親会中に、登壇していただいたくぅくんと玉木さんがLTをしてくれました。&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;Misocaさんのお部屋をお借りして、&lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/JXUG?src=hash&#34;&gt;#JXUG&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/mspjp?src=hash&#34;&gt;#mspjp&lt;/a&gt; で懇親会開催してます。Misoca さん、名古屋の雄となってほしいですね！ &lt;a href=&#34;https://t.co/c7DaRObaqJ&#34;&gt;pic.twitter.com/c7DaRObaqJ&lt;/a&gt;&lt;/p&gt;&amp;mdash; 田淵 義人＠エクセルソフト (@ytabuchi) &lt;a href=&#34;https://twitter.com/ytabuchi/status/820554997666496512&#34;&gt;January 15, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;会場を貸していただいたMisocaさん、ありがとうございました！
+最後に集合写真をパチリ。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-01-15/DSC2370.JPG&#34; alt=&#34;集合写真&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h3 id=&#34;xamarinはいいぞ&#34;&gt;Xamarinはいいぞ&lt;/h3&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;und&#34; dir=&#34;ltr&#34;&gt;『 &lt;a href=&#34;https://twitter.com/hashtag/Xamarin%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E?src=hash&#34;&gt;#Xamarinはいいぞ&lt;/a&gt; 』 &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/JXUG?src=hash&#34;&gt;#JXUG&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/mspjp?src=hash&#34;&gt;#mspjp&lt;/a&gt;&lt;/p&gt;&amp;mdash; ばらっちー (@barasan_real) &lt;a href=&#34;https://twitter.com/barasan_real/status/820480222239670272&#34;&gt;January 15, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;und&#34; dir=&#34;ltr&#34;&gt;『 &lt;a href=&#34;https://twitter.com/hashtag/Xamarin%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E?src=hash&#34;&gt;#Xamarinはいいぞ&lt;/a&gt; 』&lt;br&gt; &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/JXUG?src=hash&#34;&gt;#JXUG&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/mspjp?src=hash&#34;&gt;#mspjp&lt;/a&gt;&lt;/p&gt;&amp;mdash; オトモレ (@otomore01) &lt;a href=&#34;https://twitter.com/otomore01/status/820481364218646528&#34;&gt;January 15, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;und&#34; dir=&#34;ltr&#34;&gt;「&lt;a href=&#34;https://twitter.com/hashtag/Xamarin%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E?src=hash&#34;&gt;#Xamarinはいいぞ&lt;/a&gt;」&lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/JXUG?src=hash&#34;&gt;#JXUG&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/mspjp?src=hash&#34;&gt;#mspjp&lt;/a&gt;&lt;/p&gt;&amp;mdash; かのーたつま (@tatsutatsu103) &lt;a href=&#34;https://twitter.com/tatsutatsu103/status/820482518713413632&#34;&gt;January 15, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>OthloEvent@Misoca #3</title>
