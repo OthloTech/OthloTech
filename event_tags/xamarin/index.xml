@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xamarin on OthloTech -学生クリエイティブ集団-</title>
+    <title>OthloTech -学生クリエイティブ集団-</title>
     <link>http://www.othlo.tech/event_tags/xamarin/index.xml</link>
-    <description>Recent content in Xamarin on OthloTech -学生クリエイティブ集団-</description>
+    <description>Recent content on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
@@ -11,10 +11,10 @@
     
     <item>
       <title>OthloEvent@Xamarin #9</title>
-      <link>http://www.othlo.tech/events/othloevent09-Xamarin/</link>
+      <link>http://www.othlo.tech/events/othloevent09-xamarin/</link>
       <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/events/othloevent09-Xamarin/</guid>
+      <guid>http://www.othlo.tech/events/othloevent09-xamarin/</guid>
       <description>
 
 &lt;h1 id=&#34;othloevent-xamarin-9&#34;&gt;OthloEvent@Xamarin #9&lt;/h1&gt;
@@ -142,7 +142,7 @@ Xamarinでは、C#とVisual Sturio/Xamarin Studioを用いてiOS APIやAndroid A
 &lt;figure &gt;
 
     
-        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-01-15/DSC2332.JPG&#34; alt=&#34;田淵さん&#34; /&gt;
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-01-15/xamarin-ytabuchi.jpg&#34; alt=&#34;田淵さん&#34; /&gt;
     
 
       
@@ -177,11 +177,11 @@ Xamarinでは、C#とVisual Sturio/Xamarin Studioを用いてiOS APIやAndroid A
 
 &lt;p&gt;ハンズオン中たまに見えるデスクトップが気になって仕方がなかったため、休憩中に無理を言って見せてもらいました。&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.othlo.tech/images/events/2017-01-15/DSC2350.JPG&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.othlo.tech/images/events/2017-01-15/desktop-original.jpg&#34;&gt;
 &lt;figure &gt;
 
     
-        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-01-15/DSC2349.JPG&#34; alt=&#34;デスクトップ&#34; /&gt;
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-01-15/desktop-preview.jpg&#34; alt=&#34;デスクトップ&#34; /&gt;
     
 
       
@@ -207,7 +207,7 @@ Xamarinでは、C#とVisual Sturio/Xamarin Studioを用いてiOS APIやAndroid A
 &lt;figure &gt;
 
     
-        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-01-15/DSC2370.JPG&#34; alt=&#34;集合写真&#34; /&gt;
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-01-15/group-photo.jpg&#34; alt=&#34;集合写真&#34; /&gt;
     
 
       

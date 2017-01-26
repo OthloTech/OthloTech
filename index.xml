@@ -7,721 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Sat, 12 Nov 2016 02:45:17 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.othlo.tech/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>OthloTechでの開発サイクル</title>
-      <link>http://www.othlo.tech/blogs/othlotech-dev-cycle/</link>
-      <pubDate>Sat, 12 Nov 2016 02:45:17 +0900</pubDate>
-      
-      <guid>http://www.othlo.tech/blogs/othlotech-dev-cycle/</guid>
-      <description>
-
-&lt;h1 id=&#34;othlotechでの開発サイクル&#34;&gt;OthloTechでの開発サイクル&lt;/h1&gt;
-
-&lt;p&gt;こんにちは∩(ﾟ∀ﾟ∩) &lt;a href=&#34;https://twitter.com/hyde141421356&#34;&gt;@ぽこひで&lt;/a&gt;です。&lt;/p&gt;
-
-
-&lt;figure &gt;
-
-    
-        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161113/wwothlo.png&#34;  /&gt;
-    
-
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;OthloTech公式サイト&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-      
-
-&lt;/figure&gt;
-
-
-&lt;p&gt;今日は &lt;strong&gt;OthloTech&lt;/strong&gt; ではどのように開発をしているかをこの&lt;a href=&#34;http://www.othlo.tech&#34;&gt;OthloTech公式サイト&lt;/a&gt;を例に簡単に紹介できたらと思います。
-以下、OthloTech内での通称wwOthlo(ダブダブオスロ)と呼ぶことにします！&lt;/p&gt;
-
-&lt;h2 id=&#34;目次&#34;&gt;目次&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;wwOthloの開発環境&lt;/li&gt;
-&lt;li&gt;wwOthloの開発サイクル&lt;/li&gt;
-&lt;li&gt;wwOthloの投稿フロー&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;wwothloの開発環境&#34;&gt;wwOthloの開発環境&lt;/h3&gt;
-
-&lt;p&gt;OthloTechのサイトはサーバー側は持たずに&lt;a href=&#34;https://github.com/blog/2228-simpler-github-pages-publishing&#34;&gt;GitHub Pages&lt;/a&gt;というGitHubの提供するホスティングサービスを用いてるので、基本的に静的なページ(HTML, CSS, JavaScript)などで構成されています。&lt;/p&gt;
-
-&lt;p&gt;といっても、毎回ブログ記事やイベントレポートを投稿するたびにHTMLで一から書いていては身が持たないので、そこはGo製の静的ページジェネレータ&lt;a href=&#34;http://themes.gohugo.io/&#34;&gt;Hugo&lt;/a&gt;を用いてマークダウンから静的な記事を生成しています。&lt;/p&gt;
-
-&lt;p&gt;この辺の理由とかはめちゃくちゃ簡単にですが、前々回のブログ記事&lt;a href=&#34;http://www.othlo.tech/blogs/hugo+github-pages/&#34;&gt;Hugo + GithubPages で公式サイトを作り直したお話&lt;/a&gt;で触れているのでまだ読んでない方は見てみてくださいー！&lt;/p&gt;
-
-&lt;p&gt;他に、さすがに&lt;code&gt;CSS&lt;/code&gt;で書くのはだるいので、&lt;code&gt;SCSS&lt;/code&gt;で書いていて&lt;code&gt;SCSS-Lint&lt;/code&gt;で静的なチェックは行っています。ただ、現在はテンプレートを参考にサイトを作ったこともあってまだまだ負債を抱えているので、今後解消していけたらな！って感じです。&lt;/p&gt;
-
-&lt;p&gt;一応、wwOthloは&lt;a href=&#34;https://github.com/OthloTech/OthloTech&#34;&gt;オープンソース&lt;/a&gt;で開発をしているので、もしバグを見つけたらバグレポートをするでも、&lt;code&gt;fork&lt;/code&gt;してプルリクを出していただいてもどちらかしていただけると、超喜びます。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;∩(〃･ω･〃)∩ ばんじゃーい&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;wwothloの開発サイクル&#34;&gt;wwOthloの開発サイクル&lt;/h3&gt;
-
-&lt;p&gt;上記述べた感じで開発をしていて、今度はその開発サイクルについて紹介しますー！&lt;/p&gt;
-
-
-&lt;figure class=&#34;aden&#34;&gt;
-
-    
-        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161113/othlotech_dev_cycle.png&#34;  /&gt;
-    
-
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;GitHub Flow&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-      
-
-&lt;/figure&gt;
-
-
-&lt;p&gt;OthloTechではGitHub Flowを採用しています。&lt;/p&gt;
-
-&lt;h4 id=&#34;ブランチ&#34;&gt;ブランチ&lt;/h4&gt;
-
-&lt;p&gt;以下のようなブランチ命名規則でブランチを切って直接&lt;code&gt;master&lt;/code&gt;ブランチにプルリクを出してレビューするといった流れを取っています。&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;新機能：feature
-バグ修正：fix
-リファクタ系：clean or refactor
-記事とか：post or blog or event
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;この命名規則は最近決まったのでこれからメンバー内でも意識していこうといった感じです(･∀･)👍&lt;/p&gt;
-
-&lt;p&gt;レビューはプルリクを立てた人が適当にメンバーにメンションを飛ばして、レビューをしてもらう形を採用していて、そのレビュー担当者が&lt;code&gt;LGTM&lt;/code&gt;ならマージをしています！&lt;/p&gt;
-
-
-&lt;figure &gt;
-
-    
-        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161113/review.png&#34;  /&gt;
-    
-
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;レビューまかせる様子&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-      
-
-&lt;/figure&gt;
-
-
-&lt;p&gt;また、&lt;code&gt;master&lt;/code&gt;ブランチとデプロイ用の&lt;code&gt;gh-pages&lt;/code&gt;ブランチはGitHubの機能で保護をしていて、&lt;code&gt;master&lt;/code&gt;ブランチはPR経由でしか変更ができないようにしていて、&lt;code&gt;gh-pages&lt;/code&gt;は特定の人にしかpush権限を与えていません。これによって、デプロイミスを極力防ごうとしています( ´,_ゝ｀)&lt;/p&gt;
-
-&lt;h4 id=&#34;ラベル&#34;&gt;ラベル&lt;/h4&gt;
-
-&lt;p&gt;意識して使っているラベルは&lt;code&gt;WIP&lt;/code&gt;ラベルと&lt;code&gt;REVIEW&lt;/code&gt;ラベルで、まだここは手動でつけているのですが、プルリクを立てて作業中には&lt;code&gt;WIP&lt;/code&gt;ラベルを、作業を終えてレビューをお願いするときは&lt;code&gt;REVIEW&lt;/code&gt;ラベルに切り替えて、レビュー待ちであることを明示化しています。&lt;/p&gt;
-
-&lt;p&gt;他にISSUESで使っているラベルはデフォルトのもので、主にこんな感じのを使っています。&lt;/p&gt;
-
-&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;ラベル&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;意味&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;code&gt;enhancement&lt;/code&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;機能追加系&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;code&gt;bug&lt;/code&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;普通にバグ。このラベルのISSUEは即対応心がけてる&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;code&gt;help wanted&lt;/code&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;助けが必要ヽ( ﾟдﾟ)ﾉ&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;code&gt;question&lt;/code&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;質問や議論。解決したらクローズする&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-
-
-&lt;h3 id=&#34;wwothloの投稿フロー&#34;&gt;wwOthloの投稿フロー&lt;/h3&gt;
-
-&lt;p&gt;wwOthloでは現状、月に一度のペースで行われるイベントの&lt;a href=&#34;http://www.othlo.tech/events&#34;&gt;イベントレポート&lt;/a&gt;と&lt;a href=&#34;http://www.othlo.tech/blogs&#34;&gt;ブログ記事&lt;/a&gt;の二つを定期的に更新しています。そこでの投稿のフローを紹介していきまーす！&lt;/p&gt;
-
-&lt;p&gt;Hugoという静的ページジェネレーターを使っているので、記事を一からHTMLで書くのではなく、マークダウン記法で記事を書いています。投稿や校正にもPR形式で行っていて、エンジニアやデザイナーなど関係なしにみんなPRを立てて、メンバーで校正という名のレビューをして、&lt;code&gt;master&lt;/code&gt;ブランチにマージ -&amp;gt; デプロイといった流れで投稿まで行っています。&lt;/p&gt;
-
-&lt;h3 id=&#34;さいごに&#34;&gt;さいごに&lt;/h3&gt;
-
-&lt;p&gt;簡単にOthloTechでの開発サイクルをwwOthloを例に説明してみました。OthloTechでは他にも開発をしていたりしているので、興味の持った学生はゆるふわに&lt;a href=&#34;https://twitter.com/othlotech&#34;&gt;Twitter&lt;/a&gt;か&lt;a href=&#34;http://www.othlo.tech/contact/&#34;&gt;お問い合わせフォーム&lt;/a&gt;にて気軽に聞いてくださいー！&lt;/p&gt;
-
-&lt;p&gt;&lt;sup&gt;11&lt;/sup&gt;&amp;frasl;&lt;sub&gt;26&lt;/sub&gt;(土)にYahoo!さんとコラボして、&lt;a href=&#34;http://yj-meetup.connpass.com/event/44769/&#34;&gt;Reactハンズオン&lt;/a&gt;を開くのでもしよければ来てくださいな(*´∀`*)&lt;/p&gt;
-
-
-&lt;figure class=&#34;aden&#34;&gt;
-
-    &lt;a href=&#34;http://yj-meetup.connpass.com/event/44769/&#34;&gt;
-        &lt;img src=&#34;https://connpass-tokyo.s3.amazonaws.com/thumbs/a1/89/a189d96b09f4d4958b199aa08cd6c138.png&#34;  /&gt;
-    &lt;/a&gt;
-
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;OthloTech x Yahoo Reactハンズオン&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-      
-
-&lt;/figure&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>ライトニングトークを面白くするたった3つのテクニック</title>
-      <link>http://www.othlo.tech/blogs/lightning_talks_technique/</link>
-      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.othlo.tech/blogs/lightning_talks_technique/</guid>
-      <description>
-
-&lt;h1 id=&#34;ライトニングトーク-lt-を面白くするたった3つのテクニック&#34;&gt;ライトニングトーク（LT）を面白くするたった3つのテクニック&lt;/h1&gt;
-
-&lt;p&gt;こんにちは(○´∀｀)ﾉﾞ
-OthloTech初のブログを書くのは私、オトモレ(&lt;a href=&#34;https://twitter.com/otomore01&#34;&gt;@otomore01&lt;/a&gt;)でございます。
-↓ある日のSlack↓&lt;/p&gt;
-
-
-&lt;figure &gt;
-
-    
-        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161103/slack_screenshot.png&#34;  /&gt;
-    
-
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;ある日のSlack&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-      
-
-&lt;/figure&gt;
-
-
-&lt;p&gt;ということで、記念すべき第1稿に任命されました。&lt;strong&gt;光栄です！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;今回のお題はこれでいきます。
-&lt;br/&gt;&lt;br/&gt;
-&lt;div style=&#34;text-align: center;font-size: xx-large; font-weight: bold; color: red&#34;&gt;「お前らのLTはつまらん」&lt;/div&gt;
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;p&gt;初っ端からキツい内容でアレなんですが…… &lt;strong&gt;聞くに堪えないLTって正直少なくないですよね？&lt;/strong&gt;
-せっかく面白いネタがあるのに、面白く伝えないと聞いてもらえないし伝わりません。
-もったいない (´；ω；`)&lt;/p&gt;
-
-&lt;p&gt;でも大丈夫。
-&lt;strong&gt;あなたのライトニングトークを面白くするテクニックを伝授します！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;1-フォントサイズをギリギリまでデカくしろ&#34;&gt;1. フォントサイズをギリギリまでデカくしろ&lt;/h2&gt;
-
-
-&lt;figure &gt;
-
-    
-        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161103/font-size_mini.png&#34;  /&gt;
-    
-
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;フォントサイズ小&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-      
-
-&lt;/figure&gt;
-
-
-&lt;p&gt;これは、頭では分かっていてもやりがちな間違い。
-登壇者が好きなことほど、細かい部分まで書きたくなるものですが&lt;strong&gt;そんなの誰も読まない&lt;/strong&gt;んですよ。&lt;/p&gt;
-
-
-&lt;figure &gt;
-
-    
-        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161103/font-size_big.png&#34;  /&gt;
-    
-
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;フォントサイズ大&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-      
-
-&lt;/figure&gt;
-
-
-&lt;h3 id=&#34;ついでにスライドサイズも変えておきましょう&#34;&gt;ついでにスライドサイズも変えておきましょう&lt;/h3&gt;
-
-&lt;p&gt;せっかく文字をデカくしたのに、スクリーン(ディスプレイ)の端が余ってるのはモッタイナイ！
-スクリーンのサイズ（厳密にはアスペクト比）は「4:3」か「16:9」の2つがほとんどです。
-会場のスクリーンについて調べておくか、わからなければ両方作っておくのが良いでしょう。&lt;/p&gt;
-
-&lt;h2 id=&#34;2-ボケろ&#34;&gt;2. ボケろ&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;LTは漫才に似ています。&lt;/strong&gt; いやもう&lt;strong&gt;「
-LT == 漫才」&lt;/strong&gt;で Q.E.D. です。
-おっとw 拙者ついクセで = (イコール) を2つ並べてしまったでござるﾃﾞｭﾌﾌww&lt;/p&gt;
-
-&lt;p&gt;面白いLTとは登壇者がボケ、聴衆が(心のなかで)ツッコミを入れることにより化学反応が起き笑いが生まれているのです。
-いきなり「ボケろ」と言われても難しいと思うので、いくつか例をご紹介します。&lt;/p&gt;
-
-&lt;h3 id=&#34;画像でボケろ&#34;&gt;画像でボケろ&lt;/h3&gt;
-
-
-&lt;figure &gt;
-
-    
-        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161103/slide-24.png&#34;  /&gt;
-    
-
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;時間が足りないとき&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-      
-
-&lt;/figure&gt;
-
-
-&lt;p&gt;これは「時間が足りないときってありますよね」などと話しながら見せるスライド。
-ドラマ「24」のように有名なドラマだと、見たことない人でも&lt;strong&gt;時間が足りないことだけは何となくわかった気持ち&lt;/strong&gt;になります。&lt;/p&gt;
-
-&lt;p&gt;次は少しレベルが高いかもしれません。&lt;/p&gt;
-
-
-&lt;figure &gt;
-
-    
-        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161103/slide-kaba.png&#34;  /&gt;
-    
-
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;GABAの話をするとき&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-      
-
-&lt;/figure&gt;
-
-
-&lt;p&gt;これは「みなさんGABA(ギャバ)って知ってますか？」と話す場面です。
-説明するまでもありませんが「GABA(ギャバ)」と「KABA(カバ)」をかけたダジャレです。
-ただしこれは、&lt;strong&gt;一歩間違えると寒いオヤジギャグで終わることも有り得る&lt;/strong&gt;ので使い所が肝心です。&lt;/p&gt;
-
-&lt;p&gt;例に挙げたスライドは、分かりやすくするため文字を入れました。
-本来ならば画像を全体に広げるほうがいいでしょう。&lt;/p&gt;
-
-&lt;h3 id=&#34;何度もボケろ&#34;&gt;何度もボケろ&lt;/h3&gt;
-
-&lt;p&gt;たとえオヤジギャグでも、何度も同じボケをするのは意外と有効です。
-何故ならば、&lt;strong&gt;同じボケを続けることにより「聴衆が笑いどころを理解する」から&lt;/strong&gt;です。
-例えるなら&lt;strong&gt;「バラエティ番組のスタッフの笑い声」と同じ&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;1度目2度目はウケなくてつらいかもしれませんが、見ている人に「ここがおもしろいんじゃ」と伝えてください。
-3度目には会場全体から大爆笑を攫うことでしょう。(保証はしません)&lt;/p&gt;
-
-&lt;h3 id=&#34;オチを作れ&#34;&gt;オチを作れ&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;「終わり良ければすべて良し」&lt;/strong&gt;です。
-最後の終わらせ方が上手くないと、それまでどれほど面白いLTをしていても評価が下がります。&lt;/p&gt;
-
-&lt;p&gt;オチの作り方は多種多様です。
-「三段オチ」や「起承転結」「伏線回収」を取り入れるといいでしょう。&lt;/p&gt;
-
-&lt;p&gt;また、必ずしも笑いを取る必要はありません。
-例えば、感動オチ（例：紆余曲折を経て解決する、とか）は聴衆からの共感を得るのに最適でしょう。&lt;/p&gt;
-
-&lt;p&gt;ネタを伝えてどのような感想を与えたいかによって変えてみて下さい。
-「LTは漫才に似ています 」と書きましたが [漫才 オチ] などでググると参考になる資料と出会えます。&lt;/p&gt;
-
-&lt;h2 id=&#34;3-練習しろ&#34;&gt;3. 練習しろ&lt;/h2&gt;
-
-&lt;p&gt;ここまでスライドの作り方ばかりお伝えしてきましたが、最終的には練習あるのみです。
-練習のときに気をつけるポイントは4つ。&lt;/p&gt;
-
-&lt;h3 id=&#34;機材のチェック&#34;&gt;機材のチェック&lt;/h3&gt;
-
-&lt;p&gt;本番前に、ディスプレイまたはプロジェクタのコネクタを確認しておきましょう。
-持ち合わせがなかったり忘れてしまった場合は、前後の人や主催者にお願いして借りるアテをつけておきましょう。&lt;/p&gt;
-
-
-&lt;figure &gt;
-
-    
-        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161103/tanshi_dsub.png&#34;  /&gt;
-    
-
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;VGA端子&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-      
-
-&lt;/figure&gt;
-
-
-&lt;h3 id=&#34;時間配分&#34;&gt;時間配分&lt;/h3&gt;
-
-&lt;p&gt;LTの時間はほとんどが5分、もしくは10分です。
-主催者視点からいうと、短く終わる場合は大歓迎。
-&lt;strong&gt;時間を超えるとはっきり言って迷惑&lt;/strong&gt;です。&lt;/p&gt;
-
-&lt;p&gt;PowerPointやKeynoteの発表者ツールには、スライドショー開始時からの経過時間が表示できます。
-チラっと見て、余裕がなければ早口で話すのもテクニックです。&lt;/p&gt;
-
-&lt;p&gt;練習時は30秒くらい早めに終わるのがいいでしょう。
-聴衆のリアクションの時間、例えば拍手喝采が起きたらその間はスライドを止めておくはずです。&lt;/p&gt;
-
-&lt;h3 id=&#34;聴衆を見て話す&#34;&gt;聴衆を見て話す&lt;/h3&gt;
-
-&lt;p&gt;スライドやPCを見ながら話す人、たまにいますよね。
-きっと&lt;strong&gt;「あーん？？お前は誰にプレゼンしてるんだ？？？スクリーンか？？？？」&lt;/strong&gt;と聴衆は感じるはずです。&lt;/p&gt;
-
-&lt;p&gt;聴衆の目を見て話すだけで、「やっべ、見なきゃ！」という気持ちになります。（言うほど簡単じゃないんですけどね。）&lt;/p&gt;
-
-
-&lt;figure &gt;
-
-    
-        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161103/presentation_pc_man_eye.png&#34;  /&gt;
-    
-
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;聴衆の目を見る&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-      
-
-&lt;/figure&gt;
-
-
-&lt;h3 id=&#34;口癖に気をつける&#34;&gt;口癖に気をつける&lt;/h3&gt;
-
-&lt;p&gt;次のセリフをロードする間「あのー」「えーと」などと垂れ流してしまうそこのアナタ！
-これらを&lt;strong&gt;1回使う度に、そのプレゼンの説得力は半減すると言います。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;逆に言えば、&lt;strong&gt;1回「えーと」を減らせば説得力は倍になります！&lt;/strong&gt;
-これらの口癖を言ってしまうのには色々原因があるのですが、大抵は「単なる練習不足」です。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;さあ、練習あるのみ！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;〆&#34;&gt;〆&lt;/h3&gt;
-
-&lt;p&gt;いかがでしたか？
-僕は「プレゼン」と「ライトニングトーク」は別モノだと思っています。&lt;/p&gt;
-
-&lt;p&gt;プレゼンで使うテクニックの中には、ライトニングトークだと逆効果のものもあります。（もちろん使えるものもあります:D）
-いろんな人のLTを見て研究するも良し、慣れてきたら自分のオリジナリティを加えていくも良し。&lt;/p&gt;
-
-&lt;p&gt;いきなり全部は難しいかもしれません、ひとつずつ試していきましょう。
-これでアナタもライトニングトークマスターになれるはずです！&lt;/p&gt;
-
-&lt;div style=&#34;text-align: center;font-size: xx-large; font-weight: bold&#34;&gt;どうだい？ LTしたくなってきただろう？&lt;/div&gt;
-
-
-&lt;figure &gt;
-
-    
-        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161103/message_goseichou_man.png&#34;  /&gt;
-    
-
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;ご清聴ありがとうございました&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-      
-
-&lt;/figure&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Hugo&#43;GithubPagesでサイトをリニューアル</title>
-      <link>http://www.othlo.tech/blogs/hugo&#43;github-pages/</link>
-      <pubDate>Sun, 23 Oct 2016 02:45:17 +0900</pubDate>
-      
-      <guid>http://www.othlo.tech/blogs/hugo&#43;github-pages/</guid>
-      <description>
-
-&lt;h1 id=&#34;hugo-githubpages-で公式サイトを作り直したお話&#34;&gt;Hugo + GithubPages で公式サイトを作り直したお話&lt;/h1&gt;
-
-&lt;p&gt;こんにちは、&lt;a href=&#34;https://twitter.com/hyde141421356&#34;&gt;@pokohide&lt;/a&gt;です。&lt;/p&gt;
-
-&lt;p&gt;この度、OthloTechの公式サイトをリニューアルしました。過去のサイトは&lt;/p&gt;
-
-&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;code&gt;Node.js&lt;/code&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;サーバーサイド&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;code&gt;Material UI&lt;/code&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;CSSフレームワーク&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;code&gt;Heroku&lt;/code&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;PaaS&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;code&gt;gulp&lt;/code&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;タスクランナー&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;code&gt;ect&lt;/code&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;テンプレートエンジン&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;サーバーサイドも自前で作っておけば何か機能を追加したいと思ったときに対応できるかなと、サーバーサイドも書いていたのですが
-当分は必要にならないだろうという理由と、動作に不調があったので、乗り換えることにしました。&lt;/p&gt;
-
-&lt;p&gt;リニューアルする目的としては&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;マークダウンで記事が書ける&lt;/li&gt;
-&lt;li&gt;保守が楽&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;この条件から、今回は &lt;code&gt;Hugo&lt;/code&gt; と &lt;code&gt;GitHub Pages&lt;/code&gt; で構成しました。&lt;/p&gt;
-
-&lt;h3 id=&#34;hugo&#34;&gt;Hugo&lt;/h3&gt;
-
-
-&lt;figure class=&#34;aden&#34;&gt;
-
-    
-        &lt;img src=&#34;http://www.othlo.tech/images/banners/blogs/hugo.png&#34;  /&gt;
-    
-
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Hugo&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-      
-
-&lt;/figure&gt;
-
-
-&lt;p&gt;&lt;code&gt;Hugo&lt;/code&gt;はGo言語で動いている静的サイトジェネレーターで静的な&lt;code&gt;html&lt;/code&gt;を生成することができます。静的サイトジェネレーターは他にも
-&lt;code&gt;Jekyll&lt;/code&gt;や&lt;code&gt;Hexo&lt;/code&gt;など他にも色々あったのですが、なんとなくで今回は&lt;code&gt;Hugo&lt;/code&gt;を選びました。&lt;/p&gt;
-
-&lt;p&gt;一応特徴としては、記事の生成が高速らしく、他のブログから参照したのが以下の表。&lt;/p&gt;
-
-&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;記事数&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Octopress&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Hexo&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Pelican&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Gitbook&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Jekyll&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Hugo&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;2.86&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;2.88&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0.39&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;1.77&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0.43&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0.02&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;10&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;2.98&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;2.96&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0.44&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;1.64&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0.37&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0.03&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;100&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;4.94&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;4.22&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;1.14&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;1.79&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0.55&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0.11&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1000&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;25.02&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;14.61&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;6.02&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;3.34&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;1.88&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;0.82&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://tamura.goga.co.jp/article/429818193.html&#34;&gt;静的サイトジェネレータの生成時間比較&lt;/a&gt; より&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;1000記事の生成ともなると、違いがわかるほどの速いことがわかります。まぁ1000記事まで貯まるまでには何年かかるかわからないですけどね。&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;Hugo&lt;/code&gt;のテーマはここにあるので、これを参考にして作るか自作するかどちらでもいいでしょう。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://themes.gohugo.io/&#34;&gt;http://themes.gohugo.io/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;github-pages&#34;&gt;GitHub Pages&lt;/h3&gt;
-
-&lt;p&gt;&lt;code&gt;GitHub Pages&lt;/code&gt;はGitHubのサービスのひとつで、GitHub上のリポジトリにあるコンテンツを利用してWEBページとして公開できるホスティングサービスです。
-静的ページ、静的コンテンツのみを公開できるので&lt;code&gt;Node.js&lt;/code&gt;や&lt;code&gt;PHP&lt;/code&gt;などで動的ページの生成などはできません。&lt;/p&gt;
-
-&lt;p&gt;あと無料∩(ﾟ∀ﾟ∩)&lt;/p&gt;
-
-&lt;p&gt;詳細は&lt;a href=&#34;https://github.com/blog/2228-simpler-github-pages-publishing&#34;&gt;本家&lt;/a&gt;を参照してください。&lt;/p&gt;
-
-&lt;h2 id=&#34;サイトつくろー&#34;&gt;サイトつくろー&lt;/h2&gt;
-
-&lt;p&gt;雑ですが、Hugoの導入からテンプレートを使ってサイトを作るまでの流れは以下のリンクを参考にしてください。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://qiita.com/syui/items/869538099551f24acbbf&#34;&gt;http://qiita.com/syui/items/869538099551f24acbbf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;マークダウンで記事とかを書くときは&lt;code&gt;Shortcode&lt;/code&gt;を使うといいですよ。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://qiita.com/waytoa/items/4107945cbd3883f51755&#34;&gt;http://qiita.com/waytoa/items/4107945cbd3883f51755&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;デプロイの流れ&#34;&gt;デプロイの流れ&lt;/h2&gt;
-
-&lt;p&gt;今回はOthloTechの組織アカウントでOthloTechというレポジトリを作って開発を行っていました。&lt;/p&gt;
-
-&lt;p&gt;GitHub Pagesには2種類の方法があって、グループページという&lt;code&gt;アカウント名.github.io&lt;/code&gt;というレポジトリのmasterブランチを反映する方法と
-プロジェクトページといって、適当なレポジトリの&lt;code&gt;gh-pages&lt;/code&gt;ブランチを&lt;code&gt;http://アカウント名.github.io/リポジトリ名/&lt;/code&gt;に反映する方法があります。&lt;/p&gt;
-
-&lt;p&gt;※ 最近ではどのブランチを反映するかを設定できるみたいです。ただ今回は通例に従って&lt;code&gt;gh-pages&lt;/code&gt;ブランチをデプロイブランチにすることにします。&lt;/p&gt;
-
-&lt;p&gt;今回は後者の方法で実装するので、&lt;code&gt;gh-pages&lt;/code&gt;にデプロイする流れを説明して終わりにします。流れとしては、同じレポジトリのあるサブディレクトリの中身を
-別ブランチに&lt;code&gt;push&lt;/code&gt;する方法をとります。&lt;/p&gt;
-
-&lt;p&gt;そのために&lt;a href=&#34;https://git-scm.com/docs/git-worktree&#34;&gt;git-worktree&lt;/a&gt;を使います。&lt;code&gt;git-worktree&lt;/code&gt;を使うと指定のブランチをサブディレクトリ以下にチェックアウト
-することができるので、作業用のブランチと公開用の&lt;code&gt;gh-pages&lt;/code&gt;ブランチを切り替えずに同時に編集できるようになります。&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo -d pages # pagesディレクトリにコンテンツを生成する。(デフォルトだとpublicフォルダ)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;このコマンドでコンテンツをpagesフォルダに生成できるので、このディレクトリの中身を&lt;code&gt;gh-pages&lt;/code&gt;にプッシュします。&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git checkout master
-git worktree add pages gh-pages # pagesがブランチをチェックアウトするディレクトリ名、gh-pagesが取り込むブランチ名
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;これでgh-pagesブランチにpagesディレクトリ以下がプッシュされます。しかし、この方法だとコンテンツを消した際に再び&lt;code&gt;hugo -d pages&lt;/code&gt;と
-コマンドを打っても、過去の記事が&lt;code&gt;pages&lt;/code&gt;フォルダから消えずに残ったままになります。&lt;/p&gt;
-
-&lt;p&gt;なので、過去の記事を消して、記事を再生成して、デプロイするのをシェルを書いて楽します。&lt;/p&gt;
-
-&lt;h5 id=&#34;deploy-sh&#34;&gt;deploy.sh&lt;/h5&gt;
-
-&lt;pre&gt;&lt;code&gt;#!/bin/sh
-
-# pagesフォルダの ., .., .git 以外を消去
-ls -la pages | grep -v -E &#39;.|.git$&#39; | xargs rm -rf
-
-# deploy用のファイルを生成
-hugo -d pages
-
-# deploy
-cd pages
-git add .
-git commit -m &#39;updated by deploy.sh&#39;
-git push origin gh-pages
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;chmod 755 deploy.sh # 実行権限を与える
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;これであとは&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;./deploy.sh
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;デプロイできます。ハッピー。&lt;/p&gt;
-
-&lt;h3 id=&#34;ドメイン設定&#34;&gt;ドメイン設定&lt;/h3&gt;
-
-&lt;p&gt;こうして公開したサイトに独自ドメインを設定して、 &lt;a href=&#34;http://www.othlo.tech&#34;&gt;OthloTechの公式サイト&lt;/a&gt;としました。&lt;/p&gt;
-
-&lt;p&gt;そのあたりはここを参考するとわかりやすいと思います。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://qiita.com/tiwu_official/items/d7fb6c493ed5eb9ee4fc&#34;&gt;http://qiita.com/tiwu_official/items/d7fb6c493ed5eb9ee4fc&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;さいごに&#34;&gt;さいごに&lt;/h3&gt;
-
-&lt;p&gt;せっかくリニューアルしたので、イベントレポートやブログを書いていこうと思います！&lt;/p&gt;
-
-&lt;p&gt;一応作業のフローはプルリクベースで文章の校正などを見て、メンバーのLGTMが2つ以上ついたらマージ可能にするという体制で&lt;/p&gt;
-
-&lt;p&gt;記事の更新もしていこうと思っているので、そのあたりもまとまってきたらまた記事にしたいと思いますー！&lt;/p&gt;
-
-&lt;p&gt;これからもOthloTechをよろしくお願いしますo(*⌒─⌒*)o&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>OthloEvent@Xamarin #9</title>
-      <link>http://www.othlo.tech/events/othloevent09-Xamarin/</link>
+      <link>http://www.othlo.tech/events/othloevent09-xamarin/</link>
       <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/events/othloevent09-Xamarin/</guid>
+      <guid>http://www.othlo.tech/events/othloevent09-xamarin/</guid>
       <description>
 
 &lt;h1 id=&#34;othloevent-xamarin-9&#34;&gt;OthloEvent@Xamarin #9&lt;/h1&gt;
@@ -849,7 +143,7 @@ Xamarinでは、C#とVisual Sturio/Xamarin Studioを用いてiOS APIやAndroid A
 &lt;figure &gt;
 
     
-        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-01-15/DSC2332.JPG&#34; alt=&#34;田淵さん&#34; /&gt;
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-01-15/xamarin-ytabuchi.jpg&#34; alt=&#34;田淵さん&#34; /&gt;
     
 
       
@@ -884,11 +178,11 @@ Xamarinでは、C#とVisual Sturio/Xamarin Studioを用いてiOS APIやAndroid A
 
 &lt;p&gt;ハンズオン中たまに見えるデスクトップが気になって仕方がなかったため、休憩中に無理を言って見せてもらいました。&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.othlo.tech/images/events/2017-01-15/DSC2350.JPG&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.othlo.tech/images/events/2017-01-15/desktop-original.jpg&#34;&gt;
 &lt;figure &gt;
 
     
-        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-01-15/DSC2349.JPG&#34; alt=&#34;デスクトップ&#34; /&gt;
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-01-15/desktop-preview.jpg&#34; alt=&#34;デスクトップ&#34; /&gt;
     
 
       
@@ -914,7 +208,7 @@ Xamarinでは、C#とVisual Sturio/Xamarin Studioを用いてiOS APIやAndroid A
 &lt;figure &gt;
 
     
-        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-01-15/DSC2370.JPG&#34; alt=&#34;集合写真&#34; /&gt;
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-01-15/group-photo.jpg&#34; alt=&#34;集合写真&#34; /&gt;
     
 
       
@@ -2983,6 +2277,1075 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
 &lt;p&gt;詳細は&lt;a href=&#34;http://othlotech.connpass.com/event/43598/&#34;&gt;Connpass&lt;/a&gt;を見てくださいね！&lt;/p&gt;
 
 &lt;p&gt;それでは〜(*￣▽￣)ﾉ&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OthloHack 2016</title>
+      <link>http://www.othlo.tech/events/othlohack2016/</link>
+      <pubDate>Mon, 24 Oct 2016 23:13:51 +0900</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othlohack2016/</guid>
+      <description>
+
+&lt;h2 id=&#34;othlohack-2016-を開催しました&#34;&gt;OthloHack 2016 を開催しました！&lt;/h2&gt;
+
+&lt;p&gt;こんにちは、オトモレ(&lt;a href=&#34;https://twitter.com/otomore01&#34;&gt;@otomore01&lt;/a&gt;)です。
+2016/8/6-7に東海最大規模の学生限定ハッカソンイベントである&lt;a href=&#34;http://hack.othlo.tech/&#34;&gt;OthloHack 2016&lt;/a&gt;を開催しました！
+僕はカメラ&amp;amp;SNS担当だったので、その模様を写真たっぷりでお伝えします！&lt;/p&gt;
+
+&lt;h3 id=&#34;タイムライン&#34;&gt;タイムライン&lt;/h3&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;th&gt;備考&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;1日目&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;td&gt;会場受付&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10:20&lt;/td&gt;
+&lt;td&gt;オープニング・協賛企業紹介&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10:40&lt;/td&gt;
+&lt;td&gt;アイデアソン・チームビルディング&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;12:10&lt;/td&gt;
+&lt;td&gt;お昼休憩&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;13:40&lt;/td&gt;
+&lt;td&gt;ゴール宣言&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;14:00&lt;/td&gt;
+&lt;td&gt;開発開始&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;20:30&lt;/td&gt;
+&lt;td&gt;１日目終了&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;　&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;2日目&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;9:30&lt;/td&gt;
+&lt;td&gt;集合・作業開始&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10:00&lt;/td&gt;
+&lt;td&gt;中間発表&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;12:00&lt;/td&gt;
+&lt;td&gt;お昼休憩&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;18:00&lt;/td&gt;
+&lt;td&gt;最終発表&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;19:00&lt;/td&gt;
+&lt;td&gt;懇親会&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;19:30&lt;/td&gt;
+&lt;td&gt;結果発表・表彰&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;20:30&lt;/td&gt;
+&lt;td&gt;クローズ&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;協賛企業様&#34;&gt;協賛企業様&lt;/h3&gt;
+
+&lt;p&gt;今回OthloHack 2016にご協力いただいた協賛企業様をご紹介します。(順不同/敬称略)&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/8-6/company_logo.png&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;協賛企業様&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;(株) エイチーム&lt;/li&gt;
+&lt;li&gt;フューチャーアーキテクト (株)&lt;/li&gt;
+&lt;li&gt;(株) サポーターズ&lt;/li&gt;
+&lt;li&gt;(株) Misoca&lt;/li&gt;
+&lt;li&gt;レバレジーズ (株)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;アイデアソン-チームビルディング&#34;&gt;アイデアソン・チームビルディング&lt;/h3&gt;
+
+&lt;p&gt;アイデアソンからチームビルディングまでは、Misocaの松本様にメンターをしていただきました。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/jz0G5H6jl7dBfLIUhdpg-qqfJKqcSL7YXF56WcW8tVx_oojS58y13o8bak3d3G8SYzawWLjDWiXrXARMFUAhiA7aKjbFQpn5c-xAdW4oIMHKLTf2AyT2SM9MkbOsnVTYQzSjDdptJrlaCD2SLJbCnvUZjXaaEpKGckOMmpB8AptpB7Ba1dBwHIzGzBY6ZCfzXxbSQsTho7fl95VOp_5E8Un2FRqvi7gi_EEonMIgGOCHIkMpGWUuOqi_tg0YWI14etf5mSuCu1FpPBId5a2d6ZyaKp0mgCHbKDQTgZGP3pbGPrONhIfvokszw0xL2BkWQkaRO_XecrzruVv0-3aK8DGWYWMBNSOfF1-bEnm89BZ9PXw3xAKDhMZYAQTpgnWOkfa_Hiisd93ACwuiLnltO4-VgoExYQR9aT64KNureuFeN4J4dP4_fY0S8z1P3VbSsfFxCYJTV7dS3-tBH5E3h9FZYxN1eZ9RARZ44k1gF7srizDCfD8S3Es6Fp-kGqdp5V5aW7fQPwTMtQbUpzjRNqFvDcPR0-B7zCuhYjkfQn9WF2_NAJgLYtcfyVIhFbH2cHnE9nzytMLzteEV1W2ladKkeKmKvzxuPDpzsU9suZCMeaQp&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;チームビルディング風景&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/FD5HKxK7Yy18GBKblKSGG_3HO1xwWXcQqLbB5UubxHXmTwX_935ozUVuOVSUdjaMdSJ-A7GeARAnOKXwwY2n77Z5ToykbqDYbzrs2G4AYvCSBILpYirowPYsmMovu2zC2m7lpozJJ8zELftd4xfAVK1TiN4prNqVyH1jF-_Kwdxp-U3I6ManNU8_8r8EuKrPi8GK-ojl58bUAeDut1ogVZZp4XxDK4u0QLUrAEa31dmLt0cKmTbg1lQe2K36FNG4Q--mL3eefjck0JR-BAmKHvmHJVc6Wa3NvlIwA_BL_nuKuL4WDMCoAVQbo2QpuODT9jroxeyetPOAHCDI7CvHy_UjWqEKjD6ZRNzzFwYSftpqKtCmrzb7HXweH9zUEAwwCKIlLaj-Y7UO9meDbKXBs6SHAISURxicMQUlgutnTUtH8j67NWMmzlPJsciKZjseYGXmQfP14ZcZeR6GEu-j49ZFoYTwN7hsiStbPkZPu8TB8b2Ez1-d9l-mz2nQVTxPP08fB3uf0l6ri9jVQ_RRoVWfGLFqxdFOLV5zHF61e1rBNXu8C07ko4zDYQ4VP5Z-NQxRUogrBBiF9f_TCTeSqkiJ751seP0EH9j01hM7UIKdiqZa&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;チーム開発のアドバイス&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;アイデアソンです！&lt;br&gt;モデレーターはmisocaの松本さん&lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/FlsvMJx94V&#34;&gt;pic.twitter.com/FlsvMJx94V&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/761744963927367680&#34;&gt;2016年8月6日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;チーム紹介-昼食風景&#34;&gt;チーム紹介 ＆ 昼食風景&lt;/h3&gt;
+
+&lt;p&gt;チームビルディングを経て結成された6チームを紹介します！&lt;/p&gt;
+
+&lt;h4 id=&#34;十万獲太郎&#34;&gt;十万獲太郎&lt;/h4&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/RHAuKyk1D0BZw_asTR6jueimW1VtJVuB1_hc2h1Ow8wLfUuyO-qg9A5cswuXWO3kzw--18Gh4mvoHvjJHsOJhWwPCHL_UBdKuTjp379htDCjEQ-nkQBuFpqB1GhbIcmJQsMURZOJRlcsFiX1BRyQyuUJYjPIICY74jFNWcrH_IN7apsRFakJWTLrrOLuliQQvNTS1NpivZwK4Ik7tZgSreT15JOb2wKSXb3zyQJseei3xNPdknr-KF1H_xaUUYZVvTxm0BSYk5yp-D1bH0f8sTYfxuHSpsKm8eHu2JZAU2kX5pgyf-7Q2MTmfxlBKkJ35qLBzJoMNhLX1njEWv1m4lW3AV26Tp2nnWIMBMjEGPgON-A3B2_CmTy7aBxaxtDz0iKV9q7vYKoBEUuOktc-y5xytoGtmzQzeSn0uaX6PrQ6FFjQ050k2B8zb8xeG4-b1gasQliCkYLNJBIoytCa7qO5u6eJzuwFWcCoMpTMXc0H2hDTSWAPQBIFuk_FBxHnEWnBPYCb2t0Tp6tJAgLVGaIVuwT9szLgRj5L0CBYVSsvsq3cXQ7IaUTVilJsyNK4bruhe3ML6KFc-Gcb2_oWq53LgfOYQZJq29-nFEk4bQeDi_Az&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;十万獲太郎&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;ぼっちめし&#34;&gt;ぼっちめし。&lt;/h4&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/3qOMXoHqNGuoolVjOALy7Lyl62576U6CK-UD48pLgQr0yMgYHC6vBf8SgMJDYa0NIdCE_YP2Sx-2mN8vNndLcBm4NHJFsY0G8sgUs4vpsIbUDvkoQlbmusKj0uyGHfI3dw23rv0L5orWnEJFfppJeoZZ1yDWE5Z3GwBG5-Zu4ZFThbiw3cQBovKdRVfpqnwszHAuXw3AjXj_DlLLrPpmixQ_txdR4DCtnBRBKghbotUGyRRYFEPcOu1pUoQwIwCN8_Mno_hhevByE5JyJaC4tEObDkp7wq73s7b4ZmKJ28Sb42u5SbqZ-7GUvvNpkX57X0tsReHxIIVVaGz5yzWd_1mvjPUEyVpaGGh6vxsz-etSc1iFaLc1NGe-uMXtEu4vqvneiARphxggUyHfeGouEBrNCWtGFDCra44wTv3QOWUCZpajyk6QBvjuY3-k4iGvCaeT3i8R_w0WMUzSrWqXUBGfXgtNfDp3s7bm-xdjxq9UZfZ6MbH3aSOIpcOjmN9fzdGcRzOeNipT9t5MnQ_v8HzXTzfFBb5qLabzFX7pv4pzTvAFLVrGG12VvRZSS_1LIzy87ExRsXMpv7X0bn73yi0rtzQzzmqc3GUSiMHDeOYLQbgB&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;ぼっちめし。&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;えーちーむ&#34;&gt;えーちーむ&lt;/h4&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/8nv4cR2Nkjax-17zMMNixczu62mms9j1q0CoYsH2pUSPbfi3GETtlb07gLSe0wTlkHUsLBXeYG3ihDXo0nrjPGYPQD9g6lHh34Cdzw88lo7sTO6cz1QtzqREvcGfcRaLmYoTAykTHgffMz7sGQ_uhl7YzqKAS2GMHHOpux6b1Xu3sI9tDfwnaPdapmL8tAUkvJ5EgCBpyvpAzilP32-kUX0li4RNysbrzJuTafV15N_G2MQAXFGgo2Q7vS2VPGCDO5hIguR0zneA2AwhyyFAYe1pzpFgbPP8EHGfoaT-5_DKh0cFeCrAJ3rfb_kYCM6DXsCPkQl99xOZu0-Pvpy7V3nUOhAkAQeLECOWhKF9QygVQDM-lYQCwJpIS8HXISTod_qOgHK5LoTItKmtvdcOWyMLBNhCgu455CN2HWcZ09IfFV2LB4Px7CBJp-_Kk9Rr3wci-lL4IyBxFBX9OI-VgnCPsLPyBeRj-684Mx7K2GjOdSq8DjufoJDuNrKcBINvlUFa8Hhtpg25HVd7rReoAUXouO3mduMZwCyfbGFWABY79NXi3tJkQKYp2DV4BZFauwuV0jUUp95ONThj1AQjrxTyratTncIQy4rcvS9RcepN5GYd&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;えーちーむ&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;その日ぐらし&#34;&gt;その日ぐらし&lt;/h4&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/BYB9znMQCcS_SpMeWSk6ICmF36NYSuRQzRQgIAOsBTypc857H4EZbIicCa27tphx19nQ3LGUVj0UGnWRBc6Sx-q2hJGQyZQv_c-yRKBkpffupqgNarMl-rVc3Qsb1JgILUXlCkfJr6s1dyGPR4FNVtg2RFjW5DQR3GS6QsqAIkesF3MK_C8SYTJGcTJSuRE_6GAhe5GEJUK5cf0kK5_3oZPQ0C42EmurImdsY0wjVELyfRbZ7kRsZA-XWmmzMyoqWbpq7iE7Ydg2CQALFPlwqGneNehHQsNaf-xmw18YHOEr4l20wlGam-fkrgRvNJHTa8Y7Kx8ahM1XlYHolXxBNAgzz_76zlHRtXG0sTck3497N4HQQmHxyd2g4WoHcyQ19NBMDNzRWoxuHFYIneyhyk_LBsNdIEajBKN9lFY1Q8DwGk7xUPgyROZj9SrcjZnNqCygqDGQiVxqLfT9Lw7VXVhaBzO-dNtojNMJFdGExa_p_cN1M4Te9uN_olmYBRBLS6qzUftkR1WypdGk_xOKVhcbwQse62nFHtZkg6RMhPqAM-eBioyA-INRIVi05BE-RwWpP8oyjs6WDNRFZOhxg0r9ouCvvjOKgbuCL-h00rVJHtQn&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;その日ぐらし&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;ダブらない&#34;&gt;ダブらない&lt;/h4&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/klSJPaXA1v5EvNO7qoC3ZM_rWyIsVWx_hSSSIjo_J8MFgd3UMlX4y3rZC_KM0AxDnzWIs3k5XmnME8y3N7551huaIAgz1J6c6_NPUFXjbzI9vRV76sfi7p1Ws3JqzZvLciwu3VaX6bz3K-yyfzwj4XNFnDLxojGCUCOFXYN8VKem7c40i5dBnYahzeW2tWPfK79HSVz5tD3jU5-wcFAyFbqv3hy3_t-QTpOkUvVkoB2xrc29feDR5F2Tf7j_iq1onjTlfmaFnDYOp3B7IlpEhPufhUMmkDqysuQhmkqs4dO2E1-b72bfWe8D6PITwagBwAVrpAsahYenxwQW119K7fGsJhF4o5MnbOwCVCTBiIlJF-C5IqvatP4NullGqqBk84qNqOygkm6YCOoeCNRyr3BqwN-CxYJOrqpEV-74J6LfWO9ILhI5mN9qKDZ9P0vWzCV7m0wftBcruFQXGtJqpYrXVTDEG5wJze9_d_ALfMlU9MWIoBWcXho6k9cYPtU2uh1hkLTn5TkaT3HT5zJy84PD7gJAzG3ik6ZTsyj8qZw_G0MlXGib1JenhXwCgy2uB-Qbe-xPq4-ozO_aDQ3w4DLudsHXqPX1kykQV_ovN8iBxrIn&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;ダブらない&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;女の子&#34;&gt;女の子&lt;/h4&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/OlT6SmYbOrhWjn76S4WngO7SgPfjX6d3Ho0w1RtHBGD2feR7OzBXO-42Wq6ay6XmIcfyoi8kuX2r3d2S2GmTsJsq0xMlf25NuNB_t3cNa43BLVo-XtgnEJ_vUn1wb1zvkCXJYioqq0B5EK3jM5FK12199DBLZH-iSbYqEU1pdauhs-aAlbi-o-pR_-vx5Q-9DQVz3gAWBLiXC2BwXLz38kVWJ4GBmSCHXrX6P8fJHKsh_FuEPck4JFwWVI6hAzm2c-fkgXx4G88PMPT46Godk4qjTx7O4j1dfdv9lT2fllaItEaBKD76Du-CQ_vXNsY4TrIznxg2m9VhX8oiTKv1gIiWf8qUDHaDhWFV32pwkeH3cEqxy2xTX5vvvRTONI7vvzF3Vyg3ry-_ri9to57sCzjqp9aPdizQxq5_p1n3Hl8ejJtc_MuX1_zP0t_Su4-RB5s3MAHMDEPr-sVQSebmwzFOhGGJ2iDqRi1ziS_bcTs4ve5BmPGCknaw8HUWgbG7q7YFqwNr1PK98PpdCxSjVhY3exCZ2dmSQYTgqtWa2O9SBQ9OStflAe4kJ9fRMfNCETvi3qPrUiUEinUkmUzmiJSYfc54pYpP1jcW-r8NGfYo29uk&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;女の子&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;開発スタート&#34;&gt;開発スタート！&lt;/h3&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/tEYHjl2AvzUemyDaUrc-rOUdR9vkrtDU29yllwRdrutM_LM1xk3pF_QXC5NbLTGD3Ci5qCD3ZeoUxQ7JUbSB14Rrwzp9eamASbFAk_B9dk7SBxdNJS1tMdayXyYkuoQqPj64kpEmh0LJcQLs9Oj3upkdVnW-XdHL8C460FYCVfOAKuy6SjAWv7v3jpviJFrYF10-vsbpqw9KWxpQ_ioK67RlMMoxHWlMV86e7QEn7JBsWd7PRygRhGjQnlOTclI6LdBAS9tWZzJyhOOlDq1yWskSUNi6CHiliAlE6ZYm4jD85DDHUu6ng-Ej0DayzzhifPOhR30WOin0fAP2ygjSgkUu_0bbbC7lEfWiG1v6RB2LrQ8OvF5yvQxQLcWlKC99TFYgfn931YubDxAQOli0spjqEYqXlvy-bWil9oAGI-eNPP9E-c_cWyKXkWjYekeQp1OK6y8yMWnvhxFEjaXenrhMRloGDwlcb6RX6ztYOG5z36XtQdH1k_f28v11b9lw9J9Y0JBY2Bbo5-zYy7TfqxO-PKzq-w0fu8DY92KXZ6jN0skSsygpCVbS4k9AIlK20_vnjYwJgUoa4BGzD-RKTXqX7geiuqrS_SDIknqDwNIwzDn_AQ&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;開発中 えーちーむ&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/ZbZy0jetE-5oXxNGKqL8arXLBiOhenVWsPZAJBcQaPuoMF-G6hsfvfRxOGLBYL7Sche_1dGThTVCKImYmV8DNTAL6-ItlrcQpatvzwPHdLa-aO1VoBq5j5X6cQzY6VYDc3VQUbDTiNJf7i6S_nE0-_gzDOqhtj7DfeevZ9PQB746USY6hkRgvllU7lAUwi0mI3mDOGOReLp1TXWl3rdTJGMYxGkr8Si9Z2WZa7fyfTeYHlsEom3e3q3EIPLqBEHT11vF7BsmIeRu18dOZohlg_S4LRS8Zuob9mQKGoIhLwn7RvDBWZE3zvyxE4yCEagf-FhMtvO_QcKAnYTABST-lO0e5UmrCH1_YMr-xz-yJaeEFPwIf2GeeKjHl--g9z-Kdjb0-By_Yl2yw3uHDDKXe1pEca6V2LxJidSIVTWrZph-j98vpGyZtcGPoglGFgu27v-BqJo7wGFon0ai6l-GF-j1L17BvesjQjJcSF2fVXJk9MzorC4hLiX89truX6nPTwDIMMZq68T4DB4f_fYiLABHhQHRVkYPR-8ifjrUrlNIbKLa6E1XHPLcOBaxglDkVPMQA7UpAmG6tTzG6Chy1vnSSzBLX0AsLnJj4ZkyVjIwYrkb&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;開発中 十万獲太郎&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/KTwPdz66yke3XYFuPSgYcFIgm1NjvI7vcHRZMu2KtktZrd6r1t8DAuQur9Dg2L2ixQj2Q6-WgZxr9po2IxMQhKHVe1bJZBVlND7cw2OSOj51Uj_JkyQhfx9yDsVZshYZPqnhDW3ecfVOC4n3UIPVqfmyThbFEBN23EbFBnFhh2r-0aAemQ3q7Fq6ilN3-MiApP-lkPHveRk9m_ZCEYJhrJRV6pABXyAWFKvNlJyVkKUBojuXWLnlpvrwWazpqJeIBdTktyXkzVgXcJ9V1g1MDBOV5FekuSCq6-xHFybHp_EH9k7XN0KjDc9Wni9k5BfReIc96YUwzQEgnm1ZdhDgTL6lXqUmOENUzCkB171vtUEycESRw1ILRj-DHmjJFw8E0ItUBLIc3wWsLV261HFnXRekoe0wcnkjhsK0w-ilX0LmpnRz6JmyWXVtGRr39YqR9VgvzlGQ2caO9lhsQNrK_4DoFAzB5hRwrim124a9SXvLUFRUsJCcGJYZ0DN0IYnUCE3hP1evnUWtku3yPCZwWzmqnekLYloe8hGBFCAil1vXQqVgDJOftkDEtgV0QIFaLoDVSaUUN76NlV4ZZiMXee-Yp1BmCeQnO48zTsUISjrgjG7z&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;開発中 全体風景&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;エナジードリンク投入&#34;&gt;⚠⚠⚠エナジードリンク投入⚠⚠⚠&lt;/h3&gt;
+
+&lt;p&gt;OthloTechと&lt;a href=&#34;https://givery.co.jp/&#34;&gt;株式会社ギブリー&lt;/a&gt;様より大量のエナジードリンクが届けられました。
+&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;君はどれにする？ &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/nZdIb4kskW&#34;&gt;pic.twitter.com/nZdIb4kskW&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/761848240144654336&#34;&gt;2016年8月6日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;───“チカラ”が欲しいか？ &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/S40SNyhcW0&#34;&gt;pic.twitter.com/S40SNyhcW0&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/761851155517362176&#34;&gt;August 6, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;株式会社ギブリー様より差し入れを頂きました。ありがとうございます！ 残り2時間。&lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/Xs05SYqdFP&#34;&gt;pic.twitter.com/Xs05SYqdFP&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/762170114397630464&#34;&gt;August 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;突如現れるスーパーエンジニア&#34;&gt;突如現れるスーパーエンジニア&lt;/h3&gt;
+
+&lt;p&gt;運営側の「青空ハッカソンをしてほしい！」という想いが届かず、当日の気温は30℃超え。
+代わりに僕が暇な時間を見つけて、名城大学 名古屋ドーム前キャンパスの川に浸りながら開発しておきました！&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;スーパーエンジニアは、働く場所を選ばない。&lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/wMvpe7look&#34;&gt;pic.twitter.com/wMvpe7look&lt;/a&gt;&lt;/p&gt;&amp;mdash; オトモレ (@otomore01) &lt;a href=&#34;https://twitter.com/otomore01/status/762137872556109824&#34;&gt;2016年8月7日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;最終発表&#34;&gt;最終発表&lt;/h3&gt;
+
+&lt;p&gt;作品のプレゼン &amp;amp; デモをしていきます。
+&lt;strong&gt;『プレゼンを制するものはハッカソンを制す』&lt;/strong&gt; と言います。
+&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;チーム「十万獲太郎」の「トントン大相撲」&lt;br&gt;完成度がとても高いです！&lt;br&gt; &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/dPfHCJqT5Z&#34;&gt;pic.twitter.com/dPfHCJqT5Z&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/762222103374376960&#34;&gt;August 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;チーム「ぼっちめし。」の発表。サービス名「みんなめし。」&lt;br&gt;ぼっちで寂しい人達で集まって食事をするサービス。ビジネスプランまで考えていてすごい！&lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/4OxqohVtXd&#34;&gt;pic.twitter.com/4OxqohVtXd&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/762222923482472448&#34;&gt;August 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;チーム「その日ぐらし」の作品「School GO」。&lt;br&gt;講義に出席してスマホをスリープさせるとクエスト攻略という大胆なアイディア！&lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/d7bSEAspoy&#34;&gt;pic.twitter.com/d7bSEAspoy&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/762224263327649792&#34;&gt;August 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;チーム「女の子」の作品「COURSE MASTER」&lt;br&gt;複雑で面倒な履修登録を簡略化できる、学生目線ならではの実用的なサービス。 &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/N7NqJIGo2c&#34;&gt;pic.twitter.com/N7NqJIGo2c&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/762225968215797760&#34;&gt;August 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;チーム「ダブらない」の作品「yattoke」&lt;br&gt;「学生のうちにやっておけ」という先輩の言葉から、webサービスの学割などをキュレーションするサイト。 &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/8OhyNWYd1Y&#34;&gt;pic.twitter.com/8OhyNWYd1Y&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/762229775729500160&#34;&gt;August 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;チーム「えーちーむ」の作品「chatbook」&lt;br&gt;講義に特化した先生と生徒間のチャットサービス。PDFで講義ノートのように出力できるというちょっと便利機能も実装！&lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; &lt;a href=&#34;https://t.co/3PMym22x85&#34;&gt;pic.twitter.com/3PMym22x85&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/762232969096368132&#34;&gt;August 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;懇親会&#34;&gt;懇親会&lt;/h3&gt;
+
+&lt;p&gt;作品を見せ合ったりと、お疲れにも関わらず大盛り上がりでした！&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/M1Rrng2bRJsjWoZ-vIi8J3Te36Zc2E-pLTnx8HCcOVfsBV2-7lSbHm6rih4aD9nb_1HPpn0vN5j4iHWYmyk9qOb4ki7J21j4Avs9ym4boOxDx_YrWbRUOhoeLRxbDtpvk4FxN-JEBOGCCDjLAGPsLGqX6RyMQw77iSQCFKbzpva3qaat1eF12FMxI3tRgdVACw-iSkFcMYVG7nXHsT1wmrwonxyuCtkVffddRtsLhtGIWaakg8no_FcIHwRd6Hd2h0DdMLA0Bk1xPVbNxhglST7EjBwpdFF42nC0LHaWVn9bOy4wGqZwd9IVALprqgqM3R_NpyT1djAdCssqEAxHWuayUDQMDb43S7bfowHHDUYb2Ppe-0cLEatH28o2j6wJGD0fsOj6fQaUe-n_Of92UDtYD9VQ4wUCwAw_prBSfxA__yn6zXgrgIPrpgp4C0wKnl1vbBku9F2hp1A5KEunYDwSEBF1_h7b9fE9BowV0vd2pte6EhqZPX2zrHVqXLNBV9-vxzDCiQYRlFJnGqhgmB6WLgo2qpWpQnWwb-Et1zoS1DH7Hp93YuGbTbv8QyIH5Yx_AzvG029Q99urJjPFR-wprVdNtOavD__lIhJgc6NDMXSc&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;懇親会①&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/k8_JdDpdTJ-Qn-7SUdtWI_Z0m5YoGlzBwpqPSQqAoV1-h549caYiTa_6KDrtPckm0LgV4WCYbvfoS70yxQdjAdI5xF89LRjH0wnP_lfYgBFdrtOx8CBrLrsZx0YrKJ_NM8uDqQTjl-Kf2-x3v4yxob9qz75_zL64fUknlbNqpAVruhaoRP4Zqyh8XkFQTOFLi-D5FCdPacPdbqg7z9EwUr2DozBpFmdQ4jmNGviznMPfayFmdCUNDVrtWDgXfPNLMkwVO1mjj-Wh8ESqlodDa0BOtbvWCz61H09ObEdW9jN_Zv1CKDAunVRkuxHs60022AzbEdpBgLe5TSBAfSwr_7-6wlb-_z_dW1KJ7Mtm75RoFvY7I829_S6JFZPaGRWYtHzSCWb7BMkKDccoNUt518Oi5rSmAu6xhldtEqICMvkdu1zyqM3uzaLOQRxX9FOnHF8AZOrcc9jX1-klshaikW8zNnOnFOiK3zgQPne295y75KLPK0z6Dgk2Fv-d-KIQSa3df3y4aubmJ4Rcr62kHD1uM6tF13QeG9CvYyoIxH2afgd7Zm4eLBqok03rS1btZtMpc7vNBZygjOW17N5OMLv92in8tL32l6_zMNvFuGwwO9Qu&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;懇親会②&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/FGpWRDsWhFI3jmjb3oWobj0fhgmX7fZvgu8hzLijs_0ApC745d2dV48DnmZopaVmZnBWsqPRF0HTTXOFXCuGD4TTzB2VGYZA9hYWjJt7rhSaBPPbvHQeh63kvfp3sGiy7eGYVCf-MYz9rqWawdieQVTvhKhOQdj7SUWCdPIICkblQTG-QxJhq7cpdOArS5zfQ9NaL6dp9KLTr6jQsYnLOFBn6gpQ0zBfV02_ISwn26Pq0aQU2XHSmM0vBqMLzhuvbBBC1KMh6Zzj1XspEO4ZmHt7xrmpwWKv0XwKjkA9Dr4umbUYIRK6oS4R4dF8CuNPg5ZK1V_GHH1GjyYRkZOSRS76g56sDxjbgzvCtD6jEQ1OHjTpnIhiQP80v8oP6mihZ2g36976E2wEOU5ZUUbrdoi5xHKSf1HBw7CJM1aTUhL78t5YmgwAARz5Ex1ALCX6gSOKvRBL64EA_RjV3HB5-Ise2v6gzjh8bvXfhnVMIC-jYAItjwIN5XWk1cYYhRytIgmdJ9NoWfSPB4lGzb7rBXKvlwdi1Vxw_fVc8yoMdvfHEA3ovj61zDK4nAz7bHVofd470qtJNR8uuN8RVS9tc77kQG7JFg0jt6hyPDa44IpaPV-jUw&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;懇親会③&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;結果発表&#34;&gt;結果発表&lt;/h3&gt;
+
+&lt;p&gt;エイチーム賞『エイチームエンジニア社員との豪華ランチorディナー！』を受賞したのは
+&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;えーちーむ&lt;/strong&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/sqif6S-2Xx4Bvxp0xMIxCWcJ-zzeZsMtOyxteLXB6GfTfdYBRfIUcG7gMR6kPJMbomzY7LLfenHIK3LqMsFp-C5dQLRFPup9p82EyuEh1nN4goxcwpiICl3ZOOMkIYGTR5GZTLhZdDmcWfpUfpBihDTiWJhZLe1XlSDDNO7QGNWmrwe_Kukfc8zEdd37TUtbj3jgFLg586GA5nF7iso4AXTm7wrXeIRFdidNgc8WW5Fc9XbsM8OcqIWNNAW65m2IP6IFJtFi-8EftzZ5W5kvu1ZtvcVqbzOP95kXxcvg8nI5W3kwHyrFUDpN7fb-eo6CaNBnPuUywNVLEuF0Uoljpx_kLATedj6DVg7y0gte5CIpYEXzS2WZF70piFPQ2H8NttQCEZvIile7kAexZY3QF20HrLJYWEp5P3rueUcdFrwWdyU2XZaILva3Cn8F_q7hvQYUVneG8EvI20IlFnqNgFzpXlbpOHMgrspAU_ZrTYJN1rOEq_hCGSgwKkQnxdA1RzjV4GSzPmNRCcvMMK2XVb-zB2c8Q3vp0JT9H8L1_Rh3NuvzMrcEABefC_cPCh7AkV2sfDfhaM1PG3GaUaITvnqX4We2t9eu6fgIcZ4jL8aliwwf&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;エイチーム賞&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Misoca賞『Raspberry Piセット』を受賞したのは
+&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;えーちーむ&lt;/strong&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/K9Y-6I6PXiLQNkdsnntH_OjvXE9zAsip48WgpUBmUts7UZBHd3KU4wpHZzRClHnd7My0bHCtIAkWRiCjXnP3wOPM_i3_zNkgFCy1T0ejSXKxwBHgpS7MgHnYyaYgKYZX2v2bkdimWFWe5jzcJTIjAsqvoA6j4lMC1irKxAKHgd5JvckbICzv4ccMq3PdBV-Ow-285GB5wmaqxe2FUnC7h_eYaLEScjaZf-nVGWZCwmZUdasAlImaKwtvAnV-le8OZCbIHlW-0yC2yHumNue1xmRmnOh40JboeWbh6GebYuxxQcqjbJ0f6UCKtMLDP8Usg6zQgel_Lmof3vvi7V4R_jw8kRPSkgMH___5dXFIoNr4zzYdElKm_uzdUasL1n80vBHSNWpiw4n9YQ3u3I9IKPaNqFVoqwUd9oj8-yg30wxwG2HEJ9zQXZLTaw9OxS3HH7-f8zmCkT0UJm7y8wX_zEZv8lc5jE2HuTqyy6_A-0eDxtRAGgG1CjNsgpssQqrWuIuJJ5mtE5EfF9jv6Z55spsdpygQR5liG00ydtnn4ph6-BjcQkrPY8phh2hlwByqyNMmGeUNv5FfDL7YrSEwdSdbNybGpRNjY71_2o9wk1EkDbhwPw&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Misoca賞&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;フューチャーアーキテクト賞『加藤牛肉店 肉博士あつし一押し！自慢肉セット』を受賞したのは
+&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ぼっちめし。&lt;/strong&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/-61giV7lX4IC2BgYemwYcipgDifi0VWESXmwnyQLkyYKKyKm5wySQScpOJSRC8RH93RzDtpWL3v0mWtHz2J_apT-s3RaAHOgYulyJMsgPJHdegBtkBvPvCAvV8Zrpo0mmpVtFHoN5yvilhVAK1aMfWws279qBaGs_yJtVJZSOt2ms2yISKyL7a-8p_CYB0_wLyRC_AtxjCS1L-xytoe7CxZv94O_t1dKjswXpHU85khYZOh-ICUQy1q3VyLjBANre6CG5U9c2_weWGCCKTT0jMHE47joR7ik1c-kth7EYQjo9iH9ExsttQeeO8oSHs8feghmNWCb6i6_Fp-9v3wri_19imjBNDDzIgH1hRfNspMySxVG4e1V0GzWescT4bmuiqkMmm78myLxm4f1T1fZoqRbWQpMzvQ60ZlPT4yW8E1fEh6zYmz3rXJceKK_3TUm7e3em3T8-7VQHMhE4qKLovOmn7U7-DdVm9AK8vtBwFZbnB2QwqIMMiiMwaaLw92-pcIY9px0UxzXmpo6sf2IYrBXwvV6xRgY1rqnIWj0srO0uvCeipzWz7T65d3TIiILYZEsjqF346MYlj-tQnFyO3_S2_pLG08MYHfTQRPOBJ0KK2E_mw&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;フューチャーアーキテクト賞&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;サポーターズ賞『GitHubパーカー or Tシャツ』を受賞したのは
+&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;その日ぐらし&lt;/strong&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/cGdhdjCsCPvHm838nPv5avXaIiMHbtdHMPHAqD_NokjaUWrYgEs-CtNiLIykWIbfX0WPHnTSdeiDymEXXKEU5GHKqu0teD_4BXfgivSAJ7qBo8U06rmcDr7GmPKI4VkI5zUIBL_hXpp9v7hpLZRJn2nXrywOVLuDo53FPdmjhGvnYkuTd-JgU1xpxYSMLMB8jE4GvcNt17dTydbeCC42d6wFuHGL9bdj8eGSBBwNExHXSAYuzow3p5GrNGr9ed7QN_hW0v0fW7lh1FPQmst5IVwgRgxDHdHsC_0fzDbQCGuhoBLvQrrzlBW1qK9k5bBo17Nn8V8VAvNPc5gZ1B7e6NrIhSaI_l44zZQMEMlAIN_A1yiegkIifWES3O0R1Q5_pqBDX1AewM-E5ZJb5XfBKrt9-bKqrJ261zSiopuN2pE4y7rPvq0YstaSg2Ps9wqva0VXhrOH7DRs1FP8XxmftRMA55tivndKyiPm2D4ixG1PKgpunVvDu1AkwTbfQd7wYDud14sFXSMUiK4iHaqXdJBLT-W5Z_OqcwBnEEmvD6hGcAd-7NExul6MrmS2ppMDOePurFNxQgJmJfAxh5ytrkEYz0zucRPsYjHpuDY4znKLEP15&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;サポーターズ賞&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;レバレジーズ賞『Leap Motion』を受賞したのは
+&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ぼっちめし。&lt;/strong&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/l10oo5nn5aT-saKIFMoxnk0AWNazma6wA4Nu2kxozhXeaCCHQMUuHqIbsdOPEGX13JcFC8gJp2wtxgT943lOxk11tDZHLHF4O6bOkMWSqVOxOoYrwoVUQgRvsX3ydbnctTeVIXeTv5G50-zWywJPCy-Keb82RYkfcDQIHdzQ639CbP4xry0phqWmNkNNbRPP9oPWt87NqYfQ7C01mnN6mugpPQm6HSAW717M4Stp3--M2q5rrmFuhw2l20yFUsyFxYsxIKKXHGiaWEBgRBhoYMpUz4RYHyj3bqf7tGKuawj45I27EU4yLYMVk4Mw9M1q4AnTloKbXyckTpwkMtMb1y3urtsKlsGMy0GXSCV3-D9XrwDmwL4q36Zc5mFXgRcl1VvyzIaVAPTxWP9vIbDXpOOYg7hrXPDVCZJRH_U0ch_d47_ClGz1CRdvA4Kn1MmJdSVFTslKjlFHlv4uUbb5Gzq5AC7Hn0wLqvEH6Nh5LxSJEo4UKmtAfhs-FbDBZzePL0kQBepA7wX41sTXduEDh6WLn-dEGfDb5wFsNOUCbLXX1fB8l_V_wMrSwdZiOU_ecgP0NSx6RKgOozY476H8nIsU6gMovcBjCyw99jFiSB_2OWeL&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;レバレジーズ賞&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;そして、OthloHack 2016 最優秀賞を受賞したのは
+&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;
+……&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;十万獲太郎&lt;/strong&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/7uFXMaP__PDtM9L9JdZnu-V_JoY2aeFKyZGph4I-4n9Fo6S_3FJab-2KrreI8W6OPMT635MpOnFHfBDQhfrX3O34UmYjNEGzs_YrHynBovNn77NMaiVxREYG7uJWpEOnouttoKAz0ozZO5l3G3svAQGZ9R3wE8sMzXQ-a7AHd4L_H89z2zDROx9i4h0OoKVZmbvHXsgbqnF67Xipqodv2Lcg7dKOs_qjewYScyRJt7Yxk9vwS5eCT8UEFgDn2ecmQm9mbGw_vqM29P6NujJoIlFbTfeaeg8BRT3sWGasJTAbd80VqPHt28k5cPG8q1RVzvvTAjGpnEf7aRO4PW3MHTx-9jg7o1sIHx6O8HlScRhNUjVrfXld4521MtC4jDrKLkFU9rh9HcPzsybzQFWTRrtqsSMURnwZpwv49jwBmkOE6AWQ7W1W2DbiAX77zzk8UnNeOr9LmCH_dDeiN210FYFY9u3vZCD8Sm-FtTsDgqWXsWE7xg6_kmT-fiPCTiwxS-qY3dPViXpBC788rfMEAgZoMZ-1roxTs5dFNuRjLDCCErbFawwGb8PVlLXEn8gMByZ3GjBSBwyXsbjMia53tM1yScalacl1G2ZEEVC6MnfLpOpF&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;最優秀賞&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;チーム名通りに十万円を獲ったということで、何に使うのか聞いたところ悪い顔してました！&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/qRTAvlANsMdJAY5QE_s3AF8XGpSXa3et5dMVvesM6nk2jPVFLlwNQiZ9HRQBv-4X1wYhI6FGQSepftba0xHVy385tNsxDfPPp-hs-qBXoT5HBGNoaZcNIW11Hp4sFouoxQrVpL5a7IL6cpudO8aCfbsJ9A6BkxnMC8IJud_-FW3Dm95AOxc5rzD12PcEurVkYQOGnRdZBE0bG3HX-ZWPmwbtBkvDI9EPjm-t6Cg7HcdktjNe7HZbvY0jzlU4s3DEZGSnEpMPykKHZbifT9QgCBkA5-Ib87VEjVD3A9GYU_cG5x8RobPkKImBofoi89VB-9r43MJJZk856xhp-yiolPYnhdb5g1-TvTAO_GCmV8pMRB2NmvCrapE2KostyqWGB8eiw-L1emGE6dYEL4_MIS4ldbZNZz6ou8cZawdJSV1vUs3ZG438KPKE0-Z-x5kxnj7WTRwXmTI0HWgQMG1rZCwXYw2Fo1QKwaFseMv_FxtIg65NqiDPgXliaPfYwLDuZnaeP7RNMaeZKoGXbHgveuEZ8koFfKdGU3omJi7TKwq8Xco-6cgoWnDreDs83boPRipN2eqJ_tThDaMS8YzNfiY3SifGsbsV9FvlbbbTusXgKxP4&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;十万獲った十万獲太郎のみなさん&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;最後に集合写真&#34;&gt;最後に集合写真&lt;/h3&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/Mt1XwNMmK6PiNZH5ivcUVr9P9ZXO_QRvF9MC_GQs9S3a05S_Qo5gMP3j4y21_QOMdDcg1zms4TbheTEonWduWZE0biONDY5k6VWQMkXvR7T-QvxCY22I5egvQD-Odpyo46c8qyH_4cs2H1DqugB3DbDIpJnYJTQGvLK42eQYZWyJHSRaOLXWNaU_GK4dyK5KIXcw4O2-jDb_LdH2SZyAtYUIWCfl4GLK99jtHWSbWWcT1dCDQzpeX2ZiErpdIIlmb3w6ELV1-vE3dpdKmgnp6iETxX3utVdO9bWEUM-tXjqu16IeIwPBft57Z7fKnNfMsS6JTh76vEi_xnI2CaM2DAdZctwdE85es1j11QmLv0WGxWPnro866QctWS3TSvi2Fdw9DU6hG7km_mMKoDqzQw9POBM9r8uPOLqxy_RZCub-l5XwA7ZcVjmdRMlrsA5WQjp2PJskdPB7y7EX7-CskXhupnASZ8gavlYfaXkkDmbFpVwpIQLLmOrj_ikls0C3lncVEYwXcvDPrCk9-GyxuKHT3qcgm-asFsAiuoQopOSCpztG0DyY4K9e0wJNlrXQd8Qp5AsGqTfq9RYh31akMXF5oJjY8TE8EfguXQ_XyWWSLbth&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;集合写真&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;参加者の声&#34;&gt;参加者の声&lt;/h3&gt;
+
+&lt;h4 id=&#34;othlohack-2016に参加してどうでしたか&#34;&gt;OthloHack 2016に参加してどうでしたか？&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;商品が豪華&lt;/li&gt;
+&lt;li&gt;主催者のお兄さんたちともっと話したかった&lt;/li&gt;
+&lt;li&gt;チーム開発が新鮮で楽しかった！&lt;/li&gt;
+&lt;li&gt;お昼ごはんが豪華&lt;/li&gt;
+&lt;li&gt;悔しかった&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;今後どのようなイベントに参加したいですか&#34;&gt;今後どのようなイベントに参加したいですか？&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;起業家とのトークイベントをやってほしい&lt;/li&gt;
+&lt;li&gt;汎用性の高い技術のハンズオンをやってほしい&lt;/li&gt;
+&lt;li&gt;もくもく会に参加したい&lt;/li&gt;
+&lt;li&gt;デザイナーに特化したイベントをやってほしい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;おわりに&#34;&gt;おわりに&lt;/h3&gt;
+
+&lt;p&gt;最後になりましたが、参加してくれた学生の皆さまや、ご協賛いただきました企業の皆さまのご支援ご協力あって大成功のイベントになりました。本当にありがとうございました！
+今後ともOthloTechの活動にご期待ください！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OthloEvent@名城shake #4</title>
+      <link>http://www.othlo.tech/events/othloevent04-shake/</link>
+      <pubDate>Sat, 24 Sep 2016 00:20:33 +0900</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent04-shake/</guid>
+      <description>
+
+&lt;h2 id=&#34;othloevent-名城shake-を開催しました&#34;&gt;OthloEvent@名城shake を開催しました！&lt;/h2&gt;
+
+&lt;p&gt;こんにちは〜！　&lt;a href=&#34;https://twitter.com/gmsesame&#34;&gt;@gmsesame&lt;/a&gt;です！！&lt;/p&gt;
+
+&lt;p&gt;大学生の夏休みもそろそろ終わり…だんだん涼しくなってきて、どこか寂しさを感じる時期ですね。&lt;br/&gt;
+みなさんの夏休みはいかがだったでしょうか？&lt;/p&gt;
+
+&lt;p&gt;さて、今回はそんな夏休み終了シーズンの9月24日(土)に名城大学shakeにて開催した「&lt;a href=&#34;http://othlotech.connpass.com/event/38183/&#34; title=&#34;【学生LT大会】OthloEvent@名城shake #4&#34;&gt;【学生LT大会】OthloEvent@名城shake #4&lt;/a&gt;
+」の様子をお伝えしたいと思います(｡･ω･)ﾉﾞ&lt;/p&gt;
+
+&lt;h3 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h3&gt;
+
+&lt;p&gt;今回のイベントの時間割は以下の通り！&lt;/p&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;登壇者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;15:50&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;受付開始&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;16:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;オープニング&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;16:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;LT大会 ~前半~&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;7人&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;routerboard　is GOD&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;evena_evenas&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;MacのBootcampでWindows 10のインストールを自動化&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;moutend&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;10月に名古屋で開催予定のテック系イベントをまとめてみた&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;わかめだ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;名古屋に来て半年で友達300人つくった話&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;gmsesame&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;開発中アプリのご紹介&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;渡辺稜太&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ぽこひで戦記 ~第2章 成長の刻~&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ぽこひで&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Webデザインの配色&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ちーず&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;17:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;LT大会 ~後半~&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;8人&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;セキュリティキャンプ実施報告(仮)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;KageShiron&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Mac標準プレビュー.appを使い倒す&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ライダー&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ポケモンGOのあそびかた&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;@iyuto_&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;KubernetesではじめてのDocker管理に挑戦した話（仮）&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Katsuaki Takagi&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;【体験記】２週間ドワンゴのエンジニアに囲まれてみた&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;祖父江 亮&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Arduino programming in Haskell&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;くぅ&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;人工秘書を作りたい&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;野村&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;-&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;エンジニアの住処&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Tatsu10&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;18:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;自由解散&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;イベントの様子&#34;&gt;イベントの様子&lt;/h3&gt;
+
+&lt;p&gt;土曜日開催！そしてゆったり16:00スタート！&lt;br/&gt;
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/9-24/opening.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;オープニングトーク！&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;OthloTech代表・ぽこひで(&lt;a href=&#34;https://twitter.com/hyde141421356&#34;&gt;@pokohide&lt;/a&gt;)による挨拶が終了した後、いよいよ参加者１５人全員によるLT大会がスタートしました。&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/9-24/riderLT.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;ライダーさんのLTの様子&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;みんな思い思いに自分の興味のある分野や夏休みのインターン経験についてLTしていました。&lt;br/&gt;
+ 全員分の詳しいLT内容については、&lt;a href=&#34;https://nagoyastartupnews.com/%E6%9D%B1%E6%B5%B7%E3%81%AE%E5%AD%A6%E7%94%9F%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E9%9B%86%E5%9B%A3%E3%81%8C%E3%82%A2%E3%83%84%E3%81%84-othlotech-%E3%81%AE%E5%AD%A6%E7%94%9Flt%E5%A4%A7%E4%BC%9A-%E5%90%8D%E5%9F%8Eshake-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88-b1cf7ba0c2fa#.ys0ig8e2j&#34; title=&#34;参加者全員登壇！？OthloTech主催の学生LT大会@名城shake レポート -NagoyaStartupNews&#34;&gt;NagoyaStartupNews&lt;/a&gt;にも掲載されているので、ぜひご覧ください(&amp;lsquo;-&amp;rsquo;*)&lt;/p&gt;
+
+&lt;p&gt;全員LT会の後は、懇親会でお菓子を食べながらワイワイしつつ…&lt;br/&gt;
+参加者投票で人気の高かったLT者に、素敵なプレゼントを贈呈(＇ｰ＇)&lt;/p&gt;
+
+&lt;h3 id=&#34;お疲れ様でした-0&#34;&gt;お疲れ様でした(^0^)/&lt;/h3&gt;
+
+&lt;p&gt;9月も無事にイベントを開催することができました！&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;次回のOthloEventもお楽しみに〜。&lt;/p&gt;
+
+&lt;h3 id=&#34;ちなみに&#34;&gt;ちなみに…&lt;/h3&gt;
+
+&lt;p&gt;メンバーである &lt;a href=&#34;https://twitter.com/mtmtkzm&#34;&gt;@mtmtkzm&lt;/a&gt; がこのLT大会で発表した&lt;a href=&#34;http://qiita.com/mtmtkzm/items/160d5bac95d4d4aaea0e&#34; title=&#34;Mac標準「プレビュー」の意外と知られていないTips&#34;&gt;Mac標準「プレビュー」の意外と知られていないTips&lt;/a&gt;がバズりました！！
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;ストックもPVも大台乗った感じある。ソーシャル系も結構いい感じで嬉しー &lt;a href=&#34;https://t.co/emg9WBnHA3&#34;&gt;pic.twitter.com/emg9WBnHA3&lt;/a&gt;&lt;/p&gt;&amp;mdash; ライダー (@mtmtkzm) &lt;a href=&#34;https://twitter.com/mtmtkzm/status/782977260135428096&#34;&gt;October 3, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;ぜひご確認くださいヾ(￣ω￣〃)ﾉ&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OthloEvent@Misoca #3</title>
+      <link>http://www.othlo.tech/events/othloevent03-misoca/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent03-misoca/</guid>
+      <description>
+
+&lt;h2 id=&#34;othloevent-misoca-3-を開催しました&#34;&gt;OthloEvent@Misoca #3 を開催しました！&lt;/h2&gt;
+
+&lt;p&gt;はじめまして、&lt;a href=&#34;https://twitter.com/mtmtkzm&#34;&gt;ライダー&lt;/a&gt;です。&lt;/p&gt;
+
+&lt;p&gt;2016/7/15に開催された&lt;a href=&#34;http://othlotech.connpass.com/event/34943/&#34;&gt;OthloEvent#3&lt;/a&gt;のレポートを書きます！&lt;/p&gt;
+
+&lt;h3 id=&#34;タイムライン&#34;&gt;タイムライン&lt;/h3&gt;
+
+&lt;p&gt;今回のイベントは、学生LTが3本と、株式会社ファントムタイプ 代表取締役の小久保 祐介さんの「Sketch入門」という豪華な詰め合わせでした！！&lt;/p&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;登壇者&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;受付開始&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;学生LT(5分)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;卒研でアプリを作った&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;@levena_evenas&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Go言語でGitHub Issuesのビューアを作ったよ〜&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;もうてん&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Sketchは学割で買いましょう😆&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;ライダー&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Sketch入門&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;小久保 祐介&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;20:10&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;21:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;完全撤収&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;学生lt&#34;&gt;学生LT&lt;/h3&gt;
+
+&lt;h4 id=&#34;levena-evenas-卒研でアプリを作った&#34;&gt;@levena_evenas「卒研でアプリを作った」&lt;/h4&gt;
+
+&lt;p&gt;コミュニケーションってめっちゃ大切だよっていう話。
+何をするにも土台にあるのに忘れがちだったりしますよね&amp;hellip;！&lt;/p&gt;
+
+&lt;h4 id=&#34;もうてん-go言語でgithub-issuesのビューアを作ったよ&#34;&gt;もうてん「Go言語でGitHub Issuesのビューアを作ったよ〜」&lt;/h4&gt;
+
+&lt;p&gt;デモを見せながらのLT、盛り上がっていましたねー！&lt;/p&gt;
+
+&lt;p&gt;発表資料はこちら &amp;gt; &lt;a href=&#34;http://qiita.com/moutend/items/2365c51d9de35596ee1d&#34;&gt;GoでGitHub Issuesのビューアを作った&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;ライダー-sketchは学割で買いましょう&#34;&gt;ライダー「Sketchは学割で買いましょう😆」&lt;/h4&gt;
+
+&lt;p&gt;僕のLTですね。
+Sketchは学割で半額で購入できるのですが、購入当時それを知らず購入してしまった僕は悔しさのあまりその差額で何ができるのかを話しました。&lt;/p&gt;
+
+&lt;h5 id=&#34;6117円でできること&#34;&gt;6117円でできること&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;高速バスで名古屋 &amp;lt;&amp;ndash;&amp;gt; 東京を往復できる。&lt;/li&gt;
+&lt;li&gt;レッドブル1ヶ月分&lt;/li&gt;
+&lt;li&gt;数万PV（アフィリエイト）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;sketch入門&#34;&gt;Sketch入門&lt;/h3&gt;
+
+&lt;p&gt;この内容でLTしてくださいました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://qiita.com/yusuke_kokubo/items/4e28e1fb66cc34cae2b6&#34;&gt;http://qiita.com/yusuke_kokubo/items/4e28e1fb66cc34cae2b6&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;懇親会&#34;&gt;懇親会&lt;/h3&gt;
+
+&lt;p&gt;大盛況でしたね！&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;キーボード展覧会www &lt;a href=&#34;https://twitter.com/hashtag/OthloTech?src=hash&#34;&gt;#OthloTech&lt;/a&gt; 懇親会にて &lt;a href=&#34;https://t.co/4oycR6cOHy&#34;&gt;pic.twitter.com/4oycR6cOHy&lt;/a&gt;&lt;/p&gt;&amp;mdash; OthloTech (@OthloTech) &lt;a href=&#34;https://twitter.com/OthloTech/status/753931014695714816&#34;&gt;2016年7月15日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;ライブ放送&#34;&gt;ライブ放送&lt;/h4&gt;
+
+&lt;p&gt;そういえば、&lt;a href=&#34;https://twitter.com/otomore01&#34;&gt;オトモレくん&lt;/a&gt;が、自前の通信料でライブ放送をしてくれました。ご覧あれ。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.periscope.tv/w/1mnxekMMzMRGX&#34;&gt;懇親会の模様を見る！&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;おわりに&#34;&gt;おわりに&lt;/h3&gt;
+
+&lt;h4 id=&#34;公式アカウントあります&#34;&gt;公式アカウントあります&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/OthloTech&#34; class=&#34;twitter-follow-button&#34; data-show-count=&#34;true&#34;&gt;Follow @OthloTech&lt;/a&gt;&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;イベントの情報をメインに、ツイートしています。
+OthloTechのTwitter公式アカウントを、フォローお願いします😏&lt;/p&gt;
+
+&lt;p&gt;ご参加いただいた皆様、ご登壇いただいた皆様、会場をお貸しくださったMisoca様、皆様のご協力で大成功のイベントになりました。ありがとうございました！&lt;/p&gt;
+
+
+&lt;figure class=&#34;aden&#34;&gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/7-15/1.jpg&#34;  /&gt;
+    
+
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;集合写真&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+      
+
+&lt;/figure&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h5 id=&#34;おわりに-1&#34;&gt;おわりに&lt;/h5&gt;
+
+&lt;p&gt;この日の写真の自分を見て、髪を切ること決断しました。&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;思い立ったらなんとやら &lt;a href=&#34;https://t.co/NICwvwBRZY&#34;&gt;pic.twitter.com/NICwvwBRZY&lt;/a&gt;&lt;/p&gt;&amp;mdash; ライダー (@mtmtkzm) &lt;a href=&#34;https://twitter.com/mtmtkzm/status/753983890612596736&#34;&gt;2016年7月15日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
     </item>
     
