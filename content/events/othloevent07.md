@@ -3,12 +3,12 @@ slug = "othloevent07-yahoo"
 title = "OthloEvent@ヤフー株式会社 #7"
 date = "2016-11-26"
 event_tags = ["ハンズオン", "ヤフー株式会社", "React.js"]
-banner = "images/banners/events/othlo-event7.jpg"
+banner = "images/banners/events/othlo-event7.png"
 +++
 
 # OthloEvent@ヤフー株式会社 #7
 
-{{< image src="/images/events/11-26/banner.jpg" alt="イベントバナー" >}}
+{{< image src="/images/events/11-26/banner.png" alt="イベントバナー" >}}
 
 はじめまして、[ライダー](https://twitter.com/mtmtkzm)です。
 
