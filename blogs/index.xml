@@ -7,8 +7,97 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2016 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Thu, 12 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Feb 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.othlo.tech/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>初めてWordPressテーマを自作したときに便利だったサービス7つ</title>
+      <link>http://www.othlo.tech/blogs/services-for-wordpress-theme/</link>
+      <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/blogs/services-for-wordpress-theme/</guid>
+      <description>
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20170209/wplogo.png&#34; alt=&#34;WordPress Logo&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;こんばんは！MasuqaT(@occar421)です。普段はWindowsを使ってC#を使ったり数値計算をしたりしています。今週のテーマとしては、そうした情報を載せてきたブログを作り直した際に、役立ったサービスについて書いてみました。ということで、この記事はWordPressテーマ初級者向けに書いています。&lt;/p&gt;
+
+&lt;p&gt;今までは&lt;a href=&#34;http://themememe.com/flato&#34;&gt;Flato&lt;/a&gt;というテーマを改造して使っていましたが、いろいろと装飾をつけていくうちに、コード管理が雑になって保守が難しくなっていた問題がありました。何より、SCSSに触れた身としてはCSSを生でたくさん書くのはちょっと辛い…&lt;/p&gt;
+
+&lt;p&gt;こういう背景があったので、サーバーを変えるのを機にテーマを1から構築してみることにしました。&lt;/p&gt;
+
+&lt;h2 id=&#34;instant-wordpress-or-bitnami&#34;&gt;Instant WordPress (or BitNami)&lt;/h2&gt;
+
+&lt;p&gt;まずはローカル環境にWordPressを構築しましょう。Xamppをインストールしてサーバー建ててWordPressを入れて…というのも以前の話、今は便利なものがあります。&lt;br /&gt;
+Windowsであれば&lt;a href=&#34;http://www.instantwp.com&#34;&gt;Instant WordPress&lt;/a&gt;をインストールすると、1発で構築・起動・停止できます。非常に便利です。Macには&lt;a href=&#34;https://bitnami.com/stack/wordpress&#34;&gt;BitNami&lt;/a&gt;というものがあるようです（未検証）。&lt;/p&gt;
+
+&lt;h2 id=&#34;bones&#34;&gt;Bones&lt;/h2&gt;
+
+&lt;p&gt;WordPress環境ができたはいいが、1からテーマを作るために何をしたらいいかわからない…という場合は&lt;a href=&#34;http://themble.com/bones/&#34;&gt;Bones&lt;/a&gt;を試してみるのがオススメ。すでに最低限の構築ができているので、少し色やフォントを弄るのもいいですし、跡形が無いくらい変えていってもいいです。&lt;/p&gt;
+
+&lt;p&gt;うれしい（？）ことに、デザインはすべてSCSSで、しかもレスポンシブデザインに対応して書かれているため、バージョン管理をしっかりしていればかなり保守しやすいです。Gulp等タスクランナーやCompassなどのSCSSを自動コンパイルする機能があるものと組み合わせると良いでしょう。&lt;br /&gt;
+たまに色が変数を使わず生で書いてあったり、レスポンシブの設定で自由が利かないころもあったりしたので、いろいろ弄っていると負担になることもあります。&lt;/p&gt;
+
+&lt;h2 id=&#34;google-fonts&#34;&gt;Google Fonts&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://fonts.google.com&#34;&gt;Google Fonts&lt;/a&gt;は、言わずと知れたWebフォントを利用できるサービス。これは知っている方が多いかもしれないですね。&lt;/p&gt;
+
+&lt;p&gt;Webフォントを利用できるだけでなく、プレビューや比較などもできちゃいます。タイトルに使うような装飾フォントもあるので、いろいろ試してみましょう。&lt;br /&gt;
+あれもこれも使い過ぎるとページ読み込み時間が増えてしまいますので、入れ過ぎにはご注意を。&lt;/p&gt;
+
+&lt;p&gt;Webフォントには他にもサービスがあるようですので、Google Fontsの中に気に入るものがなければ探してみるといい出会いがあるかもしれません。&lt;/p&gt;
+
+&lt;h2 id=&#34;font-awesome&#34;&gt;Font Awesome&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://fontawesome.io&#34;&gt;Font Awesome&lt;/a&gt;も、有名なWebフォントのアイコンを使えるサービスです。利用にメールの登録が必要なのが少し面倒（になった）ですが、使うのは本当に簡単です。&lt;/p&gt;
+
+&lt;p&gt;ここで用意されているアイコンを使うだけで、このリンクは何を示しているのかということが一目でわかるようになります。そして、サイズ変更や重ね合わせなどの技を使えば少しは応用も利きます。&lt;/p&gt;
+
+&lt;p&gt;数が多いのでお目当てのものを探し出すのに苦労しますが、彩りを添える良きアイコンなので是非。&lt;/p&gt;
+
+&lt;h2 id=&#34;adobe-color-cc&#34;&gt;Adobe Color CC&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://color.adobe.com/&#34;&gt;Adode Color CC&lt;/a&gt;は、色を入力すると配色ルールに従い他の色を生成してくれます。&lt;br /&gt;
+配色の方法にはいろいろと種類がありますが、これを使えば好きな色から手っ取り早く色を作ることができます。メイン色をドラッグすると他の色も自動的に変化するので見ていても綺麗です。&lt;/p&gt;
+
+&lt;p&gt;どの色をどこに使うのは我々次第…ではありますが、色遣いに対する心配は和らぐのではないかと思います。&lt;/p&gt;
+
+&lt;p&gt;好きな色が見つからない…という方は「色見本」や「～の色」で検索してみると参考になるかもしれません。私は「和色」とか「日本の色」とかで調べることが多いです。&lt;/p&gt;
+
+&lt;h2 id=&#34;wp-pusher&#34;&gt;WP Pusher&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://wppusher.com&#34;&gt;WP Pusher&lt;/a&gt;は、GitHubやBitbucketのリポジトリを更新する度に、テーマやプラグインをデプロイしてくれるWordPressプラグインです。&lt;br /&gt;
+Freeで使える対象はpublicリポジトリに限られますが、WordPressのページ上で編集して管理が難しくなってしまうことや、手動でのデプロイを忘れていて更新されていなかった、という問題はほとんど解決してしまいます。&lt;/p&gt;
+
+&lt;p&gt;趣味のページであれば、publicリポジトリにしてしまって、見られるつもりできれいなコードを書く、更新の管理をしっかりしてデザインする、Issueで描画の不具合を報告してもらう、というのもいい方法ではないでしょうか。&lt;/p&gt;
+
+&lt;h2 id=&#34;easy-fancybox&#34;&gt;Easy FancyBox&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/plugins/easy-fancybox/&#34;&gt;Easy FancyBox&lt;/a&gt;は、記事内の画像をポップアップ表示してくれるWordPressプラグインです。私が使っているのでこれを挙げましたが、Lightboxなどなど似たプラグインがあるので、エフェクトやデザインを比べて好きなものを選ぶといいと思います。&lt;/p&gt;
+
+&lt;p&gt;記事にはサムネイルを使ってクリックで高解像度の画像を見られるようにする…（メディアを挿入で、「リンク先：メディアファイル」を選択）という方法がありますが、この状態では画像だけのページに移動することになります。&lt;br /&gt;
+このタイプのプラグインを使えば、記事の上にポップアップ表示してくれます。&lt;/p&gt;
+
+&lt;h2 id=&#34;おわりに&#34;&gt;おわりに&lt;/h2&gt;
+
+&lt;p&gt;この記事ではデザインに関する話題を取り上げましたが、WordPressのテーマではPHPファイルやJavaScriptファイルを編集・追加することで結構な部分の動作を変えることができます。プラグインを作ればさらに変えられます。&lt;/p&gt;
+
+&lt;p&gt;Webページを作ってみるといい見た目の結果を手に入れやすいので、プログラミングにまだ自信が無い方でもモチベーションを保ちトライしやすい分野だと思います（※個人の感想です）。&lt;br /&gt;
+ページの色を変えてみることから始まり、デザインに凝ってみる、外部に情報発信してみる、PHPやJavaScriptを変えて動的なページに挑戦してみる、自分でサーバーを建ててみる、ソースコード管理をしてみる、グループで作品を制作する、…と広がりのある分野でもあります。&lt;/p&gt;
+
+&lt;p&gt;この記事が新たな一歩のきっかけになれれば嬉しいです。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>名古屋にある開発にオススメなカフェ5選</title>
