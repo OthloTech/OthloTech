@@ -21,7 +21,7 @@ hasCJKLanguage = true
   author = 'OthloTech'
   email = 'othlotech@gmail.com'
   about_us = '<p>OthloTechは、東海圏のエンジニア・デザイナーを中心とするクリエイティブな学生が集まるコミュニティです。</p>'
-  copyright = '© 2016 OthloTech. All rights reserved. Crafted with love'
+  copyright = '© 2017 OthloTech. All rights reserved. Crafted with love'
   date_format = '2016-01-02'
   logo = '/images/logo.png'
   twitter = 'OthloTech'
@@ -80,7 +80,7 @@ hasCJKLanguage = true
 [params.members]
   enable = true
   # /data/members に格納
-  title = 'メンバー'
+  title = '運営メンバー'
   subtitle = ''
 
 [params.see_more]
