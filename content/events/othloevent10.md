@@ -4,6 +4,7 @@ event_tags = ["WEB開発", "LT大会"]
 date = "2017-02-22"
 title = "OthloEvent@エイチーム #10 WEB LT大会"
 banner = "images/banners/events/othlo-event10.png"
+draft = true
 +++
 
 # OthloEvent@エイチーム #10
