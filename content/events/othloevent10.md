@@ -170,10 +170,10 @@ DBやサーバーをロードバランサで冗長化しても、サーバが止
 
 #### 構成
 - AWS Lambda & API Gateway でエラー通知
-- Amazon DynomoDB で通知内容を保存
-- AWS Lambda & CloudWatch で定期的にChatworkに通知
+- Amazon DynamoDB で通知内容を保存
+- AWS Lambda & CloudWatch で定期的にChatWorkに通知
 
-実際に、AWSにエラーログを収集して、Chatworkに通知する仕組みまでは出来たそうでした！
+実際に、AWSにエラーログを収集して、ChatWorkに通知する仕組みまでは出来たそうでした！
 今後は、アラート内容のヤバさを判定する仕組みが必要なので、頑張っていくそうです！
 
 ## 懇親会！
