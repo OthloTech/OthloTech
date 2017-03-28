@@ -17,7 +17,12 @@
 
         <div id="content">
             <div class="container">
-
+                <script>
+                window.onload = function () {
+                //   読込み完了時
+                    ga('send','event','Page','pageview','{{ .Permalink }}',1);
+                };
+                </script type="text/javascript">
                 <div class="row">
 
                     <!-- *** LEFT COLUMN *** -->
@@ -27,19 +32,19 @@
                         <div class="post-meta" style="height:32px">
                             <div class="social-share-area col-sm-8 col-xs-12">
                                 <ul class="share-buttons" style="margin:0">
-                                    <li class="facebook" onclick="ga('create', 'UA-78315006-1', {'cookieDomain': 'none'});ga('send','social','Facebook','fb_share','{{ .Permalink }}')">
+                                    <li class="facebook" onclick="ga('send','event','Facebook','fb_share','{{ .Permalink }}',30)">
                                         <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}&t={{ .Params.title }}" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="/images/sns/Facebook.svg"></a>
                                     </li>
-                                    <li class="twitter" onclick="ga('create', 'UA-78315006-1', {'cookieDomain': 'none'});ga('send','social','Twitter','tw_share','{{ .Permalink }}')">
+                                    <li class="twitter" onclick="ga('send','event','Twitter','tw_share',{{ .Params.Title }},5)">
                                         <a href="https://twitter.com/share?url={{ .Permalink }}&text={{ .Params.title }}&hashtags={{ .Site.Params.twitter }}&related={{ .Site.Params.twitter }}" target="_blank" title="Tweet"><img alt="Tweet" src="/images/sns/Twitter.svg"></a>
                                     </li>
-                                    <li class="google" onclick="ga('create', 'UA-78315006-1', {'cookieDomain': 'none'});ga('send','social','GooglePlus','plus','{{ .Permalink }}')">
+                                    <li class="google" onclick="ga('send','event','GooglePlus','plus','{{ .Permalink }}',10)">
                                         <a href="https://plus.google.com/share?url={{ .Permalink }}" target="_blank" title="Share on Google+"><img alt="Share on Google+" src="/images/sns/Google+.svg"></a>
                                     </li>
-                                    <li class="pocket" onclick="ga('create', 'UA-78315006-1', {'cookieDomain': 'none'});ga('send','social','pocket','save','{{ .Permalink }}')">
+                                    <li class="pocket" onclick="ga('send','event','pocket','save','{{ .Permalink }}',10)">
                                         <a href="https://getpocket.com/save?url={{ .Permalink }}&title={{ .Params.title }}" target="_blank" title="Add to Pocket"><img alt="Add to Pocket" src="/images/sns/Pocket.svg"></a>
                                     </li>
-                                    <li class="hatebu" onclick="ga('create', 'UA-78315006-1', {'cookieDomain': 'none'});ga('send','social','hatebu','hb_share','{{ .Permalink }}')">
+                                    <li class="hatebu" onclick="ga('send','event','hatebu','hb_share','{{ .Permalink }}',10)">
                                         <a class="hatena-share-button" href="http://b.hatena.ne.jp/add?mode=confirm&url={{ .Permalink }}&title={{ .Params.title }}" target="_blank"><img alt="Share on Hatebu" src="/images/sns/hatebu.svg"></a>
                                     </li>
                                 </ul>
