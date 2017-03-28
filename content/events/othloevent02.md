@@ -2,7 +2,7 @@
 slug = "othloevent02-ateam"
 title = "OthloEvent@エイチーム #2"
 date = "2016-06-24T00:20:33+09:00"
-event_tags = ["LT会", "勉強会", "OthloEvent", "エイチーム"]
+event_tags = ["LT", "勉強会", "OthloEvent", "エイチーム"]
 banner = "images/banners/events/othlo-event2.png"
 +++
 
@@ -144,4 +144,3 @@ GPGPUを用いると性能が上がるアプリケーションの例として
 名古屋の未来は明るいな
 
 {{< image src="/images/events/6-24/gather.jpg" title="集合写真でっせ" class="aden" >}}
-

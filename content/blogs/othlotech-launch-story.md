@@ -2,7 +2,7 @@
 slug = 'othlotech-launch-story'
 title = "名古屋のテック系学生団体「OthloTech」を創った経緯"
 date = "2016-12-01"
-categories = ["雑記"]
+categories = ["OthloTech"]
 tags = ["AdventCalendar"]
 banner = 'images/banners/blogs/othlotech-launch-story.jpg'
 +++
@@ -14,7 +14,7 @@ banner = 'images/banners/blogs/othlotech-launch-story.jpg'
 {{<image src="/images/blogs/20161201/othlotech-logo-1.png"  alt="OthloTech" >}}
 
 こんにちは！OthloTechの矢崎です。
- 
+
 12月1日から25日間、[OthloTech Advent Calendar 2016](http://qiita.com/advent-calendar/2016/othlotech)でOthloTechコミュニティの学生が毎日1記事ずつ投稿してくれます。  
 この記事はその一番目ということで、「OthloTechってなに？」「なんで始めたの？」というイントロダクション的なのをつらつらと書いていきます。
 
@@ -106,4 +106,3 @@ OthloTechコミュニティの学生たちがQiitaのアドベントカレンダ
 (Qiitaの趣旨的には技術的な話をしたほうがいいのかな〜とは思ったのですが、1日目なのでイントロダクション的な投稿にしましたw)
 
 少しでもOthloTechの活動に興味を持ってもらえたら、Twitter[@OthloTech](https://twitter.com/OthloTech)や[Facebookページ](https://www.facebook.com/Othlotech)で今後の活動をチェックしてみてください！
-

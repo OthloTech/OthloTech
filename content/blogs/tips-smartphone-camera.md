@@ -2,7 +2,7 @@
 slug = 'smartphone-camera-tips'
 title = "スマホでいい感じの写真を撮るために覚えておくといい４つのこと"
 date = "2016-12-22"
-categories = ["カメラ・写真"]
+categories = ["写真"]
 tags = ["AdventCalendar", "camera", "photography"]
 banner = 'images/banners/blogs/20161222.jpg'
 +++

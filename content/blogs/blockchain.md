@@ -3,7 +3,7 @@ slug = 'blockchain'
 categories = ['blockchain']
 date = "2016-11-24"
 title = "ブロックチェーンってなに？"
-tags = ["blockchain","bitcoin","cryptocurrency"]
+tags = ["bitcoin","cryptocurrency"]
 banner = '/images/banners/blogs/blockchain-technology.jpg'
 +++
 
