@@ -90,12 +90,12 @@
     ga('create', 'UA-78315006-1', 'auto');
     ga('send', 'pageview');
 
-    FB.Event.subscribe('edge.create', function(targetUrl) {ga(['send', 'social', 'facebook', 'like', targetUrl]);});
-    FB.Event.subscribe('edge.remove', function(targetUrl) {ga(['send', 'social', 'facebook', 'unlike', targetUrl]);});
-    FB.Event.subscribe('message.send', function(targetUrl) {ga(['send', 'social', 'facebook', 'send', targetUrl]);});
-    window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);return window.twttr||(t={_e:[],ready:function(f){t._e.push(f)}})}(document,"script","twitter-wjs"));
-    twttr.ready(function (twttr) {twttr.events.bind('click', function (e) {ga('send', 'social', 'twitter', 'click', window.location.href); });
-    twttr.events.bind('tweet', function (e) {ga('send', 'social', 'twitter', 'tweet', window.location.href);});});
+    
+    
+    
+    
+    
+    
 
   </script>
 </head>
@@ -533,9 +533,6 @@ ga('send', 'pageview');
 <script src="http://www.othlo.tech/js/waypoints.min.js"></script>
 <script src="http://www.othlo.tech/js/jquery.counterup.min.js"></script>
 <script src="http://www.othlo.tech/js/jquery.parallax-1.1.3.js"></script>
-<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script>
-<script src="http://www.othlo.tech/js/gmaps.js"></script>
-<script src="http://www.othlo.tech/js/gmaps.init.js"></script>
 <script src="http://www.othlo.tech/js/front.js"></script>
 <script src="http://www.othlo.tech/js/css_browser_selector.js"></script>
 
