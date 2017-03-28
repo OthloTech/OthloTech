@@ -2,7 +2,7 @@
 slug = "othloevent03-misoca"
 title = "OthloEvent@Misoca #3"
 date = "2016-07-15"
-event_tags = ["LT会", "勉強会", "OthloEvent", "Misoca"]
+event_tags = ["LT", "勉強会", "OthloEvent", "Misoca"]
 banner = "images/banners/events/othlo-event3.png"
 +++
 
@@ -94,4 +94,3 @@ OthloTechのTwitter公式アカウントを、フォローお願いします😏
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">思い立ったらなんとやら <a href="https://t.co/NICwvwBRZY">pic.twitter.com/NICwvwBRZY</a></p>&mdash; ライダー (@mtmtkzm) <a href="https://twitter.com/mtmtkzm/status/753983890612596736">2016年7月15日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-

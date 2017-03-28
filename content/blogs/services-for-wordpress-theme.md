@@ -2,8 +2,8 @@
 slug = "services-for-wordpress-theme"
 title = "初めてWordPressテーマを自作したときに便利だったサービス7つ"
 date = "2017-02-09"
-categories = ["デザイン"]
-tags = ["HTML", "CSS"]
+categories = ["WordPress"]
+tags = ["HTML", "CSS", "デザイン"]
 banner = 'images/banners/blogs/sevices-for-wordpress-theme.png'
 +++
 

@@ -3,7 +3,7 @@ slug = 'recommend-of-kaggle'
 categories = ['機械学習']
 date = "2016-11-17"
 title = "機械学習コンペティションKaggleのススメ"
-tags = ['機械学習', 'Python', 'R']
+tags = ['Python', 'R']
 banner = '/images/banners/blogs/recommend_of_kaggle.png'
 +++
 
