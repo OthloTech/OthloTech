@@ -91,6 +91,14 @@
     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
     ga('create', 'UA-78315006-1', 'auto');
     ga('send', 'pageview');
+
+    FB.Event.subscribe('edge.create', function(targetUrl) {ga(['send', 'social', 'facebook', 'like', targetUrl]);});
+    FB.Event.subscribe('edge.remove', function(targetUrl) {ga(['send', 'social', 'facebook', 'unlike', targetUrl]);});
+    FB.Event.subscribe('message.send', function(targetUrl) {ga(['send', 'social', 'facebook', 'send', targetUrl]);});
+    window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);return window.twttr||(t={_e:[],ready:function(f){t._e.push(f)}})}(document,"script","twitter-wjs"));
+    twttr.ready(function (twttr) {twttr.events.bind('click', function (e) {ga('send', 'social', 'twitter', 'click', window.location.href); });
+    twttr.events.bind('tweet', function (e) {ga('send', 'social', 'twitter', 'tweet', window.location.href);});});
+
   </script>
 </head>
 
@@ -427,7 +435,7 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
             
                 <li><a href="http://www.othlo.tech/event_tags/line">line (1)</a></li>
             
-                <li><a href="http://www.othlo.tech/event_tags/lt%e4%bc%9a">lt会 (5)</a></li>
+                <li><a href="http://www.othlo.tech/event_tags/lt">lt (5)</a></li>
             
                 <li><a href="http://www.othlo.tech/event_tags/misoca">misoca (2)</a></li>
             
@@ -449,7 +457,7 @@ OthloEvent初参加の学生さんも多かったので、なんだか新鮮(｡
             
                 <li><a href="http://www.othlo.tech/event_tags/%e3%83%8f%e3%83%b3%e3%82%ba%e3%82%aa%e3%83%b3">ハンズオン (2)</a></li>
             
-                <li><a href="http://www.othlo.tech/event_tags/%e3%83%a1%e3%83%86%e3%83%ac">メテレ (1)</a></li>
+                <li><a href="http://www.othlo.tech/event_tags/%e3%83%a1%e3%83%bc%e3%83%86%e3%83%ac">メーテレ (1)</a></li>
             
                 <li><a href="http://www.othlo.tech/event_tags/%e3%83%a4%e3%83%95%e3%83%bc%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be">ヤフー株式会社 (1)</a></li>
             
@@ -664,6 +672,7 @@ ga('send', 'pageview');
 <script src="http://www.othlo.tech/js/gmaps.js"></script>
 <script src="http://www.othlo.tech/js/gmaps.init.js"></script>
 <script src="http://www.othlo.tech/js/front.js"></script>
+<script src="http://www.othlo.tech/js/css_browser_selector.js"></script>
 
 
 <script src="http://www.othlo.tech/js/owl.carousel.min.js"></script>

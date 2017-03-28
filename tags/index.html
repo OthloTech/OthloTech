@@ -89,6 +89,14 @@
     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
     ga('create', 'UA-78315006-1', 'auto');
     ga('send', 'pageview');
+
+    FB.Event.subscribe('edge.create', function(targetUrl) {ga(['send', 'social', 'facebook', 'like', targetUrl]);});
+    FB.Event.subscribe('edge.remove', function(targetUrl) {ga(['send', 'social', 'facebook', 'unlike', targetUrl]);});
+    FB.Event.subscribe('message.send', function(targetUrl) {ga(['send', 'social', 'facebook', 'send', targetUrl]);});
+    window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);return window.twttr||(t={_e:[],ready:function(f){t._e.push(f)}})}(document,"script","twitter-wjs"));
+    twttr.ready(function (twttr) {twttr.events.bind('click', function (e) {ga('send', 'social', 'twitter', 'click', window.location.href); });
+    twttr.events.bind('tweet', function (e) {ga('send', 'social', 'twitter', 'tweet', window.location.href);});});
+
   </script>
 </head>
 
@@ -202,13 +210,6 @@
                                     </ul>
                                 
                                     <li><a href="/tags/bitcoin">bitcoin</a></li>
-                                    <ul>
-                                        
-                                            <li hugo-nav="/blogs/blockchain/"><a href="http://www.othlo.tech/blogs/blockchain/">ブロックチェーンってなに？</a></li>
-                                        
-                                    </ul>
-                                
-                                    <li><a href="/tags/blockchain">blockchain</a></li>
                                     <ul>
                                         
                                             <li hugo-nav="/blogs/blockchain/"><a href="http://www.othlo.tech/blogs/blockchain/">ブロックチェーンってなに？</a></li>
@@ -333,6 +334,13 @@
                                         
                                     </ul>
                                 
+                                    <li><a href="/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3">デザイン</a></li>
+                                    <ul>
+                                        
+                                            <li hugo-nav="/blogs/services-for-wordpress-theme/"><a href="http://www.othlo.tech/blogs/services-for-wordpress-theme/">初めてWordPressテーマを自作したときに便利だったサービス7つ</a></li>
+                                        
+                                    </ul>
+                                
                                     <li><a href="/tags/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3">プレゼンテーション</a></li>
                                     <ul>
                                         
@@ -344,13 +352,6 @@
                                     <ul>
                                         
                                             <li hugo-nav="/blogs/lightning_talks_technique/"><a href="http://www.othlo.tech/blogs/lightning_talks_technique/">ライトニングトークを面白くするたった3つのテクニック</a></li>
-                                        
-                                    </ul>
-                                
-                                    <li><a href="/tags/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92">機械学習</a></li>
-                                    <ul>
-                                        
-                                            <li hugo-nav="/blogs/recommend-of-kaggle/"><a href="http://www.othlo.tech/blogs/recommend-of-kaggle/">機械学習コンペティションKaggleのススメ</a></li>
                                         
                                     </ul>
                                 
@@ -536,6 +537,7 @@ ga('send', 'pageview');
 <script src="http://www.othlo.tech/js/gmaps.js"></script>
 <script src="http://www.othlo.tech/js/gmaps.init.js"></script>
 <script src="http://www.othlo.tech/js/front.js"></script>
+<script src="http://www.othlo.tech/js/css_browser_selector.js"></script>
 
 
 <script src="http://www.othlo.tech/js/owl.carousel.min.js"></script>

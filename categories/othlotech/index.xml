@@ -92,5 +92,159 @@
 </description>
     </item>
     
+    <item>
+      <title>名古屋のテック系学生団体「OthloTech」を創った経緯</title>
+      <link>http://www.othlo.tech/blogs/othlotech-launch-story/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/blogs/othlotech-launch-story/</guid>
+      <description>
+
+&lt;h1 id=&#34;名古屋のテック系学生団体-othlotech-を創った経緯&#34;&gt;名古屋のテック系学生団体「OthloTech」を創った経緯&lt;/h1&gt;
+
+&lt;p&gt;この記事は&lt;a href=&#34;http://qiita.com/advent-calendar/2016/othlotech&#34;&gt;OthloTech Advent Calendar 2016&lt;/a&gt;の1日目の記事です。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161201/othlotech-logo-1.png&#34; alt=&#34;OthloTech&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;こんにちは！OthloTechの矢崎です。&lt;/p&gt;
+
+&lt;p&gt;12月1日から25日間、&lt;a href=&#34;http://qiita.com/advent-calendar/2016/othlotech&#34;&gt;OthloTech Advent Calendar 2016&lt;/a&gt;でOthloTechコミュニティの学生が毎日1記事ずつ投稿してくれます。&lt;br /&gt;
+この記事はその一番目ということで、「OthloTechってなに？」「なんで始めたの？」というイントロダクション的なのをつらつらと書いていきます。&lt;/p&gt;
+
+&lt;h2 id=&#34;othlotechとは&#34;&gt;OthloTechとは？&lt;/h2&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161201/othlotech-logo-2.jpg&#34; alt=&#34;OthloTech&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;strong&gt;名古屋近辺のWeb系、IT系、技術系に興味のある学生エンジニア・デザイナーが集まるコミュニティ&lt;/strong&gt;です。&lt;br /&gt;
+Webサービスやアプリを開発・デザインする人が多いので「学生クリエイティブ集団」なんて言ったりもしています。（手前味噌ですがｗ）&lt;/p&gt;
+
+&lt;p&gt;自分含めて3人の学生が2016年5月に始めて、まだ半年ちょっとしか経っていません。&lt;br /&gt;
+勉強会の運営をしてくれる人や、何かしらOthloTechに関係のあるコアメンバーは10名ほどいます。&lt;/p&gt;
+
+&lt;p&gt;コアメンバーだけがOthloTechのコミュニティなのかというとそうではなく、今回の&lt;a href=&#34;http://qiita.com/advent-calendar/2016/othlotech&#34;&gt;OthloTech Advent Calendar 2016&lt;/a&gt;や勉強会イベントに参加してくれる学生みんなが、&lt;strong&gt;新しい技術知識を得たり学生同士の繋がりを作れる環境&lt;/strong&gt;が、OthloTechの目指しているコミュニティです。&lt;/p&gt;
+
+&lt;h3 id=&#34;どんな人がいるのか&#34;&gt;どんな人がいるのか&lt;/h3&gt;
+
+&lt;p&gt;OthloTech界隈にどんな学生がいるのか、具体的には&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;メガベンチャーに内定しているエンジニア数名&lt;/li&gt;
+&lt;li&gt;数々のメガベンチャーでインターンを経験したエンジニア数名&lt;/li&gt;
+&lt;li&gt;名古屋のミドルベンチャーでインターンしているデザイナー&lt;/li&gt;
+&lt;li&gt;世界各地で開催している某スタートアップイベントを名古屋でオーガナイズしている学生達&lt;/li&gt;
+&lt;li&gt;東京のWeb系、IT系で就活をしている人などなど&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;実績・肩書からしていかにもデキそうな人もいますが、最近プログラミングを勉強し始めた人、これから起業したいけど技術のことが全然わからなくて、といった学生もいます。&lt;/p&gt;
+
+&lt;p&gt;中にはOthloTechのイベントがきっかけでITベンチャーに興味を持ち、実際にインターンをしている人もいます。&lt;/p&gt;
+
+&lt;h2 id=&#34;othlotechがやっていること&#34;&gt;OthloTechがやっていること&lt;/h2&gt;
+
+&lt;p&gt;月に1,2回、学生限定の勉強会イベントを名古屋で開催しています。&lt;br /&gt;
+LT会を開いたり、企業とコラボしてサービス開発のお話をしてもらったり、企業のエンジニアに講師をお願いしてハンズオン形式の勉強会を開催してます。&lt;/p&gt;
+
+&lt;p&gt;過去のイベントは&lt;a href=&#34;https://othlotech.connpass.com/&#34;&gt;connpassページ&lt;/a&gt;や&lt;a href=&#34;http://www.othlo.tech/events/&#34;&gt;イベントレポート&lt;/a&gt;で確認できます。&lt;/p&gt;
+
+&lt;p&gt;2016年5月に初めてOthloTechとしての勉強会イベントを開催して、&lt;strong&gt;半年ちょっとでイベントを10回開催、延べ250人以上の方が参加&lt;/strong&gt;しました。&lt;br /&gt;
+また、8月には&lt;a href=&#34;http://hack.othlo.tech/&#34;&gt;OthloHack 2016&lt;/a&gt;という学生限定のハッカソンを二日間開催しています。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161201/othlohack.jpg&#34; alt=&#34;OthloHack2016&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;勉強会は主に&lt;a href=&#34;https://othlotech.connpass.com/&#34;&gt;connpassページ&lt;/a&gt;で集客していますが、企業とコラボする場合は企業側のページやプラットフォームも使っています。&lt;/p&gt;
+
+&lt;h2 id=&#34;othlotechを立ち上げた経緯&#34;&gt;OthloTechを立ち上げた経緯&lt;/h2&gt;
+
+&lt;p&gt;各大学にコンピュータ系の部活・サークルは点在していますが、&lt;strong&gt;大学の垣根を超えた学生同士の繋がりが名古屋では少ない&lt;/strong&gt;んですよね。&lt;/p&gt;
+
+&lt;h3 id=&#34;東京と名古屋の格差&#34;&gt;東京と名古屋の格差？&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;東京だと企業が学生向けにIT系の勉強会をたくさん開催&lt;/strong&gt;していて、参加学生同士の繋がりでコミュニティがなんとなく出来上がってる。&lt;br /&gt;
+&lt;strong&gt;東京だとスタートアップ、ベンチャー企業がたくさんあって&lt;/strong&gt;学生アルバイト・インターン等でWeb界隈・IT界隈の人たちと繋がる機会が多い。&lt;/p&gt;
+
+&lt;p&gt;反対に名古屋だと、東京のそういった機会が皆無で、必死に探してたまに見つかる程度。&lt;br /&gt;
+東京のようなインターネット界隈に触れる機会を名古屋でも作りたい。学生同士がお互いに刺激を受けて高め合う環境を作りたい。みんなで名古屋のIT界隈を盛り上げようよ。そんな思いを持ってOthloTechが立ち上がりました。&lt;/p&gt;
+
+&lt;p&gt;（意識高い感じですが、わりと切実な思いです。笑）&lt;/p&gt;
+
+&lt;p&gt;また、同じタイミングで名古屋の学生が「&lt;a href=&#34;https://nagoyastartupnews.com&#34;&gt;Nagoya Startup News&lt;/a&gt;」という名古屋のスタートアップにフィーチャーしたメディアを始めました。このメディアをやっている若目田くんも似たような思いがあるのではないでしょうか。&lt;/p&gt;
+
+&lt;h3 id=&#34;他都市のテック系学生団体の存在&#34;&gt;他都市のテック系学生団体の存在&lt;/h3&gt;
+
+&lt;p&gt;東京以外にも京都、福岡、北海道にはテック系学生団体のコミュニティが存在します。&lt;br /&gt;
+他都市にあって名古屋になかったことがOthloTechを始めた理由でもあります。&lt;/p&gt;
+
+&lt;p&gt;個人的には、自分が就活をしていたときに、東京のIT企業が大阪・福岡で就活イベントやセミナーを開くのに何故か名古屋だけハブられることが良くあって悔しかったです。笑&lt;/p&gt;
+
+&lt;h3 id=&#34;なぜ学生限定なのか&#34;&gt;なぜ学生限定なのか&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20161201/othloevent.jpg&#34; alt=&#34;OthloEvent&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;名古屋でも技術系の勉強会は盛んに開催されています。しかし、Ruby、Xamarin、機械学習など各々の分野に別れていて、余程もの好きな学生でないと気軽に参加できるような雰囲気ではないように感じています。&lt;/p&gt;
+
+&lt;p&gt;学生だけのコミュニティであれば「ちょっと興味があるから」とか「友達が行くから」といった軽い気持ちでも、きっかけが生まれやすいと思っています。&lt;/p&gt;
+
+&lt;h2 id=&#34;othlotechのこれから&#34;&gt;OthloTechのこれから&lt;/h2&gt;
+
+&lt;p&gt;先ほども書いたように、OthloTechを始めて&lt;strong&gt;半年ちょっとでイベントを10回開催、延べ250人以上の方が参加&lt;/strong&gt;しました。&lt;br /&gt;
+特にこれでお金儲けをしようとかは考えていません。まだまだ未熟な組織ですが、このコミュニティが維持して、誰かの何かのきっかけになれたら嬉しいです。&lt;/p&gt;
+
+&lt;p&gt;自分は来年の4月から東京で就職するので、来年度からは後輩が僕らの意思を引き継いでくれるのではないかな〜と、期待しています。&lt;/p&gt;
+
+&lt;p&gt;☆（ゝω・）vｷｬﾋﾟ&lt;/p&gt;
+
+&lt;h2 id=&#34;おわりに&#34;&gt;おわりに&lt;/h2&gt;
+
+&lt;p&gt;たらたらと長い文章になってしまいましたが、僕たちはこんな経緯でOthloTechをやっています。&lt;/p&gt;
+
+&lt;p&gt;OthloTechコミュニティの学生たちがQiitaのアドベントカレンダーにこれからいろんな記事を書いてくれるので、是非確認してみてください。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://qiita.com/advent-calendar/2016/othlotech&#34;&gt;OthloTech Advent Calendar 2016&lt;/a&gt;&lt;br /&gt;
+(Qiitaの趣旨的には技術的な話をしたほうがいいのかな〜とは思ったのですが、1日目なのでイントロダクション的な投稿にしましたw)&lt;/p&gt;
+
+&lt;p&gt;少しでもOthloTechの活動に興味を持ってもらえたら、Twitter&lt;a href=&#34;https://twitter.com/OthloTech&#34;&gt;@OthloTech&lt;/a&gt;や&lt;a href=&#34;https://www.facebook.com/Othlotech&#34;&gt;Facebookページ&lt;/a&gt;で今後の活動をチェックしてみてください！&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

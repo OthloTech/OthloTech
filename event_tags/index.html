@@ -89,6 +89,14 @@
     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
     ga('create', 'UA-78315006-1', 'auto');
     ga('send', 'pageview');
+
+    FB.Event.subscribe('edge.create', function(targetUrl) {ga(['send', 'social', 'facebook', 'like', targetUrl]);});
+    FB.Event.subscribe('edge.remove', function(targetUrl) {ga(['send', 'social', 'facebook', 'unlike', targetUrl]);});
+    FB.Event.subscribe('message.send', function(targetUrl) {ga(['send', 'social', 'facebook', 'send', targetUrl]);});
+    window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);return window.twttr||(t={_e:[],ready:function(f){t._e.push(f)}})}(document,"script","twitter-wjs"));
+    twttr.ready(function (twttr) {twttr.events.bind('click', function (e) {ga('send', 'social', 'twitter', 'click', window.location.href); });
+    twttr.events.bind('tweet', function (e) {ga('send', 'social', 'twitter', 'tweet', window.location.href);});});
+
   </script>
 </head>
 
@@ -222,7 +230,7 @@ ul.cloud > li {
                                         
                                     </ul>
                                 
-                                    <li class="tag"><a href="/event_tags/lt%E4%BC%9A">lt会</a></li>
+                                    <li class="tag"><a href="/event_tags/lt">lt</a></li>
                                     <ul class="tag-contents">
                                         
                                             <li hugo-nav="/events/othloevent10-ateam/"><a href="http://www.othlo.tech/events/othloevent10-ateam/">OthloEvent@エイチーム #10 WEB LT大会</a></li>
@@ -327,7 +335,7 @@ ul.cloud > li {
                                         
                                     </ul>
                                 
-                                    <li class="tag"><a href="/event_tags/%E3%83%A1%E3%83%86%E3%83%AC">メテレ</a></li>
+                                    <li class="tag"><a href="/event_tags/%E3%83%A1%E3%83%BC%E3%83%86%E3%83%AC">メーテレ</a></li>
                                     <ul class="tag-contents">
                                         
                                             <li hugo-nav="/events/othloevent06-nagoya-tv/"><a href="http://www.othlo.tech/events/othloevent06-nagoya-tv/">OthloEvent@メ～テレ #6</a></li>
@@ -536,6 +544,7 @@ ga('send', 'pageview');
 <script src="http://www.othlo.tech/js/gmaps.js"></script>
 <script src="http://www.othlo.tech/js/gmaps.init.js"></script>
 <script src="http://www.othlo.tech/js/front.js"></script>
+<script src="http://www.othlo.tech/js/css_browser_selector.js"></script>
 
 
 <script src="http://www.othlo.tech/js/owl.carousel.min.js"></script>

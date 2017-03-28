@@ -89,6 +89,14 @@
     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
     ga('create', 'UA-78315006-1', 'auto');
     ga('send', 'pageview');
+
+    FB.Event.subscribe('edge.create', function(targetUrl) {ga(['send', 'social', 'facebook', 'like', targetUrl]);});
+    FB.Event.subscribe('edge.remove', function(targetUrl) {ga(['send', 'social', 'facebook', 'unlike', targetUrl]);});
+    FB.Event.subscribe('message.send', function(targetUrl) {ga(['send', 'social', 'facebook', 'send', targetUrl]);});
+    window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);return window.twttr||(t={_e:[],ready:function(f){t._e.push(f)}})}(document,"script","twitter-wjs"));
+    twttr.ready(function (twttr) {twttr.events.bind('click', function (e) {ga('send', 'social', 'twitter', 'click', window.location.href); });
+    twttr.events.bind('tweet', function (e) {ga('send', 'social', 'twitter', 'tweet', window.location.href);});});
+
   </script>
 </head>
 
@@ -192,40 +200,6 @@
                             <div class="row">
                                 <div class="col-md-4">
                                   <div class="image">
-                                      <a href="http://www.othlo.tech/blogs/services-for-wordpress-theme/">
-                                          
-                                          <img src="http://www.othlo.tech/images/banners/blogs/sevices-for-wordpress-theme.png" class="img-responsive" alt="">
-                                          
-                                      </a>
-                                  </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <h2><a href="http://www.othlo.tech/blogs/services-for-wordpress-theme/">初めてWordPressテーマを自作したときに便利だったサービス7つ</a></h2>
-                                    <div class="clearfix">
-                                        <p class="author-category">
-                                          
-                                          
-                                          
-                                          in <a href="http://www.othlo.tech/categories/%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3">デザイン</a>
-                                          
-                                          
-
-                                        </p>
-                                        <p class="date-comments">
-                                            <a href="http://www.othlo.tech/blogs/services-for-wordpress-theme/"><i class="fa fa-calendar-o"></i> February 9, 2017</a>
-                                        </p>
-                                    </div>
-                                    <p class="intro">こんばんは！MasuqaT(@occar421)です。普段はWindowsを使ってC#を使ったり数値計算をしたりしています。今週のテーマとし</p>
-                                    <p class="read-more"><a href="http://www.othlo.tech/blogs/services-for-wordpress-theme/" class="btn btn-template-main">Continue reading</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </section>
-                        
-                        <section class="post">
-                            <div class="row">
-                                <div class="col-md-4">
-                                  <div class="image">
                                       <a href="http://www.othlo.tech/blogs/the-reason-of-usingsketch/">
                                           
                                           <img src="http://www.othlo.tech/images/banners/blogs/the_Reason_Of_UsingSketch.png" class="img-responsive" alt="">
@@ -315,19 +289,21 @@
             
                 <li><a href="http://www.othlo.tech/categories/blockchain">blockchain (1)</a></li>
             
-                <li><a href="http://www.othlo.tech/categories/othlotech">othlotech (1)</a></li>
+                <li><a href="http://www.othlo.tech/categories/othlotech">othlotech (2)</a></li>
             
                 <li><a href="http://www.othlo.tech/categories/web">web (2)</a></li>
             
-                <li><a href="http://www.othlo.tech/categories/%e3%82%ab%e3%83%a1%e3%83%a9%e5%86%99%e7%9c%9f">カメラ写真 (1)</a></li>
+                <li><a href="http://www.othlo.tech/categories/wordpress">wordpress (1)</a></li>
             
-                <li><a href="http://www.othlo.tech/categories/%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3">デザイン (2)</a></li>
+                <li><a href="http://www.othlo.tech/categories/%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3">デザイン (1)</a></li>
             
                 <li><a href="http://www.othlo.tech/categories/%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3">プレゼン (1)</a></li>
             
+                <li><a href="http://www.othlo.tech/categories/%e5%86%99%e7%9c%9f">写真 (1)</a></li>
+            
                 <li><a href="http://www.othlo.tech/categories/%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92">機械学習 (1)</a></li>
             
-                <li><a href="http://www.othlo.tech/categories/%e9%9b%91%e8%a8%98">雑記 (2)</a></li>
+                <li><a href="http://www.othlo.tech/categories/%e9%9b%91%e8%a8%98">雑記 (1)</a></li>
             
         </ul>
 
@@ -353,8 +329,6 @@
                 <li><a href="http://www.othlo.tech/tags/adventcalendar"><i class="fa fa-tags"></i> adventcalendar</a></li>
             
                 <li><a href="http://www.othlo.tech/tags/bitcoin"><i class="fa fa-tags"></i> bitcoin</a></li>
-            
-                <li><a href="http://www.othlo.tech/tags/blockchain"><i class="fa fa-tags"></i> blockchain</a></li>
             
                 <li><a href="http://www.othlo.tech/tags/cafe"><i class="fa fa-tags"></i> cafe</a></li>
             
@@ -388,11 +362,11 @@
             
                 <li><a href="http://www.othlo.tech/tags/%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b"><i class="fa fa-tags"></i> お知らせ</a></li>
             
+                <li><a href="http://www.othlo.tech/tags/%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3"><i class="fa fa-tags"></i> デザイン</a></li>
+            
                 <li><a href="http://www.othlo.tech/tags/%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3"><i class="fa fa-tags"></i> プレゼンテーション</a></li>
             
                 <li><a href="http://www.othlo.tech/tags/%e3%83%a9%e3%82%a4%e3%83%88%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%88%e3%83%bc%e3%82%af"><i class="fa fa-tags"></i> ライトニングトーク</a></li>
-            
-                <li><a href="http://www.othlo.tech/tags/%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92"><i class="fa fa-tags"></i> 機械学習</a></li>
             
                 <li><a href="http://www.othlo.tech/tags/%e8%b3%87%e6%96%99%e4%bd%9c%e6%88%90"><i class="fa fa-tags"></i> 資料作成</a></li>
             
@@ -603,6 +577,7 @@ ga('send', 'pageview');
 <script src="http://www.othlo.tech/js/gmaps.js"></script>
 <script src="http://www.othlo.tech/js/gmaps.init.js"></script>
 <script src="http://www.othlo.tech/js/front.js"></script>
+<script src="http://www.othlo.tech/js/css_browser_selector.js"></script>
 
 
 <script src="http://www.othlo.tech/js/owl.carousel.min.js"></script>

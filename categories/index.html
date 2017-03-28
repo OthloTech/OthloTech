@@ -89,6 +89,14 @@
     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
     ga('create', 'UA-78315006-1', 'auto');
     ga('send', 'pageview');
+
+    FB.Event.subscribe('edge.create', function(targetUrl) {ga(['send', 'social', 'facebook', 'like', targetUrl]);});
+    FB.Event.subscribe('edge.remove', function(targetUrl) {ga(['send', 'social', 'facebook', 'unlike', targetUrl]);});
+    FB.Event.subscribe('message.send', function(targetUrl) {ga(['send', 'social', 'facebook', 'send', targetUrl]);});
+    window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);return window.twttr||(t={_e:[],ready:function(f){t._e.push(f)}})}(document,"script","twitter-wjs"));
+    twttr.ready(function (twttr) {twttr.events.bind('click', function (e) {ga('send', 'social', 'twitter', 'click', window.location.href); });
+    twttr.events.bind('tweet', function (e) {ga('send', 'social', 'twitter', 'tweet', window.location.href);});});
+
   </script>
 </head>
 
@@ -202,6 +210,8 @@
                                         
                                             <li hugo-nav="/blogs/othlotech-2016/"><a href="http://www.othlo.tech/blogs/othlotech-2016/">2016年の総括と今後のOthloTechについて</a></li>
                                         
+                                            <li hugo-nav="/blogs/othlotech-launch-story/"><a href="http://www.othlo.tech/blogs/othlotech-launch-story/">名古屋のテック系学生団体「OthloTech」を創った経緯</a></li>
+                                        
                                     </ul>
                                 
                                     <li><a href="/categories/web">web</a></li>
@@ -213,17 +223,15 @@
                                         
                                     </ul>
                                 
-                                    <li><a href="/categories/%E3%82%AB%E3%83%A1%E3%83%A9%E5%86%99%E7%9C%9F">カメラ写真</a></li>
+                                    <li><a href="/categories/wordpress">wordpress</a></li>
                                     <ul>
                                         
-                                            <li hugo-nav="/blogs/smartphone-camera-tips/"><a href="http://www.othlo.tech/blogs/smartphone-camera-tips/">スマホでいい感じの写真を撮るために覚えておくといい４つのこと</a></li>
+                                            <li hugo-nav="/blogs/services-for-wordpress-theme/"><a href="http://www.othlo.tech/blogs/services-for-wordpress-theme/">初めてWordPressテーマを自作したときに便利だったサービス7つ</a></li>
                                         
                                     </ul>
                                 
                                     <li><a href="/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3">デザイン</a></li>
                                     <ul>
-                                        
-                                            <li hugo-nav="/blogs/services-for-wordpress-theme/"><a href="http://www.othlo.tech/blogs/services-for-wordpress-theme/">初めてWordPressテーマを自作したときに便利だったサービス7つ</a></li>
                                         
                                             <li hugo-nav="/blogs/the-reason-of-usingsketch/"><a href="http://www.othlo.tech/blogs/the-reason-of-usingsketch/">僕がSketchに一目惚れした4つの理由</a></li>
                                         
@@ -233,6 +241,13 @@
                                     <ul>
                                         
                                             <li hugo-nav="/blogs/lightning_talks_technique/"><a href="http://www.othlo.tech/blogs/lightning_talks_technique/">ライトニングトークを面白くするたった3つのテクニック</a></li>
+                                        
+                                    </ul>
+                                
+                                    <li><a href="/categories/%E5%86%99%E7%9C%9F">写真</a></li>
+                                    <ul>
+                                        
+                                            <li hugo-nav="/blogs/smartphone-camera-tips/"><a href="http://www.othlo.tech/blogs/smartphone-camera-tips/">スマホでいい感じの写真を撮るために覚えておくといい４つのこと</a></li>
                                         
                                     </ul>
                                 
@@ -247,8 +262,6 @@
                                     <ul>
                                         
                                             <li hugo-nav="/blogs/nagoyacafe/"><a href="http://www.othlo.tech/blogs/nagoyacafe/">名古屋にある開発にオススメなカフェ5選</a></li>
-                                        
-                                            <li hugo-nav="/blogs/othlotech-launch-story/"><a href="http://www.othlo.tech/blogs/othlotech-launch-story/">名古屋のテック系学生団体「OthloTech」を創った経緯</a></li>
                                         
                                     </ul>
                                 
@@ -427,6 +440,7 @@ ga('send', 'pageview');
 <script src="http://www.othlo.tech/js/gmaps.js"></script>
 <script src="http://www.othlo.tech/js/gmaps.init.js"></script>
 <script src="http://www.othlo.tech/js/front.js"></script>
+<script src="http://www.othlo.tech/js/css_browser_selector.js"></script>
 
 
 <script src="http://www.othlo.tech/js/owl.carousel.min.js"></script>
