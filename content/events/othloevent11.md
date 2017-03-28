@@ -1,6 +1,6 @@
 +++
 slug = "othloevent11-LT"
-event_tags = ["LT大会"]
+event_tags = ["LT会"]
 date = "2017-03-25"
 title = "OthloEvent #11 年度締めLT大会"
 banner = "images/banners/events/othlo-event11.png"
@@ -9,7 +9,7 @@ banner = "images/banners/events/othlo-event11.png"
 # OthloEvent #11 年度締めLT大会
 {{< image src="/images/events/2017-03-25/banner.png" alt="イベントバナー" >}}
 
-こんにちは！OthloTech広報担当のごまき(@gmsesame)です。
+こんにちは！OthloTech広報担当のごまき([@gmsesame](https://twitter.com/gmsesame))です。
 
 3月25日(土)に11回目のOthloEvent「年度締めLT大会」が開催されました(　ﾟωﾟ)/
 
@@ -22,10 +22,13 @@ banner = "images/banners/events/othlo-event11.png"
 今年度をもちまして、OthloTechの創設者でもある[iyuto](https://twitter.com/iyuto_)さん、[ライダー](https://twitter.com/mtmtkzm)さん、そして[オトモレ](https://twitter.com/otomore01)さんが大学を卒業し、社会人になります。OthloTech設立初の卒業生です！
 
 設立からまだ1年経っていないOthloTechですが……
-多くの学生に知っていただき、名古屋でこんなに大きなコミュニティになれました！
+
+
+多くの学生に知っていただき、なんと今回のイベントで参加者の累計が400人を超えるなど、名古屋でこんなに大きなコミュニティに成長することができました！
+
 
 今回はそんな感謝の気持ちも込めて、
-栄の[AOI CAFE IZUMI](http://aoicafe-izumi.com/)のvipルームを貸し切ってイベントを行いました。
+栄の[AOI CAFE IZUMI](http://aoicafe-izumi.com/)のVIPルームを貸し切ってイベントを行いました。
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">はじまりました〜 <a href="https://twitter.com/hashtag/OthloTech?src=hash">#OthloTech</a> <a href="https://t.co/IJxuDxXKDx">pic.twitter.com/IJxuDxXKDx</a></p>&mdash; オトモレ👨‍🎓 (@otomore01) <a href="https://twitter.com/otomore01/status/845568175424991232">March 25, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -36,6 +39,9 @@ banner = "images/banners/events/othlo-event11.png"
 
 
 ## 有志によるLT大会！
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">この雰囲気めちゃいい <a href="https://twitter.com/hashtag/OthloTech?src=hash">#OthloTech</a> <a href="https://t.co/uLkYpFMKLA">pic.twitter.com/uLkYpFMKLA</a></p>&mdash; iyuto (@iyuto) <a href="https://twitter.com/iyuto_/status/845569106388561920">March 25, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 今回は１３名の学生によるLT大会となりました！
 
