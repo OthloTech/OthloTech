@@ -16,6 +16,9 @@ body {
 .copyright {
   text-align: center; }
 
+html.win {
+  font-family: "Yu Gothic"; }
+
 .box-image-text .image {
   min-height: 150px;
   max-height: 150px; }
