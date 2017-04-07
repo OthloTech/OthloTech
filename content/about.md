@@ -47,7 +47,7 @@ OthloTechでは主に月に一度, 学生エンジニア/デザイナー向け�
 ||12月|LINE株式会社の[LINE BOT CARAVAN](http://line-hr.jp/archives/48845196.html) 名古屋会場の運営補助|
 |2017年|1月|[Xamarinハンズオン](http://www.othlo.tech/events/othloevent09-xamarin/)を開催|
 ||2月|株式会社エイチームで[社内Web開発LT大会](http://www.othlo.tech/events/othloevent10-ateam/)を開催|
-||3月|[年度末LT大会](http://www.othlo.tech/events/othloevent11-LT/)を開催|
+||3月|[年度締めLT大会](http://www.othlo.tech/events/othloevent11-LT/)を開催|
 
 {{% /table %}}
 
