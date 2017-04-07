@@ -2,10 +2,9 @@
 title = 'OthloTech とは?'
 +++
 
-# OthloTechとは
-
 OthloTech(オスロテック)は「名古屋にクリエイティブな学生のコミュニティを作ろう」という思いから、2016年5月に立ち上がりました。
-OthloTechでは、名古屋の学生エンジニア・学生デザイナーが集まり、チーム開発や勉強会イベントを開催しています。
+
+OthloTechでは主に月に一度, 学生エンジニア/デザイナー向けに勉強会を開いていて、OthloTech運営チームによって運営されています。
 
 ## OthloTechの目標/目的
 
@@ -22,7 +21,7 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
 
 ## OthloTechへの参加
 
-月に1回、学生であれば誰でも参加できる勉強会イベント(OthloEvent)を開催しています。
+月に1回、学生であれば誰でも参加できる勉強会イベント([OthloEvent](http://www.othlo.tech/events))を開催しています。
 勉強会は<a href="http://othlotech.connpass.com" target="_blank">connpass</a>を通して参加申し込みが可能です。
 新しいイベントはOthloTechの<a href="https://www.facebook.com/othlotech/" target="_blank">Facebook</a>, <a href="https://twitter.com/othlotech" target="_blank">Twitter</a>, <a href="http://www.othlo.tech" target="_blank">公式サイト</a>で告知しています。
 
@@ -46,6 +45,9 @@ OthloTechでは、名古屋の学生エンジニア・学生デザイナーが�
 ||10月|[GoodFindとのコラボ勉強会](http://www.othlo.tech/events/othloevent05-goodfind/)を開催|
 ||11月|[ヤフー株式会社とのコラボ勉強会](http://www.othlo.tech/events/othloevent07-yahoo/)を開催|
 ||12月|LINE株式会社の[LINE BOT CARAVAN](http://line-hr.jp/archives/48845196.html) 名古屋会場の運営補助|
+|2017年|1月|[Xamarinハンズオン](http://www.othlo.tech/events/othloevent09-xamarin/)を開催|
+||2月|株式会社エイチームで[社内Web開発LT大会](http://www.othlo.tech/events/othloevent10-ateam/)を開催|
+||3月|[年度締めLT大会](http://www.othlo.tech/events/othloevent11-LT/)を開催|
 
 {{% /table %}}
 
