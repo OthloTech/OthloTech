@@ -7,9 +7,10 @@
     </div>
 
     <div class="panel-body">
+
         <ul class="tag-cloud">
-            {{ range $name, $items := .Site.Taxonomies.tags }}
-                <li><a href="{{ $.Site.BaseURL }}tags/{{ $name | urlize | lower }}"><i class="fa fa-tags"></i> {{ $name }}</a></li>
+            {{ range first 10 .Site.Taxonomies.tags.ByCount }}
+                <li><a href="{{ $.Site.BaseURL }}tags/{{ .Name | urlize | lower }}"><i class="fa fa-tags"></i> {{ .Name }} ({{ .Count }})</a></li>
             {{ end }}
         </ul>
 
