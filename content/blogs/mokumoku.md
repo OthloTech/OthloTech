@@ -1,7 +1,7 @@
 +++
 slug = 'mokumoku'
 categories = ['ニュース']
-date = "2016-11-24"
+date = "2017-04-11"
 title = "もくもく会を定期開催します！"
 tags = ['もくもく会']
 banner = '/images/banners/blogs/blockchain-technology.jpg'
@@ -16,7 +16,7 @@ OthloTech運営はもくもく会を定期的に開催することにしまし�
 毎回のもくもく会は[Facebook](https://www.facebook.com/othlotech/)のイベントで公開します。
 
 ## 開催目的
-今までは[OthloEvent](http://www.othlo.tech/events)やその後の懇親会でしかテック系に興味のある学生同士の情報の共有や繋がりを広げるための環境を提供できていませんでした。また、OthloTechの運営チームに興味を持ってくれている学生に対しても、気軽に質問できる状態になっていませんでした。
+OthloTechはこれまで、当コミュニティの目的の1つでもある「テック系に興味のある学生同士の情報の共有や繋がりを広げる」ための場として[OthloEvent](http://www.othlo.tech/events)やその後の懇親会のみを提供してきました。またOthloTechの運営チームに興味を持ってくれている学生も、気軽に質問できる状態ではなかったので、もくもく会を定期開催することにしました！
 
 そのため、もくもく会は以下の目的で定期開催することにします。
 
