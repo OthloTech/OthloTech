@@ -1,11 +1,13 @@
 +++
 slug = 'mokumoku'
 categories = ['ニュース']
-date = "2017-04-11"
+date = "2017-04-13"
 title = "もくもく会を定期開催します！"
 tags = ['もくもく会']
-banner = '/images/banners/blogs/blockchain-technology.jpg'
+banner = '/images/banners/blogs/mokumoku.png'
 +++
+
+{{<image src="/images/blogs/20170413/mokumoku.png"  alt="OthloTech もくもく会" >}}
 
 こんにちは！ [OthloTech](http://www.othlo.tech)運営代表の[ヒデ](https://twitter.com/hyde141421356)です！
 
