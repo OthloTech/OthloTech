@@ -109,7 +109,7 @@
       font-weight: bold;
       padding: 10px 8px;
       border-bottom: 1px solid #4fbfa8;
-      
+
       &[align="left"] {
         text-align: left;
       }
@@ -174,4 +174,33 @@
       }
     }
   }
+
+  .calendar-wrapper {
+    max-width: 960px;
+    min-width: 300px;
+    margin: 2.0833% auto;
+
+    .google-calendar {
+      position: relative;
+      padding-bottom: 100%;
+      height: 0;
+
+      iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+      }
+    }
+  }
+
+  /* 画面幅が768px以上の場合の縦横比の指定 */
+  @media only screen and (min-width: 768px) {
+    .google-calendar {
+      padding-bottom: 75%;
+    }
+  }
+
+
 }
