@@ -8,8 +8,8 @@
 
     <div class="panel-body">
         <ul class="tag-cloud">
-            {{ range $name, $items := .Site.Taxonomies.event_tags }}
-                <li><a href="{{ $.Site.BaseURL }}event_tags/{{ $name | urlize | lower }}">{{ $name }} ({{ len $items }})</a></li>
+            {{ range first 10 .Site.Taxonomies.event_tags.ByCount }}
+                <li><a href="{{ $.Site.BaseURL }}tags/{{ .Name | urlize | lower }}"><i class="fa fa-tags"></i> {{ .Name }} ({{ .Count }})</a></li>
             {{ end }}
         </ul>
 
