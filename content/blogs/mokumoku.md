@@ -38,7 +38,11 @@ OthloTechはこれまで、当コミュニティの目的の1つでもある「�
 ## 開催日時
 毎月第1, 3水曜日の18:00 ~ 20:00に開催します。
 
-<iframe src="https://calendar.google.com/calendar/embed?src=othlotech%40gmail.com&ctz=Asia/Tokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<div class="calendar-wrapper">
+  <div class="google-calendar">
+    <iframe src="https://calendar.google.com/calendar/embed?src=othlotech%40gmail.com&ctz=Asia/Tokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  </div>
+</div>
 
 ## 開催場所
 [ベースキャンプ名古屋](https://basecamp-nagoya.jp/)で開催します。
