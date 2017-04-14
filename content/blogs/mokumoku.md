@@ -39,8 +39,12 @@ OthloTechはこれまで、当コミュニティの目的の1つでもある「�
 毎月第1, 3水曜日の18:00 ~ 20:00に開催します。
 
 <div class="calendar-wrapper">
-  <div class="google-calendar">
+  <div class="google-calendar big-container">
     <iframe src="https://calendar.google.com/calendar/embed?src=othlotech%40gmail.com&ctz=Asia/Tokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div class="google-calendar small-container">
+    <iframe src="https://calendar.google.com/calendar/htmlembed?src=othlotech%40gmail.com&ctz=Asia/Tokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
   </div>
 </div>
 
