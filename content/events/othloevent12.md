@@ -48,8 +48,6 @@ htmlの雛形からはじまり、よく使うタグをさらっと書き、そ�
 復習したい方、勉強を始めたい方は要チェックです👀！
 <div class='slider-container'>
   <iframe class='slider-content' src="//www.slideshare.net/slideshow/embed_code/key/41Pary8NrlWLme"></iframe>
-  <!-- <div style="margin-bottom:5px">
-  <strong><a href="//www.slideshare.net/HidenobuSakai/webothlotech" title="Web初心者勉強会スライド @OthloTech" target="blank">Web初心者勉強会スライド@OthloTech</a> </strong> from <strong><a target="blank" href="https://www.slideshare.net/HidenobuSakai">Poko Hide</a></strong></div> -->
 </div>
 
 ### Progateでプログラミングを体験！
