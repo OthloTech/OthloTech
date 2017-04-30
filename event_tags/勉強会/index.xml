@@ -10,6 +10,207 @@
     <atom:link href="http://www.othlo.tech/event_tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>OthloEvent #12 Web初心者勉強会</title>
+      <link>http://www.othlo.tech/events/othloevent12-LT/</link>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent12-LT/</guid>
+      <description>
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-04-23/banner.png&#34; alt=&#34;イベントバナー&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;こんにちは！今期から運営に携わることになりました,ちーず(&lt;a href=&#34;https://twitter.com/_yuanvo&#34;&gt;@_yuanvo&lt;/a&gt;)です！&lt;br&gt;
+新学期がはじまり、出会いの季節が訪れましたね。&lt;br&gt;
+春はどうですか？楽しんでいますか？&lt;/p&gt;
+
+&lt;p&gt;4月23日(日)に12回目のOthloEvent「Web初心者勉強会」が開催されました！&lt;br&gt;
+イベントページ : &lt;a href=&#34;https://othlotech.connpass.com/event/54858/&#34;&gt;https://othlotech.connpass.com/event/54858/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h2&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;12:45&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;開場&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;イベント開始・OthloTechについて&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:15&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;HTML, CSSって何？&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;13:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Progateでプログラミング体験!&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;14:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;テンプレートから自分のサイトづくり&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;15:30&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;自分のサイトを使って自己紹介&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;16:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;17:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;クロージング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;イベント開始&#34;&gt;イベント開始！&lt;/h2&gt;
+
+&lt;p&gt;今回のイベントでは、初心者勉強会ということもあってOthloEventに初めて参加する人が多くいました。&lt;br&gt;
+一、二年生が参加者の大半で、半数はまだ未経験者であり、少し初々しくも感じました。&lt;br&gt;
+会場は、&lt;a href=&#34;https://www.appleple.com/&#34;&gt;有限会社アップルップル&lt;/a&gt;が運営をしている&lt;a href=&#34;https://basecamp-nagoya.jp/&#34;&gt;ベースキャンプ名古屋&lt;/a&gt;を使わせていただきました。&lt;br&gt;
+ベースキャンプ名古屋はOthloTechが定期的に行う&lt;a href=&#34;http://www.othlo.tech/blogs/mokumoku/&#34;&gt;もくもく会&lt;/a&gt;でも使わせていただいています。&lt;br&gt;
+そこで、まずOthloTechがどのようなことをしているか、代表の&lt;a href=&#34;https://twitter.com/hyde141421356&#34;&gt;ぽこひで&lt;/a&gt;に発表してもらいました。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-04-23/presen-othlo.jpg&#34; alt=&#34;othlotechのプレゼン&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;html-cssって何&#34;&gt;HTML, CSSって何？&lt;/h3&gt;
+
+&lt;p&gt;半数くらいが初心者であるため、まずは基礎から！ということで初期アプリであるメモ帳やテキストエディタを使ってコーディングをしていただきました。&lt;br&gt;
+htmlの雛形からはじまり、よく使うタグをさらっと書き、それにstyleをあてるようなことをしました。&lt;br&gt;
+その時に使ったプレゼン資料はこちらです。
+復習したい方、勉強を始めたい方は要チェックです👀！
+&lt;div class=&#39;slider-container&#39;&gt;
+  &lt;iframe class=&#39;slider-content&#39; src=&#34;//www.slideshare.net/slideshow/embed_code/key/41Pary8NrlWLme&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;progateでプログラミングを体験&#34;&gt;Progateでプログラミングを体験！&lt;/h3&gt;
+
+&lt;p&gt;今回のweb初心者勉強会では、&lt;a href=&#34;http://prog-8.com/&#34;&gt;Progate&lt;/a&gt;というオンラインプログラミング学習サービスを用いて学習を深めていきました。&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-04-23/progate.jpg&#34; alt=&#34;Progateで学習&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;自分のサイト作り&#34;&gt;自分のサイト作り&lt;/h3&gt;
+
+&lt;p&gt;今回は&lt;a href=&#34;https://html5up.net/&#34;&gt;HTML5 UP&lt;/a&gt;というHTML/CSS/Javascriptでつくられたレスポンシブテンプレートを配布しているサイトを利用して、自分のポートフォリオサイトを作っていただきました。&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;テンプレートを決定してから、もくもくと自分でアレンジしていきました。&lt;br&gt;
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-04-23/mokumoku.jpg&#34; alt=&#34;ポートフォリオサイトを作成&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;発表会&#34;&gt;発表会&lt;/h3&gt;
+
+&lt;p&gt;先ほど作っていただいたポートフォリオサイトを使って自己紹介をしてもらいました！&lt;br&gt;
+自分の趣味や好きなものを積極的に話していて、そこから会話が生まれていたのでとってもよかったと思います！
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-04-23/self-intro01.jpg&#34; alt=&#34;自己紹介1&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+趣味がしっかり伝わってくるポートフォリオですね！
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-04-23/self-intro02.jpg&#34; alt=&#34;自己紹介2&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+ワンオクが好きなフレンズ発見です！！&lt;/p&gt;
+
+&lt;h2 id=&#34;懇親会&#34;&gt;懇親会&lt;/h2&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-04-23/gathering-photo.jpg&#34; alt=&#34;集合写真&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+写真を撮り、机にお菓子を広げて懇親会をしました。&lt;/p&gt;
+
+&lt;p&gt;勉強会に初めて参加した人が多く、最初は懇親会でどのような話をすればいいのか&amp;hellip;って心配をしていた人が数人見られましたが、
+だんだんと慣れていろんな人と会話を繰り広げられていたように思えました！&lt;/p&gt;
+
+&lt;h2 id=&#34;さいごに&#34;&gt;さいごに&lt;/h2&gt;
+
+&lt;p&gt;初心者向けの勉強会はOthloEvent初の試みでありましたが、成功してよかったと思います！&lt;br&gt;
+初めてwebに触れる人が帰る時に「とても楽しかった」とか「もっと深くまで勉強していきたい！」って声をかけてくれたのが一番嬉しかったです。&lt;/p&gt;
+
+&lt;p&gt;こうやって、webに興味を持つ人が増えてくと良いなぁと思いました！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>OthloEvent@エイチーム #10 WEB LT大会</title>
       <link>http://www.othlo.tech/events/othloevent10-ateam/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
@@ -37,7 +238,7 @@
 
 &lt;p&gt;イベントページ: &lt;a href=&#34;https://othlotech.connpass.com/event/50407/&#34;&gt;https://othlotech.connpass.com/event/50407/&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;タイムテープル&#34;&gt;タイムテープル&lt;/h2&gt;
+&lt;h2 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h2&gt;
 
 &lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
 &lt;thead&gt;

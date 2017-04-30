@@ -265,6 +265,15 @@ html.win {
     @media (min-width: 600px) {
       #blog-post .calendar-wrapper .small-container {
         display: none; } }
+  #blog-post .slider-container {
+    margin: 5px auto;
+    width: 86vw;
+    height: 72vw;
+    max-width: 595px;
+    max-height: 485px; }
+    #blog-post .slider-container .slider-content {
+      width: 100%;
+      height: 100%; }
 
 ul.share-buttons {
   margin: 0;
