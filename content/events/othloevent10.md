@@ -16,7 +16,7 @@ banner = "images/banners/events/othlo-event10.png"
 
 イベントページ: https://othlotech.connpass.com/event/50407/
 
-## タイムテープル
+## タイムテーブル
 
 {{% table %}}
 

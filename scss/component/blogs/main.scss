@@ -212,4 +212,16 @@
     }
   }
 
+  .slider-container {
+    margin: 5px auto;
+    width: 86vw;
+    height: 72vw;
+    max-width: 595px;
+    max-height: 485px;
+
+    .slider-content {
+      width: 100%;
+      height: 100%;
+    }
+  }
 }
