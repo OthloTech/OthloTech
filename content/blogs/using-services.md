@@ -1,32 +1,19 @@
 +++
-slug = 'one-year'
+slug = 'using-services'
 categories = ['ニュース']
 date = "2017-05-10"
-title = "学生団体を創って1年で得た知見:前半"
-tags = ['OthloTech']
-banner = '/images/banners/blogs/one-year.png'
+title = "OthloTechで使っているサービス"
+tags = ['OthloTech', 'Webサービス']
+banner = '/images/banners/blogs/using-services.png'
 +++
 
-{{<image src="/images/blogs/20170510/one-year.png"  alt="1周年" >}}
+{{<image src="/images/blogs/20170510/using-services.png"  alt="OthloTechで使っているサービス" >}}
 
 こんにちは！ [OthloTech](http://www.othlo.tech)運営代表の[ヒデ](https://twitter.com/hyde141421356)です！
 
-OthloTechは去年の5月に立ち上げたので、今月でちょうど1周年を迎えました。現在は、7人の運営メンバーによってイベント等は運営されていて、これまでのイベントの参加者数は合計で400名, ユニークで140名を突破しました🎉。ありがとうございます！＼(^o^)／
+## 使っているサービス
 
-過去のイベントやブログ記事は[ここ](http://www.othlo.tech/events)に載っているので、OthloTechを知らないという方は一読いただけると幸いです。
-
-## はじめに
-
-1年前にOthloTechを創るまで学生団体に所属したこともなければ、特に外のイベントにも参加したことのなかった自分が学生団体を創って1年で気付いたこと、分かったことをまとめました。また、1年経った今、どのような体制で動いているかもまとめました。
-
-- 前半: OthloTechの体制
-- 後半: 1年経って気付いたこと・分かったこと
-
-この記事は学生や、これから団体を作ろうと思っている人、すでに活動されている人に向けた記事です。
-
-## OthloTechの体制
-
-OthloTechは立ち上げ当初から様々なサービスを用いて、効率化を行ってきました。知見というより前半は、どういったサービスを用いて運営しているかにフォーカスを当てます。
+OthloTech運営チームでは立ち上げ当初から様々なサービスを用いて、効率化を行ってきました。その中で現在使っている主なサービスについて、何故それを使っているかや過去に使っていたサービスと何が違うかをまとめました。他の団体や学生たちに参考になればと思います。
 
 ### Slack
 {{<image src="/images/blogs/20170510/slack.png"  alt="OthloTech Slack" >}}
@@ -34,6 +21,10 @@ OthloTechは立ち上げ当初から様々なサービスを用いて、効率�
 https://slack.com/
 
 立ち上げ当初から海外発のコミュニケーションツールであるSlackで連絡を取ってきました。検索機能やリマインド、外部サービスとの連携が容易なので重宝しています。無料枠でも問題なく使えます。
+
+基本的にはおすすめなのですが、学生団体等で使う場合には要検討したほうがいいと思います。Slackには既読が存在しません。その発言を誰が読んだのか、どこまでの人が見てくれているのか、が分かりません。使う前に、自分にメンションが付いたメッセージには、「👍リアクションを必ずする」といったようなルールを決める必要があるなと考えています。
+
+また、スマホアプリのほうは動作が多少重かったりもするので(肌感ですが)、メッセンジャーやLINEで代用できるならそっちでもいいかもしれませんね。
 
 ### Dropbox Paper
 {{<image src="/images/blogs/20170510/paper.png"  alt="Google Drive" >}}
@@ -75,3 +66,8 @@ https://www.misoca.jp/
 
 ### Facebook / Twitter
 公式アカウント([Facebook](https://www.facebook.com/othlotech), [Twitter](https://twitter.com/OthloTech))のフォローお願いします（笑）
+
+## さいごに
+[OthloTechでは色々なサービスを使って効率化したい学生メンバーを募集しています。](http://www.othlo.tech/contact/)
+
+というWantedly風な締めくくりで終わりたいと思います。
