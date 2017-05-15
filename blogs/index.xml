@@ -7,8 +7,163 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Thu, 13 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 May 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.othlo.tech/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OthloTechで使っているサービス</title>
+      <link>http://www.othlo.tech/blogs/using-services/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/blogs/using-services/</guid>
+      <description>
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20170510/using-services.png&#34; alt=&#34;OthloTechで使っているサービス&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;こんにちは！ &lt;a href=&#34;http://www.othlo.tech&#34;&gt;OthloTech&lt;/a&gt;運営代表の&lt;a href=&#34;https://twitter.com/hyde141421356&#34;&gt;ヒデ&lt;/a&gt;です！&lt;/p&gt;
+
+&lt;h2 id=&#34;使っているサービス&#34;&gt;使っているサービス&lt;/h2&gt;
+
+&lt;p&gt;OthloTech運営チームでは立ち上げ当初から様々なサービスを用いて、効率化を行ってきました。その中で現在使っている主なサービスについて、何故それを使っているかや過去に使っていたサービスと何が違うかをまとめました。他の団体や学生たちに参考になればと思います。&lt;/p&gt;
+
+&lt;h3 id=&#34;slack&#34;&gt;Slack&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20170510/slack.png&#34; alt=&#34;OthloTech Slack&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://slack.com/&#34;&gt;https://slack.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;立ち上げ当初から海外発のコミュニケーションツールであるSlackで連絡を取ってきました。検索機能やリマインド、外部サービスとの連携が容易なので重宝しています。無料枠でも問題なく使えます。&lt;/p&gt;
+
+&lt;p&gt;基本的にはおすすめなのですが、学生団体等で使う場合には要検討したほうがいいと思います。Slackには既読が存在しません。その発言を誰が読んだのか、どこまでの人が見てくれているのか、が分かりません。使う前に、自分にメンションが付いたメッセージには、「👍リアクションを必ずする」といったようなルールを決める必要があるなと考えています。&lt;/p&gt;
+
+&lt;p&gt;また、スマホアプリのほうは動作が多少重かったりもするので(肌感ですが)、メッセンジャーやLINEで代用できるならそっちでもいいかもしれませんね。&lt;/p&gt;
+
+&lt;h3 id=&#34;dropbox-paper&#34;&gt;Dropbox Paper&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20170510/paper.png&#34; alt=&#34;Google Drive&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/paper&#34;&gt;https://www.dropbox.com/paper&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;当初は&lt;a href=&#34;https://hackmd.io/&#34;&gt;HackMD&lt;/a&gt;と呼ばれるオープンソースで使えるマークダウン形式に対応していてリアルタイム共同編集ができるサービスを使って、ミーティングなどの議事録を書いていました。しかし、URLで簡単に共有できるのはいいのですが、書いたノートの管理やセキュリティ、UI/UXの観点から、Dropbox Paperに移行しました。それ以来、OthloTechのミーティングではDropbox Paperを用いています。&lt;/p&gt;
+
+&lt;h3 id=&#34;google-drive-photos&#34;&gt;Google Drive / Photos&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20170510/drive.jpg&#34; alt=&#34;Google Drive&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/intl/ja_ALL/drive/&#34;&gt;https://www.google.com/intl/ja_ALL/drive/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Googleで団体用アカウントを作って、運営メンバーに権限を付与して、ファイルや写真の管理をしています。無料枠で特に困ることなく使えるし、権限付与タイプなので、セキュリティ対策も出来るし、ファイルや写真の共有も楽です。&lt;/p&gt;
+
+&lt;h3 id=&#34;connpass&#34;&gt;Connpass&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20170510/connpass.png&#34; alt=&#34;Connpass&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://connpass.com/&#34;&gt;https://connpass.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;OthloTechでは月に1度、学生エンジニア/デザイナー向けに&lt;a href=&#34;http://www.othlo.tech/events&#34;&gt;OthloEvent&lt;/a&gt;を開催しています。このイベント管理にConnpassを用いています。また、もくもく会といった小規模なイベントはFacebookのイベントで管理しています。&lt;/p&gt;
+
+&lt;p&gt;完全無料で使えるのと、マークダウン形式で書けること、アンケート機能や、イベントごとに管理者を簡単に設定できるので重宝しています。&lt;/p&gt;
+
+&lt;h3 id=&#34;github&#34;&gt;GitHub&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20170510/github.png&#34; alt=&#34;GitHub&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;OthloTechは運営メンバーでも開発を行っています。実際にこのブログが載っているサイト自身も運営メンバーによって開発されています。開発については以下の記事参照してください。ブログの投稿もGitHubでプルリクベースで行っているので、GitHubは欠かせないサービスです。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.othlo.tech/blogs/othlotech-dev-cycle/&#34;&gt;OthloTechでの開発サイクル&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.othlo.tech/blogs/hugo+github-pages/&#34;&gt;Hugo + GithubPages で公式サイトを作り直したお話&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;misoca&#34;&gt;Misoca&lt;/h3&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20170510/misoca.png&#34; alt=&#34;Misoca&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://www.misoca.jp/&#34;&gt;https://www.misoca.jp/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;協賛企業に請求書を発行したりする場合に、ぱぱっと使えるので重宝しています。現在では料金体系が変わったようですが、無料枠でも月に10通は請求書を発行できるので、学生団体などでは得には問題はないでしょう。UIのシンプルで初心者にも分かりやすいので、機会があれば使ってみるといいと思います。&lt;/p&gt;
+
+&lt;h3 id=&#34;facebook-twitter&#34;&gt;Facebook / Twitter&lt;/h3&gt;
+
+&lt;p&gt;公式アカウント(&lt;a href=&#34;https://www.facebook.com/othlotech&#34;&gt;Facebook&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/OthloTech&#34;&gt;Twitter&lt;/a&gt;)のフォローお願いします（笑）&lt;/p&gt;
+
+&lt;h2 id=&#34;さいごに&#34;&gt;さいごに&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.othlo.tech/contact/&#34;&gt;OthloTechでは色々なサービスを使って効率化したい学生メンバーを募集しています。&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;というWantedly風な締めくくりで終わりたいと思います。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>もくもく会を定期開催します！</title>
