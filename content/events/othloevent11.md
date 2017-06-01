@@ -74,7 +74,7 @@ banner = "images/banners/events/othlo-event11.png"
 
 
 ## 投票も行いました
-[centimeter](https://www.menti.com/)というサービスを使用してLTの人気投票を行いました
+[Mentimeter](https://www.menti.com/)というサービスを使用してLTの人気投票を行いました
 
 今回のLT大会の優勝者は…[iyuto](https://twitter.com/iyuto_)さん！
 
@@ -96,7 +96,7 @@ banner = "images/banners/events/othlo-event11.png"
 
 来年度もOthloTechは様々な活動をしていくので、どうぞ宜しくお願いします。
 
- 
+
 
 改めて、卒業生の皆さん、本当におめでとうございます！＆お世話になりました。
 
