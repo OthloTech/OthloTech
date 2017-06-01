@@ -7,8 +7,188 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Sun, 23 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 May 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.othlo.tech/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OthloEvent@TECH::CAMP #13 Rails</title>
+      <link>http://www.othlo.tech/events/othloevent13-TECHCAMP/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent13-TECHCAMP/</guid>
+      <description>
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-05-28/banner.png&#34; alt=&#34;イベントバナー&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;こんにちは！OthloTechのにーさん(&lt;a href=&#34;https://twitter.com/ni_san2000&#34;&gt;@ni_san2000&lt;/a&gt;)です！&lt;br /&gt;先日もOthloTech運営に新しいメンバーが加わり、より活発的になってきたかと思います！みなさんいかがお過ごしでしょうか？&lt;/p&gt;
+
+&lt;p&gt;さて今回は、5月28日(日)に行われた「&lt;a href=&#34;https://othlotech.connpass.com/event/56807/?utm_campaign=&amp;amp;utm_source=notifications&amp;amp;utm_medium=email&amp;amp;utm_content=title_link&#34;&gt;【Rails初心者向け】OthloEvent@TECH::CAMP名古屋 #13&lt;/a&gt;」
+のイベントレポートをお届けします！&lt;/p&gt;
+
+&lt;h2 id=&#34;tech-campとは&#34;&gt;TECH::CAMPとは？&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://tech-camp.in/&#34;&gt;TECH::CAMP(テックキャンプ)&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;TECH::CAMPは、7000名以上が受講した短期集中プログラミング学習プログラムです。&lt;br /&gt;
+1ヶ月で未経験からサービスをつくることが出来るエンジニアになることができます。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-05-28/opening.JPG&#34; alt=&#34;TECH::CAMP&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;つい先日名古屋校もオープンしたようです！中はとてもオシャレ＆快適で、プログラミングを勉強するためには最高の環境ですね！&lt;/p&gt;
+
+&lt;h2 id=&#34;タイムテーブル&#34;&gt;タイムテーブル&lt;/h2&gt;
+
+&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;16:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;開場&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;16:15&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ruby on Railsハンズオン開始&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;19:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;懇親会&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;20:00&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;クロージング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;railsハンズオン&#34;&gt;Railsハンズオン！&lt;/h2&gt;
+
+&lt;p&gt;今回はTECH::CAMPで実際に使われているWeb学習サービス「TECH::MASTER」を使って、学習をしました！&lt;br /&gt;
+中には「プログラミングはこれが初めて」という人も。大学3年生が多かったですが、1~2年生もたくさん参加してくれてよかったです！&lt;br /&gt;
+Railsの環境構築でつまづかないように、TECH::CAMPさんが環境構築済みのMacを全員分用意してくださいました。本当にありがとうございます･･･！&lt;/p&gt;
+
+&lt;h3 id=&#34;アイスブレイク&#34;&gt;アイスブレイク！&lt;/h3&gt;
+
+&lt;p&gt;今回のOthloEventも初めて参加する人が半数ほどいました。そのため、自己紹介も兼ねて周りの人との仲を深めるためにアイスブレイク(緊張をほぐすゲーム)が行われました！&lt;br /&gt;
+前の人が話した自己紹介の内容を、次の人も繰り返し話した後に自分の自己紹介をするといった、「積み木式自己紹介」で盛り上がりました。&lt;/p&gt;
+
+&lt;h3 id=&#34;ハンズオンスタート&#34;&gt;ハンズオンスタート！&lt;/h3&gt;
+
+&lt;p&gt;ハンズオンが始まると、一気に集中モードに。「TECH::MASTER」を見ながら個人のペースで進めて行く形式で行いました！&lt;br /&gt;
+メンターに相談したり、近くの人と相談したり、もくもくと作業したりなど、進め方は人それぞれでした！
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-05-28/hands_on00.JPG&#34; alt=&#34;TECH::CAMP&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-05-28/hands_on01.JPG&#34; alt=&#34;TECH::CAMP&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;「TECH::MASTER」の内容を全て修了した！&lt;/li&gt;
+&lt;li&gt;Webページに保存したデータを表示できた！&lt;br /&gt;
+など進度は様々でしたが、各々が納得できるところまで進めたのではないでしょうか？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;懇親会&#34;&gt;懇親会&lt;/h2&gt;
+
+&lt;p&gt;進んだ後は恒例の懇親会が行われました！お菓子を広げてワイワイと。&lt;br /&gt;&lt;/p&gt;
+
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-05-28/after.JPG&#34; alt=&#34;TECH::CAMP&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;TECH::CAMPのスタッフの方々も混ざっていただいて、様々な交流ができたのではないかと思います。&lt;br /&gt;
+今回は4時間という短い時間でしたが、楽しんでいただけたようで嬉しかったです！
+
+&lt;figure &gt;
+
+    
+        &lt;img src=&#34;http://www.othlo.tech/images/events/2017-05-28/group_stump.png&#34; alt=&#34;TECH::CAMP&#34; /&gt;
+    
+
+      
+
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;ちなみに&#34;&gt;ちなみに･･･&lt;/h2&gt;
+
+&lt;p&gt;今後開催するイベントがなんと！たくさん公開されています！&lt;br /&gt;
+ちょっとでも気になる人は要チェック！&lt;br &gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;unityで初めてのゲームを作りたい-エイチームのオフィスを覗いてみたい&#34;&gt;Unityで初めてのゲームを作りたい！エイチームのオフィスを覗いてみたい！&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;6月18日(日)11:00~ &lt;a href=&#34;https://othlotech.connpass.com/event/57811/&#34;&gt;【Unity勉強会】OthloEvent@エイチーム#14&lt;/a&gt;&lt;br /&gt;
+なんともう参加予定者が30人を達成した、期待大のイベントです！席がなくなる前にぜひ！&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;railsをもっと使えるようになってみたい-progateをもっと使いたい&#34;&gt;Railsをもっと使えるようになってみたい！Progateをもっと使いたい！&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;6月10日(土)13:00~ &lt;a href=&#34;https://othlotech.connpass.com/event/58440/&#34;&gt;【学生限定】Progateもくもく会vol.1 OthloEvent#15&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;6月25日(日)13:00~ &lt;a href=&#34;https://othlotech.connpass.com/event/58447/&#34;&gt;【学生限定】Progateもくもく会vol.2 OthloEvent#16&lt;/a&gt;&lt;br /&gt;
+普段有料のRailsコースが全て無料で学習できるチャンス！しかも25日開催のvol.2には、&lt;br /&gt;
+なんと&lt;font color = &#34;red&#34;&gt;Progateの中の人に会えるかも！！&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>OthloEvent #12 Web初心者勉強会</title>
@@ -352,7 +532,7 @@ htmlの雛形からはじまり、よく使うタグをさらっと書き、そ�
 
 &lt;h2 id=&#34;投票も行いました&#34;&gt;投票も行いました&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.menti.com/&#34;&gt;centimeter&lt;/a&gt;というサービスを使用してLTの人気投票を行いました&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.menti.com/&#34;&gt;Mentimeter&lt;/a&gt;というサービスを使用してLTの人気投票を行いました&lt;/p&gt;
 
 &lt;p&gt;今回のLT大会の優勝者は…&lt;a href=&#34;https://twitter.com/iyuto_&#34;&gt;iyuto&lt;/a&gt;さん！&lt;/p&gt;
 
