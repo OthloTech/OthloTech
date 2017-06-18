@@ -81,6 +81,7 @@ hasCJKLanguage = true
   enable = true
   # /data/members に格納
   title = '運営メンバー'
+  obogTitle = 'OB・OG'
   subtitle = ''
 
 [params.see_more]
