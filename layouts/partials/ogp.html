@@ -14,7 +14,7 @@
 <!-- Twitter -->
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@{{ .Site.Params.twitter }}" />
-<meta name="twitter:title" content="{{ if .Params.title }}{{ .Name }} / {{ .Params.title }}{{ else }}{{ .Title }}{{ end }}" />
+<meta name="twitter:title" content="{{ if .Params.title }}{{ .Params.title }}{{ else }}{{ .Title }}{{ end }}" />
 <meta name="twitter:image" content="{{ if .Params.banner }}{{ .Site.BaseURL }}{{ .Params.banner }}{{ else }}{{ .Site.Params.thumbnail }}{{ end }}" />
 <meta name="twitter:description" content="{{ if .IsPage }}{{ .Summary }}{{ else }}{{ .Description }}{{ end }}" />
 <meta name="twitter:url" content="{{ .Permalink }}" />
@@ -24,7 +24,7 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="ja_JP" />
 <meta property="og:site_name" content="{{ .Title }}" />
-<meta property="og:title" content="{{ if .Params.title }}{{ .Name }} / {{ .Params.title }}{{ else }}{{ .Title }}{{ end }}" />
+<meta property="og:title" content="{{ if .Params.title }}{{ .Params.title }}{{ else }}{{ .Title }}{{ end }}" />
 <meta property="og:image" content="{{ if .Params.banner }}{{ .Site.BaseURL }}{{ .Params.banner }}{{ else }}{{ .Site.Params.thumbnail }}{{ end }}" />
 <meta property="og:description" content="{{ if .IsPage }}{{ .Summary }}{{ else }}{{ .Description }}{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
@@ -34,7 +34,7 @@
 <!-- Google -->
 <link href="https://plus.google.com/107575701287280199280" rel="publisher" />
 <meta name="google-site-verification" content="uqvH435HoeOlm-TXxnWXNQGhhQZqCKCKt9jGLeCbsWA" />
-<meta itemprop="name" content="{{ if .Params.title }}{{ .Name }} / {{ .Params.title }}{{ else }}{{ .Title }}{{ end }}" />
+<meta itemprop="name" content="{{ if .Params.title }}{{ .Params.title }}{{ else }}{{ .Title }}{{ end }}" />
 <meta itemprop="image" content="{{ if .Params.banner }}{{ .Site.BaseURL }}{{ .Params.banner }}{{ else }}{{ .Site.Params.thumbnail }}{{ end }}" />
 
 {{ if .IsPage }}
