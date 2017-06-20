@@ -13,10 +13,6 @@ banner = "images/banners/events/othlo-event14.png"
 今回は、6月18日(日)に行われた「[【Unity勉強会】OthloEvent@エイチーム #14](https://othlotech.connpass.com/event/57811/)」
 のイベントレポートをお届けします！
 
-## エイチームとは？
-[エイチーム](http://www.a-tm.co.jp/)
-
-> エイチームは、インターネット・スマートデバイス（スマートフォン・タブレット端末）をベースとしたゲームコンテンツ、情報サイトやECサイトなどの企画・開発・運営を行う総合IT企業です。 既存の枠にとらわれず、今後もインターネットを使った多様な技術を駆使し、幅広いビジネスの領域に挑戦し続けます。
 
 ## タイムテーブル
 
@@ -37,7 +33,7 @@ banner = "images/banners/events/othlo-event14.png"
 {{% /table %}}
 
 ### オープニング
-いつも通りOthloTech、エイチームから簡単なご挨拶。
+OthloTech, エイチームの紹介から始まり、実際に勉強会に移る前に、そもそもUnityとは何かについて簡単に実例を交え講義していただきました。
 {{< image src="/images/events/2017-06-18/opening.png" alt="オープニング" >}}  
 
 ## Unityとは？
@@ -56,26 +52,31 @@ banner = "images/banners/events/othlo-event14.png"
   {{< image src="/images/events/2017-06-18/valkyrie-connect.png" alt="ヴァルキリーコネクト" >}}
 </a>  
 
+## ハンズオン開始！
+
 ### 学生メンターの紹介
 {{< image src="/images/events/2017-06-18/student_mentoring.png" alt="学生メンター" >}}  
 
-今回は学生メンター5人に協力していただきました！
+今回は学生メンター5人に協力していただきました。
 
-### ハンズオン開始！
-{{< image src="/images/events/2017-06-18/handson1.png" alt="ハンズオン" >}}  
+{{< image src="/images/events/2017-06-18/handson1.png" alt="ハンズオン" >}}
 
-Unityを触ったことがない学生が多数でしたが、今回の勉強会でゲームを作り上げることが出来たようです！
+参加者の大半はUnityを触ったことがないようでした。
 
 {{< image src="/images/events/2017-06-18/handson2.png" alt="ハンズオン" >}}
 
-分からないところは、メンターや友達と解決！ハンズオンなので、気軽に開発出来ます！
-昼休憩があるにも関わらず、勉強熱心に開発をしていました！
+みなさんお隣同士や友達、メンターに相談しながらもくもく開発していました！みんな開発がとても早い！
+
+{{< image src="/images/events/2017-06-18/handson3.png" alt="ハンズオン" >}}  
+
+Unityを触ったことがない学生が多数でしたが、今回の勉強会でゲームを作り上げることが出来たようです！
+
 最後にはアプリが完成している学生が多数！！皆さんお疲れ様でした！
 
 ### 懇親会
 {{< image src="/images/events/2017-06-18/pizza.png" alt="ピザ" >}}
 
-豪華にピザが用意されていて、一同驚いていました！それにしても、すごい枚数ですね。
+たくさんのピザ🍕やお酒が用意されていて、豪華な懇親会でした。
 
 {{< image src="/images/events/2017-06-18/after.png" alt="ピザ" >}}
 
