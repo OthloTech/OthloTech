@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OthloTech -学生クリエイティブ集団-</title>
-    <link>http://www.othlo.tech/tags/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A/index.xml</link>
-    <description>Recent content on OthloTech -学生クリエイティブ集団-</description>
+    <title>もくもく会 on OthloTech -学生クリエイティブ集団-</title>
+    <link>http://www.othlo.tech/tags/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A/</link>
+    <description>Recent content in もくもく会 on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
-    <atom:link href="http://www.othlo.tech/tags/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.othlo.tech/tags/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>もくもく会を定期開催します！</title>
@@ -15,113 +18,7 @@
       <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.othlo.tech/blogs/mokumoku/</guid>
-      <description>
-
-
-&lt;figure &gt;
-
-    
-        &lt;img src=&#34;http://www.othlo.tech/images/blogs/20170413/mokumoku.png&#34; alt=&#34;OthloTech もくもく会&#34; /&gt;
-    
-
-      
-
-&lt;/figure&gt;
-
-
-&lt;p&gt;こんにちは！ &lt;a href=&#34;http://www.othlo.tech&#34;&gt;OthloTech&lt;/a&gt;運営代表の&lt;a href=&#34;https://twitter.com/hyde141421356&#34;&gt;ヒデ&lt;/a&gt;です！&lt;/p&gt;
-
-&lt;p&gt;OthloTech運営はもくもく会を定期的に開催することにしました。&lt;/p&gt;
-
-&lt;p&gt;毎月第1, 3水曜日に定期開催するので、気軽に気になった方は来てください＼(^o^)／&lt;/p&gt;
-
-&lt;p&gt;毎回のもくもく会は&lt;a href=&#34;https://www.facebook.com/othlotech/&#34;&gt;Facebook&lt;/a&gt;のイベントで公開します。&lt;/p&gt;
-
-&lt;h2 id=&#34;開催目的&#34;&gt;開催目的&lt;/h2&gt;
-
-&lt;p&gt;OthloTechはこれまで、当コミュニティの目的の1つでもある「テック系に興味のある学生同士の情報の共有や繋がりを広げる」ための場として&lt;a href=&#34;http://www.othlo.tech/events&#34;&gt;OthloEvent&lt;/a&gt;やその後の懇親会を提供してきました。そういった場を増やすためや、もっと気軽に来ていただけるように、もくもく会を定期開催することにしました！&lt;/p&gt;
-
-&lt;p&gt;そのため、もくもく会は以下の目的で定期開催することにします。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;プログラミングなどで分からないところを質問しても良し&lt;/li&gt;
-&lt;li&gt;学生エンジニア/デザイナーって何なの!?を聞いても良し&lt;/li&gt;
-&lt;li&gt;OthloTechについて聞くも良し&lt;/li&gt;
-&lt;li&gt;その他&amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;ちなみに「もくもく会」とは&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;カフェとかコワーキングスペースとかに集まって、それぞれ各自もくもくと勉強したり作業したり本を読んだりするだけの会&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;のことです。&lt;/p&gt;
-
-&lt;p&gt;なので、「大学の課題が分からないから教えてー！」とか、「この本読みながら作業したいな」とかゆるい感じで来てみてください(・∀・)👍&lt;/p&gt;
-
-&lt;h2 id=&#34;開催日時&#34;&gt;開催日時&lt;/h2&gt;
-
-&lt;p&gt;毎月第1, 3水曜日の18:00 ~ 20:00に開催します。&lt;/p&gt;
-
-&lt;div class=&#34;calendar-wrapper&#34;&gt;
-  &lt;div class=&#34;google-calendar big-container&#34;&gt;
-    &lt;iframe src=&#34;https://calendar.google.com/calendar/embed?src=othlotech%40gmail.com&amp;ctz=Asia/Tokyo&#34; style=&#34;border: 0&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
-  &lt;/div&gt;
-
-&lt;p&gt;&lt;div class=&#34;google-calendar small-container&#34;&gt;
-    &lt;iframe src=&#34;https://calendar.google.com/calendar/htmlembed?src=othlotech%40gmail.com&amp;ctz=Asia/Tokyo&#34; style=&#34;border: 0&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
-  &lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;開催場所&#34;&gt;開催場所&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://basecamp-nagoya.jp/&#34;&gt;ベースキャンプ名古屋&lt;/a&gt;で開催します。&lt;/p&gt;
-
-&lt;p&gt;住所：愛知県名古屋市中村区名駅3丁目18-5 モンマートビル5階&lt;/p&gt;
-
-&lt;p&gt;アクセス：&lt;a href=&#34;https://basecamp-nagoya.jp/access/&#34;&gt;https://basecamp-nagoya.jp/access/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;※ コワーキングスペースで開催するため、以下の料金がかかります&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://basecamp-nagoya.jp/service/visitor.html&#34;&gt;https://basecamp-nagoya.jp/service/visitor.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&#34;post-table&#34;&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;時間&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;料金&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;2時間&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;600円&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;10:00 ~ 18:00&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;1,000円&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;15:00 ~ 21:00&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;1,000円&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-
-
-&lt;h2 id=&#34;さいごに&#34;&gt;さいごに&lt;/h2&gt;
-
-&lt;p&gt;もくもく会にはOthloTech運営メンバーが必ず1人はいる状態にしますが、万が一会場や人数の関係で予定を変更する場合はTwitterにて連絡しますので、&lt;a href=&#34;https://twitter.com/othlotech&#34;&gt;@OthloTech&lt;/a&gt;のフォローをよろしくお願いします。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/othlotech&#34; class=&#34;twitter-follow-button&#34; data-show-count=&#34;false&#34;&gt;Follow @othlotech&lt;/a&gt;&lt;/p&gt;
-
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-</description>
+      <description>こんにちは！ OthloTech運営代表のヒデです！ OthloTech運営はもくもく会を定期的に開催することにしました。 毎月第1, 3水曜日に定</description>
     </item>
     
   </channel>

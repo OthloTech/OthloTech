@@ -2,12 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.othlo.tech/</loc>
-    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
+    <loc>http://www.othlo.tech/blogs/othlotech-dev-cycle/</loc>
+    <lastmod>2016-11-12T02:45:17+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/events/othloevent13-TECHCAMP/</loc>
+    <loc>http://www.othlo.tech/blogs/lightning_talks_technique/</loc>
+    <lastmod>2016-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/blogs/hugo&#43;github-pages/</loc>
+    <lastmod>2016-10-23T02:45:17+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/events/othloevent13-techcamp/</loc>
     <lastmod>2017-05-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -22,7 +32,7 @@
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/events/othloevent12-LT/</loc>
+    <loc>http://www.othlo.tech/events/othloevent12-lt/</loc>
     <lastmod>2017-04-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -32,7 +42,7 @@
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/events/othloevent11-LT/</loc>
+    <loc>http://www.othlo.tech/events/othloevent11-lt/</loc>
     <lastmod>2017-03-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -72,7 +82,7 @@
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/events/othloevent08-LINE/</loc>
+    <loc>http://www.othlo.tech/events/othloevent08-line/</loc>
     <lastmod>2016-12-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -132,7 +142,157 @@
   </url>
   
   <url>
+    <loc>http://www.othlo.tech/tags/adventcalendar/</loc>
+    <lastmod>2016-12-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/bitcoin/</loc>
+    <lastmod>2016-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/categories/blockchain/</loc>
+    <lastmod>2016-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/blogs/</loc>
+    <lastmod>2017-05-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/cafe/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/camera/</loc>
+    <lastmod>2016-12-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/categories/</loc>
+    <lastmod>2016-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/chatbot/</loc>
+    <lastmod>2016-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/cryptocurrency/</loc>
+    <lastmod>2016-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/css/</loc>
+    <lastmod>2016-10-23T02:45:17+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/</loc>
+    <lastmod>2016-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/events/</loc>
+    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.othlo.tech/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/github/</loc>
+    <lastmod>2016-11-12T02:45:17+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/goodfind/</loc>
+    <lastmod>2016-10-29T00:20:33+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/html/</loc>
+    <lastmod>2016-10-23T02:45:17+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/html/css/</loc>
+    <lastmod>2017-04-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/hugo/</loc>
+    <lastmod>2016-10-23T02:45:17+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/keynote/</loc>
+    <lastmod>2016-11-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/line/</loc>
+    <lastmod>2016-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/lt/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/lt/</loc>
+    <lastmod>2016-11-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/lt%E4%BC%9A/</loc>
+    <lastmod>2017-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/misoca/</loc>
+    <lastmod>2017-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/nagoya/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/</loc>
+    <lastmod>2016-11-12T02:45:17+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -144,22 +304,229 @@
   </url>
   
   <url>
+    <loc>http://www.othlo.tech/event_tags/othloevent/</loc>
+    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/othlohack/</loc>
+    <lastmod>2016-10-24T23:13:51+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/othlotech/</loc>
+    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/categories/othlotech/</loc>
+    <lastmod>2017-05-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/photography/</loc>
+    <lastmod>2016-12-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/powerpoint/</loc>
+    <lastmod>2016-11-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/python/</loc>
+    <lastmod>2016-11-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/r/</loc>
+    <lastmod>2016-11-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/rails/</loc>
+    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/react.js/</loc>
+    <lastmod>2016-11-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/</loc>
+    <lastmod>2016-12-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/techcamp/</loc>
+    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/categories/web/</loc>
+    <lastmod>2016-11-12T02:45:17+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/</loc>
+    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/web%E9%96%8B%E7%99%BA/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/categories/wordpress/</loc>
+    <lastmod>2017-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/wwothlo/</loc>
+    <lastmod>2016-11-12T02:45:17+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/xamarin/</loc>
+    <lastmod>2017-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.othlo.tech/contact/</loc>
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/blogs/othlotech-dev-cycle/</loc>
-    <lastmod>2016-11-12T02:45:17+09:00</lastmod>
+    <loc>http://www.othlo.tech/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/blogs/lightning_talks_technique/</loc>
+    <loc>http://www.othlo.tech/tags/%E3%82%82%E3%81%8F%E3%82%82%E3%81%8F%E4%BC%9A/</loc>
+    <lastmod>2017-04-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BC%E3%83%A0/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</loc>
+    <lastmod>2017-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</loc>
+    <lastmod>2016-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/</loc>
+    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3/</loc>
+    <lastmod>2016-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3/</loc>
+    <lastmod>2017-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/categories/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3/</loc>
     <lastmod>2016-11-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/blogs/hugo&#43;github-pages/</loc>
-    <lastmod>2016-10-23T02:45:17+09:00</lastmod>
+    <loc>http://www.othlo.tech/tags/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</loc>
+    <lastmod>2016-11-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/%E3%83%A1%E3%83%BC%E3%83%86%E3%83%AC/</loc>
+    <lastmod>2016-11-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/%E3%83%A4%E3%83%95%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/</loc>
+    <lastmod>2016-11-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%88%E3%83%BC%E3%82%AF/</loc>
+    <lastmod>2016-11-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/categories/%E5%86%99%E7%9C%9F/</loc>
+    <lastmod>2016-12-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/</loc>
+    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/%E5%AD%A6%E7%94%9F%E5%9B%A3%E4%BD%93/</loc>
+    <lastmod>2017-05-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/categories/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</loc>
+    <lastmod>2016-11-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/tags/%E8%B3%87%E6%96%99%E4%BD%9C%E6%88%90/</loc>
+    <lastmod>2016-11-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/categories/%E9%9B%91%E8%A8%98/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
