@@ -17,6 +17,11 @@
   </url>
   
   <url>
+    <loc>http://www.othlo.tech/events/othloevent14-ateam/</loc>
+    <lastmod>2017-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.othlo.tech/events/othloevent13-techcamp/</loc>
     <lastmod>2017-05-28T00:00:00+00:00</lastmod>
   </url>
@@ -209,7 +214,7 @@
   
   <url>
     <loc>http://www.othlo.tech/events/</loc>
-    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -260,14 +265,14 @@
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/event_tags/lt/</loc>
-    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+    <loc>http://www.othlo.tech/tags/lt/</loc>
+    <lastmod>2016-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/tags/lt/</loc>
-    <lastmod>2016-11-03T00:00:00+00:00</lastmod>
+    <loc>http://www.othlo.tech/event_tags/lt/</loc>
+    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -305,7 +310,7 @@
   
   <url>
     <loc>http://www.othlo.tech/event_tags/othloevent/</loc>
-    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -376,6 +381,12 @@
   </url>
   
   <url>
+    <loc>http://www.othlo.tech/event_tags/unity/</loc>
+    <lastmod>2017-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.othlo.tech/categories/web/</loc>
     <lastmod>2016-11-12T02:45:17+09:00</lastmod>
     <priority>0</priority>
@@ -429,7 +440,7 @@
   
   <url>
     <loc>http://www.othlo.tech/event_tags/%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BC%E3%83%A0/</loc>
-    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -501,7 +512,7 @@
   
   <url>
     <loc>http://www.othlo.tech/event_tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/</loc>
-    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unity on OthloTech -学生クリエイティブ集団-</title>
+    <link>http://www.othlo.tech/event_tags/unity/</link>
+    <description>Recent content in Unity on OthloTech -学生クリエイティブ集団-</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
+    <lastBuildDate>Sun, 18 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.othlo.tech/event_tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OthloEvent@エイチーム #14 Unity</title>
+      <link>http://www.othlo.tech/events/othloevent14-ateam/</link>
+      <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent14-ateam/</guid>
+      <description>こんにちは！最近OthloTechの運営に加わりました、よしかわ(@yoshikawataiki)です！ 今回は、6月18日(日)に行われた「</description>
+    </item>
+    
+  </channel>
+</rss>
