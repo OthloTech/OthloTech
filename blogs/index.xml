@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Wed, 17 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Nov 2016 02:45:17 +0900</lastBuildDate>
     
 	<atom:link href="http://www.othlo.tech/blogs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OthloTechでの開発サイクル</title>
+      <link>http://www.othlo.tech/blogs/othlotech-dev-cycle/</link>
+      <pubDate>Sat, 12 Nov 2016 02:45:17 +0900</pubDate>
+      
+      <guid>http://www.othlo.tech/blogs/othlotech-dev-cycle/</guid>
+      <description>OthloTechでの開発サイクル こんにちは∩(ﾟ∀ﾟ∩) @ぽこひでです。 OthloTech公式サイト 今日は OthloTech ではどのように開発をしているか</description>
+    </item>
+    
+    <item>
+      <title>ライトニングトークを面白くするたった3つのテクニック</title>
+      <link>http://www.othlo.tech/blogs/lightning_talks_technique/</link>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/blogs/lightning_talks_technique/</guid>
+      <description>ライトニングトーク（LT）を面白くするたった3つのテクニック こんにちは(○´∀｀)ﾉﾞ OthloTech初のブログを書くのは私、オトモレ(@</description>
+    </item>
+    
+    <item>
+      <title>Hugo&#43;GithubPagesでサイトをリニューアル</title>
+      <link>http://www.othlo.tech/blogs/hugo&#43;github-pages/</link>
+      <pubDate>Sun, 23 Oct 2016 02:45:17 +0900</pubDate>
+      
+      <guid>http://www.othlo.tech/blogs/hugo&#43;github-pages/</guid>
+      <description>Hugo + GithubPages で公式サイトを作り直したお話 こんにちは、@pokohideです。 この度、OthloTechの公式サイトをリニューアルしました。過去のサ</description>
+    </item>
     
     <item>
       <title>学生団体を創って1年で分かったこと/気付いたこと</title>
@@ -109,33 +136,6 @@
       
       <guid>http://www.othlo.tech/blogs/recommend-of-kaggle/</guid>
       <description>機械学習コンペティションKaggle こんにちは、TeraBytesです。 読者のみなさんは機械学習には興味あったりしますでしょうか？ 実際に試し</description>
-    </item>
-    
-    <item>
-      <title>OthloTechでの開発サイクル</title>
-      <link>http://www.othlo.tech/blogs/othlotech-dev-cycle/</link>
-      <pubDate>Sat, 12 Nov 2016 02:45:17 +0900</pubDate>
-      
-      <guid>http://www.othlo.tech/blogs/othlotech-dev-cycle/</guid>
-      <description>OthloTechでの開発サイクル こんにちは∩(ﾟ∀ﾟ∩) @ぽこひでです。 OthloTech公式サイト 今日は OthloTech ではどのように開発をしているか</description>
-    </item>
-    
-    <item>
-      <title>ライトニングトークを面白くするたった3つのテクニック</title>
-      <link>http://www.othlo.tech/blogs/lightning_talks_technique/</link>
-      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.othlo.tech/blogs/lightning_talks_technique/</guid>
-      <description>ライトニングトーク（LT）を面白くするたった3つのテクニック こんにちは(○´∀｀)ﾉﾞ OthloTech初のブログを書くのは私、オトモレ(@</description>
-    </item>
-    
-    <item>
-      <title>Hugo&#43;GithubPagesでサイトをリニューアル</title>
-      <link>http://www.othlo.tech/blogs/hugo&#43;github-pages/</link>
-      <pubDate>Sun, 23 Oct 2016 02:45:17 +0900</pubDate>
-      
-      <guid>http://www.othlo.tech/blogs/hugo&#43;github-pages/</guid>
-      <description>Hugo + GithubPages で公式サイトを作り直したお話 こんにちは、@pokohideです。 この度、OthloTechの公式サイトをリニューアルしました。過去のサ</description>
     </item>
     
   </channel>
