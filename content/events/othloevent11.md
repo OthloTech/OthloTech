@@ -1,5 +1,5 @@
 +++
-slug = "othloevent11-LT"
+slug = "othloevent11-lt"
 event_tags = ["LT会"]
 date = "2017-03-25"
 title = "OthloEvent #11 年度締めLT大会"

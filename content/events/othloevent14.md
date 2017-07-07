@@ -1,5 +1,5 @@
 +++
-slug = "othloevent14-ATEAM"
+slug = "othloevent14-ateam"
 event_tags = ["勉強会","Unity","othloevent","エイチーム"]
 date = "2017-06-18"
 title = "OthloEvent@エイチーム #14 Unity"

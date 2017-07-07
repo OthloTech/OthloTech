@@ -1,5 +1,5 @@
 +++
-slug = "othloevent13-TECHCAMP"
+slug = "othloevent13-techcamp"
 event_tags = ["勉強会","Rails","othloevent","TECH::CAMP"]
 date = "2017-05-28"
 title = "OthloEvent@TECH::CAMP #13 Rails"
