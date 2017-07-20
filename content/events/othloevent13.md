@@ -1,6 +1,6 @@
 +++
 slug = "othloevent13-techcamp"
-event_tags = ["勉強会","Rails","othloevent","TECH::CAMP"]
+event_tags = ["勉強会","Ruby on Rails","othloevent","TECH::CAMP"]
 date = "2017-05-28"
 title = "OthloEvent@TECH::CAMP #13 Rails"
 banner = "images/banners/events/othlo-event13.png"

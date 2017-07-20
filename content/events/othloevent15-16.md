@@ -54,7 +54,7 @@ Progateの紹介では、日々Progateの中の人を開発している方にお
 
 Rubyというプログラミング言語で書かれたWebアプリケーションフレームワークです。実際に、GitHubやHulu、クックパッド、グノシーなどで使われている実績があります。
 
-Webアプリを作りやすくしたRuby製の枠組みで、Progat自体もRuby on Railsで開発されていることもあり、Ruby on Railsのコースがかなり充実しています！
+Webアプリを作りやすくしたRuby製の枠組みで、Progate自体もRuby on Railsで開発されていることもあり、Ruby on Railsのコースがかなり充実しています！
 
 ## Progateでもくもく会スタート！
 
