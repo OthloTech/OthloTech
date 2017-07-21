@@ -1,6 +1,6 @@
 +++
 slug = "othloevent11-lt"
-event_tags = ["LT会"]
+event_tags = ["LT"]
 date = "2017-03-25"
 title = "OthloEvent #11 年度締めLT大会"
 banner = "images/banners/events/othlo-event11.png"
