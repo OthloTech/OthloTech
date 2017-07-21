@@ -51,18 +51,9 @@
     <item>
       <title>Lt</title>
       <link>http://www.othlo.tech/event_tags/lt/</link>
-      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.othlo.tech/event_tags/lt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lt会</title>
-      <link>http://www.othlo.tech/event_tags/lt%E4%BC%9A/</link>
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/event_tags/lt%E4%BC%9A/</guid>
+      <guid>http://www.othlo.tech/event_tags/lt/</guid>
       <description></description>
     </item>
     
@@ -94,11 +85,11 @@
     </item>
     
     <item>
-      <title>Rails</title>
-      <link>http://www.othlo.tech/event_tags/rails/</link>
-      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      <title>Progate</title>
+      <link>http://www.othlo.tech/event_tags/progate/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/event_tags/rails/</guid>
+      <guid>http://www.othlo.tech/event_tags/progate/</guid>
       <description></description>
     </item>
     
@@ -108,6 +99,15 @@
       <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.othlo.tech/event_tags/react.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruby On Rails</title>
+      <link>http://www.othlo.tech/event_tags/ruby-on-rails/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/event_tags/ruby-on-rails/</guid>
       <description></description>
     </item>
     
@@ -195,7 +195,7 @@
     <item>
       <title>勉強会</title>
       <link>http://www.othlo.tech/event_tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/</link>
-      <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.othlo.tech/event_tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/</guid>
       <description></description>

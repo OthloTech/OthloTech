@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>http://www.othlo.tech/events/othloevent15-16-progate/</loc>
+    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.othlo.tech/events/othloevent14-ateam/</loc>
     <lastmod>2017-06-18T00:00:00+00:00</lastmod>
   </url>
@@ -215,7 +220,7 @@
   
   <url>
     <loc>http://www.othlo.tech/events/</loc>
-    <lastmod>2017-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -266,19 +271,13 @@
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/event_tags/lt/</loc>
-    <lastmod>2017-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.othlo.tech/tags/lt/</loc>
     <lastmod>2016-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/event_tags/lt%E4%BC%9A/</loc>
+    <loc>http://www.othlo.tech/event_tags/lt/</loc>
     <lastmod>2017-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -322,14 +321,14 @@
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/categories/othlotech/</loc>
-    <lastmod>2017-05-17T00:00:00+00:00</lastmod>
+    <loc>http://www.othlo.tech/tags/othlotech/</loc>
+    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/tags/othlotech/</loc>
-    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+    <loc>http://www.othlo.tech/categories/othlotech/</loc>
+    <lastmod>2017-05-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -346,6 +345,12 @@
   </url>
   
   <url>
+    <loc>http://www.othlo.tech/event_tags/progate/</loc>
+    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.othlo.tech/tags/python/</loc>
     <lastmod>2016-11-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -358,14 +363,14 @@
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/event_tags/rails/</loc>
-    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
+    <loc>http://www.othlo.tech/event_tags/react.js/</loc>
+    <lastmod>2016-11-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/event_tags/react.js/</loc>
-    <lastmod>2016-11-26T00:00:00+00:00</lastmod>
+    <loc>http://www.othlo.tech/event_tags/ruby-on-rails/</loc>
+    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -446,14 +451,14 @@
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</loc>
-    <lastmod>2016-12-15T00:00:00+00:00</lastmod>
+    <loc>http://www.othlo.tech/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</loc>
+    <lastmod>2017-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</loc>
-    <lastmod>2017-02-09T00:00:00+00:00</lastmod>
+    <loc>http://www.othlo.tech/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</loc>
+    <lastmod>2016-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -513,7 +518,7 @@
   
   <url>
     <loc>http://www.othlo.tech/event_tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/</loc>
-    <lastmod>2017-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
