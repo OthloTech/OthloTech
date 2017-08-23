@@ -54,23 +54,23 @@ git clone https://github.com/OthloTech/OthloTech.git
 cd OthloTech
 ```
 
-2. install things to execute wwOthlo
+2. setup to run wwOthlo
 
 you need to do what you haven't installed
 
   ```
-$ sudo pacman -Syu			#update pacman
-$ sudo pacman -S ruby		#install ruby
-$ sudo pacman -S hugo		#install hugo
-$ sudo pacman -S npm nodejs	#install npm
-$ gem update			#update gem
-$ gem install bundler	#install bundler
+$ sudo pacman -Syu			# update pacman
+$ sudo pacman -S ruby		# install ruby
+$ sudo pacman -S hugo		# install hugo
+$ sudo pacman -S npm nodejs	# install npm
+$ gem update				# update gem
+$ gem install bundler		# install bundler
 ```
 
 3. update and setting path
 
   ```
-$ echo echo 'export PATH="$HOME/.gem/ruby/{your own ruby version}/bin:$PATH"' >> ~/.bashrc
+$ echo 'export PATH="$HOME/.gem/ruby/{your own ruby version}/bin:$PATH"' >> ~/.bashrc
 ($ ls ~/.gem/ruby/)
 $ source ~/.bashrc
 $ bundle install
