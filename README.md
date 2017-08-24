@@ -4,7 +4,7 @@
 
 [Hugo](https://gohugo.io/)というGO製の静的サイトジェネレーターを使用しています。
 
-## Installation
+## Installation for Mac
 
 1. リポジトリをクローンする
 
@@ -45,6 +45,42 @@ hugo server -w  # 変更を監視して自動リロード
 npm run test    # SCSS-Lint
 ```
 
+## Installation for ArchLinux(use own package manager)
+
+1. clone Othlotech repository(caution it takes long time)
+
+  ```
+git clone https://github.com/OthloTech/OthloTech.git
+cd OthloTech
+```
+
+2. setup to run wwOthlo
+
+you need to do what you haven't installed
+
+  ```
+$ sudo pacman -Syu			# update pacman
+$ sudo pacman -S ruby		# install ruby
+$ sudo pacman -S hugo		# install hugo
+$ sudo pacman -S npm nodejs	# install npm
+$ gem update				# update gem
+$ gem install bundler		# install bundler
+```
+
+3. update and setting path
+
+  ```
+$ echo 'export PATH="$HOME/.gem/ruby/{your own ruby version}/bin:$PATH"' >> ~/.bashrc
+($ ls ~/.gem/ruby/)
+$ source ~/.bashrc
+$ bundle install
+```
+
+4. running wwOthlo
+
+  ```
+$ npm run start
+```
 
 ## Documentation
 
