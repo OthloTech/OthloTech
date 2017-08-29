@@ -3,7 +3,7 @@ slug = "othloevent17-wonderplanet"
 event_tags = ["勉強会", "VR", "ワンダープラネット"]
 date = "2017-08-24"
 title = "VR勉強会 OthloEvent@ワンダープラネット #18"
-banner = "images/banners/events/othlo-event17.png"
+banner = "images/banners/events/othlo-event18.png"
 +++
 
 {{< image src="/images/events/2017-08-24/banner.png" alt="イベントバナー" >}}
@@ -11,10 +11,9 @@ banner = "images/banners/events/othlo-event17.png"
 こんにちは。OthloTechの[@haseaki](https://twitter.com/haseaki0503)です。
 イベントでは何度か見かけたことがあるかもしれませんが、いつもブログをご覧の方は「はじめまして」ですね。はじめまして。
 
-さて、それでは8月24日(木)の「[【VR勉強会】OthloEvent@ワンダープラネット](https://othlotech.connpass.com/event/63223/)」のイベントレポートをお届けします。今回は、800万ダウンロードを突破した、あの[クラッシュフィーバー](http://crashfever.com/)を開発・販売している、[ワンダープラネット株式会社](http://wonderpla.net/)様のご協力で、VR勉強会を開催しました。  
+さて、それでは8月24日(木)の「[【VR勉強会】OthloEvent@ワンダープラネット](https://othlotech.connpass.com/event/63223/)」のイベントレポートをお届けします。今回は、800万ダウンロードを突破した、あの[クラッシュフィーバー](http://crashfever.com/)を開発・運営している、[ワンダープラネット株式会社](http://wonderpla.net/)様のご協力で、VR勉強会を開催しました。  
 
-なんと今回のイベントには、以前行われた「[【Unity勉強会】OthloEvent@エイチーム](https://othlotech.connpass.com/event/57811/)」を超える、**41名もの学生の方々に参加していただきました！**  
-
+なんと今回のイベントには、**40名を超える学生の方々に参加していただきました！**  
 おそらく過去最多の参加者数ではないでしょうか。  
 
 {{< image src="/images/events/2017-08-24/students1.jpg" alt="たくさんの人" >}}
@@ -38,9 +37,9 @@ banner = "images/banners/events/othlo-event17.png"
 
 まずは、今回ご協力いただいたワンダープラネット株式会社様の会社説明です。  
 
-ワンダープラネット株式会社は、「楽しいね！を、世界中の日常へ。」をミッションとし、スマホアプリ・ゲームの企画・開発・運営・販売を行うゲームベンチャー企業です。
+ワンダープラネット株式会社は、「楽しいね！を、世界中の日常へ。」をミッションとする、ゲームベンチャー企業です。
 
-前述しましたが、 **800万ダウンロードを突破** した[クラッシュフィーバー](http://crashfever.com/)を開発・販売している会社です。  
+前述しましたが、 **800万ダウンロードを突破** した[クラッシュフィーバー](http://crashfever.com/)を開発・運営している会社です。  
 {{< image src="/images/events/2017-08-24/teppen.jpg" alt="クラッシュフィーバー" >}}
 
 現在、 **超大型版権ゲームを開発中** だそうです。とても楽しみです。
@@ -50,7 +49,7 @@ banner = "images/banners/events/othlo-event17.png"
 
 一口にVRといっても、「VIVE」や「Oculus Rift」など **据え置き型のもの** と、スマートフォンをヘッドセットに装着して使用する「Google Cardboard」や「Daydream View」などの **モバイルVR** があるとのこと。さらにモバイルVRは、「コントローラがあるもの」と「コントローラがないもの」に分けられます。
 
-それら中から今回は、**「モバイルVRの中でもコントローラがあるもの」** についてお話していただきます。  
+それらの中から今回は、**「モバイルVRの中でもコントローラがあるもの」** についてお話していただきます。  
 {{< image src="/images/events/2017-08-24/about-vr.jpg" alt="VRの種類" >}}
 
 VRの問題点として挙げれるのが **「酔いやすい」** という点。  
@@ -88,6 +87,7 @@ https://othlotech.connpass.com/event/65392/
 
 #### OthloHack2017
 また、去年のOthloHack2016に引き続き、今年も[OthloHack2017](http://hack.othlo.tech/2017.html)を10月7日(土)、8日(日)に開催します🎉  
+{{< image src="/images/events/2017-08-24/othlohack2017.png" alt="othlohack2017" >}}
 
 ¥100,000の優勝賞金や企業賞、懇親会など**かなり豪華なハッカソン**となっているので、興味のある方はご応募お待ちしております。  
 応募はこちら → http://hack.othlo.tech/2017.html
