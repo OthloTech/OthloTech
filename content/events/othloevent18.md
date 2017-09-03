@@ -99,5 +99,7 @@ Twitter: [@othlotech](https://twitter.com/othlotech)
 Facebook: [OthloTech](https://www.facebook.com/othlotech)
 
 ## さいごに
+ワンダープラネット株式会社のみなさま、ありがとうございました！
+
 モバイルVRは、各社が参入しているということで、どんどん盛り上がっていくと思います。  
 Googleも頑張っていて開発環境も揃ってきているとのことなので、VR開発挑戦してみてはいかがでしょうか！
