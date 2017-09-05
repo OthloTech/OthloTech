@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Sat, 05 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.othlo.tech/events/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VR勉強会 OthloEvent@ワンダープラネット #18</title>
+      <link>http://www.othlo.tech/events/othloevent18-wonderplanet/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent18-wonderplanet/</guid>
+      <description>こんにちは。OthloTechの@haseakiです。 イベントでは何度か見かけたことがあるかもしれませんが、いつもブログをご覧の方は「はじめ</description>
+    </item>
     
     <item>
       <title>【iOSハンズオン】OthloEvent@フェンリル #17</title>

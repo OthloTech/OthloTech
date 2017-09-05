@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vr on OthloTech -学生クリエイティブ集団-</title>
+    <link>http://www.othlo.tech/event_tags/vr/</link>
+    <description>Recent content in Vr on OthloTech -学生クリエイティブ集団-</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
+    <lastBuildDate>Thu, 24 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.othlo.tech/event_tags/vr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VR勉強会 OthloEvent@ワンダープラネット #18</title>
+      <link>http://www.othlo.tech/events/othloevent18-wonderplanet/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent18-wonderplanet/</guid>
+      <description>こんにちは。OthloTechの@haseakiです。 イベントでは何度か見かけたことがあるかもしれませんが、いつもブログをご覧の方は「はじめ</description>
+    </item>
+    
+  </channel>
+</rss>
