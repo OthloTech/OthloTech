@@ -45,7 +45,7 @@ hasCJKLanguage = true
 
 [[params.menu]]
  name = 'BLOG'
- url = '/blogs/'
+ url = 'http://othlotech.hatenablog.com/'
  weight = 3
 
 [[params.menu]]
