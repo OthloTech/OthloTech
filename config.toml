@@ -37,31 +37,37 @@ hasCJKLanguage = true
   name = 'HOME'
   url = '/'
   weight = 1
+  blank = false
 
 [[params.menu]]
   name = 'EVENTS'
   url = '/events/'
   weight = 2
+  blank = false
 
 [[params.menu]]
- name = 'BLOG'
- url = 'http://othlotech.hatenablog.com/'
- weight = 3
+  name = 'BLOG'
+  url = 'http://othlotech.hatenablog.com/'
+  weight = 3
+  blank = true
 
 [[params.menu]]
   name = 'MEMBER'
   url = '/member/'
   weight = 4
+  blank = false
 
 [[params.menu]]
   name = 'ABOUT'
   url = '/about/'
   weight = 5
+  blank = false
 
 [[params.menu]]
   name = 'CONTACT'
   url = '/contact/'
   weight = 6
+  blank = false
 
 [params.widgets]
   categories = true
