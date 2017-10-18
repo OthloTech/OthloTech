@@ -27,3 +27,19 @@ OthloHack2017では、昨年の倍近い、約60名の学生の方に参加し�
 <br>
 
 記事: <a href="http://nagoyastartupnews.jp/hackathon-othlohack2017/">http://nagoyastartupnews.jp/hackathon-othlohack2017/</a>
+
+<br>
+### 次回のイベント
+####【学生限定】忘年会LTパーティ OthloEvent#23
+2017/12/10(日)に、久しぶりのLTイベントを開催します！参加お待ちしております！
+https://othlotech.connpass.com/event/68249/
+
+#### Docker勉強会
+10月28日(土)の13:30から、さくらインターネット株式会社様のご協力によりDocker勉強会を開催します！
+OthloTech初のインフラ系の勉強会です。残席数が残りわずかですので、お早めにお申し込みください！
+https://othlotech.connpass.com/event/65496/
+
+####UX勉強会
+11月11日(土)には、株式会社ビズリーチ様のご協力により、UX勉強会を開催します！
+こちらも、OthloTech初となるジャンルの勉強会です。ぜひご参加ください！
+https://othlotech.connpass.com/event/64712/
