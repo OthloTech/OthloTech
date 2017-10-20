@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Mon, 24 Oct 2016 23:13:51 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.othlo.tech/event_tags/othlohack/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OthloHack2017</title>
+      <link>http://www.othlo.tech/events/othlo-hack-2017/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othlo-hack-2017/</guid>
+      <description>こんにちは！運営のはせあきです。 先日、10月7日と8日に開催された、OthloHack2017のイベントレポートをお届けします！ 東海最大級の</description>
+    </item>
     
     <item>
       <title>OthloHack 2016</title>
