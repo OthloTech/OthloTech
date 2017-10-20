@@ -8,7 +8,7 @@ banner = "images/banners/events/othlo-hack-2017.png"
 
 {{< image src="/images/events/2017-10-07/banner.png" alt="イベントバナー" >}}
 
-こんにちは！運営のはせあきです。    
+こんにちは！運営の[はせあき](https://twitter.com/haseaki0503/)です。    
 先日、10月7日と8日に開催された、OthloHack2017のイベントレポートをお届けします！  
 
 ### 東海最大級の学生限定ハッカソン
@@ -30,7 +30,7 @@ OthloHack2017では、昨年の倍近い、約60名の学生の方に参加し�
 
 <br>
 ### 次回のイベント
-####【学生限定】忘年会LTパーティ OthloEvent#23
+#### 忘年会LTパーティ
 2017/12/10(日)に、久しぶりのLTイベントを開催します！参加お待ちしております！
 https://othlotech.connpass.com/event/68249/
 
@@ -39,7 +39,7 @@ https://othlotech.connpass.com/event/68249/
 OthloTech初のインフラ系の勉強会です。残席数が残りわずかですので、お早めにお申し込みください！
 https://othlotech.connpass.com/event/65496/
 
-####UX勉強会
+#### UX勉強会
 11月11日(土)には、株式会社ビズリーチ様のご協力により、UX勉強会を開催します！
 こちらも、OthloTech初となるジャンルの勉強会です。ぜひご参加ください！
 https://othlotech.connpass.com/event/64712/
