@@ -235,6 +235,7 @@ html.win {
     #blog-post figure figcaption p {
       text-align: center;
       opacity: 0;
+      -webkit-transition: .3s;
       transition: .3s; }
     #blog-post figure figcaption h4 {
       font-size: 18px; }
@@ -247,6 +248,7 @@ html.win {
       opacity: 1; }
     #blog-post figure:hover p {
       opacity: 1;
+      -webkit-transition-delay: .3s;
       transition-delay: .3s; }
   #blog-post .calendar-wrapper {
     max-width: 800px;

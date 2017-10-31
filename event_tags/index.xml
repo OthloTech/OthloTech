@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Docker</title>
+      <link>http://www.othlo.tech/event_tags/docker/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/event_tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Goodfind</title>
       <link>http://www.othlo.tech/event_tags/goodfind/</link>
       <pubDate>Sat, 29 Oct 2016 00:20:33 +0900</pubDate>
@@ -103,7 +112,7 @@
     </item>
     
     <item>
-      <title>React.js</title>
+      <title>React.Js</title>
       <link>http://www.othlo.tech/event_tags/react.js/</link>
       <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
       
@@ -112,7 +121,7 @@
     </item>
     
     <item>
-      <title>Ruby on Rails</title>
+      <title>Ruby On Rails</title>
       <link>http://www.othlo.tech/event_tags/ruby-on-rails/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
@@ -162,6 +171,15 @@
       <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.othlo.tech/event_tags/xamarin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>さくらインターネット</title>
+      <link>http://www.othlo.tech/event_tags/%E3%81%95%E3%81%8F%E3%82%89%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/event_tags/%E3%81%95%E3%81%8F%E3%82%89%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88/</guid>
       <description></description>
     </item>
     
@@ -231,7 +249,7 @@
     <item>
       <title>勉強会</title>
       <link>http://www.othlo.tech/event_tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/</link>
-      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.othlo.tech/event_tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/</guid>
       <description></description>
