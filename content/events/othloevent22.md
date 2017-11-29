@@ -10,7 +10,7 @@ banner = "images/banners/events/othlo-event22.png"
 
 こんにちは、OthloTechのちーず([@cheez_921](https://twitter.com/cheez921))です。<br>
 もうすぐ来年がきてしまいますね。2017年は良い年になりましたか？<br>
-まだ1ヶ月ありますので、食いの残さないように過ごしたいですね。
+まだ1ヶ月ありますので、悔いの残さないように過ごしたいですね。
 
 今回は、11月27日(月)に行われた「[愛知出身クックパッドCTOが語るエンジニアのキャリアについて OthloEvent#22 ](https://othlotech.connpass.com/event/68990/)」についてのイベントレポートをみなさんにお届けいたします。</br>
 
@@ -48,7 +48,7 @@ cookpadには愛知県出身の社員さんがおおいみたいですよ！
 {{< image src="/images/events/2017-11-27/title.png" alt="タイトル" >}}
 
 ### 第一章 成田さんのキャリアの話
-まず初めに、が小学生の頃からYahoo!Japanで働いている時までのキャリアを面白おかしく話していただきました。<br>
+まず初めに、が小学生の頃からYahoo!JAPANで働いている時までのキャリアを面白おかしく話していただきました。<br>
 N88-BASICや日本語Logo Writer 2などの時代を感じる話や、電子メール事業の厳しさを感じる話など、興味深いトピックがたくさんあり、とっても楽しめました。
 
 {{< image src="/images/events/2017-11-27/presentation01.png" alt="成田さんのキャリアの話" >}}
