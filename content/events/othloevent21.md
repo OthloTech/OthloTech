@@ -2,7 +2,7 @@
 slug = "othloevent21-bizreach"
 event_tags = ["勉強会", "ビズリーチ", "アイデアソン"]
 date = "2017-11-11"
-title = "愛知出身クックパッドCTOが語るエンジニアのキャリアについて #22"
+title = "【新規事業アイデアソン】OthloEvent@ビズリーチ #21"
 banner = "images/banners/events/othlo-event21.png"
 +++
 
