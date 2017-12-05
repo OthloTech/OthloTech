@@ -30,7 +30,7 @@ banner = "images/banners/events/othlo-event22.png"
 
 ## オープニング
 今回は、栄の[LIB SPACE](https://www.lib-space.com/)という、とても綺麗で自由なスペースでイベントを開催させていただきました。<br>
-次回のイベント[忘年会LTパーティ OthloEvent#23](https://othlotech.connpass.com/event/68249/)でもこの施設を利用しますので、ぜひ足を運んでみてください。
+次回のイベント[忘年会LTパーティ OthloEvent#23](https://othlotech.connpass.com/event/68249/)でもこの会場を利用しますので、ぜひ足を運んでみてください。
 {{< image src="/images/events/2017-11-27/floor.png" alt="会場" >}}
 
 まずはOthloTechについて軽く紹介。<br>
