@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>http://www.othlo.tech/events/othloevent21-bizreach/</loc>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.othlo.tech/events/othloevent20-sakurainternet/</loc>
     <lastmod>2017-10-28T00:00:00+00:00</lastmod>
   </url>
@@ -246,7 +251,7 @@
   
   <url>
     <loc>http://www.othlo.tech/events/</loc>
-    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -489,6 +494,12 @@
   </url>
   
   <url>
+    <loc>http://www.othlo.tech/event_tags/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%82%BD%E3%83%B3/</loc>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.othlo.tech/event_tags/%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BC%E3%83%A0/</loc>
     <lastmod>2017-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -521,6 +532,12 @@
   <url>
     <loc>http://www.othlo.tech/event_tags/%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3/</loc>
     <lastmod>2017-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/%E3%83%93%E3%82%BA%E3%83%AA%E3%83%BC%E3%83%81/</loc>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -574,7 +591,7 @@
   
   <url>
     <loc>http://www.othlo.tech/event_tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/</loc>
-    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
