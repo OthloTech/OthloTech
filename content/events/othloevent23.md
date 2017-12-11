@@ -41,7 +41,7 @@ duoさんはパチンコ業界に対してITという切り口で風穴を開け
 |:-----:|:-----|
 |ぽこひで|Tを楽しくするChrome拡張「Recho」作った|
 |くぅ|LT のやり方|
-|KatsuakiTakagi|monacoinをはじめてみた|
+|KatsuakiTakagi|MONACOINをはじめてみた|
 |いっちゃんとか、ヒロとか|学生の特権まとめてみた|
 |@ジュジュ|低レイヤの歩き方|
 |影白|MacとWindowsを併用する環境構築|
@@ -52,10 +52,10 @@ duoさんはパチンコ業界に対してITという切り口で風穴を開け
 |うぃる|Othlohack2017のつづき|
 |久保怜也|WebでマルチVRゲームを作ってみた|
 |鷲見陽介|外国人留学生の就活Webサービスについて|
-|RyoheiMasujima|Unity|
-|ちーず|web制作におけるUXデザインのお話|
+|RyoheiMasujima|Unityで注意したいこと、おすすめアセット|
+|ちーず|cssで全力でOthloTechを動かす|
 |すなお|ロゴデザインについて|
-|gasso|1年で月10万ビュー行って見た（仮）|
+|gasso|ウェブサイト作りたい作ってる初心者のハードル3つあげて解説する|
 |ryoka|結局、何になりたいの？|
 
 {{% /table %}}
@@ -66,12 +66,12 @@ duoさんはパチンコ業界に対してITという切り口で風穴を開け
 聞いてもらうのではなく聞かせる魅せるLTをするというのは特に今回のように自由なLTではとっても大切なことだなと思いました。  
 自分も頑張っていきたいと思います！
 
-{{< image src="/images/events/2017-12-10/1.JPG" alt="くぅ" >}}
+{{< image src="/images/events/2017-12-10/lt.JPG" alt="くぅ" >}}
 
 優勝賞品はAmazonで販売しているEcho Dotです！  
 最近話題のスマートスピーカー。使いみちが色々あって面白そうなアイテムです。~~僕も欲しかった~~
 
-{{< image src="/images/events/2017-12-10/lt.JPG" alt="優勝" >}}
+{{< image src="/images/events/2017-12-10/1.JPG" alt="優勝" >}}
 
 ### KatsuakiTakagiさん「monacoinをはじめてみた」
 2番になったのはKatsuakiTakagiさんの**「monacoinをはじめてみた」**でした。  
