@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Sat, 25 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.othlo.tech/event_tags/lt/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>忘年会LTパーティ OthloEvent#23</title>
+      <link>http://www.othlo.tech/events/othloevent23-lt/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent23-lt/</guid>
+      <description>おはこんばんちは、OthloTechの@ジュジュです。 今回初めてイベントレポートを書かせていただきます。 何となく緊張してますがどうぞよろしく</description>
+    </item>
     
     <item>
       <title>OthloEvent #11 年度締めLT大会</title>
