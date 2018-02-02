@@ -1,6 +1,6 @@
 +++
 slug = "othloevent24-stmn"
-event_tags = ["スタメン","Ruby"]
+event_tags = ["スタメン","ruby-on-rails"]
 date = "2018-01-27"
 title = "最新版RailsでWikiアプリを作ろう！@スタメン OthloEvent#24"
 banner = "images/banners/events/othlo-event24.png"
