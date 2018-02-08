@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>http://www.othlo.tech/events/othloevent24-stmn/</loc>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.othlo.tech/events/othloevent23-lt/</loc>
     <lastmod>2017-12-10T00:00:00+00:00</lastmod>
   </url>
@@ -261,7 +266,7 @@
   
   <url>
     <loc>http://www.othlo.tech/events/</loc>
-    <lastmod>2017-12-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -417,7 +422,7 @@
   
   <url>
     <loc>http://www.othlo.tech/event_tags/ruby-on-rails/</loc>
-    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -518,6 +523,12 @@
   <url>
     <loc>http://www.othlo.tech/event_tags/%E3%82%AF%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89/</loc>
     <lastmod>2017-11-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/%E3%82%B9%E3%82%BF%E3%83%A1%E3%83%B3/</loc>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

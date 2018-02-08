@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Sun, 10 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.othlo.tech/events/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>最新版RailsでWikiアプリを作ろう！@スタメン OthloEvent#24</title>
+      <link>http://www.othlo.tech/events/othloevent24-stmn/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent24-stmn/</guid>
+      <description>おはようございます。OthloTechのしゅーぞー(@shuzo_create)です。 業界では「おはようございます」で一日中通じるらしいです</description>
+    </item>
     
     <item>
       <title>忘年会LTパーティ OthloEvent#23</title>
