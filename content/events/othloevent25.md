@@ -6,7 +6,7 @@ title = "UXデザイン講座（第1回）@アクアリング OthloEvent#25"
 banner = "images/banners/events/othlo-event25.png"
 +++
 
-< img src="/images/events/2018-02-18/othlo-event25.png" alt="イベントバナー" >
+{{< image src="/images/events/2018-02-18/othlo-event25.png" alt="イベントバナー" >}}
 
 はじめまして！  
 つい最近ですが、OthloTechの運営メンバーになりましたうぃる([@hina325jasmine](https://twitter.com/hina325jasmine/))です！  
@@ -31,7 +31,7 @@ banner = "images/banners/events/othlo-event25.png"
 1998年7月に創立。アクアリングは、Webを中心としたデジタル技術で、コミュニケーション全般をデザインするクリエイティブエージェンシーです。 
 具体的には多くのナショナルカンパニーをはじめとする企業のパートナーとして、コミュニケーション戦略の立案・コンサルティング、Webサイトの企画・構築・運用等をはじめ、現在ではWebの枠を超え、デジタルコミュニケーション全般の企画・開発を行っています。
 
-< img src="/images/events/2018-02-18/office.jpg" >  
+{{< image src="/images/events/2018-02-18/office.jpg" >}}  
 
 オフィスには大きな半円状のカウンターがあり、とても快適で落ち着ける空間でした！  
 
@@ -41,7 +41,7 @@ banner = "images/banners/events/othlo-event25.png"
 ## UXデザイン講座
 ### 第一部
 
-< img src="/images/events/2018-02-18/ux1.jpg" >  
+{{< image src="/images/events/2018-02-18/ux1.jpg" >}}  
 
 第一部は講師として多摩美術大学 准教授の[吉橋 昭夫](http://www.idd.tamabi.ac.jp/design/outline/faculty/professor/yoshihashi.html)さんにご講義いただきました。  
   
@@ -52,15 +52,15 @@ UXとは『「user experience」の略であり、製品やサービスを利用
   
 ### 第二部
 
-< img src="/images/events/2018-02-18/ux2.JPG" >  
+{{< image src="/images/events/2018-02-18/ux2.JPG" >}}  
 
-第二部はアクアリング クリエイティブディレクター遠藤　健二さん、アートディレクター林　康太郎さんに講義をいただきました。  
+第二部はアクアリング クリエイティブディレクター遠藤 健二さん、アートディレクター林 康太郎さんに講義をいただきました。  
 
 実際に働くにあたってのwebサイトの構築についてから、ターゲットユーザーの分析など、webサイトを作るにあたっての重要なことについてご講義いただきました。学生にとっては会社としてどのようにwebサイトを作成しているかなど非常に気になる点であり、デザインする前段階の話をお聞かせいただいて、とても勉強になりました！実際に作られたwebサイトのデザインについても教えていただきました！  
 
 ### 第三部
 
-< img src="/images/events/2018-02-18/ux3.JPG" >  
+{{< image src="/images/events/2018-02-18/ux3.JPG" >}}  
 
 
 第三部は先ほどご講義いただいた方たちによるディスカッションで、テーマは**「UXデザインをモノづくりに活かすために」**でした！
@@ -68,7 +68,7 @@ UXとは『「user experience」の略であり、製品やサービスを利用
 
 ## 懇親会
 
-< img src="/images/events/2018-02-18/party.jpg" >
+{{< image src="/images/events/2018-02-18/party.jpg" >}}
 
 同じ年代の人とお話しすると自分も頑張らなきゃ！って思いますね。負けてられないです！－＝≡ヘ(* - -)ノ  
 これからもOthloTechのイベントを通して、多くの交流をはかれたらいいですね！
