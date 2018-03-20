@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>http://www.othlo.tech/events/othloevent26-ateam/</loc>
+    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.othlo.tech/events/othloevent25-ux/</loc>
     <lastmod>2018-02-18T00:00:00+00:00</lastmod>
   </url>
@@ -271,7 +276,7 @@
   
   <url>
     <loc>http://www.othlo.tech/events/</loc>
-    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -600,6 +605,12 @@
   <url>
     <loc>http://www.othlo.tech/tags/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</loc>
     <lastmod>2016-11-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0/</loc>
+    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
