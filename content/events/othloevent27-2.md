@@ -63,12 +63,14 @@ RubyでLTの発表順をランダムに決めて、LT開始！
 
 {{< image src="/images/events/2018-03-25/pizza.jpg" alt="pizza" >}}
 
-総勢18名とかなり豪華なLT会となりました。ジャンルも様々です。
+発表者は総勢18名とかなり豪華なLT会となりました。ジャンルも様々です。
 Vtuberや機械学習、アナログハックなどなど！
 
 {{< image src="/images/events/2018-03-25/lt.jpg" alt="lt" >}}
 
 サイバーエージェントのエンジニアさんのLTで、会場はさらにヒートアップ！
+
+チャットボットや、今話題のVtuberになりきれるようにするには、SKKによる日本語入力についてなど幅広いLTでした！
 
 {{< image src="/images/events/2018-03-25/tarasinn.jpg" alt="tarasinn" >}}
 {{< image src="/images/events/2018-03-25/nakaji.jpg" alt="nakaji" >}}
@@ -94,7 +96,8 @@ LTの締めに、みんなで集合写真をパシャリ！
 {{< image src="/images/events/2018-03-25/last.jpg" alt="last" >}}
 
 LT発表者及び参加者の皆様、おかげさまで大成功のLT会となりました！  
-次回のLT会にも、参加いただけると嬉しいです！一緒に東海を盛り上げていきましょう！！
+次回のLT会にも、参加いただけると嬉しいです！一緒に東海を盛り上げていきましょう！！  
+LTのアーカイブは[こちら](https://youtu.be/rihRF367ci0)
 
 ### その他のイベント
 次回イベントでは、NVIDIA様の学習コンテンツを使って、機械学習のハンズオンを行います！  
