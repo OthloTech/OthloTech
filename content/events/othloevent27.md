@@ -6,7 +6,7 @@ title = "AbemaTV キャリア講演会 OthloEvent#27"
 banner = "images/banners/events/othlo-event27-1.png"
 +++
 
-{{< image src="/images/events/2018-02-18/othlo-event27-1.png" alt="イベントバナー" >}}
+{{< image src="images/banners/events/othlo-event27-1.png" alt="イベントバナー" >}}
 
 こんばんにちは！OthloTechのあすか([@AsukaOkochi](https://twitter.com/AsukaOkochi/))です！
 初めて書くイベントレポートでちょっと緊張してます。
@@ -25,35 +25,41 @@ banner = "images/banners/events/othlo-event27-1.png"
 |17:30 |クロージング|
 
 ## オープニング
-本イベントは[株式会社サイバーエージェント](https://www.cyberagent.co.jp/)さんにご協力いただきました。ありがとうございました。
+本イベントは[株式会社サイバーエージェント](https://www.cyberagent.co.jp/)さんとドリンクスポンサーとして[DCGエンターテイメント](http://dcg-e.jp/)さんにご協力いただきました。ありがとうございました。
 まず、OthloTechについて軽く紹介した後に講演会が始まりました。
 
 ## 講演会
 ### 長瀬慶重さん（AbemaTV 開発本部長）の発表
 #### エンジニアが会社を選ぶ時代〜超売り手市場で何を大事に会社選びをしますか？
-{{< image src="/images/events/2018-03-25/presentation01.jpg" alt="長瀬さんの発表1" >}}
-{{< image src="/images/events/2018-03-25/presentation02.jpg" alt="長瀬さんの発表2" >}}
+
 初めに、AbemaTV 開発本部長の長瀬さんに発表していただきました！
 売り手市場と言われている現在、エンジニアが会社を選ぶ時に大切な４つのことを具体的に教えていただきました。
 更に、サイバーエージェントさんではどのような取り組みを行っているのかも紹介していただきました。
-Githubのスター数によるインセンティブ制度や、エンジニア・クリエイター向けカンファレンスの開催など、エンジニアにとって働きやすい環境が整っているようでした。
+Githubのスター数によるインセンティブ制度や、エンジニア・クリエイター向けカンファレンスの開催など、エンジニアにとって働きやすい環境が整っているようですね。
+
+{{< image src="/images/events/2018-03-25/presentation01.jpg" alt="長瀬さんの発表1" >}}
+{{< image src="/images/events/2018-03-25/presentation02.jpg" alt="長瀬さんの発表2" >}}
 
 ### 鈴木大貴さん（AbemaTV エンジニア）の発表
 #### ネイティブエンジニアのキャリア〜実務と個人活動
-{{< image src="/images/events/2018-03-25/presentation03.jpg" alt="鈴木さんの発表1" >}}
-{{< image src="/images/events/2018-03-25/presentation04.jpg" alt="鈴木さんの発表2" >}}
+
 次に、AbemaTV エンジニアの鈴木さんに発表していただきました！
 鈴木さん自身の活動やキャリアと絡めて、エンジニアの市場価値の高め方について教えていただきました。
 実務だけ・個人活動だけではなく、どちらにもコミットすることが自身の市場価値を高めるために大切であるということを伝えていただきました。
 また、実際に作った作品の紹介や開発を進めるにあたってどのようなことを行ったかなど、技術的なお話もしていただきました。
 
+{{< image src="/images/events/2018-03-25/presentation03.jpg" alt="鈴木さんの発表1" >}}
+{{< image src="/images/events/2018-03-25/presentation04.jpg" alt="鈴木さんの発表2" >}}
+
 ## クロージング
 講演会終了後は一旦クロージングし、引き続きLT会を行いました！
 LT会の様子はこちら
+
 [【OthloTech x 学生LT】サイバーエージェント 年度末LTパーティー](http://www.othlo.tech/events/othloevent27-lt/)
 
 ## 今後のOthloTechのイベントについて
 次回はNVIDIA様の学習コンテンツを使った機械学習のハンズオンを行います！ぜひお越しください！
+
 [機械学習ハンズオン@NVIDIA OthloEvent#28](https://othlotech.connpass.com/event/83061/)
 
 ### その他のイベント
