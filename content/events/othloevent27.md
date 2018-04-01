@@ -3,10 +3,10 @@ slug = "othloevent27-AbemaTV"
 event_tags = ["AbemaTV","トークイベント"]
 date = "2018-03-25"
 title = "AbemaTV キャリア講演会 OthloEvent#27"
-banner = "images/banners/events/othlo-event27-1.png"
+banner = "/images/banners/events/othlo-event27-1.png"
 +++
 
-{{< image src="images/banners/events/othlo-event27-1.png" alt="イベントバナー" >}}
+{{< image src="/images/banners/events/othlo-event27-1.png" alt="イベントバナー" >}}
 
 こんばんにちは！OthloTechのあすか([@AsukaOkochi](https://twitter.com/AsukaOkochi/))です！
 初めて書くイベントレポートでちょっと緊張してます。
