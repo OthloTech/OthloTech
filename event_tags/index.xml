@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Sat, 03 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.othlo.tech/event_tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Abematv</title>
+      <link>http://www.othlo.tech/event_tags/abematv/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/event_tags/abematv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chatbot</title>
@@ -69,7 +78,7 @@
     <item>
       <title>Lt</title>
       <link>http://www.othlo.tech/event_tags/lt/</link>
-      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.othlo.tech/event_tags/lt/</guid>
       <description></description>
@@ -231,7 +240,7 @@
     <item>
       <title>トークイベント</title>
       <link>http://www.othlo.tech/event_tags/%E3%83%88%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link>
-      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.othlo.tech/event_tags/%E3%83%88%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</guid>
       <description></description>

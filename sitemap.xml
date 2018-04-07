@@ -18,6 +18,16 @@
   </url>
   
   <url>
+    <loc>http://www.othlo.tech/events/othloevent27-abematv/</loc>
+    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/events/othloevent27-lt/</loc>
+    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.othlo.tech/events/othloevent26-ateam/</loc>
     <lastmod>2018-03-11T00:00:00+00:00</lastmod>
   </url>
@@ -203,6 +213,12 @@
   </url>
   
   <url>
+    <loc>http://www.othlo.tech/event_tags/abematv/</loc>
+    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.othlo.tech/tags/adventcalendar/</loc>
     <lastmod>2016-12-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -270,13 +286,13 @@
   
   <url>
     <loc>http://www.othlo.tech/event_tags/</loc>
-    <lastmod>2016-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.othlo.tech/events/</loc>
-    <lastmod>2018-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -333,14 +349,14 @@
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/event_tags/lt/</loc>
-    <lastmod>2017-12-10T00:00:00+00:00</lastmod>
+    <loc>http://www.othlo.tech/tags/lt/</loc>
+    <lastmod>2016-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/tags/lt/</loc>
-    <lastmod>2016-11-03T00:00:00+00:00</lastmod>
+    <loc>http://www.othlo.tech/event_tags/lt/</loc>
+    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -562,7 +578,7 @@
   
   <url>
     <loc>http://www.othlo.tech/event_tags/%E3%83%88%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</loc>
-    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

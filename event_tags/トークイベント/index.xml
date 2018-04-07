@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Mon, 27 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.othlo.tech/event_tags/%E3%83%88%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AbemaTV キャリア講演会 OthloEvent#27</title>
+      <link>http://www.othlo.tech/events/othloevent27-abematv/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent27-abematv/</guid>
+      <description>こんばんにちは！OthloTechのあすか(@AsukaOkochi)です！ 初めて書くイベントレポートでちょっと緊張してます。 今回は、201</description>
+    </item>
     
     <item>
       <title>愛知出身クックパッドCTOが語るエンジニアのキャリアについて OthloEvent#22</title>
