@@ -32,11 +32,11 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-cached": "^1.1.0",
-    "gulp-notify": "^2.2.0",
-    "gulp-plumber": "^1.1.0",
-    "gulp-postcss": "^6.2.0",
-    "gulp-sass": "^2.3.2",
-    "gulp-scss-lint": "^0.4.0",
-    "postcss-cssnext": "^2.8.0"
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^3.2.1",
+    "gulp-scss-lint": "^0.6.1",
+    "postcss-cssnext": "^3.1.0"
   }
 }
