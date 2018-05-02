@@ -9,7 +9,7 @@ banner = "/images/banners/events/othlo-event29.png"
 {{< image src="/images/banners/events/othlo-event29.png" alt="イベントバナー" >}}
 
 やっほー!　こんにちはー!　OthloTechのオザキ([@sena0801masato](https://twitter.com/sena0801masato))です。<br>
-今回は、2018/04/29に行われた「[【学生限定】アップルップルのWeb技術の学び方講座 OthloEvent#29](https://othlotech.connpass.com/event/85253/)」のイベントレポートをお届けします!
+今回は、4月29日(日)に行われた「[【学生限定】アップルップルのWeb技術の学び方講座 OthloEvent#29](https://othlotech.connpass.com/event/85253/)」のイベントレポートをお届けします!
 
 ## タイムテーブル
 |時間|内容|
@@ -26,25 +26,24 @@ banner = "/images/banners/events/othlo-event29.png"
 
 ## オープニング
 今回のイベントは、[有限会社アップルップル](https://www.appleple.com/)さんにご協力いただきました。<br>
-アップルップルさんは、Webサイトの受託制作のほか、Web制作者が便利に使えるCMSの開発や、セミナーの主催、サポートをするための場所の提供といった業務を行っています。<br>
-<br>
-イベント内容は、アップルップルのエンジニアとデザイナーの方にご講演いただきました。
-そのあとのワークショップでは、情報収集のやり方を学びました。<br>
-<br>
-質問を随時できるように[sli.do](https://www.sli.do/)というサービスを利用し、活気ある講演になったと思います。<br>
+アップルップルさんは、Webサイト作成やCMSの開発、セミナーの主催、勉強をサポートをするための場所の提供等を行なっている会社です。<br>
+
+イベントでは、アップルップルのエンジニアとデザイナーの方にご講演いただき、そのあとのワークショップでは情報収集の方法を学びました。<br>
+
+会場からの質問を匿名かつ随時できるように[sli.do](https://www.sli.do/)というサービスを利用し、活気ある講演になったと思います。<br>
 今回紹介されたWebページの一覧([https://hackmd.io/s/S1JT9dxaf](https://hackmd.io/s/S1JT9dxaf))
 {{< image src="/images/events/2018-04-29/opening.JPG" alt="オープニング挨拶" >}}
 
 ## 講演会
 ### 第1部
 アップルップルのエンジニアである堀 悟大さんに「最新のウェブ技術を体験しよう」というテーマで講演していただきました。<br>
-<br>
-最近は SPA (Single Page Application) と PWA (Progressive Web App) が注目を浴びていて、それに関連する内容でした。<br>
+
+近年Webでできることが増えていて、例えばWeb上で音声認識やビデオチャットができたり、スマホの加速度センサーを利用できたりする話をしていただきました。<br>
+特に SPA (Single Page Application) と PWA (Progressive Web App) が注目を浴びています。<br>
 SPAとは、Twitterのように一つのページで構成されるWebアプリケーションのことです。
 JavaScriptを用いてDOM(Webページ上のある一定のまとまり)を操作し、ページを切り替える技術を使います。<br>
-PWAとは、Webページなのにネイティブアプリのような動きが再現でき、ユーザーがモバイル端末でページを表示してもアプリ感覚で操作できる技術です。<br>
-他にもWebで音声認識やビデオチャットができたり、スマホの加速度センサーを利用できるようです。<br>
-<br>
+PWAとは、Webページなのにネイティブアプリのような動きが再現でき、ユーザーがモバイル端末でページを表示してもアプリ感覚で操作できる仕組みです。<br>
+
 私の心に残った言葉は、「趣味で触れた技術は仕事でも使うから、積極的に新しい技術に触れていこう」でした!
 {{< image src="/images/events/2018-04-29/lecture_01_01.jpg" alt="講演の目次" >}}
 {{< image src="/images/events/2018-04-29/lecture_01_02.jpg" alt="音声認識のWebサービス" >}}
@@ -82,7 +81,6 @@ Twitterで特定のハッシュタグをつけてツイートしたらSlackに�
 2018/05/27[【学生限定】画像配信勉強会@ピクシブ OthloEvent#30](https://othlotech.connpass.com/event/85753/)<br>
 株式会社ピクシブさんにご協力いただき、画像配信を中心にインフラ基盤についての勉強会を開催します!<br>
 ぜひご参加ください!
-<!--他になんか書けるイベントあったっけ?-->
 
 ### その他のイベント
 OthloTechでのイベント情報などは公式SNSにて配信するのでフォロー・いいねよろしくお願い致します！<br>
