@@ -30,7 +30,7 @@ banner = "/images/banners/events/othlo-event29.png"
 
 イベントでは、アップルップルのエンジニアとデザイナーの方にご講演いただき、そのあとのワークショップでは情報収集の方法を学びました。
 
-会場からの質問を匿名かつ随時できるように[sli.do](https://www.sli.do/)というサービスを利用し、活気ある講演になったと思います。<br>
+会場からの質問を、匿名で随時受け取ることのできる[sli.do](https://www.sli.do/)というサービスを利用し、活気ある講演になったと思います。<br>
 今回紹介されたWebページの一覧は[こちら](https://hackmd.io/s/S1JT9dxaf)です。
 {{< image src="/images/events/2018-04-29/opening.JPG" alt="オープニング挨拶" >}}
 
@@ -54,7 +54,7 @@ Web業界で生き残るために情報収集が必要な3つの理由からお�
 森田さんの体験に基づくお話だったため、身近に感じ自分もやってみようと思います!
 
 私の心に残った言葉は、「気になったことはすぐに試そう」でした!<br>
-講演に使われたスライドは[こちら](https://www.slideshare.net/mkasumi/ss-95413237))で公開されています。
+講演に使われたスライドは[こちら](https://www.slideshare.net/mkasumi/ss-95413237)で公開されています。
 {{< image src="/images/events/2018-04-29/lecture_02_01.jpg" alt="新しい技術の例え" >}}
 {{< image src="/images/events/2018-04-29/lecture_02_02.jpg" alt="気になったことはすぐに試す" >}}
 
