@@ -37,14 +37,14 @@ NVIDIAの社員さんに会社や現在の技術がどこまで及んでいる�
 
 {{< image src="/images/events/2018-04-14/nvidia-01.png" >}}  
 
-ハンズオンを始める前に、機械学習・ディープラーニングのこれだけは知っておいてほしい基礎について解説しました！<br>
+ハンズオンを始める前に、機械学習・ディープラーニングのこれだけは知っておいてほしい基礎について解説しました！  
 ここからの説明は自分が担当しました。まさか僕が講師をやるなんて、半年前まで思ってもなかったです･･･！
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">OthloTech 運営の <a href="https://twitter.com/ni_san2000?ref_src=twsrc%5Etfw">@ni_san2000</a> による、ディープラーニング講座はじまりました <a href="https://twitter.com/hashtag/OthloTech?src=hash&amp;ref_src=twsrc%5Etfw">#OthloTech</a> <a href="https://twitter.com/hashtag/NVIDIA?src=hash&amp;ref_src=twsrc%5Etfw">#NVIDIA</a> <a href="https://t.co/L6qbWn3SSf">pic.twitter.com/L6qbWn3SSf</a></p>&mdash; OthloTech (@OthloTech) <a href="https://twitter.com/OthloTech/status/985015164209479682?ref_src=twsrc%5Etfw">2018年4月14日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-ハンズオンはNVIDIAが主催する別のイベントでも実際に使われている学習コンテンツを使いました！<br>
-普段有料のコンテンツを今回のイベントのために特別に解放していただき、感謝です。<br>
+ハンズオンはNVIDIAが主催する別のイベントでも実際に使われている学習コンテンツを使いました！  
+普段有料のコンテンツを今回のイベントのために特別に解放していただき、感謝です。  
 
 この学習コンテンツは、数学的な知識やPythonなどのプログラミングの知識といった必要な知識の量が最小限になるように作られています。
 ほとんどの操作がマウスのクリックだけで実行できる優れもの！
@@ -62,17 +62,17 @@ NVIDIAの社員さんに会社や現在の技術がどこまで及んでいる�
 ## ハンズオン02：DIGITS による物体検出入門
 ハンズオン02では手書き文字から応用させて、海上の上空からクジラの頭を識別するモデルを作成しました。
 
-ネットワークの仕様を変更したり、Pythonのコードをちょっとだけ編集して実行するなど、少し本格的なモデルを作成しました！<br>
-実際にクジラの頭の部分と判断されたところには色がついています。<br>
+ネットワークの仕様を変更したり、Pythonのコードをちょっとだけ編集して実行するなど、少し本格的なモデルを作成しました！  
+実際にクジラの頭の部分と判断されたところには色がついています。  
 機械学習は画像分類だけじゃなくてこのような物体検出など、様々なことができることを理解してくれればと思いました！
 
 {{< image src="/images/events/2018-04-14/nvidia-03.png" >}}  
 
 ## 懇親会！
-ハンズオンの後には、毎回恒例の懇親会！<br>
+ハンズオンの後には、毎回恒例の懇親会！  
 お菓子を食べながら、NVIDIAの社員さんや参加者同士と、わいわい交流しました！
 
-参加者の中からは、「なんとなくしかなかった機械学習のイメージが掴めた！」「数学的な知識を使わずに機械学習を体験できて驚いた」などの声もありました。<br>
+参加者の中からは、「なんとなくしかなかった機械学習のイメージが掴めた！」「数学的な知識を使わずに機械学習を体験できて驚いた」などの声もありました。  
 機械学習に新しく興味を持ってもらえる人がもっと増えればと思っています！
 
 最後に記念写真をパシャリ！お疲れ様でした〜。
@@ -85,7 +85,7 @@ NVIDIAの社員さんに会社や現在の技術がどこまで及んでいる�
 ## 次回のイベントのお知らせ！
 5月27日(日)に株式会社ピクシブ様と一緒に、画像処理配信技術(ImageFlux)の勉強会&ハンズオンを行います！
 
-イラスト投稿SNSとして有名なピクシブ様との勉強会、質とレベルの高い知識を得られそうです。<br>
+イラスト投稿SNSのpixiv等で有名なピクシブ様との勉強会、質とレベルの高い知識を得られそうです。  
 予定が空いてる方は是非来てみてください！！
 
 [【学生限定】画像配信勉強会@ピクシブ OthloEvent#30](https://othlotech.connpass.com/event/85753/)
@@ -93,5 +93,5 @@ NVIDIAの社員さんに会社や現在の技術がどこまで及んでいる�
 ### その他の情報について
 OthloTechでのイベント情報などは公式SNSにて配信するのでフォロー・いいねよろしくお願い致します！
 
-Twitter: [@OthloTech](https://twitter.com/othlotech)<br>
+Twitter: [@OthloTech](https://twitter.com/othlotech)  
 Facebook: [OthloTech](https://www.facebook.com/othlotech)
