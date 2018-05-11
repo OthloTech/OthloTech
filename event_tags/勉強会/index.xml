@@ -6,10 +6,19 @@
     <description>Recent content in 勉強会 on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.othlo.tech/event_tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>機械学習ハンズオン@NVIDIA OthloEvent#28</title>
+      <link>http://www.othlo.tech/events/othloevent28-nvidia/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent28-nvidia/</guid>
+      <description>こんにちは！OthloTechのにーさん(@ni_san2000)です！ 新年度になりましたが、新しい生活を送ってる方もいつもと変わらない方も</description>
+    </item>
     
     <item>
       <title>【新規事業アイデアソン】OthloEvent@ビズリーチ #21</title>

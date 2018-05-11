@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Appleple</title>
+      <link>http://www.othlo.tech/event_tags/appleple/</link>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/event_tags/appleple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chatbot</title>
       <link>http://www.othlo.tech/event_tags/chatbot/</link>
       <pubDate>Sat, 03 Dec 2016 00:00:00 +0000</pubDate>
@@ -89,6 +98,15 @@
       <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.othlo.tech/event_tags/misoca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nvidia</title>
+      <link>http://www.othlo.tech/event_tags/nvidia/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/event_tags/nvidia/</guid>
       <description></description>
     </item>
     
@@ -174,6 +192,15 @@
     </item>
     
     <item>
+      <title>Web技術</title>
+      <link>http://www.othlo.tech/event_tags/web%E6%8A%80%E8%A1%93/</link>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/event_tags/web%E6%8A%80%E8%A1%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Web開発</title>
       <link>http://www.othlo.tech/event_tags/web%E9%96%8B%E7%99%BA/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
@@ -239,7 +266,7 @@
     <item>
       <title>トークイベント</title>
       <link>http://www.othlo.tech/event_tags/%E3%83%88%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link>
-      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.othlo.tech/event_tags/%E3%83%88%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</guid>
       <description></description>
@@ -320,9 +347,18 @@
     <item>
       <title>勉強会</title>
       <link>http://www.othlo.tech/event_tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/</link>
-      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.othlo.tech/event_tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>機械学習</title>
+      <link>http://www.othlo.tech/event_tags/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/event_tags/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html lang="jp">
+
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+
+  <title>機械学習ハンズオン@NVIDIA OthloEvent#28</title>
+
+  <meta name="generator" content="Hugo 0.39" />
+
+  
+<meta charset="utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta name="robots" content="index,follow,noodp" />
+<meta name="googlebot" content="index,follow,snippet,archive" />
+<meta name="subject" content="機械学習ハンズオン@NVIDIA OthloEvent#28" />
+<meta name="abstract" content="機械学習ハンズオン@NVIDIA OthloEvent#28" />
+<meta name="description" content="こんにちは！OthloTechのにーさん(@ni_san2000)です！ 新年度になりましたが、新しい生活を送ってる方もいつもと変わらない方も" />
+<meta name="keywords" content="OthloTech, 学生, クリエイティブ, 名古屋, 勉強会" />
+<meta name="url" content="http://www.othlo.tech/events/othloevent28-nvidia/">
+<meta name="author" content="OthloTech" />
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@OthloTech" />
+<meta name="twitter:title" content="機械学習ハンズオン@NVIDIA OthloEvent#28" />
+<meta name="twitter:image" content="http://www.othlo.tech//images/banners/events/othlo-event28.png" />
+<meta name="twitter:description" content="こんにちは！OthloTechのにーさん(@ni_san2000)です！ 新年度になりましたが、新しい生活を送ってる方もいつもと変わらない方も" />
+<meta name="twitter:url" content="http://www.othlo.tech/events/othloevent28-nvidia/" />
+
+
+<meta property="fb:app_id" content="947057295414793" />
+<meta property="og:type" content="website">
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:site_name" content="機械学習ハンズオン@NVIDIA OthloEvent#28" />
+<meta property="og:title" content="機械学習ハンズオン@NVIDIA OthloEvent#28" />
+<meta property="og:image" content="http://www.othlo.tech//images/banners/events/othlo-event28.png" />
+<meta property="og:description" content="こんにちは！OthloTechのにーさん(@ni_san2000)です！ 新年度になりましたが、新しい生活を送ってる方もいつもと変わらない方も" />
+<meta property="og:url" content="http://www.othlo.tech/events/othloevent28-nvidia/" />
+<meta property="article:publisher" content="https://www.facebook.com/othlotech" />
+<meta property="article:author" content="OthloTech" />
+
+
+<link href="https://plus.google.com/107575701287280199280" rel="publisher" />
+<meta name="google-site-verification" content="uqvH435HoeOlm-TXxnWXNQGhhQZqCKCKt9jGLeCbsWA" />
+<meta itemprop="name" content="機械学習ハンズオン@NVIDIA OthloEvent#28" />
+<meta itemprop="image" content="http://www.othlo.tech//images/banners/events/othlo-event28.png" />
+
+
+  <meta property="og:updated_time" content="2018-04-14 00:00:00 &#43;0000 UTC" />
+
+
+
+  <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
+
+
+<link href="http://www.othlo.tech/css/external.css" rel="stylesheet">
+
+
+<link href="http://www.othlo.tech/css/style.css" rel="stylesheet">
+
+
+
+
+
+
+<link rel="shortcut icon" href="http://www.othlo.tech/images/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="http://www.othlo.tech/images/apple-touch-icon.png" />
+
+
+<link rel="alternate" href="http://www.othlo.tech/index.xml" type="application/rss+xml" title="OthloTech -学生クリエイティブ集団-">
+<link rel="preconnect" href="http://www.othlo.tech/">
+<link rel="canonical" href="http://www.othlo.tech/events/othloevent28-nvidia/">
+
+
+  <div id="fb-root"></div>
+  <script>
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.6&appId=507933569410966";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-78315006-1', 'auto');
+    ga('send', 'pageview');
+
+    
+    
+    
+    
+    
+    
+
+  </script>
+</head>
+
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          <div class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand home" href="http://www.othlo.tech/">
+                <img src="http://www.othlo.tech/images/logo.png" alt="機械学習ハンズオン@NVIDIA OthloEvent#28 logo" class="hidden-xs hidden-sm logo">
+                <img src="http://www.othlo.tech/images/logo-small.png" alt="機械学習ハンズオン@NVIDIA OthloEvent#28 logo" class="visible-xs visible-sm logo">
+                <span class="sr-only">機械学習ハンズオン@NVIDIA OthloEvent#28 - go to homepage</span>
+            </a>
+            <div class="navbar-buttons">
+                <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
+                    <span class="sr-only">Toggle navigation</span>
+                    <i class="fa fa-align-justify"></i>
+                </button>
+            </div>
+        </div>
+        
+
+        <div class="navbar-collapse collapse" id="navigation">
+            <ul class="nav navbar-nav navbar-right">
+                
+                <li class="dropdown">
+                    
+                        <a href="/">HOME</a>
+                    
+                </li>
+                
+                <li class="dropdown">
+                    
+                        <a href="/events/">EVENTS</a>
+                    
+                </li>
+                
+                <li class="dropdown">
+                    
+                        <a href="http://othlotech.hatenablog.com/" target="_blank">BLOG</a>
+                    
+                </li>
+                
+                <li class="dropdown">
+                    
+                        <a href="/member/">MEMBER</a>
+                    
+                </li>
+                
+                <li class="dropdown">
+                    
+                        <a href="/about/">ABOUT</a>
+                    
+                </li>
+                
+                <li class="dropdown">
+                    
+                        <a href="/contact/">CONTACT</a>
+                    
+                </li>
+                
+            </ul>
+        </div>
+        
+
+        <div class="collapse clearfix" id="search">
+
+            <form class="navbar-form" role="search">
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Search">
+                    <span class="input-group-btn">
+
+                <button type="submit" class="btn btn-template-main"><i class="fa fa-search"></i></button>
+
+            </span>
+                </div>
+            </form>
+
+        </div>
+        
+    </div>
+</div>
+
+
+        </header>
+
+        <div id="heading-breadcrumbs">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>機械学習ハンズオン@NVIDIA OthloEvent#28</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        <div id="content">
+            <div class="container">
+
+                <div class="row">
+
+                    
+
+                    <div class="col-md-9" id="blog-post">
+
+                        <div class="post-meta" style="height:32px">
+                            <div class="social-share-area col-sm-8 col-xs-12">
+                                <ul class="share-buttons" style="margin:0">
+                                    <li class="facebook">
+                                        <a href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.othlo.tech%2fevents%2fothloevent28-nvidia%2f&t=%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92%e3%83%8f%e3%83%b3%e3%82%ba%e3%82%aa%e3%83%b3%40NVIDIA%20OthloEvent%2328" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="/images/sns/Facebook.svg"></a>
+                                    </li>
+                                    <li class="twitter">
+                                        <a href="https://twitter.com/share?url=http%3a%2f%2fwww.othlo.tech%2fevents%2fothloevent28-nvidia%2f&text=%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92%e3%83%8f%e3%83%b3%e3%82%ba%e3%82%aa%e3%83%b3%40NVIDIA%20OthloEvent%2328&hashtags=OthloTech&related=OthloTech" target="_blank" title="Tweet"><img alt="Tweet" src="/images/sns/Twitter.svg"></a>
+                                    </li>
+                                    <li class="google">
+                                        <a href="https://plus.google.com/share?url=http%3a%2f%2fwww.othlo.tech%2fevents%2fothloevent28-nvidia%2f" target="_blank" title="Share on Google+"><img alt="Share on Google+" src="/images/sns/Google+.svg"></a>
+                                    </li>
+                                    <li class="pocket">
+                                        <a href="https://getpocket.com/save?url=http%3a%2f%2fwww.othlo.tech%2fevents%2fothloevent28-nvidia%2f&title=%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92%e3%83%8f%e3%83%b3%e3%82%ba%e3%82%aa%e3%83%b3%40NVIDIA%20OthloEvent%2328" target="_blank" title="Add to Pocket"><img alt="Add to Pocket" src="/images/sns/Pocket.svg"></a>
+                                    </li>
+                                    <li class="hatebu">
+                                        <a class="hatena-share-button" href="http://b.hatena.ne.jp/add?mode=confirm&url=http%3a%2f%2fwww.othlo.tech%2fevents%2fothloevent28-nvidia%2f&title=%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92%e3%83%8f%e3%83%b3%e3%82%ba%e3%82%aa%e3%83%b3%40NVIDIA%20OthloEvent%2328" target="_blank"><img alt="Share on Hatebu" src="/images/sns/hatebu.svg"></a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <p class="text-muted text-uppercase mb-small text-center col-sm-4 col-xs-12" style="margin:0;line-height:32px;">April 14, 2018</p>
+                        </div>
+
+                        <div id="post-content">
+                          
+
+
+<figure >
+
+    
+        <img src="/images/banners/events/othlo-event28.png" alt="イベントバナー" />
+    
+
+      
+
+</figure>
+
+
+<p>こんにちは！OthloTechのにーさん(<a href="https://twitter.com/ni_san2000?lang=ja">@ni_san2000</a>)です！
+新年度になりましたが、新しい生活を送ってる方もいつもと変わらない方も、いかがお過ごしでしょうか？</p>
+
+<p>今回は4月14日(土)に行われた「<a href="https://othlotech.connpass.com/event/83061/">【学生限定】機械学習ハンズオン@NVIDIA OthloEvent#28</a>」について、イベントレポートをお伝えします！</p>
+
+<h2 id="タイムテーブル">タイムテーブル</h2>
+
+<table>
+<thead>
+<tr>
+<th align="center">時間</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">12:45</td>
+<td align="left">開場</td>
+</tr>
+
+<tr>
+<td align="center">13:00</td>
+<td align="left">開会のあいさつ</td>
+</tr>
+
+<tr>
+<td align="center">13:15</td>
+<td align="left">会社説明(NVIDIA様)</td>
+</tr>
+
+<tr>
+<td align="center">13:30</td>
+<td align="left">機械学習・ディープラーニングとは？</td>
+</tr>
+
+<tr>
+<td align="center">14:00</td>
+<td align="left">ハンズオン01：DIGITS によるディープラーニング画像分類表</td>
+</tr>
+
+<tr>
+<td align="center">15:30</td>
+<td align="left">休憩</td>
+</tr>
+
+<tr>
+<td align="center">15:45</td>
+<td align="left">ハンズオン02：DIGITS による物体検出入</td>
+</tr>
+
+<tr>
+<td align="center">17:15</td>
+<td align="left">懇親会</td>
+</tr>
+
+<tr>
+<td align="center">18:15</td>
+<td align="left">クロージング</td>
+</tr>
+
+<tr>
+<td align="center">18:30</td>
+<td align="left">撤収</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="機械学習ハンズオン">機械学習ハンズオン！</h2>
+
+<p>まず最初にNVIDIA様から会社紹介をしていただきました！<i><b>謎の半導体メーカー</b></i>という通り名で有名な(?)
+NVIDIAの社員さんに会社や現在の技術がどこまで及んでいるかを説明していただきました。</p>
+
+<p>またNVIDIAの最新ディープマシン、NVIDIA DGX-2の解説も。ぜひ大学やオフィスに！とのことです。
+みなさん熱心に聞き入っていました！</p>
+
+
+<figure >
+
+    
+        <img src="/images/events/2018-04-14/nvidia-01.png"  />
+    
+
+      
+
+</figure>
+
+
+<p>ハンズオンを始める前に、機械学習・ディープラーニングのこれだけは知っておいてほしい基礎について解説しました！<br />
+ここからの説明は自分が担当しました。まさか僕が講師をやるなんて、半年前まで思ってもなかったです･･･！</p>
+
+<p><blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">OthloTech 運営の <a href="https://twitter.com/ni_san2000?ref_src=twsrc%5Etfw">@ni_san2000</a> による、ディープラーニング講座はじまりました <a href="https://twitter.com/hashtag/OthloTech?src=hash&amp;ref_src=twsrc%5Etfw">#OthloTech</a> <a href="https://twitter.com/hashtag/NVIDIA?src=hash&amp;ref_src=twsrc%5Etfw">#NVIDIA</a> <a href="https://t.co/L6qbWn3SSf">pic.twitter.com/L6qbWn3SSf</a></p>&mdash; OthloTech (@OthloTech) <a href="https://twitter.com/OthloTech/status/985015164209479682?ref_src=twsrc%5Etfw">2018年4月14日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p>ハンズオンはNVIDIAが主催する別のイベントでも実際に使われている学習コンテンツを使いました！<br />
+普段有料のコンテンツを今回のイベントのために特別に解放していただき、感謝です。</p>
+
+<p>この学習コンテンツは、数学的な知識やPythonなどのプログラミングの知識といった必要な知識の量が最小限になるように作られています。
+ほとんどの操作がマウスのクリックだけで実行できる優れもの！</p>
+
+<p>参考記事：<a href="http://www.itmedia.co.jp/pcuser/articles/1701/24/news033_2.html">素人でもディープラーニングができる「NVIDIA DIGITS」で文字認識をやってみた</a></p>
+
+<h2 id="ハンズオン01-digits-によるディープラーニング画像分類">ハンズオン01：DIGITS によるディープラーニング画像分類</h2>
+
+<p>ハンズオン01は機械学習のチュートリアルでもある手書き文字認識・分類を行いました！</p>
+
+<p>「学習用の画像を用意して学習、それから実際に評価用の画像で識別」といった一連の流れを体験しました。
+データを増やしたり、反転画像を追加して水増ししたりなどで、識別精度がどう変わるかを確認することができました！</p>
+
+
+<figure >
+
+    
+        <img src="/images/events/2018-04-14/nvidia-02.png"  />
+    
+
+      
+
+</figure>
+
+
+<h2 id="ハンズオン02-digits-による物体検出入門">ハンズオン02：DIGITS による物体検出入門</h2>
+
+<p>ハンズオン02では手書き文字から応用させて、海上の上空からクジラの頭を識別するモデルを作成しました。</p>
+
+<p>ネットワークの仕様を変更したり、Pythonのコードをちょっとだけ編集して実行するなど、少し本格的なモデルを作成しました！<br />
+実際にクジラの頭の部分と判断されたところには色がついています。<br />
+機械学習は画像分類だけじゃなくてこのような物体検出など、様々なことができることを理解してくれればと思いました！</p>
+
+
+<figure >
+
+    
+        <img src="/images/events/2018-04-14/nvidia-03.png"  />
+    
+
+      
+
+</figure>
+
+
+<h2 id="懇親会">懇親会！</h2>
+
+<p>ハンズオンの後には、毎回恒例の懇親会！<br />
+お菓子を食べながら、NVIDIAの社員さんや参加者同士と、わいわい交流しました！</p>
+
+<p>参加者の中からは、「なんとなくしかなかった機械学習のイメージが掴めた！」「数学的な知識を使わずに機械学習を体験できて驚いた」などの声もありました。<br />
+機械学習に新しく興味を持ってもらえる人がもっと増えればと思っています！</p>
+
+<p>最後に記念写真をパシャリ！お疲れ様でした〜。
+
+<figure >
+
+    
+        <img src="/images/events/2018-04-14/nvidia-04.png"  />
+    
+
+      
+
+</figure>
+</p>
+
+<p>個人的には総計４時間ちょっとの講師、疲れて大変だったけど達成感ありました〜〜！教えるのもっと上手くなりたいと思いました！</p>
+
+<p>それでは、また次の勉強会でお会いしましょう！読んでいただきありがとうございました。</p>
+
+<h2 id="次回のイベントのお知らせ">次回のイベントのお知らせ！</h2>
+
+<p>5月27日(日)に株式会社ピクシブ様と一緒に、画像処理配信技術(ImageFlux)の勉強会&amp;ハンズオンを行います！</p>
+
+<p>イラスト投稿SNSのpixiv等で有名なピクシブ様との勉強会、質とレベルの高い知識を得られそうです。<br />
+予定が空いてる方は是非来てみてください！！</p>
+
+<p><a href="https://othlotech.connpass.com/event/85753/">【学生限定】画像配信勉強会@ピクシブ OthloEvent#30</a></p>
+
+<h3 id="その他の情報について">その他の情報について</h3>
+
+<p>OthloTechでのイベント情報などは公式SNSにて配信するのでフォロー・いいねよろしくお願い致します！</p>
+
+<p>Twitter: <a href="https://twitter.com/othlotech">@OthloTech</a><br />
+Facebook: <a href="https://www.facebook.com/othlotech">OthloTech</a></p>
+
+                        </div>
+                    </div>
+                    
+
+                    
+
+                    
+
+                    <div class="col-md-3">
+
+                        
+
+                        
+
+<div class="panel panel-default sidebar-menu">
+
+    <div class="panel-heading">
+        <h3 class="panel-title">Search</h3>
+    </div>
+
+    <div class="panel-body">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" role="search">
+            <div class="input-group">
+                <input type="search" name="q" results="0" class="form-control" placeholder="Search">
+                <input type="hidden" name="q" value="site:http://www.othlo.tech/">
+                <span class="input-group-btn">
+                    <button type="submit" class="btn btn-template-main"><i class="fa fa-search"></i></button>
+                </span>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+
+
+
+
+<div class="panel sidebar-menu">
+    <div class="panel-heading">
+        <h3 class="panel-title">Tags</h3>
+    </div>
+
+    <div class="panel-body">
+        <ul class="tag-cloud">
+            
+                <li><a href="http://www.othlo.tech/tags/%e5%8b%89%e5%bc%b7%e4%bc%9a"><i class="fa fa-tags"></i> 勉強会 (16)</a></li>
+            
+                <li><a href="http://www.othlo.tech/tags/othloevent"><i class="fa fa-tags"></i> othloevent (10)</a></li>
+            
+                <li><a href="http://www.othlo.tech/tags/lt"><i class="fa fa-tags"></i> lt (8)</a></li>
+            
+                <li><a href="http://www.othlo.tech/tags/ruby-on-rails"><i class="fa fa-tags"></i> ruby-on-rails (4)</a></li>
+            
+                <li><a href="http://www.othlo.tech/tags/%e3%82%a8%e3%82%a4%e3%83%81%e3%83%bc%e3%83%a0"><i class="fa fa-tags"></i> エイチーム (3)</a></li>
+            
+                <li><a href="http://www.othlo.tech/tags/%e3%83%88%e3%83%bc%e3%82%af%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88"><i class="fa fa-tags"></i> トークイベント (3)</a></li>
+            
+                <li><a href="http://www.othlo.tech/tags/%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd%e3%83%b3"><i class="fa fa-tags"></i> ハッカソン (3)</a></li>
+            
+                <li><a href="http://www.othlo.tech/tags/misoca"><i class="fa fa-tags"></i> misoca (2)</a></li>
+            
+                <li><a href="http://www.othlo.tech/tags/othlohack"><i class="fa fa-tags"></i> othlohack (2)</a></li>
+            
+                <li><a href="http://www.othlo.tech/tags/%e3%83%8f%e3%83%b3%e3%82%ba%e3%82%aa%e3%83%b3"><i class="fa fa-tags"></i> ハンズオン (2)</a></li>
+            
+        </ul>
+
+        <p class="read-more"><a href="/event_tags" class="btn btn-template-main">すべて見る</a></p>
+    </div>
+</div>
+
+
+
+
+
+
+<div class="panel panel-default sidebar-menu">
+    <div class="panel-heading">
+        <h3 class="panel-title">Twitter</h3>
+    </div>
+
+    <div class="panel-body">
+        <a class="twitter-timeline"
+            href="https://twitter.com/OthloTech"
+            data-widget-id="734663046749003777"
+             height="300"
+             width="300"
+             data-chrome="noscrollbar noheader nofooter">@OthloTechさんのツイート</a>
+        <a href="https://twitter.com/OthloTech" class="twitter-follow-button" data-show-count="false" data-lang="ja" data-size="large">@OthloTechさんをフォロー</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+</div>
+
+
+
+
+                        
+
+                    </div>
+                    
+
+                    
+
+                </div>
+                
+
+            </div>
+            
+        </div>
+        
+
+        <footer id="footer" class="footer">
+    <div class="container">
+        <div class="col-md-offset-1 col-md-5 col-xs-12">
+
+            
+                <h4>OthloTechとは?</h4>
+                <p>OthloTechは、東海圏のエンジニア・デザイナーを中心とするクリエイティブな学生が集まるコミュニティです。</p>
+                <hr class="hidden-md hidden-lg hidden-sm">
+                <br><br>
+            
+
+
+            <h4>直近のブログ</h4>
+
+            <div class="blog-entries">
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="http://www.othlo.tech/blogs/othlotech-dev-cycle/">
+                          
+                            <img src="http://www.othlo.tech/images/banners/blogs/othlotech_dev_cycle.png" class="img-responsive" alt="">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="http://www.othlo.tech/blogs/othlotech-dev-cycle/">OthloTechでの開発サイクル</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="http://www.othlo.tech/blogs/lightning_talks_technique/">
+                          
+                            <img src="http://www.othlo.tech/images/banners/blogs/lightning_talk_banner.png" class="img-responsive" alt="">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="http://www.othlo.tech/blogs/lightning_talks_technique/">ライトニングトークを面白くするたった3つのテクニック</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="http://www.othlo.tech/blogs/hugo&#43;github-pages/">
+                          
+                            <img src="http://www.othlo.tech/images/banners/blogs/hugo.png" class="img-responsive" alt="">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="http://www.othlo.tech/blogs/hugo&#43;github-pages/">Hugo&#43;GithubPagesでサイトをリニューアル</a></h5>
+                    </div>
+                </div>
+                
+            </div>
+
+            <hr class="hidden-md hidden-lg">
+        </div>
+        
+
+        
+        <div class="col-md-5 col-xs-12 text-center">
+
+            <h4>Twitter</h4>
+
+            <a class="twitter-timeline"
+                href="https://twitter.com/OthloTech"
+                data-widget-id="734663046749003777"
+                 height="300"
+                 width="300"
+                 data-chrome="noscrollbar nofooter noborders noheader">@OthloTechさんのツイート</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </div>
+        
+        
+
+    </div>
+    
+</footer>
+
+
+
+
+
+
+
+<div id="copyright">
+    <div class="container">
+        <div class="col-md-6 col-sm-12">
+            <div class="fb-page" 
+                data-href="https://www.facebook.com/othlotech"
+                data-width="350" 
+                data-hide-cover="false"
+                data-show-facepile="false" 
+                data-show-posts="false"></div>
+        </div>
+
+        <div class="col-md-6 col-sm-12">
+            <ul class="sns-shares">
+                
+                <li class="sns-share">
+                    <a href="https://twitter.com/OthloTech" class='twitter' target='_blank'>
+                        <img src="/images/sns/twitter.png" />
+                    </a>
+                </li>
+                
+
+                
+                <li class="sns-share">
+                    <a href="https://www.facebook.com/othlotech" class='twitter' target='_blank'>
+                        <img src="/images/sns/facebook.png" />
+                    </a>
+                </li>
+                
+
+                
+                <li class="sns-share">
+                    <a href="https://github.com/OthloTech" class='twitter' target='_blank'>
+                        <img src="/images/sns/github.png" />
+                    </a>
+                </li>
+                
+            </ul>
+
+            
+            <p class="copyright">© 2017 OthloTech. All rights reserved. Crafted with love</p> 
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    </div>
+    
+
+    
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-78315006-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.0/jquery.matchHeight-min.js"></script>
+
+<script src="http://www.othlo.tech/js/jquery.cookie.js"></script>
+<script src="http://www.othlo.tech/js/waypoints.min.js"></script>
+<script src="http://www.othlo.tech/js/jquery.counterup.min.js"></script>
+<script src="http://www.othlo.tech/js/jquery.parallax-1.1.3.js"></script>
+<script src="http://www.othlo.tech/js/front.js"></script>
+<script src="http://www.othlo.tech/js/css_browser_selector.js"></script>
+
+
+<script src="http://www.othlo.tech/js/owl.carousel.min.js"></script>
+
+
+  </body>
+</html>

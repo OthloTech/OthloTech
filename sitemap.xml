@@ -18,6 +18,16 @@
   </url>
   
   <url>
+    <loc>http://www.othlo.tech/events/othloevent29-appleple/</loc>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/events/othloevent28-nvidia/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.othlo.tech/events/othloevent27-abematv/</loc>
     <lastmod>2018-03-25T00:00:00+00:00</lastmod>
   </url>
@@ -225,6 +235,12 @@
   </url>
   
   <url>
+    <loc>http://www.othlo.tech/event_tags/appleple/</loc>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.othlo.tech/tags/bitcoin/</loc>
     <lastmod>2016-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -292,7 +308,7 @@
   
   <url>
     <loc>http://www.othlo.tech/events/</loc>
-    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -369,6 +385,12 @@
   <url>
     <loc>http://www.othlo.tech/tags/nagoya/</loc>
     <lastmod>2017-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/nvidia/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -495,6 +517,12 @@
   </url>
   
   <url>
+    <loc>http://www.othlo.tech/event_tags/web%E6%8A%80%E8%A1%93/</loc>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.othlo.tech/event_tags/web%E9%96%8B%E7%99%BA/</loc>
     <lastmod>2017-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -578,7 +606,7 @@
   
   <url>
     <loc>http://www.othlo.tech/event_tags/%E3%83%88%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</loc>
-    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -662,7 +690,7 @@
   
   <url>
     <loc>http://www.othlo.tech/event_tags/%E5%8B%89%E5%BC%B7%E4%BC%9A/</loc>
-    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -675,6 +703,12 @@
   <url>
     <loc>http://www.othlo.tech/categories/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</loc>
     <lastmod>2016-11-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.othlo.tech/event_tags/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
