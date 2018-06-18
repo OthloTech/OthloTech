@@ -3,7 +3,7 @@
 const gulp = require('gulp')
 const sass = require('gulp-sass')
 const postcss = require('gulp-postcss')
-const cssnext = require('postcss-cssnext')
+const cssnext = require('postcss-preset-env')
 
 const scsslint = require('gulp-scss-lint')
 const cache = require('gulp-cached')
@@ -31,7 +31,7 @@ gulp.task('scss', function() {
     .pipe(postcss(processors))
     .pipe(gulp.dest(paths.css))
     .pipe(notify('SCSS task finished.'))
-})
+});
 
 gulp.task('scss-lint', function() {
   return gulp.src([paths.scssLint, '!scss/external/*.scss'])
@@ -44,11 +44,11 @@ gulp.task('scss-lint', function() {
       'endless': true
     }))
     .pipe(scsslint.failReporter('E'))
-})
+});
 
 
 gulp.task('scss:watch', function() {
   gulp.watch(paths.scssLint, ['scss'])
-})
+});
 
-gulp.task('default', ['scss:watch'])
+gulp.task('default', ['scss:watch']);
