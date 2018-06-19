@@ -54,7 +54,7 @@ banner = "/images/banners/events/othlo-event31.png"
 
 **Don't guess. Mesure!**
 
-という言葉がかなり心に残っています。エンジニアである以上証拠や論理に基づいて行動していきたいですね！
+という言葉がかなり心に残っています。エンジニアである以上、証拠や論理に基づいて行動していきたいですね！
 
 ## 懇親会
 
@@ -62,7 +62,7 @@ banner = "/images/banners/events/othlo-event31.png"
 
 {{< image src="/images/events/2018-06-16/meal.jpg" alt="食料" >}}  
 
-美味しそうなご飯とともにまずはかんぱーい！
+美味しそうなご飯とともにまずはかんぱーい！
 
 {{< image src="/images/events/2018-06-16/cheers.jpg" alt="乾杯" >}}  
 
