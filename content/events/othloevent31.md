@@ -83,6 +83,6 @@ CTOの成田さんも名古屋のITをもっと盛り上げていきたいと仰
 千葉工業大学の教授を務めている安藤昌也先生をお呼びして、ユーザニーズについて学びます。第2回ではありますが第1回と内容は独立しており、初めてでも参加できるようになっています。UXを学びたい方は是非お越しください！
 
 
-[【【学生限定】Unity勉強会@ワンダープラネット OthloEvent#33](https://othlotech.connpass.com/event/90850/)  
+[【学生限定】Unity勉強会@ワンダープラネット OthloEvent#33](https://othlotech.connpass.com/event/90850/)  
 こちらはUnityの勉強会です。  
 Unityのチュートリアルである「[Roll-a-ball](https://unity3d.com/jp/learn/tutorials/s/roll-ball-tutorial)」を終えた方向けの内容となっております。初級者から中級者にステップアップしたい方は是非ご応募ください！
