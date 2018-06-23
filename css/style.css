@@ -1,6 +1,5 @@
 .navbar {
-  -webkit-box-shadow: 0 1px 5px #424242;
-          box-shadow: 0 1px 5px #424242; }
+  box-shadow: 0 1px 5px #424242; }
 
 header {
   margin-bottom: 70px; }
@@ -42,7 +41,6 @@ html.win {
     margin: 0 5px;
     background: #fff;
     padding-bottom: 60px;
-    -webkit-box-sizing: border-box;
     box-sizing: border-box; }
     .members .item .member {
       position: relative;
@@ -62,7 +60,6 @@ html.win {
         left: 0;
         bottom: 0;
         width: 100%;
-        -webkit-box-sizing: border-box;
         box-sizing: border-box;
         padding: 20px;
         height: 50px; }
@@ -238,7 +235,6 @@ html.win {
     #blog-post figure figcaption p {
       text-align: center;
       opacity: 0;
-      -webkit-transition: .3s;
       transition: .3s; }
     #blog-post figure figcaption h4 {
       font-size: 18px; }
@@ -251,7 +247,6 @@ html.win {
       opacity: 1; }
     #blog-post figure:hover p {
       opacity: 1;
-      -webkit-transition-delay: .3s;
       transition-delay: .3s; }
   #blog-post .calendar-wrapper {
     max-width: 800px;

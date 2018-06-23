@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>http://www.othlo.tech/events/othloevent31/</loc>
+    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.othlo.tech/events/othloevent30/</loc>
     <lastmod>2018-05-27T00:00:00+00:00</lastmod>
   </url>
@@ -313,7 +318,7 @@
   
   <url>
     <loc>http://www.othlo.tech/events/</loc>
-    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -426,14 +431,14 @@
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/tags/othlotech/</loc>
-    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+    <loc>http://www.othlo.tech/categories/othlotech/</loc>
+    <lastmod>2017-05-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/categories/othlotech/</loc>
-    <lastmod>2017-05-17T00:00:00+00:00</lastmod>
+    <loc>http://www.othlo.tech/tags/othlotech/</loc>
+    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -580,6 +585,12 @@
   </url>
   
   <url>
+    <loc>http://www.othlo.tech/event_tags/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9/</loc>
+    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.othlo.tech/event_tags/%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BC%E3%83%A0/</loc>
     <lastmod>2017-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -587,7 +598,7 @@
   
   <url>
     <loc>http://www.othlo.tech/event_tags/%E3%82%AF%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89/</loc>
-    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -598,14 +609,14 @@
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</loc>
-    <lastmod>2017-02-09T00:00:00+00:00</lastmod>
+    <loc>http://www.othlo.tech/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</loc>
+    <lastmod>2016-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</loc>
-    <lastmod>2016-12-15T00:00:00+00:00</lastmod>
+    <loc>http://www.othlo.tech/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</loc>
+    <lastmod>2017-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -712,14 +723,14 @@
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/event_tags/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</loc>
-    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+    <loc>http://www.othlo.tech/categories/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</loc>
+    <lastmod>2016-11-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.othlo.tech/categories/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</loc>
-    <lastmod>2016-11-17T00:00:00+00:00</lastmod>
+    <loc>http://www.othlo.tech/event_tags/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
