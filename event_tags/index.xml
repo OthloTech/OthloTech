@@ -6,6 +6,7 @@
     <description>Recent content in Event_tags on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
     <lastBuildDate>Sun, 25 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.othlo.tech/event_tags/index.xml" rel="self" type="application/rss+xml" />
@@ -167,7 +168,7 @@
     <item>
       <title>Unity</title>
       <link>http://www.othlo.tech/event_tags/unity/</link>
-      <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.othlo.tech/event_tags/unity/</guid>
       <description></description>
@@ -273,6 +274,15 @@
     </item>
     
     <item>
+      <title>ゲーム</title>
+      <link>http://www.othlo.tech/event_tags/%E3%82%B2%E3%83%BC%E3%83%A0/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/event_tags/%E3%82%B2%E3%83%BC%E3%83%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>スタメン</title>
       <link>http://www.othlo.tech/event_tags/%E3%82%B9%E3%82%BF%E3%83%A1%E3%83%B3/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
@@ -365,7 +375,7 @@
     <item>
       <title>ワンダープラネット</title>
       <link>http://www.othlo.tech/event_tags/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88/</link>
-      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.othlo.tech/event_tags/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88/</guid>
       <description></description>

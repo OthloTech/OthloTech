@@ -6,6 +6,7 @@
     <description>Recent content on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
     <lastBuildDate>Sat, 12 Nov 2016 02:45:17 +0900</lastBuildDate>
     
 	<atom:link href="http://www.othlo.tech/index.xml" rel="self" type="application/rss+xml" />
@@ -36,6 +37,15 @@
       
       <guid>http://www.othlo.tech/blogs/hugo&#43;github-pages/</guid>
       <description>Hugo + GithubPages で公式サイトを作り直したお話 こんにちは、@pokohideです。 この度、OthloTechの公式サイトをリニューアルしました。過去のサ</description>
+    </item>
+    
+    <item>
+      <title>【学生限定】Unity勉強会@ワンダープラネット OthloEvent#33</title>
+      <link>http://www.othlo.tech/events/othloevent33/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.othlo.tech/events/othloevent33/</guid>
+      <description>おはこんばんちは、@ジュジュです！ 7&amp;frasl;7(土)に開催された【学生限定】Unity勉強会@ワンダープラネット OthloEvent#</description>
     </item>
     
     <item>
