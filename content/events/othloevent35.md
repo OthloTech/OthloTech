@@ -23,6 +23,7 @@ banner = "/images/banners/events/othlo-event35.png"
 
 
 ## オープニング
+まず、はじめに今回のイベントにご協力いただいた株式会社LIG様に、会社紹介をしていただきました。
 
 ### 会社説明
 [株式会社LIG(リグ)](https://liginc.co.jp/)は東京都上野を中心に「Life is Good」掲げて活動する社長がイケメンな事で有名な会社です。 
