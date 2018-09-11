@@ -51,7 +51,7 @@ banner = "/images/banners/events/othlo-event34.png"
 
 Kubernetes の役割である、Master や Node を理解するために、各自でさくらのクラウド上に構築を始めました!
 
-Pod は k8s における基本的な最小構成単位。Pod は「群れ」という意味もあるよという豆知識も聞けました。
+Pod は k8s における基本的な最小構成単位。Pod は「クジラの群れ」という意味もあるよという豆知識も聞けました。
 
 Blue Green Development やカナリアリリース、Raft など幅広いことが聞けるのも勉強会の良いところですね!
 
