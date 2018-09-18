@@ -30,6 +30,9 @@ banner = "/images/banners/events/othlo-event36.png"
 
 ### スタジオアンビルト株式会社について
 
+スタジオアンビルト株式会社は建築設計のお仕事をオンラインで全国の建築系デザイナー・エンジニアに依頼できるWebサービスSTUDIO UNBUILT(スタジオアンビルト)を運営しています。 建築業界のワークスタイルを変革して、"ワクワクすぎる"空間が世界中に生まれる未来に貢献することをミッションとしています
+コーポレートサイト: https://www.studiounbuilt.com/
+
 ## アイデアソン
 
 ## 懇親会
@@ -41,3 +44,5 @@ banner = "/images/banners/events/othlo-event36.png"
 今回イベントを開催していただきましたスタジオアンビルト株式会社様、本当にありがとうございました。
 
 ## 今後の OthloEvent について
+
+https://othlotech.connpass.com/event/99072/
