@@ -65,6 +65,10 @@ banner = "/images/banners/events/othlo-event36.png"
 
 ## 懇親会
 
+懇親会は、料理やジュースを用意していただきました！
+
+みんなで輪になってワイワイと。
+
 {{< image src="/images/events/2018-09-15/dinner.jpg" alt="食料" >}}
 
 最後に恒例の集合写真をパシャり！
