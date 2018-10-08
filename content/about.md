@@ -21,7 +21,7 @@ OthloTechでは主に月に一度, 学生エンジニア/デザイナー向け�
 
 ## OthloTechへの参加
 
-月に1回、学生であれば誰でも参加できる勉強会イベント([OthloEvent](http://www.othlo.tech/events))を開催しています。
+月に1回、学生であれば誰でも参加できる勉強会イベント([OthloEvent](https://www.othlo.tech/events))を開催しています。
 勉強会は<a href="http://othlotech.connpass.com" target="_blank">connpass</a>を通して参加申し込みが可能です。
 新しいイベントはOthloTechの<a href="https://www.facebook.com/othlotech/" target="_blank">Facebook</a>, <a href="https://twitter.com/othlotech" target="_blank">Twitter</a>, <a href="http://www.othlo.tech" target="_blank">公式サイト</a>で告知しています。
 

@@ -1,10 +1,10 @@
-baseurl = 'http://www.othlo.tech/'
+baseurl = 'https://www.othlo.tech/'
 title = 'OthloTech -学生クリエイティブ集団-'
 languageCode = 'ja'
 email = 'othlotech@gmail.com'
 name = 'OthloTech'
 description = 'OthloTechは学生クリエイティブ集団です。興味本位のサービスやみんなに役立つサービスなどOthloTechでは『作りたい』を作ります。みんなで楽しく開発しながらスキルアップしましょう！'
-homepage = 'http://www.othlo.tech'
+homepage = 'https://www.othlo.tech'
 tags = ['OthloTech', '学生', 'クリエイティブ', '名古屋', '勉強会']
 features = ['OthloTech', '学生', 'クリエイティブ', '名古屋', '勉強会']
 min_version = 0.1
