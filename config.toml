@@ -27,7 +27,7 @@ hasCJKLanguage = true
   twitter = 'OthloTech'
   facebook = 'othlotech'
   github = 'OthloTech'
-  thumbnail = 'http://www.othlo.tech/images/og.png'
+  thumbnail = 'https://www.othlo.tech/images/og.png'
   keywords = 'OthloTech, 学生, クリエイティブ, 名古屋, 勉強会'
 
 [Permalinks]

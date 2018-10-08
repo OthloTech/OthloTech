@@ -13,7 +13,7 @@ weight = 997
 
 {{<image src="/images/blogs/20161113/wwothlo.png" title="OthloTech公式サイト" >}}
 
-今日は **OthloTech** ではどのように開発をしているかをこの[OthloTech公式サイト](http://www.othlo.tech)を例に簡単に紹介できたらと思います。
+今日は **OthloTech** ではどのように開発をしているかをこの[OthloTech公式サイト](https://www.othlo.tech)を例に簡単に紹介できたらと思います。
 以下、OthloTech内での通称wwOthlo(ダブダブオスロ)と呼ぶことにします！
 
 ## 目次
@@ -28,7 +28,7 @@ OthloTechのサイトはサーバー側は持たずに[GitHub Pages](https://git
 
 といっても、毎回ブログ記事やイベントレポートを投稿するたびにHTMLで一から書いていては身が持たないので、そこはGo製の静的ページジェネレータ[Hugo](http://themes.gohugo.io/)を用いてマークダウンから静的な記事を生成しています。
 
-この辺の理由とかはめちゃくちゃ簡単にですが、前々回のブログ記事[Hugo + GithubPages で公式サイトを作り直したお話](http://www.othlo.tech/blogs/hugo+github-pages/)で触れているのでまだ読んでない方は見てみてくださいー！
+この辺の理由とかはめちゃくちゃ簡単にですが、前々回のブログ記事[Hugo + GithubPages で公式サイトを作り直したお話](https://www.othlo.tech/blogs/hugo+github-pages/)で触れているのでまだ読んでない方は見てみてくださいー！
 
 他に、さすがに`CSS`で書くのはだるいので、`SCSS`で書いていて`SCSS-Lint`で静的なチェックは行っています。ただ、現在はテンプレートを参考にサイトを作ったこともあってまだまだ負債を抱えているので、今後解消していけたらな！って感じです。
 
@@ -82,13 +82,13 @@ OthloTechではGitHub Flowを採用しています。
 
 ### wwOthloの投稿フロー
 
-wwOthloでは現状、月に一度のペースで行われるイベントの[イベントレポート](http://www.othlo.tech/events)と[ブログ記事](http://www.othlo.tech/blogs)の二つを定期的に更新しています。そこでの投稿のフローを紹介していきまーす！
+wwOthloでは現状、月に一度のペースで行われるイベントの[イベントレポート](https://www.othlo.tech/events)と[ブログ記事](https://www.othlo.tech/blogs)の二つを定期的に更新しています。そこでの投稿のフローを紹介していきまーす！
 
 Hugoという静的ページジェネレーターを使っているので、記事を一からHTMLで書くのではなく、マークダウン記法で記事を書いています。投稿や校正にもPR形式で行っていて、エンジニアやデザイナーなど関係なしにみんなPRを立てて、メンバーで校正という名のレビューをして、`master`ブランチにマージ -> デプロイといった流れで投稿まで行っています。
 
 ### さいごに
 
-簡単にOthloTechでの開発サイクルをwwOthloを例に説明してみました。OthloTechでは他にも開発をしていたりしているので、興味の持った学生はゆるふわに[Twitter](https://twitter.com/othlotech)か[お問い合わせフォーム](http://www.othlo.tech/contact/)にて気軽に聞いてくださいー！
+簡単にOthloTechでの開発サイクルをwwOthloを例に説明してみました。OthloTechでは他にも開発をしていたりしているので、興味の持った学生はゆるふわに[Twitter](https://twitter.com/othlotech)か[お問い合わせフォーム](https://www.othlo.tech/contact/)にて気軽に聞いてくださいー！
 
 11/26(土)にYahoo!さんとコラボして、[Reactハンズオン](http://yj-meetup.connpass.com/event/44769/)を開くのでもしよければ来てくださいな(\*´∀`\*)
 

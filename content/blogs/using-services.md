@@ -9,7 +9,7 @@ banner = '/images/banners/blogs/using-services.png'
 
 {{<image src="/images/blogs/20170510/using-services.png"  alt="OthloTechで使っているサービス" >}}
 
-こんにちは！ [OthloTech](http://www.othlo.tech)運営代表の[ヒデ](https://twitter.com/hyde141421356)です！
+こんにちは！ [OthloTech](https://www.othlo.tech)運営代表の[ヒデ](https://twitter.com/hyde141421356)です！
 
 ## 使っているサービス
 
@@ -45,7 +45,7 @@ Googleで団体用アカウントを作って、運営メンバーに権限を�
 
 https://connpass.com/
 
-OthloTechでは月に1度、学生エンジニア/デザイナー向けに[OthloEvent](http://www.othlo.tech/events)を開催しています。このイベント管理にConnpassを用いています。また、もくもく会といった小規模なイベントはFacebookのイベントで管理しています。
+OthloTechでは月に1度、学生エンジニア/デザイナー向けに[OthloEvent](https://www.othlo.tech/events)を開催しています。このイベント管理にConnpassを用いています。また、もくもく会といった小規模なイベントはFacebookのイベントで管理しています。
 
 完全無料で使えるのと、マークダウン形式で書けること、アンケート機能や、イベントごとに管理者を簡単に設定できるので重宝しています。
 
@@ -54,8 +54,8 @@ OthloTechでは月に1度、学生エンジニア/デザイナー向けに[Othlo
 
 OthloTechは運営メンバーでも開発を行っています。実際にこのブログが載っているサイト自身も運営メンバーによって開発されています。開発については以下の記事参照してください。ブログの投稿もGitHubでプルリクベースで行っているので、GitHubは欠かせないサービスです。
 
-- [OthloTechでの開発サイクル](http://www.othlo.tech/blogs/othlotech-dev-cycle/)
-- [Hugo + GithubPages で公式サイトを作り直したお話](http://www.othlo.tech/blogs/hugo+github-pages/)
+- [OthloTechでの開発サイクル](https://www.othlo.tech/blogs/othlotech-dev-cycle/)
+- [Hugo + GithubPages で公式サイトを作り直したお話](https://www.othlo.tech/blogs/hugo+github-pages/)
 
 ### Misoca
 {{<image src="/images/blogs/20170510/misoca.png"  alt="Misoca" >}}
@@ -68,6 +68,6 @@ https://www.misoca.jp/
 公式アカウント([Facebook](https://www.facebook.com/othlotech), [Twitter](https://twitter.com/OthloTech))のフォローお願いします（笑）
 
 ## さいごに
-[OthloTechでは色々なサービスを使って効率化したい学生メンバーを募集しています。](http://www.othlo.tech/contact/)
+[OthloTechでは色々なサービスを使って効率化したい学生メンバーを募集しています。](https://www.othlo.tech/contact/)
 
 というWantedly風な締めくくりで終わりたいと思います。

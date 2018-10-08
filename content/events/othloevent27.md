@@ -60,7 +60,7 @@ Githubのスター数によるインセンティブ制度や、エンジニア�
 講演会終了後は一旦クロージングし、引き続きLT会を行いました！
 LT会の様子はこちら
 
-[【OthloTech x 学生LT】サイバーエージェント 年度末LTパーティー](http://www.othlo.tech/events/othloevent27-lt/)
+[【OthloTech x 学生LT】サイバーエージェント 年度末LTパーティー](https://www.othlo.tech/events/othloevent27-lt/)
 
 ## 今後のOthloTechのイベントについて
 次回はNVIDIA様の学習コンテンツを使った機械学習のハンズオンを行います！ぜひお越しください！

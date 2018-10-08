@@ -49,7 +49,7 @@ OthloTech界隈にどんな学生がいるのか、具体的には
 月に1,2回、学生限定の勉強会イベントを名古屋で開催しています。  
 LT会を開いたり、企業とコラボしてサービス開発のお話をしてもらったり、企業のエンジニアに講師をお願いしてハンズオン形式の勉強会を開催してます。
 
-過去のイベントは[connpassページ](https://othlotech.connpass.com/)や[イベントレポート](http://www.othlo.tech/events/)で確認できます。
+過去のイベントは[connpassページ](https://othlotech.connpass.com/)や[イベントレポート](https://www.othlo.tech/events/)で確認できます。
 
 2016年5月に初めてOthloTechとしての勉強会イベントを開催して、**半年ちょっとでイベントを10回開催、延べ250人以上の方が参加**しました。  
 また、8月には[OthloHack 2016](http://hack.othlo.tech/)という学生限定のハッカソンを二日間開催しています。

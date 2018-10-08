@@ -19,7 +19,7 @@ OthloTechは **名古屋近辺のWeb系、IT系、技術系に興味のある学
 
 OthloTechを作った経緯に関しては一緒に立ち上げた矢崎が[OthloTech Advent Calendar 2016](http://qiita.com/advent-calendar/2016/othlotech)の1日目に語ってくれたのでここで改めて紹介します。
 
-[名古屋のテック系学生団体「OthloTech」を創った経緯](http://www.othlo.tech/blogs/othlotech-launch-story)
+[名古屋のテック系学生団体「OthloTech」を創った経緯](https://www.othlo.tech/blogs/othlotech-launch-story)
 
 現在は月に1,2回、学生限定の勉強会やイベントを開催して、そこでのコミュニティづくりなどを行っています。
 
@@ -42,7 +42,7 @@ OthloTechでは立ち上げ当初から、連絡やミーティングは[Slack](
 
 OthloTechのイベントに参加してくれた学生たちが、他の勉強会やイベントに参加して結果的に東海圏のIT界隈が盛り上がればいいなと思っています。
 
-過去のイベントは[connpassページ](https://othlotech.connpass.com/)や[イベントレポート](http://www.othlo.tech/events/)で確認できます。
+過去のイベントは[connpassページ](https://othlotech.connpass.com/)や[イベントレポート](https://www.othlo.tech/events/)で確認できます。
 
 ## 今後の発展
 
