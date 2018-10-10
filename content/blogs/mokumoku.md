@@ -9,7 +9,7 @@ banner = '/images/banners/blogs/mokumoku.png'
 
 {{<image src="/images/blogs/20170413/mokumoku.png"  alt="OthloTech もくもく会" >}}
 
-こんにちは！ [OthloTech](http://www.othlo.tech)運営代表の[ヒデ](https://twitter.com/hyde141421356)です！
+こんにちは！ [OthloTech](https://www.othlo.tech)運営代表の[ヒデ](https://twitter.com/hyde141421356)です！
 
 OthloTech運営はもくもく会を定期的に開催することにしました。
 
@@ -18,7 +18,7 @@ OthloTech運営はもくもく会を定期的に開催することにしまし�
 毎回のもくもく会は[Facebook](https://www.facebook.com/othlotech/)のイベントで公開します。
 
 ## 開催目的
-OthloTechはこれまで、当コミュニティの目的の1つでもある「テック系に興味のある学生同士の情報の共有や繋がりを広げる」ための場として[OthloEvent](http://www.othlo.tech/events)やその後の懇親会を提供してきました。そういった場を増やすためや、もっと気軽に来ていただけるように、もくもく会を定期開催することにしました！
+OthloTechはこれまで、当コミュニティの目的の1つでもある「テック系に興味のある学生同士の情報の共有や繋がりを広げる」ための場として[OthloEvent](https://www.othlo.tech/events)やその後の懇親会を提供してきました。そういった場を増やすためや、もっと気軽に来ていただけるように、もくもく会を定期開催することにしました！
 
 そのため、もくもく会は以下の目的で定期開催することにします。
 

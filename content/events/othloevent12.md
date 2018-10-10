@@ -36,7 +36,7 @@ banner = "images/banners/events/othlo-event12.png"
 今回のイベントでは、初心者勉強会ということもあってOthloEventに初めて参加する人が多くいました。<br>
 一、二年生が参加者の大半で、半数はまだ未経験者であり、少し初々しくも感じました。<br>
 会場は、[有限会社アップルップル](https://www.appleple.com/)が運営をしている[ベースキャンプ名古屋](https://basecamp-nagoya.jp/)を使わせていただきました。<br>
-ベースキャンプ名古屋はOthloTechが定期的に行う[もくもく会](http://www.othlo.tech/blogs/mokumoku/)でも使わせていただいています。<br>
+ベースキャンプ名古屋はOthloTechが定期的に行う[もくもく会](https://www.othlo.tech/blogs/mokumoku/)でも使わせていただいています。<br>
 そこで、まずOthloTechがどのようなことをしているか、代表の[ぽこひで](https://twitter.com/hyde141421356)に発表してもらいました。
 
 {{< image src="/images/events/2017-04-23/presen-othlo.jpg" alt="othlotechのプレゼン" >}}

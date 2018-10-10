@@ -94,11 +94,11 @@ ImageFluxは左上から順にピクセルを読み込んでいくの画像の�
 
 [【学生限定】Webインフラ入門 @クックパッド OthloEvent#31](https://othlotech.connpass.com/event/87047/)
 次回のイベントは...再びインフラ系です！
-今回は[OthloEvent#22](http://www.othlo.tech/events/othloevent22-cookpad/)同様、CTO [成田一生](https://twitter.com/mirakui)さんをお迎えしてのイベントとなります！
+今回は[OthloEvent#22](https://www.othlo.tech/events/othloevent22-cookpad/)同様、CTO [成田一生](https://twitter.com/mirakui)さんをお迎えしてのイベントとなります！
 
 
 [【学生限定】UXデザイン講座（第2回）@アクアリング OthloEvent#32](https://othlotech.connpass.com/event/88836/)
-[前回](http://www.othlo.tech/events/othloevent25-ux/)の第二回になります。
+[前回](https://www.othlo.tech/events/othloevent25-ux/)の第二回になります。
 今回はの[UXデザインの教科書](https://www.amazon.co.jp/UX%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E5%AE%89%E8%97%A4-%E6%98%8C%E4%B9%9F/dp/4621300377)の著者、千葉工大教授 安藤 昌也をお呼びします。<b>「第二回」となってはいますが、内容自体は独立している</b>ので、第一回に参加していなくても大丈夫です。奮ってご参加ください！
 
 

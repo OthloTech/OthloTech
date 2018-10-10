@@ -21,9 +21,9 @@ OthloTechでは主に月に一度, 学生エンジニア/デザイナー向け�
 
 ## OthloTechへの参加
 
-月に1回、学生であれば誰でも参加できる勉強会イベント([OthloEvent](http://www.othlo.tech/events))を開催しています。
+月に1回、学生であれば誰でも参加できる勉強会イベント([OthloEvent](https://www.othlo.tech/events))を開催しています。
 勉強会は<a href="http://othlotech.connpass.com" target="_blank">connpass</a>を通して参加申し込みが可能です。
-新しいイベントはOthloTechの<a href="https://www.facebook.com/othlotech/" target="_blank">Facebook</a>, <a href="https://twitter.com/othlotech" target="_blank">Twitter</a>, <a href="http://www.othlo.tech" target="_blank">公式サイト</a>で告知しています。
+新しいイベントはOthloTechの<a href="https://www.facebook.com/othlotech/" target="_blank">Facebook</a>, <a href="https://twitter.com/othlotech" target="_blank">Twitter</a>, <a href="https://www.othlo.tech" target="_blank">公式サイト</a>で告知しています。
 
 過去のイベントには以下の大学・専門学校生が参加しています。
 
@@ -36,18 +36,18 @@ OthloTechでは主に月に一度, 学生エンジニア/デザイナー向け�
 |年|月||
 |:---|:---|:---|
 |2016年|5月|OthloTechを結成|
-|||[学生LT & クイズ大会](http://www.othlo.tech/events/othloevent01-shake/)を開催|
-||6月|[株式会社エイチームとのコラボ勉強会](http://www.othlo.tech/events/othloevent02-ateam/)を開催|
-||7月|[株式会社Misocaとのコラボ勉強会](http://www.othlo.tech/events/othloevent03-misoca/)を開催|
-||8月|東海最大規模の学生ハッカソン[OthloHack2016](http://www.othlo.tech/events/othlohack2016/)を開催|
+|||[学生LT & クイズ大会](https://www.othlo.tech/events/othloevent01-shake/)を開催|
+||6月|[株式会社エイチームとのコラボ勉強会](https://www.othlo.tech/events/othloevent02-ateam/)を開催|
+||7月|[株式会社Misocaとのコラボ勉強会](https://www.othlo.tech/events/othloevent03-misoca/)を開催|
+||8月|東海最大規模の学生ハッカソン[OthloHack2016](https://www.othlo.tech/events/othlohack2016/)を開催|
 |||TECH_SALONとのコラボ勉強会を開催|
-||9月|[学生LT大会](http://www.othlo.tech/events/othloevent04-shake/)を開催|
-||10月|[GoodFindとのコラボ勉強会](http://www.othlo.tech/events/othloevent05-goodfind/)を開催|
-||11月|[ヤフー株式会社とのコラボ勉強会](http://www.othlo.tech/events/othloevent07-yahoo/)を開催|
-||12月|LINE株式会社の[LINE BOT CARAVAN](http://line-hr.jp/archives/48845196.html) 名古屋会場の運営補助|
-|2017年|1月|[Xamarinハンズオン](http://www.othlo.tech/events/othloevent09-xamarin/)を開催|
-||2月|株式会社エイチームで[社内Web開発LT大会](http://www.othlo.tech/events/othloevent10-ateam/)を開催|
-||3月|[年度締めLT大会](http://www.othlo.tech/events/othloevent11-LT/)を開催|
+||9月|[学生LT大会](https://www.othlo.tech/events/othloevent04-shake/)を開催|
+||10月|[GoodFindとのコラボ勉強会](https://www.othlo.tech/events/othloevent05-goodfind/)を開催|
+||11月|[ヤフー株式会社とのコラボ勉強会](https://www.othlo.tech/events/othloevent07-yahoo/)を開催|
+||12月|LINE株式会社の[LINE BOT CARAVAN](https://line-hr.jp/archives/48845196.html) 名古屋会場の運営補助|
+|2017年|1月|[Xamarinハンズオン](https://www.othlo.tech/events/othloevent09-xamarin/)を開催|
+||2月|株式会社エイチームで[社内Web開発LT大会](https://www.othlo.tech/events/othloevent10-ateam/)を開催|
+||3月|[年度締めLT大会](https://www.othlo.tech/events/othloevent11-LT/)を開催|
 
 {{% /table %}}
 
@@ -55,4 +55,4 @@ OthloTechでは主に月に一度, 学生エンジニア/デザイナー向け�
 
 OthloTechでは、弊団体のイベント・プロダクト・その他活動にご賛同いただき、ご協賛頂ける企業・団体を募集しています。
 
-お問合わせは[こちら](http://www.othlo.tech/contact)
+お問合わせは[こちら](https://www.othlo.tech/contact)

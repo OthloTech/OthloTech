@@ -9,11 +9,11 @@ banner = '/images/banners/blogs/one-year.png'
 
 {{<image src="/images/blogs/20170517/one-year.png"  alt="1周年" >}}
 
-こんにちは！ [OthloTech](http://www.othlo.tech)運営代表の[@pokohide](https://twitter.com/hyde141421356)です！
+こんにちは！ [OthloTech](https://www.othlo.tech)運営代表の[@pokohide](https://twitter.com/hyde141421356)です！
 
 OthloTechは去年の5月に立ち上げたので、今月でちょうど1周年を迎えました。現在OthloTech運営チームは7人のメンバーによって構成されていて、これまでのイベントの参加者数は合計で400名, ユニークで140名を突破しました🎉。ありがとうございます！＼(^o^)／
 
-過去のイベントやブログ記事は[ここ](http://www.othlo.tech/events)に載っているので、OthloTechを知らないという方は一読いただけると幸いです。
+過去のイベントやブログ記事は[ここ](https://www.othlo.tech/events)に載っているので、OthloTechを知らないという方は一読いただけると幸いです。
 
 ちなみにOthloTechは `オスロテック` と読みます（笑）
 
@@ -104,6 +104,6 @@ GoogleDriveにスプレッドシートを暗号化するといった機能は提
 「自分が楽しいから」や、「世の中をよくしたいから」など人によって様々。この答えは未だに分かりません...誰か教えてください(´・ω・｀)
 
 ## さいごに
-OthloTechは今月で1周年を迎えました。これからも[OthloEvent](https://www.othlo.tech/events)や[もくもく会](http://www.othlo.tech/blogs/mokumoku/)など開催していきます。
+OthloTechは今月で1周年を迎えました。これからも[OthloEvent](https://www.othlo.tech/events)や[もくもく会](https://www.othlo.tech/blogs/mokumoku/)など開催していきます。
 
-運営に興味を持ってくれた方も、気軽に[連絡](http://www.othlo.tech/contact)してくれたら嬉しいです。
+運営に興味を持ってくれた方も、気軽に[連絡](https://www.othlo.tech/contact)してくれたら嬉しいです。

@@ -11,7 +11,7 @@
   - 例: サーバー or サーバ
 - タグは同種のものを複数付けない（できるだけ既存のタグ名を使う)
   - 例: 「ライトニングトーク」と「LT」
-  - [ブログ記事のタグ一覧](http://www.othlo.tech/tags/), [イベント記事のタグ一覧](http://www.othlo.tech/event_tags/)
+  - [ブログ記事のタグ一覧](https://www.othlo.tech/tags/), [イベント記事のタグ一覧](https://www.othlo.tech/event_tags/)
 - 他のサイトを参考にしたら参照元を示す
 - ショートコードがあるものは利用する
   - 参考: https://github.com/OthloTech/OthloTech/blob/master/docs/shortcodes.md
