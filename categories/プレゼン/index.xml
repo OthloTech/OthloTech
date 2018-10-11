@@ -2,22 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>プレゼン on OthloTech -学生クリエイティブ集団-</title>
-    <link>http://www.othlo.tech/categories/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3/</link>
+    <link>https://www.othlo.tech/categories/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3/</link>
     <description>Recent content in プレゼン on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
     <lastBuildDate>Thu, 03 Nov 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.othlo.tech/categories/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.othlo.tech/categories/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ライトニングトークを面白くするたった3つのテクニック</title>
-      <link>http://www.othlo.tech/blogs/lightning_talks_technique/</link>
+      <link>https://www.othlo.tech/blogs/lightning_talks_technique/</link>
       <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/lightning_talks_technique/</guid>
+      <guid>https://www.othlo.tech/blogs/lightning_talks_technique/</guid>
       <description>ライトニングトーク（LT）を面白くするたった3つのテクニック こんにちは(○´∀｀)ﾉﾞ OthloTech初のブログを書くのは私、オトモレ(@</description>
     </item>
     

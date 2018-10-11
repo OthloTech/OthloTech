@@ -2,22 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>雑記 on OthloTech -学生クリエイティブ集団-</title>
-    <link>http://www.othlo.tech/categories/%E9%9B%91%E8%A8%98/</link>
+    <link>https://www.othlo.tech/categories/%E9%9B%91%E8%A8%98/</link>
     <description>Recent content in 雑記 on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
     <lastBuildDate>Thu, 12 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.othlo.tech/categories/%E9%9B%91%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.othlo.tech/categories/%E9%9B%91%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>名古屋にある開発にオススメなカフェ5選</title>
-      <link>http://www.othlo.tech/blogs/nagoyacafe/</link>
+      <link>https://www.othlo.tech/blogs/nagoyacafe/</link>
       <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/nagoyacafe/</guid>
+      <guid>https://www.othlo.tech/blogs/nagoyacafe/</guid>
       <description>Blogでははじめまして。Eventレポを見てくれている方はお久しぶり。 OthloTechのごまき(@gmsesame)です。 突然ですが… 開</description>
     </item>
     

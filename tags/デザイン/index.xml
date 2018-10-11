@@ -2,22 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>デザイン on OthloTech -学生クリエイティブ集団-</title>
-    <link>http://www.othlo.tech/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</link>
+    <link>https://www.othlo.tech/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</link>
     <description>Recent content in デザイン on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
     <lastBuildDate>Thu, 09 Feb 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.othlo.tech/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.othlo.tech/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>初めてWordPressテーマを自作したときに便利だったサービス7つ</title>
-      <link>http://www.othlo.tech/blogs/services-for-wordpress-theme/</link>
+      <link>https://www.othlo.tech/blogs/services-for-wordpress-theme/</link>
       <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/services-for-wordpress-theme/</guid>
+      <guid>https://www.othlo.tech/blogs/services-for-wordpress-theme/</guid>
       <description>こんばんは！MasuqaT(@occar421)です。普段はWindowsを使ってC#を使ったり数値計算をしたりしています。今週のテーマとし</description>
     </item>
     

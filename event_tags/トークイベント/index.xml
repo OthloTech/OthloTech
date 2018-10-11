@@ -2,40 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>トークイベント on OthloTech -学生クリエイティブ集団-</title>
-    <link>http://www.othlo.tech/event_tags/%E3%83%88%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link>
+    <link>https://www.othlo.tech/event_tags/%E3%83%88%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link>
     <description>Recent content in トークイベント on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
     <lastBuildDate>Sun, 29 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.othlo.tech/event_tags/%E3%83%88%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.othlo.tech/event_tags/%E3%83%88%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>アップルップルのWeb技術の学び方講座 OthloEvent#29</title>
-      <link>http://www.othlo.tech/events/othloevent29-appleple/</link>
+      <link>https://www.othlo.tech/events/othloevent29-appleple/</link>
       <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/events/othloevent29-appleple/</guid>
+      <guid>https://www.othlo.tech/events/othloevent29-appleple/</guid>
       <description>やっほー! こんにちはー! OthloTechのオザキ(@sena0801masato)です。 今回は、4月29日(日)に行われた「【学生限定】ア</description>
     </item>
     
     <item>
       <title>AbemaTV キャリア講演会 OthloEvent#27</title>
-      <link>http://www.othlo.tech/events/othloevent27-abematv/</link>
+      <link>https://www.othlo.tech/events/othloevent27-abematv/</link>
       <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/events/othloevent27-abematv/</guid>
+      <guid>https://www.othlo.tech/events/othloevent27-abematv/</guid>
       <description>こんばんにちは！OthloTechのあすか(@AsukaOkochi)です！ 初めて書くイベントレポートでちょっと緊張してます。 今回は、201</description>
     </item>
     
     <item>
       <title>愛知出身クックパッドCTOが語るエンジニアのキャリアについて OthloEvent#22</title>
-      <link>http://www.othlo.tech/events/othloevent22-cookpad/</link>
+      <link>https://www.othlo.tech/events/othloevent22-cookpad/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/events/othloevent22-cookpad/</guid>
+      <guid>https://www.othlo.tech/events/othloevent22-cookpad/</guid>
       <description>こんにちは、OthloTechのちーず(@cheez_921)です。 もうすぐ来年がきてしまいますね。2017年は良い年になりましたか？ まだ1</description>
     </item>
     

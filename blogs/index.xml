@@ -2,139 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on OthloTech -学生クリエイティブ集団-</title>
-    <link>http://www.othlo.tech/blogs/</link>
+    <link>https://www.othlo.tech/blogs/</link>
     <description>Recent content in Blogs on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
     <lastBuildDate>Sat, 12 Nov 2016 02:45:17 +0900</lastBuildDate>
     
-	<atom:link href="http://www.othlo.tech/blogs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.othlo.tech/blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OthloTechでの開発サイクル</title>
-      <link>http://www.othlo.tech/blogs/othlotech-dev-cycle/</link>
+      <link>https://www.othlo.tech/blogs/othlotech-dev-cycle/</link>
       <pubDate>Sat, 12 Nov 2016 02:45:17 +0900</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/othlotech-dev-cycle/</guid>
+      <guid>https://www.othlo.tech/blogs/othlotech-dev-cycle/</guid>
       <description>OthloTechでの開発サイクル こんにちは∩(ﾟ∀ﾟ∩) @ぽこひでです。 OthloTech公式サイト 今日は OthloTech ではどのように開発をしているか</description>
     </item>
     
     <item>
       <title>ライトニングトークを面白くするたった3つのテクニック</title>
-      <link>http://www.othlo.tech/blogs/lightning_talks_technique/</link>
+      <link>https://www.othlo.tech/blogs/lightning_talks_technique/</link>
       <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/lightning_talks_technique/</guid>
+      <guid>https://www.othlo.tech/blogs/lightning_talks_technique/</guid>
       <description>ライトニングトーク（LT）を面白くするたった3つのテクニック こんにちは(○´∀｀)ﾉﾞ OthloTech初のブログを書くのは私、オトモレ(@</description>
     </item>
     
     <item>
       <title>Hugo&#43;GithubPagesでサイトをリニューアル</title>
-      <link>http://www.othlo.tech/blogs/hugo&#43;github-pages/</link>
+      <link>https://www.othlo.tech/blogs/hugo&#43;github-pages/</link>
       <pubDate>Sun, 23 Oct 2016 02:45:17 +0900</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/hugo&#43;github-pages/</guid>
+      <guid>https://www.othlo.tech/blogs/hugo&#43;github-pages/</guid>
       <description>Hugo + GithubPages で公式サイトを作り直したお話 こんにちは、@pokohideです。 この度、OthloTechの公式サイトをリニューアルしました。過去のサ</description>
     </item>
     
     <item>
       <title>学生団体を創って1年で分かったこと/気付いたこと</title>
-      <link>http://www.othlo.tech/blogs/one-year/</link>
+      <link>https://www.othlo.tech/blogs/one-year/</link>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/one-year/</guid>
+      <guid>https://www.othlo.tech/blogs/one-year/</guid>
       <description>こんにちは！ OthloTech運営代表の@pokohideです！ OthloTechは去年の5月に立ち上げたので、今月でちょうど1周年を迎えま</description>
     </item>
     
     <item>
       <title>OthloTechで使っているサービス</title>
-      <link>http://www.othlo.tech/blogs/using-services/</link>
+      <link>https://www.othlo.tech/blogs/using-services/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/using-services/</guid>
+      <guid>https://www.othlo.tech/blogs/using-services/</guid>
       <description>こんにちは！ OthloTech運営代表のヒデです！ 使っているサービス OthloTech運営チームでは立ち上げ当初から様々なサービスを用いて、</description>
     </item>
     
     <item>
       <title>もくもく会を定期開催します！</title>
-      <link>http://www.othlo.tech/blogs/mokumoku/</link>
+      <link>https://www.othlo.tech/blogs/mokumoku/</link>
       <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/mokumoku/</guid>
+      <guid>https://www.othlo.tech/blogs/mokumoku/</guid>
       <description>こんにちは！ OthloTech運営代表のヒデです！ OthloTech運営はもくもく会を定期的に開催することにしました。 毎月第1, 3水曜日に定</description>
     </item>
     
     <item>
       <title>初めてWordPressテーマを自作したときに便利だったサービス7つ</title>
-      <link>http://www.othlo.tech/blogs/services-for-wordpress-theme/</link>
+      <link>https://www.othlo.tech/blogs/services-for-wordpress-theme/</link>
       <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/services-for-wordpress-theme/</guid>
+      <guid>https://www.othlo.tech/blogs/services-for-wordpress-theme/</guid>
       <description>こんばんは！MasuqaT(@occar421)です。普段はWindowsを使ってC#を使ったり数値計算をしたりしています。今週のテーマとし</description>
     </item>
     
     <item>
       <title>名古屋にある開発にオススメなカフェ5選</title>
-      <link>http://www.othlo.tech/blogs/nagoyacafe/</link>
+      <link>https://www.othlo.tech/blogs/nagoyacafe/</link>
       <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/nagoyacafe/</guid>
+      <guid>https://www.othlo.tech/blogs/nagoyacafe/</guid>
       <description>Blogでははじめまして。Eventレポを見てくれている方はお久しぶり。 OthloTechのごまき(@gmsesame)です。 突然ですが… 開</description>
     </item>
     
     <item>
       <title>2016年の総括と今後のOthloTechについて</title>
-      <link>http://www.othlo.tech/blogs/othlotech-2016/</link>
+      <link>https://www.othlo.tech/blogs/othlotech-2016/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/othlotech-2016/</guid>
+      <guid>https://www.othlo.tech/blogs/othlotech-2016/</guid>
       <description>こんにちは、OthloTech代表の@pokohideです。 この記事では、OthloTechについて簡単に紹介した後、昨年の活動を振り返りな</description>
     </item>
     
     <item>
       <title>スマホでいい感じの写真を撮るために覚えておくといい４つのこと</title>
-      <link>http://www.othlo.tech/blogs/smartphone-camera-tips/</link>
+      <link>https://www.othlo.tech/blogs/smartphone-camera-tips/</link>
       <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/smartphone-camera-tips/</guid>
+      <guid>https://www.othlo.tech/blogs/smartphone-camera-tips/</guid>
       <description>スマホでいい感じの写真を撮るために覚えておくといい４つのこと はじめまして、ライダーです。 この記事はOthloTech Advent Calendar 2016の22日目の</description>
     </item>
     
     <item>
       <title>僕がSketchに一目惚れした4つの理由</title>
-      <link>http://www.othlo.tech/blogs/the-reason-of-usingsketch/</link>
+      <link>https://www.othlo.tech/blogs/the-reason-of-usingsketch/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/the-reason-of-usingsketch/</guid>
+      <guid>https://www.othlo.tech/blogs/the-reason-of-usingsketch/</guid>
       <description>僕がSketchに一目惚れした4つの理由 この記事はOthloTech Advent Calendar 2016の15日目の記事です。 昨日の記事はMorinikkiさんのハ</description>
     </item>
     
     <item>
       <title>名古屋のテック系学生団体「OthloTech」を創った経緯</title>
-      <link>http://www.othlo.tech/blogs/othlotech-launch-story/</link>
+      <link>https://www.othlo.tech/blogs/othlotech-launch-story/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/othlotech-launch-story/</guid>
+      <guid>https://www.othlo.tech/blogs/othlotech-launch-story/</guid>
       <description>名古屋のテック系学生団体「OthloTech」を創った経緯 この記事はOthloTech Advent Calendar 2016の1日目の記事です。 こんにちは！Othlo</description>
     </item>
     
     <item>
       <title>ブロックチェーンってなに？</title>
-      <link>http://www.othlo.tech/blogs/blockchain/</link>
+      <link>https://www.othlo.tech/blogs/blockchain/</link>
       <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/blockchain/</guid>
+      <guid>https://www.othlo.tech/blogs/blockchain/</guid>
       <description>ブロックチェーンってなに? こんにちは！ OthloTechのブログ初投稿になります。私、たつま@tatsutasu103です。 今回のblogは</description>
     </item>
     
     <item>
       <title>機械学習コンペティションKaggleのススメ</title>
-      <link>http://www.othlo.tech/blogs/recommend-of-kaggle/</link>
+      <link>https://www.othlo.tech/blogs/recommend-of-kaggle/</link>
       <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/recommend-of-kaggle/</guid>
+      <guid>https://www.othlo.tech/blogs/recommend-of-kaggle/</guid>
       <description>機械学習コンペティションKaggle こんにちは、TeraBytesです。 読者のみなさんは機械学習には興味あったりしますでしょうか？ 実際に試し</description>
     </item>
     

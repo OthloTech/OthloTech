@@ -2,40 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Othlotech on OthloTech -学生クリエイティブ集団-</title>
-    <link>http://www.othlo.tech/categories/othlotech/</link>
+    <link>https://www.othlo.tech/categories/othlotech/</link>
     <description>Recent content in Othlotech on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
     <lastBuildDate>Wed, 17 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.othlo.tech/categories/othlotech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.othlo.tech/categories/othlotech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>学生団体を創って1年で分かったこと/気付いたこと</title>
-      <link>http://www.othlo.tech/blogs/one-year/</link>
+      <link>https://www.othlo.tech/blogs/one-year/</link>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/one-year/</guid>
+      <guid>https://www.othlo.tech/blogs/one-year/</guid>
       <description>こんにちは！ OthloTech運営代表の@pokohideです！ OthloTechは去年の5月に立ち上げたので、今月でちょうど1周年を迎えま</description>
     </item>
     
     <item>
       <title>2016年の総括と今後のOthloTechについて</title>
-      <link>http://www.othlo.tech/blogs/othlotech-2016/</link>
+      <link>https://www.othlo.tech/blogs/othlotech-2016/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/othlotech-2016/</guid>
+      <guid>https://www.othlo.tech/blogs/othlotech-2016/</guid>
       <description>こんにちは、OthloTech代表の@pokohideです。 この記事では、OthloTechについて簡単に紹介した後、昨年の活動を振り返りな</description>
     </item>
     
     <item>
       <title>名古屋のテック系学生団体「OthloTech」を創った経緯</title>
-      <link>http://www.othlo.tech/blogs/othlotech-launch-story/</link>
+      <link>https://www.othlo.tech/blogs/othlotech-launch-story/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/othlotech-launch-story/</guid>
+      <guid>https://www.othlo.tech/blogs/othlotech-launch-story/</guid>
       <description>名古屋のテック系学生団体「OthloTech」を創った経緯 この記事はOthloTech Advent Calendar 2016の1日目の記事です。 こんにちは！Othlo</description>
     </item>
     

@@ -2,49 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruby on Rails on OthloTech -学生クリエイティブ集団-</title>
-    <link>http://www.othlo.tech/event_tags/ruby-on-rails/</link>
+    <link>https://www.othlo.tech/event_tags/ruby-on-rails/</link>
     <description>Recent content in Ruby on Rails on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
     <lastBuildDate>Sat, 27 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.othlo.tech/event_tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.othlo.tech/event_tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>最新版RailsでWikiアプリを作ろう！@スタメン OthloEvent#24</title>
-      <link>http://www.othlo.tech/events/othloevent24-stmn/</link>
+      <link>https://www.othlo.tech/events/othloevent24-stmn/</link>
       <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/events/othloevent24-stmn/</guid>
+      <guid>https://www.othlo.tech/events/othloevent24-stmn/</guid>
       <description>おはようございます。OthloTechのしゅーぞー(@shuzo_create)です。 業界では「おはようございます」で一日中通じるらしいです</description>
     </item>
     
     <item>
       <title>Progateもくもく会@OthloEvent15,16</title>
-      <link>http://www.othlo.tech/events/othloevent15-16-progate/</link>
+      <link>https://www.othlo.tech/events/othloevent15-16-progate/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/events/othloevent15-16-progate/</guid>
+      <guid>https://www.othlo.tech/events/othloevent15-16-progate/</guid>
       <description>はじめまして！5月末からOthloTechの運営に加わりました、オザキ(@sena0801masato)です！ 今回は、6月10日(土)と6月</description>
     </item>
     
     <item>
       <title>OthloEvent@TECH::CAMP #13 Rails</title>
-      <link>http://www.othlo.tech/events/othloevent13-techcamp/</link>
+      <link>https://www.othlo.tech/events/othloevent13-techcamp/</link>
       <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/events/othloevent13-techcamp/</guid>
+      <guid>https://www.othlo.tech/events/othloevent13-techcamp/</guid>
       <description>こんにちは！OthloTechのにーさん(@ni_san2000)です！ 先日もOthloTech運営に新しいメンバーが加わり、より活発的にな</description>
     </item>
     
     <item>
       <title>OthloEvent@Goodfind #5</title>
-      <link>http://www.othlo.tech/events/othloevent05-goodfind/</link>
+      <link>https://www.othlo.tech/events/othloevent05-goodfind/</link>
       <pubDate>Sat, 29 Oct 2016 00:20:33 +0900</pubDate>
       
-      <guid>http://www.othlo.tech/events/othloevent05-goodfind/</guid>
+      <guid>https://www.othlo.tech/events/othloevent05-goodfind/</guid>
       <description>OthloEvent @ Goodfind #5 こんにちは〜！ごまき(@gmsesame)です。 最近、いきなり寒くなりましたね(ﾉ_･｡) 冬の訪れを感じます。 みなさん、風邪をひかな</description>
     </item>
     

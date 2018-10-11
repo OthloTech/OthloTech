@@ -2,22 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>インフラ on OthloTech -学生クリエイティブ集団-</title>
-    <link>http://www.othlo.tech/event_tags/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9/</link>
+    <link>https://www.othlo.tech/event_tags/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9/</link>
     <description>Recent content in インフラ on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
-    <lastBuildDate>Sat, 16 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.othlo.tech/event_tags/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.othlo.tech/event_tags/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>【学生限定】Kubernetes勉強会@さくらインターネット OthloEvent#34</title>
+      <link>https://www.othlo.tech/events/othloevent34/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.othlo.tech/events/othloevent34/</guid>
+      <description>お久しぶりです、@よしかわたいきです！ 9 月 1 日(土)に開催された【学生限定】Kubernetes 勉強会@さくらインターネット OthloEve</description>
+    </item>
+    
+    <item>
       <title>【学生限定】Webインフラ入門 @クックパッド OthloEvent#31</title>
-      <link>http://www.othlo.tech/events/othloevent31/</link>
+      <link>https://www.othlo.tech/events/othloevent31/</link>
       <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/events/othloevent31/</guid>
+      <guid>https://www.othlo.tech/events/othloevent31/</guid>
       <description>おはこんばんちは！@ジュジュです。 6&amp;frasl;16(土)に開催された【学生限定】Webインフラ入門 @クックパッド OthloEvent#3</description>
     </item>
     

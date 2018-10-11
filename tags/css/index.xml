@@ -2,31 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Css on OthloTech -学生クリエイティブ集団-</title>
-    <link>http://www.othlo.tech/tags/css/</link>
+    <link>https://www.othlo.tech/tags/css/</link>
     <description>Recent content in Css on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
     <lastBuildDate>Sun, 23 Oct 2016 02:45:17 +0900</lastBuildDate>
     
-	<atom:link href="http://www.othlo.tech/tags/css/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.othlo.tech/tags/css/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo&#43;GithubPagesでサイトをリニューアル</title>
-      <link>http://www.othlo.tech/blogs/hugo&#43;github-pages/</link>
+      <link>https://www.othlo.tech/blogs/hugo&#43;github-pages/</link>
       <pubDate>Sun, 23 Oct 2016 02:45:17 +0900</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/hugo&#43;github-pages/</guid>
+      <guid>https://www.othlo.tech/blogs/hugo&#43;github-pages/</guid>
       <description>Hugo + GithubPages で公式サイトを作り直したお話 こんにちは、@pokohideです。 この度、OthloTechの公式サイトをリニューアルしました。過去のサ</description>
     </item>
     
     <item>
       <title>初めてWordPressテーマを自作したときに便利だったサービス7つ</title>
-      <link>http://www.othlo.tech/blogs/services-for-wordpress-theme/</link>
+      <link>https://www.othlo.tech/blogs/services-for-wordpress-theme/</link>
       <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/services-for-wordpress-theme/</guid>
+      <guid>https://www.othlo.tech/blogs/services-for-wordpress-theme/</guid>
       <description>こんばんは！MasuqaT(@occar421)です。普段はWindowsを使ってC#を使ったり数値計算をしたりしています。今週のテーマとし</description>
     </item>
     

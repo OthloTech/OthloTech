@@ -2,22 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>学生団体 on OthloTech -学生クリエイティブ集団-</title>
-    <link>http://www.othlo.tech/tags/%E5%AD%A6%E7%94%9F%E5%9B%A3%E4%BD%93/</link>
+    <link>https://www.othlo.tech/tags/%E5%AD%A6%E7%94%9F%E5%9B%A3%E4%BD%93/</link>
     <description>Recent content in 学生団体 on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
     <lastBuildDate>Wed, 17 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.othlo.tech/tags/%E5%AD%A6%E7%94%9F%E5%9B%A3%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.othlo.tech/tags/%E5%AD%A6%E7%94%9F%E5%9B%A3%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>学生団体を創って1年で分かったこと/気付いたこと</title>
-      <link>http://www.othlo.tech/blogs/one-year/</link>
+      <link>https://www.othlo.tech/blogs/one-year/</link>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/one-year/</guid>
+      <guid>https://www.othlo.tech/blogs/one-year/</guid>
       <description>こんにちは！ OthloTech運営代表の@pokohideです！ OthloTechは去年の5月に立ち上げたので、今月でちょうど1周年を迎えま</description>
     </item>
     

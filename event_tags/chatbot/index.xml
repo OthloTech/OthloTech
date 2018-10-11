@@ -2,22 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chatbot on OthloTech -学生クリエイティブ集団-</title>
-    <link>http://www.othlo.tech/event_tags/chatbot/</link>
+    <link>https://www.othlo.tech/event_tags/chatbot/</link>
     <description>Recent content in Chatbot on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
     <lastBuildDate>Sat, 03 Dec 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.othlo.tech/event_tags/chatbot/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.othlo.tech/event_tags/chatbot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OthloEvent@LINE #8</title>
-      <link>http://www.othlo.tech/events/othloevent08-line/</link>
+      <link>https://www.othlo.tech/events/othloevent08-line/</link>
       <pubDate>Sat, 03 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/events/othloevent08-line/</guid>
+      <guid>https://www.othlo.tech/events/othloevent08-line/</guid>
       <description>OthloEvent@LINE #8 こんにちは！OthloTechの広報担当(?)になりました@gmsesameです。 12月3日(土)に名城大学にてLINE Bot Caravan</description>
     </item>
     

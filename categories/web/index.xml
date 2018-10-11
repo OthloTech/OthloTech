@@ -2,31 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web on OthloTech -学生クリエイティブ集団-</title>
-    <link>http://www.othlo.tech/categories/web/</link>
+    <link>https://www.othlo.tech/categories/web/</link>
     <description>Recent content in Web on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
     <lastBuildDate>Sat, 12 Nov 2016 02:45:17 +0900</lastBuildDate>
     
-	<atom:link href="http://www.othlo.tech/categories/web/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.othlo.tech/categories/web/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OthloTechでの開発サイクル</title>
-      <link>http://www.othlo.tech/blogs/othlotech-dev-cycle/</link>
+      <link>https://www.othlo.tech/blogs/othlotech-dev-cycle/</link>
       <pubDate>Sat, 12 Nov 2016 02:45:17 +0900</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/othlotech-dev-cycle/</guid>
+      <guid>https://www.othlo.tech/blogs/othlotech-dev-cycle/</guid>
       <description>OthloTechでの開発サイクル こんにちは∩(ﾟ∀ﾟ∩) @ぽこひでです。 OthloTech公式サイト 今日は OthloTech ではどのように開発をしているか</description>
     </item>
     
     <item>
       <title>Hugo&#43;GithubPagesでサイトをリニューアル</title>
-      <link>http://www.othlo.tech/blogs/hugo&#43;github-pages/</link>
+      <link>https://www.othlo.tech/blogs/hugo&#43;github-pages/</link>
       <pubDate>Sun, 23 Oct 2016 02:45:17 +0900</pubDate>
       
-      <guid>http://www.othlo.tech/blogs/hugo&#43;github-pages/</guid>
+      <guid>https://www.othlo.tech/blogs/hugo&#43;github-pages/</guid>
       <description>Hugo + GithubPages で公式サイトを作り直したお話 こんにちは、@pokohideです。 この度、OthloTechの公式サイトをリニューアルしました。過去のサ</description>
     </item>
     

@@ -2,22 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>機械学習 on OthloTech -学生クリエイティブ集団-</title>
-    <link>http://www.othlo.tech/event_tags/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</link>
+    <link>https://www.othlo.tech/event_tags/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</link>
     <description>Recent content in 機械学習 on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <copyright>© 2017 OthloTech. All rights reserved. Crafted with love</copyright>
     <lastBuildDate>Sat, 14 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.othlo.tech/event_tags/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.othlo.tech/event_tags/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>機械学習ハンズオン@NVIDIA OthloEvent#28</title>
-      <link>http://www.othlo.tech/events/othloevent28-nvidia/</link>
+      <link>https://www.othlo.tech/events/othloevent28-nvidia/</link>
       <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.othlo.tech/events/othloevent28-nvidia/</guid>
+      <guid>https://www.othlo.tech/events/othloevent28-nvidia/</guid>
       <description>こんにちは！OthloTechのにーさん(@ni_san2000)です！ 新年度になりましたが、新しい生活を送ってる方もいつもと変わらない方も</description>
     </item>
     
