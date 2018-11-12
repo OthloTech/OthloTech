@@ -48,3 +48,8 @@ OthloHack2018は、約40名の学生が参加し、14社もの企業にご協賛
 2018/12/09(日)に、株式会社スタメンさんのご協力により、IoTに関連するLT会を開催します!<br>
 このイベントはOthloTechでは珍しく社会人の方も参加できるイベントになっており、学生や社会人をまきこんで東海圏のIT界隈を盛り上げていきましょう!<br>
 興味が湧いた方は[こちら](https://othlotech.connpass.com/event/107705/)からご確認して下さい。
+
+### アドベントカレンダー
+Qiitaにて毎年OthloTechの[アドベントカレンダー2018](https://qiita.com/advent-calendar/2018/othlotech)を行っています。<br>
+内容はQiitaの趣旨に合うものであればいいので、初心者もぜひ参加しましょう!<br>
+参考：[アドベントカレンダー2017](https://qiita.com/advent-calendar/2017/othlotech)、[アドベントカレンダー2016](https://qiita.com/advent-calendar/2016/othlotech)
