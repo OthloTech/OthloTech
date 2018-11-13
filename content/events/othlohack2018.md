@@ -50,5 +50,5 @@ OthloHack2018は、約40名の学生が参加し、14社もの企業にご協賛
 
 ### アドベントカレンダー
 Qiitaにて毎年OthloTechの[アドベントカレンダー2018](https://qiita.com/advent-calendar/2018/othlotech)を行っています。<br>
-内容はQiitaの趣旨に合うものであればいいので、初心者もぜひ参加しましょう!<br>
+内容はQiitaの趣旨に合うものであれば、どんなことを書いてもいいので、初心者もぜひ参加しましょう!<br>
 参考：[アドベントカレンダー2017](https://qiita.com/advent-calendar/2017/othlotech)、[アドベントカレンダー2016](https://qiita.com/advent-calendar/2016/othlotech)
