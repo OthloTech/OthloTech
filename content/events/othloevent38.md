@@ -55,7 +55,7 @@ JavaとKotlinを比べると圧倒的にKotlinの方が便利で書きやすい�
 
 懇親会では、ピザと軽食、ジュースを用意していただきました！
 
-{{< image src="/images/events/2018-11-11/cheers.JPG" alt="懇親会" >}}
+{{< image src="/images/events/2018-11-11/cheers.jpg" alt="懇親会" >}}
 
 各テーブルごとにピザを食べながらハンズオンに関することや普段やっていることなど、ワイワイと話していました。
 
