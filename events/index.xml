@@ -6,10 +6,19 @@
     <description>Recent content in Events on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.othlo.tech/events/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OthloHack2018</title>
+      <link>https://www.othlo.tech/events/othlo-hack-2018/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.othlo.tech/events/othlo-hack-2018/</guid>
+      <description>やっほー! こんにちはー! OthloTech運営のオザキ(@sena0801masato)です。 今回は、11月2日(金)、3日(土)、4日(日</description>
+    </item>
     
     <item>
       <title>【学生限定】Kubernetes勉強会@さくらインターネット OthloEvent#34</title>
