@@ -24,7 +24,7 @@ banner = "/images/banners/events/othlo-event38.png"
 
 ## ハンズオン開始！
 まず、はじめにKotlinを用いたAndroidアプリのハンズオンを行いました！  
-講師はヤフーのAndroidエンジニア、村山 庸平さんに努めていただきました。
+講師はヤフーのAndroidエンジニア、村山 庸平さんに務めていただきました。
 
 <script async class="speakerdeck-embed" data-slide="1" data-id="a0515f25abe349e2a184a231d19602b7" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
@@ -66,7 +66,7 @@ JavaとKotlinを比べると圧倒的にKotlinの方が便利で書きやすい�
 
 {{< image src="/images/events/2018-11-11/company.jpg" alt="企業紹介" >}}
 
-ヤフーさんが取り組んでいるサービスの数です。とても多いですね…！
+ヤフーさんが取り組んでいるサービスの一例です。とても多いですね…！
 
 {{< image src="/images/events/2018-11-11/all.jpg" alt="集合写真" >}}
 
