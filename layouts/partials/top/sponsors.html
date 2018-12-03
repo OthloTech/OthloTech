@@ -9,9 +9,10 @@
                 </div>
             </div>
         </div>
+        <h3 class="sponsor-sub-heading">ゴールドスポンサー</h3>
         <ul class="row list-style-none">
             {{ range .Site.Data.sponsors.gold }}
-            <li class="col-md-6 col-12 title="{{ .name }}">
+            <li class="col-md-6 col-12" title="{{ .name }}">
                 {{ if .url }}
                   <a href="{{ .url }}" target="_blank">
                     <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
@@ -22,7 +23,8 @@
             </li>
             {{ end }}
         </ul>
-        <ul class="row list-style-none">
+        <h3 class="sponsor-sub-heading">シルバースポンサー</h3>
+        <ul class="row list-style-none mb-2">
             {{ range .Site.Data.sponsors.silver }}
             <li class="col-md-4 col-6" title="{{ .name }}">
                 {{ if .url }}
@@ -35,6 +37,7 @@
             </li>
             {{ end }}
         </ul>
+        <h3 class="sponsor-sub-heading">その他スポンサー</h3>
         <ul class="row list-style-none">
             {{ range .Site.Data.sponsors.other }}
             <li class="col-md-4 col-6" title="{{ .name }}">
