@@ -104,6 +104,10 @@ hasCJKLanguage = true
   title = 'プロダクト'
   subtitle = ''
 
+[params.sponsors]
+  enable = true
+  title = 'スポンサー'
+
 [params.recent_posts]
   enable = false
   title = 'OthloTechの活動ブログ'
