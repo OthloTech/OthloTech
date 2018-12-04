@@ -6,10 +6,19 @@
     <description>Recent content in ハンズオン on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.othlo.tech/event_tags/%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>【学生限定】Kotlinで作るAndroidアプリ開発入門 @ヤフー OthloEvent#38</title>
+      <link>https://www.othlo.tech/events/othloevent38/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.othlo.tech/events/othloevent38/</guid>
+      <description>おはこんばんにちは！あすかです！ 11月11日(日)に開催された【学生限定】Kotlinで作るAndroidアプリ開発入門 @ヤフー OthloE</description>
+    </item>
     
     <item>
       <title>OthloEvent@Xamarin #9</title>
