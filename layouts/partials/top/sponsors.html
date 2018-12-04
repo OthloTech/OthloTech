@@ -26,21 +26,7 @@
         <h3 class="sponsor-sub-heading">シルバースポンサー</h3>
         <ul class="row list-style-none mb-2">
             {{ range .Site.Data.sponsors.silver }}
-            <li class="col-md-4 col-6" title="{{ .name }}">
-                {{ if .url }}
-                  <a href="{{ .url }}" target="_blank">
-                    <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
-                  </a>
-                {{ else }}
-                  <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
-                {{ end }}
-            </li>
-            {{ end }}
-        </ul>
-        <h3 class="sponsor-sub-heading">その他スポンサー</h3>
-        <ul class="row list-style-none">
-            {{ range .Site.Data.sponsors.other }}
-            <li class="col-md-4 col-6" title="{{ .name }}">
+            <li class="col-md-4 col-sm-6 col-6" title="{{ .name }}">
                 {{ if .url }}
                   <a href="{{ .url }}" target="_blank">
                     <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
