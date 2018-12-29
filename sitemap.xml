@@ -18,6 +18,16 @@
   </url>
   
   <url>
+    <loc>https://www.othlo.tech/events/othloevent39/</loc>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.othlo.tech/events/othloevent38/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.othlo.tech/events/othlo-hack-2018/</loc>
     <lastmod>2018-11-02T00:00:00+00:00</lastmod>
   </url>
@@ -343,7 +353,7 @@
   
   <url>
     <loc>https://www.othlo.tech/events/</loc>
-    <lastmod>2018-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -390,6 +400,12 @@
   <url>
     <loc>https://www.othlo.tech/tags/keynote/</loc>
     <lastmod>2016-11-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.othlo.tech/event_tags/kotlin/</loc>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -541,7 +557,7 @@
   
   <url>
     <loc>https://www.othlo.tech/event_tags/ux/</loc>
-    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -629,7 +645,7 @@
   
   <url>
     <loc>https://www.othlo.tech/event_tags/%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/</loc>
-    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -695,7 +711,7 @@
   
   <url>
     <loc>https://www.othlo.tech/event_tags/%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3/</loc>
-    <lastmod>2017-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -743,7 +759,7 @@
   
   <url>
     <loc>https://www.othlo.tech/event_tags/%E3%83%A4%E3%83%95%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/</loc>
-    <lastmod>2016-11-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

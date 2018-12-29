@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kotlin on OthloTech -学生クリエイティブ集団-</title>
+    <link>https://www.othlo.tech/event_tags/kotlin/</link>
+    <description>Recent content in Kotlin on OthloTech -学生クリエイティブ集団-</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 11 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.othlo.tech/event_tags/kotlin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【学生限定】Kotlinで作るAndroidアプリ開発入門 @ヤフー OthloEvent#38</title>
+      <link>https://www.othlo.tech/events/othloevent38/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.othlo.tech/events/othloevent38/</guid>
+      <description>おはこんばんにちは！あすかです！ 11月11日(日)に開催された【学生限定】Kotlinで作るAndroidアプリ開発入門 @ヤフー OthloE</description>
+    </item>
+    
+  </channel>
+</rss>

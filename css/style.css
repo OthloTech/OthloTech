@@ -19,6 +19,13 @@ body {
 html.win {
   font-family: "Yu Gothic"; }
 
+.list-style-none li {
+  list-style: none !important;
+  padding: 0 !important; }
+
+.sponsor-sub-heading {
+  text-align: center; }
+
 .box-image-text .image {
   min-height: 150px;
   max-height: 150px; }
