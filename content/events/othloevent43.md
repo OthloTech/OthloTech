@@ -5,6 +5,7 @@ date = "2019-03-02"
 title = "【学生限定】ロゴ作成ワークショップ@たきC1 OthloEvent#43"
 banner = "/images/banners/events/othloevent43.png"
 +++
+{{< image src="/images/banners/events/othlo-event43.png" alt="イベントバナー" >}}
 
 ども、[しゅーぞー](https://twitter.com/shuzo_create)です。
 先日開催した[【学生限定】ロゴ作成ワークショップ@たきC1 OthloEvent#43 ](https://othlotech.connpass.com/event/114628/)のイベントレポートをお届けします！
@@ -32,31 +33,49 @@ banner = "/images/banners/events/othloevent43.png"
 バックグラウンドや周りから見た自分を書き出してパーソナル・アイデンティティを作成します。
 そこから自分を表す一言を決めて、
 
+{{< image src="/images/events/2019-03-02/image01.jpg" alt="パーソナル・アイデンティティ1" >}}
 
 マークやイラストのラフスケッチを作っていきます！
 
-途中、みんなで書き出したパーソナルアイデンティティの意見交換を
 
-参考に、たきC1さんの実例もいくつか見せていただきました！
-ラフスケッチだけでものすごい量を出すのですね….！
+{{< image src="/images/events/2019-03-02/image03.JPG" alt="ラフスケッチ" >}}
+
+みんなで書き出したパーソナルアイデンティティの意見交換を行ったり、たきC1さんの手がけたロゴの実例もいくつか見せていただきました！（ラフスケッチだけでものすごい量を出すのですね…！）
+
+{{< image src="/images/events/2019-03-02/image04.JPG" alt="意見交換1" >}}
+
+{{< image src="/images/events/2019-03-02/image05.jpg" alt="意見交換2" >}}
+
+{{< image src="/images/events/2019-03-02/image02.jpg" alt="ロゴの実例" >}}
 
 ラフスケッチが完成した人はillustrator などでパス化していきます。
 
+
+
 ## 発表
-「こうなりたい！」という願いを込めたロゴや、
+「こうありたい！」という思いを込めたロゴや、
+
+{{< image src="/images/events/2019-03-02/image06.JPG" alt="発表ロゴ1" >}}  
 
 自分の名前を活かしたタイポグラフィなロゴ、
 
+{{< image src="/images/events/2019-03-02/image07.JPG" alt="発表ロゴ2" >}}  
+
 自分の外観と好きなものをミックスしたユニークなロゴまで！
+
+{{< image src="/images/events/2019-03-02/image08.JPG" alt="発表ロゴ3" >}}  
 
 みんな思い思いの世界にひとつだけのロゴを制作することができました。
 
 ## 懇親会
-おしゃれ〜な場所での懇親会をしました。少人数イベントだったのでテーブルに座ってゆっくりと話をしました。
-
+おしゃれ〜な場所での懇親会をしました。少人数イベントだったのでテーブルに座ってゆっくりと話をしました。  
 余談ですが、後ろの本棚は無限に時間を過ごせそうなラインナップです。オフィスにここまで充実した本棚があるのは羨ましい…
 
+{{< image src="/images/events/2019-03-02/image09.JPG" alt="懇親会1" >}}  
+
 そして恒例の集合写真！
+
+{{< image src="/images/events/2019-03-02/image10.JPG" alt="懇親会2" >}}  
 
 株式会社たきC1様、そして講師を努めて頂いた〇〇様本当にありがとうございました。とっても充実度の高いイベントでした！
 
