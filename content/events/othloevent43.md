@@ -77,7 +77,7 @@ banner = "/images/banners/events/othloevent43.png"
 
 {{< image src="/images/events/2019-03-02/image10.jpg" alt="懇親会2" >}}  
 
-株式会社たきC1様、そして講師を努めて頂いた〇〇様本当にありがとうございました。とっても充実度の高いイベントでした！
+株式会社たきC1様、そして講師を努めて頂いた奥田様本当にありがとうございました。とっても充実度の高いイベントでした！
 
 ## 今後の OthloEventについて
 [年度末LTパーティー @名古屋ギークバー OthloEvent#45 ](https://othlotech.connpass.com/event/123264/)
