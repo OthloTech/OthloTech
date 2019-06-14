@@ -44,8 +44,6 @@ banner = "/images/banners/events/othloevent43.png"
 
 {{< image src="/images/events/2019-03-02/image04.jpg" alt="意見交換1" >}}
 
-{{< image src="/images/events/2019-03-02/image05.jpg" alt="意見交換2" >}}
-
 {{< image src="/images/events/2019-03-02/image02.jpg" alt="ロゴの実例" >}}
 
 ラフスケッチが完成した人はIllustratorなどでパス化していきます。
@@ -84,7 +82,3 @@ banner = "/images/banners/events/othloevent43.png"
 3/25(月)にギークバーにてゆる〜いLT会を開催します！
 普段のOthloEventとは違って社会人の方もご参加いただけるのでぜひお越しください〜！
 また、[デンキヤギ株式会社](https://www.denkiyagi.jp/)様と[来栖川電算](https://www.kurusugawa.jp/)様にスポンサーとなって頂いているので学生の参加費は **無料** です！（社会人の方は1500円となっています）LT参加も絶賛募集中なのでお気軽に応募ください！
-
-
-
-
