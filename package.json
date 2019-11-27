@@ -30,13 +30,13 @@
   },
   "homepage": "//www.othlo.tech",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-cached": "^1.1.1",
     "gulp-notify": "^3.2.0",
-    "gulp-plumber": "^1.2.0",
+    "gulp-plumber": "^1.2.1",
     "gulp-postcss": "^7.0.1",
-    "gulp-sass": "^4.0.1",
-    "gulp-scss-lint": "^0.6.1",
-    "postcss-preset-env": "^5.1.0"
+    "gulp-sass": "^4.0.2",
+    "gulp-scss-lint": "^1.0.0",
+    "postcss-preset-env": "^5.3.0"
   }
 }
