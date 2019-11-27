@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on OthloTech -学生クリエイティブ集団-</title>
@@ -6,53 +6,17 @@
     <description>Recent content in Categories on OthloTech -学生クリエイティブ集団-</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.othlo.tech/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blockchain</title>
-      <link>https://www.othlo.tech/categories/blockchain/</link>
-      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.othlo.tech/categories/blockchain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Othlotech</title>
+      <title>OthloTech</title>
       <link>https://www.othlo.tech/categories/othlotech/</link>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.othlo.tech/categories/othlotech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web</title>
-      <link>https://www.othlo.tech/categories/web/</link>
-      <pubDate>Sat, 12 Nov 2016 02:45:17 +0900</pubDate>
-      
-      <guid>https://www.othlo.tech/categories/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wordpress</title>
-      <link>https://www.othlo.tech/categories/wordpress/</link>
-      <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.othlo.tech/categories/wordpress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>デザイン</title>
-      <link>https://www.othlo.tech/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</link>
-      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.othlo.tech/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</guid>
       <description></description>
     </item>
     
@@ -66,11 +30,20 @@
     </item>
     
     <item>
-      <title>プレゼン</title>
-      <link>https://www.othlo.tech/categories/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3/</link>
-      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+      <title>WordPress</title>
+      <link>https://www.othlo.tech/categories/wordpress/</link>
+      <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.othlo.tech/categories/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3/</guid>
+      <guid>https://www.othlo.tech/categories/wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>雑記</title>
+      <link>https://www.othlo.tech/categories/%E9%9B%91%E8%A8%98/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.othlo.tech/categories/%E9%9B%91%E8%A8%98/</guid>
       <description></description>
     </item>
     
@@ -84,6 +57,24 @@
     </item>
     
     <item>
+      <title>デザイン</title>
+      <link>https://www.othlo.tech/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.othlo.tech/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blockchain</title>
+      <link>https://www.othlo.tech/categories/blockchain/</link>
+      <pubDate>Thu, 24 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.othlo.tech/categories/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>機械学習</title>
       <link>https://www.othlo.tech/categories/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/</link>
       <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
@@ -93,11 +84,20 @@
     </item>
     
     <item>
-      <title>雑記</title>
-      <link>https://www.othlo.tech/categories/%E9%9B%91%E8%A8%98/</link>
-      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Web</title>
+      <link>https://www.othlo.tech/categories/web/</link>
+      <pubDate>Sat, 12 Nov 2016 02:45:17 +0900</pubDate>
       
-      <guid>https://www.othlo.tech/categories/%E9%9B%91%E8%A8%98/</guid>
+      <guid>https://www.othlo.tech/categories/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>プレゼン</title>
+      <link>https://www.othlo.tech/categories/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3/</link>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.othlo.tech/categories/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3/</guid>
       <description></description>
     </item>
     
