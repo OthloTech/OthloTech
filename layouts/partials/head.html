@@ -2,7 +2,7 @@
 
   <title>{{ if .Params.title }}{{ .Params.title }}{{ else }}{{ .Title }}{{ end }}</title>
 
-  {{ .Hugo.Generator }}
+  {{ hugo.Generator }}
 
   {{ partial "ogp.html" . }}
 
