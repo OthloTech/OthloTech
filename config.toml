@@ -1,4 +1,5 @@
 baseurl = 'https://www.othlo.tech/'
+publishDir = 'public'
 title = 'OthloTech -学生クリエイティブ集団-'
 languageCode = 'ja'
 email = 'othlotech@gmail.com'
